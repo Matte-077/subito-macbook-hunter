@@ -13,14 +13,35 @@
     "macbook pro ricambi",
     "macbook pro non funzionante",
     "macbook pro da riparare",
-    "macbook pro m1 rotto"
+    "macbook pro m1 rotto",
+    "macbook pro 2021",
+    "macbook pro 2023",
+    "macbook pro a2442",
+    "macbook pro a2485",
+    "macbook pro a2779",
+    "macbook pro a2780",
+    "macbook pro 512",
+    "macbook pro 1tb"
   ],
+  "apple_model_codes": {
+    "a2442": { "screen": 14, "chip": "M1 Pro", "year": 2021 },
+    "a2485": { "screen": 16, "chip": "M1 Pro", "year": 2021 },
+    "a2779": { "screen": 14, "chip": "M2 Pro", "year": 2023 },
+    "a2780": { "screen": 16, "chip": "M2 Pro", "year": 2023 },
+    "a2918": { "screen": 14, "chip": "M3", "year": 2023 },
+    "a2992": { "screen": 14, "chip": "M3 Pro", "year": 2023 },
+    "a2991": { "screen": 16, "chip": "M3 Pro", "year": 2023 },
+    "a3112": { "screen": 14, "chip": "M4", "year": 2024 },
+    "a3401": { "screen": 14, "chip": "M4 Pro", "year": 2024 },
+    "a3185": { "screen": 16, "chip": "M4 Pro", "year": 2024 }
+  },
   "macbook_variants": [
     "macbook pro",
     "mac book pro",
     "mbp",
     "mcbook pro",
     "macbok pro",
+    "mackbook pro",
     "macbook",
     "mac book"
   ],
@@ -34,7 +55,10 @@
       "14 pol",
       "14''",
       "14.2",
-      "14,2"
+      "14,2",
+      "14.2\"",
+      "14,2 pollici",
+      "14.2-inch"
     ],
     "16": [
       "16\"",
@@ -45,30 +69,33 @@
       "16 pol",
       "16''",
       "16.2",
-      "16,2"
+      "16,2",
+      "16.2\"",
+      "16,2 pollici",
+      "16.2-inch"
     ]
   },
   "ram_patterns": {
     "valid_values_gb": [16, 18, 24, 32, 36, 48, 64, 96, 128],
-    "regex": "\\b(16|18|24|32|36|48|64|96|128)\\s*(?:gb|giga|ram)\\b|\\bram\\s*(?:di|:)?\\s*(16|18|24|32|36|48|64|96|128)\\s*(?:gb|giga)?\\b"
+    "regex": "\\b(16|18|24|32|36|48|64|96|128)\\s*(?:gb|giga|ram|memoria(?:\\s+unificata)?|unificata)\\b|\\b(?:ram|memoria(?:\\s+unificata)?)\\s*(?:di|:)?\\s*(16|18|24|32|36|48|64|96|128)\\s*(?:gb|giga)?\\b"
   },
   "ssd_patterns": {
-    "valid_values_gb": [512, 1000, 1024, 2000, 2048, 4000, 4096, 8000, 8192],
-    "regex": "\\b(512)\\s*(?:gb|giga|ssd)?\\b|\\b(1|2|4|8)\\s*(?:tb|tera)\\b|\\bssd\\s*(?:di|:)?\\s*(512\\s*gb|1\\s*tb|2\\s*tb)\\b"
+    "valid_values_gb": [500, 512, 1000, 1024, 2000, 2048, 4000, 4096, 8000, 8192],
+    "regex": "\\b(500|512)\\s*(?:gb|giga|ssd|hd)?\\b|\\b(1000|1024)\\s*(?:gb|giga|ssd|hd)?\\b|\\b(1|2|4|8)\\s*(?:tb|tera)\\b|\\b(?:mezzo\\s*tera)\\b|\\b(?:un\\s*tera)\\b|\\b(?:due\\s*tera)\\b"
   },
   "chips": [
-    { "name": "M4 Max", "regex": "\\bm4\\s*max\\b" },
-    { "name": "M4 Pro", "regex": "\\bm4\\s*pro\\b" },
-    { "name": "M4", "regex": "\\bm4\\b" },
-    { "name": "M3 Max", "regex": "\\bm3\\s*max\\b" },
-    { "name": "M3 Pro", "regex": "\\bm3\\s*pro\\b" },
-    { "name": "M3", "regex": "\\bm3\\b" },
-    { "name": "M2 Max", "regex": "\\bm2\\s*max\\b" },
-    { "name": "M2 Pro", "regex": "\\bm2\\s*pro\\b" },
-    { "name": "M1 Max", "regex": "\\bm1\\s*max\\b" },
-    { "name": "M1 Pro", "regex": "\\bm1\\s*pro\\b" },
-    { "name": "M2", "regex": "\\bm2\\b" },
-    { "name": "M1", "regex": "\\bm1\\b" }
+    { "name": "M4 Max", "regex": "\\bm\\s*[-]?\\s*4\\s*max\\b|\\bm4max\\b" },
+    { "name": "M4 Pro", "regex": "\\bm\\s*[-]?\\s*4\\s*pro\\b|\\bm4pro\\b" },
+    { "name": "M4", "regex": "\\bm\\s*[-]?\\s*4\\b" },
+    { "name": "M3 Max", "regex": "\\bm\\s*[-]?\\s*3\\s*max\\b|\\bm3max\\b" },
+    { "name": "M3 Pro", "regex": "\\bm\\s*[-]?\\s*3\\s*pro\\b|\\bm3pro\\b" },
+    { "name": "M3", "regex": "\\bm\\s*[-]?\\s*3\\b" },
+    { "name": "M2 Max", "regex": "\\bm\\s*[-]?\\s*2\\s*max\\b|\\bm2max\\b" },
+    { "name": "M2 Pro", "regex": "\\bm\\s*[-]?\\s*2\\s*pro\\b|\\bm2pro\\b" },
+    { "name": "M1 Max", "regex": "\\bm\\s*[-]?\\s*1\\s*max\\b|\\bm1max\\b" },
+    { "name": "M1 Pro", "regex": "\\bm\\s*[-]?\\s*1\\s*pro\\b|\\bm1pro\\b" },
+    { "name": "M2", "regex": "\\bm\\s*[-]?\\s*2\\b" },
+    { "name": "M1", "regex": "\\bm\\s*[-]?\\s*1\\b" }
   ],
   "broken_tokens": [
     "rotto",
@@ -99,6 +126,16 @@
     "blocco icloud",
     "icloud lock",
     "icloud bloccato"
+  ],
+  "buyer_tokens": [
+    "cerco",
+    "compro",
+    "acquisto",
+    "acquistasi",
+    "ricerco",
+    "scambio",
+    "permuto",
+    "permuta"
   ],
   "negative_tokens": [
     "custodia",
