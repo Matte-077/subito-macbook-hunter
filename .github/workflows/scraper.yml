@@ -2,8 +2,8 @@ name: Subito MacBook Pro Hunter
 
 on:
   schedule:
-    # Esecuzione automatica ogni 30 minuti
-    - cron: '*/30 * * * *'
+    # Esecuzione automatica ogni 15 minuti
+    - cron: '*/15 * * * *'
   workflow_dispatch: # Consente l'avvio manuale con un clic da GitHub
 
 permissions:
