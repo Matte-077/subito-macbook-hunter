@@ -26,6 +26,11 @@ except ImportError:
     pass
 
 import requests
+try:
+    from curl_cffi import requests as cffi_requests
+except ImportError:
+    cffi_requests = None
+
 from nlp_matcher import NLPMatcher, MatchResult
 
 # Setup logging
@@ -84,39 +89,62 @@ class SubitoHunter:
     def fetch_subito_page(self, query: str) -> Optional[str]:
         encoded_query = urllib.parse.quote_plus(query)
         url = f"https://www.subito.it/annunci-italia/vendita/usato/?q={encoded_query}"
-        user_agent = (
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-        )
+        headers = {
+            "User-Agent": (
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+            ),
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+            "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+            "Sec-Ch-Ua-Mobile": "?0",
+            "Sec-Ch-Ua-Platform": '"macOS"',
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Sec-Fetch-User": "?1",
+            "Upgrade-Insecure-Requests": "1",
+        }
 
-        # Primary fetch method: curl (handles TLS/HTTP2 fingerprints cleanly on macOS)
+        # 1. Primary method: curl_cffi (impersonates Chrome TLS & HTTP/2 to bypass Cloudflare/Akamai bot detection on Linux)
+        if cffi_requests is not None:
+            try:
+                resp = cffi_requests.get(url, impersonate="chrome120", headers=headers, timeout=15)
+                if resp.status_code == 200 and resp.text and "<script id=\"__NEXT_DATA__\"" in resp.text:
+                    return resp.text
+                elif resp.status_code != 200:
+                    logger.debug(f"curl_cffi HTTP {resp.status_code} per '{query}'")
+            except Exception as e:
+                logger.debug(f"curl_cffi fallback to curl: {e}")
+
+        # 2. Fallback method: system curl with redirect and decompression flags
         try:
             cmd = [
                 "curl",
-                "-s",
+                "-sL",
+                "--compressed",
                 url,
-                "-H", f"User-Agent: {user_agent}",
+                "-H", f"User-Agent: {headers['User-Agent']}",
                 "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                 "-H", "Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
+                "-H", "Sec-Ch-Ua: \"Chromium\";v=\"124\", \"Google Chrome\";v=\"124\", \"Not-A.Brand\";v=\"99\"",
+                "-H", "Sec-Ch-Ua-Mobile: ?0",
+                "-H", "Sec-Ch-Ua-Platform: \"macOS\"",
             ]
             res = subprocess.run(cmd, capture_output=True, text=True, timeout=15)
-            if res.returncode == 0 and res.stdout:
+            if res.returncode == 0 and res.stdout and "<script id=\"__NEXT_DATA__\"" in res.stdout:
                 return res.stdout
         except Exception as e:
             logger.debug(f"Curl fallback to requests: {e}")
 
-        # Fallback to requests if curl fails
+        # 3. Last fallback: standard requests
         try:
-            headers = {
-                "User-Agent": user_agent,
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
-            }
             resp = requests.get(url, headers=headers, timeout=10)
             if resp.status_code == 200:
                 return resp.text
             else:
-                logger.warning(f"Richiesta fallita per '{query}': HTTP {resp.status_code}")
+                logger.warning(f"Richiesta standard fallita per '{query}': HTTP {resp.status_code}")
         except Exception as e:
             logger.error(f"Errore connessione Subito.it per '{query}': {e}")
 
@@ -125,7 +153,7 @@ class SubitoHunter:
     def extract_ads_from_html(self, html: str) -> List[Dict[str, Any]]:
         m = re.search(r"<script id=\"__NEXT_DATA__\" type=\"application/json\">(.*?)</script>", html, re.DOTALL)
         if not m:
-            logger.debug("__NEXT_DATA__ non trovato nella pagina.")
+            logger.warning(f"⚠️ __NEXT_DATA__ non trovato nella risposta (lunghezza HTML: {len(html)} caratteri).")
             return []
 
         try:

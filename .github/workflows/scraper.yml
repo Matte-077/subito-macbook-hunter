@@ -4,6 +4,9 @@ on:
   schedule:
     # Esecuzione automatica ogni 15 minuti
     - cron: '*/15 * * * *'
+  push:
+    branches:
+      - main
   workflow_dispatch: # Consente l'avvio manuale con un clic da GitHub
 
 permissions:
@@ -27,6 +30,21 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
+      - name: Verifica Secret Telegram
+        run: |
+          if [ -z "${{ secrets.TELEGRAM_BOT_TOKEN }}" ]; then
+            echo "❌ TELEGRAM_BOT_TOKEN non trovato nei Secrets di GitHub!"
+            exit 1
+          else
+            echo "✅ TELEGRAM_BOT_TOKEN configurato correttamente."
+          fi
+          if [ -z "${{ secrets.TELEGRAM_CHAT_ID }}" ]; then
+            echo "❌ TELEGRAM_CHAT_ID non trovato nei Secrets di GitHub!"
+            exit 1
+          else
+            echo "✅ TELEGRAM_CHAT_ID configurato correttamente."
+          fi
 
       - name: Esegui Scraper Subito.it
         env:
