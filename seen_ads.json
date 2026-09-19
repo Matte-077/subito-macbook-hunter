@@ -5631,7 +5631,7 @@
       "notified": false
     },
     "661220011": {
-      "last_price": 600.0,
+      "last_price": 550.0,
       "notified": false,
       "title": "Ipad mini 7 + Apple Pencil Pro + Smart Folio",
       "last_seen": "2026-09-18 16:10:31"
@@ -6195,6 +6195,12 @@
       "notified": false,
       "title": "Apple MacBook Pro M5 Pro 14” 24GB RAM 2TB SSD",
       "last_seen": "2026-09-19 23:43:10"
+    },
+    "661385980": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Macbook pro 15 pollici 1 TB SSD",
+      "last_seen": "2026-09-20 00:13:54"
     }
   },
   "seen_ids": [
@@ -7550,6 +7556,7 @@
     "661380521",
     "661380740",
     "661383191",
-    "661384958"
+    "661384958",
+    "661385980"
   ]
 }
