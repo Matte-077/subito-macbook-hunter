@@ -2241,8 +2241,10 @@
       "notified": false
     },
     "659986325": {
-      "last_price": null,
-      "notified": false
+      "last_price": 239.0,
+      "notified": false,
+      "title": "SAMSUNG A17 5G NUOVO Garanzia: 2 ANNI",
+      "last_seen": "2026-09-19 19:06:36"
     },
     "659988347": {
       "last_price": null,
@@ -6087,6 +6089,12 @@
       "notified": false,
       "title": "MacBook Pro 16 2023 M2 Pro 16-512GB usato",
       "last_seen": "2026-09-19 18:50:09"
+    },
+    "661365387": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 13 Mid 2012 i5 SSD 512GB",
+      "last_seen": "2026-09-19 18:51:28"
     }
   },
   "seen_ids": [
@@ -7426,6 +7434,7 @@
     "661363599",
     "661363663",
     "661364090",
-    "661364513"
+    "661364513",
+    "661365387"
   ]
 }
