@@ -6131,6 +6131,18 @@
       "notified": false,
       "title": "Cavo Adattatore da Mini DisplayPort (Maschio) a HD",
       "last_seen": "2026-09-19 19:43:37"
+    },
+    "661376500": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" - 2017 con TouchBar",
+      "last_seen": "2026-09-19 21:05:35"
+    },
+    "661376573": {
+      "last_price": 1100.0,
+      "notified": false,
+      "title": "Apple MacBook Air 15 2025 M4 16GB RAM 256GB",
+      "last_seen": "2026-09-19 21:05:40"
     }
   },
   "seen_ids": [
@@ -7476,6 +7488,8 @@
     "661366633",
     "661368720",
     "661370267",
-    "661370433"
+    "661370433",
+    "661376500",
+    "661376573"
   ]
 }
