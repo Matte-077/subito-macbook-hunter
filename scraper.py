@@ -53,7 +53,7 @@ class SubitoHunter:
         self.seen_ads_path = Path(seen_ads_path)
         self.dry_run = dry_run
         self.matcher = NLPMatcher(patterns_path=patterns_path, models_path=config_path)
-        self.seen_ids = self._load_seen_ads()
+        self.seen_ads = self._load_seen_ads()
 
         # Telegram Configuration
         self.bot_token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
@@ -65,24 +65,43 @@ class SubitoHunter:
                 "Le notifiche verranno stampate solo a terminale."
             )
 
-    def _load_seen_ads(self) -> Set[str]:
+    def _load_seen_ads(self) -> Dict[str, Dict[str, Any]]:
         if not self.seen_ads_path.exists():
-            return set()
+            return {}
         try:
             with open(self.seen_ads_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                if isinstance(data, list):
-                    return set(data)
-                elif isinstance(data, dict):
-                    return set(data.get("seen_ids", []))
+                seen_ads: Dict[str, Dict[str, Any]] = {}
+                if isinstance(data, dict):
+                    raw_seen = data.get("seen_ads", {})
+                    if isinstance(raw_seen, dict):
+                        seen_ads = {str(k): dict(v) for k, v in raw_seen.items() if isinstance(v, dict)}
+
+                    # Retrocompatibilità con la lista precedente di seen_ids
+                    legacy_ids = data.get("seen_ids", [])
+                    if isinstance(legacy_ids, list):
+                        for item_id in legacy_ids:
+                            str_id = str(item_id)
+                            if str_id not in seen_ads:
+                                seen_ads[str_id] = {
+                                    "last_price": None,
+                                    "notified": False,
+                                }
+                    return seen_ads
+                elif isinstance(data, list):
+                    return {str(item_id): {"last_price": None, "notified": False} for item_id in data}
         except Exception as e:
             logger.error(f"Errore lettura {self.seen_ads_path}: {e}. Verrà reinizializzato.")
-        return set()
+        return {}
 
     def _save_seen_ads(self) -> None:
         try:
             with open(self.seen_ads_path, "w", encoding="utf-8") as f:
-                json.dump({"seen_ids": sorted(list(self.seen_ids))}, f, indent=2, ensure_ascii=False)
+                payload = {
+                    "seen_ads": self.seen_ads,
+                    "seen_ids": sorted(list(self.seen_ads.keys())),
+                }
+                json.dump(payload, f, indent=2, ensure_ascii=False)
         except Exception as e:
             logger.error(f"Errore salvataggio {self.seen_ads_path}: {e}")
 
@@ -223,17 +242,29 @@ class SubitoHunter:
 
         return extracted
 
-    def send_telegram_alert(self, ad: Dict[str, Any], match: MatchResult) -> bool:
+    def send_telegram_alert(
+        self,
+        ad: Dict[str, Any],
+        match: MatchResult,
+        old_price: Optional[float] = None,
+    ) -> bool:
         bargain_threshold = int(match.bargain_price or 0)
         market_price = int(match.market_price or 0)
         price = int(ad["price"]) if ad.get("price") is not None else 0
+        old_price_int = int(old_price) if old_price is not None else None
+
+        price_str = f"{price} €"
+        is_price_drop = bool(old_price_int and old_price_int > price)
+        if is_price_drop:
+            price_str = f"<b>{price} €</b> <s>{old_price_int} €</s> (📉 <i>Prezzo ribassato!</i>)"
 
         if match.is_broken:
+            ribasso_header = " 📉 [RIBASSO PREZZO]" if is_price_drop else ""
             message = (
-                f"🔧 <b>MACBOOK PRO ROTTO / PER RICAMBI (&lt; 300€)!</b>\n\n"
+                f"🔧 <b>MACBOOK PRO ROTTO / PER RICAMBI (&lt; 300€)!{ribasso_header}</b>\n\n"
                 f"💻 <b>Titolo:</b> {ad['title']}\n"
                 f"⚙️ <b>Chip stimato:</b> {match.extracted_chip}\n"
-                f"💰 <b>Prezzo:</b> {price} € <i>(Soglia max: {bargain_threshold} €)</i>\n"
+                f"💰 <b>Prezzo:</b> {price_str} <i>(Soglia max: {bargain_threshold} €)</i>\n"
                 f"📍 <b>Luogo:</b> {ad['location']}\n"
                 f"🔗 <b>Link:</b> {ad['url']}\n"
                 f"⚠️ <i>Segnalato come guasto / da riparare / per ricambi</i>\n"
@@ -244,10 +275,11 @@ class SubitoHunter:
                 if match.matched_model
                 else f"MacBook Pro {match.extracted_screen}\" ({match.extracted_chip})"
             )
+            ribasso_header = " 📉 [RIBASSO PREZZO]" if is_price_drop else ""
             message = (
-                f"🚨 <b>NUOVO AFFARE MACBOOK PRO!</b>\n\n"
+                f"🚨 <b>NUOVO AFFARE MACBOOK PRO!{ribasso_header}</b>\n\n"
                 f"💻 <b>Modello:</b> {model_name}\n"
-                f"💰 <b>Prezzo:</b> {price} € <i>(Soglia max affare: {bargain_threshold} €, Medio mercato: {market_price} €)</i>\n"
+                f"💰 <b>Prezzo:</b> {price_str} <i>(Soglia max affare: {bargain_threshold} €, Medio mercato: {market_price} €)</i>\n"
                 f"📍 <b>Luogo:</b> {ad['location']}\n"
                 f"🔗 <b>Link:</b> {ad['url']}\n"
             )
@@ -293,37 +325,63 @@ class SubitoHunter:
             logger.info(f"  Trovati {len(ads)} annunci.")
 
             for ad in ads:
-                ad_id = ad["id"]
-                if ad_id in self.seen_ids:
-                    continue
+                ad_id = str(ad["id"])
+                current_price = ad.get("price")
+                ad_history = self.seen_ads.get(ad_id)
+
+                if ad_history:
+                    last_price = ad_history.get("last_price")
+                    already_notified = ad_history.get("notified", False)
+
+                    # Se il prezzo non è cambiato ed era già noto:
+                    if last_price is not None and current_price == last_price:
+                        continue
+
+                    # Se il prezzo è aumentato, aggiorna senza notificare
+                    if last_price is not None and current_price is not None and current_price > last_price:
+                        ad_history["last_price"] = current_price
+                        continue
+                else:
+                    last_price = None
+                    already_notified = False
 
                 total_seen_this_run += 1
                 match = self.matcher.evaluate_ad(
                     title=ad["title"],
-                    price=ad["price"],
+                    price=current_price,
                     description=ad["description"],
                 )
 
                 if match.is_match:
                     logger.info(
-                        f"🎯 AFFARE TROVATO! [{ad['id']}] {ad['title']} - {ad['price']}€ @ {ad['location']}"
+                        f"🎯 AFFARE TROVATO! [{ad['id']}] {ad['title']} - {current_price}€ "
+                        f"(era: {last_price}€) @ {ad['location']}"
                     )
-                    self.send_telegram_alert(ad, match)
+                    sent = self.send_telegram_alert(ad, match, old_price=last_price)
                     new_deals_count += 1
+                    self.seen_ads[ad_id] = {
+                        "last_price": current_price,
+                        "notified": sent or self.dry_run,
+                        "title": ad["title"],
+                        "last_seen": ad.get("date") or datetime.now().isoformat(),
+                    }
                 else:
                     logger.debug(
                         f"Scartato [{ad_id}] '{ad['title'][:40]}...': {match.rejection_reason}"
                     )
-
-                # Mark as seen so we don't evaluate or notify twice
-                self.seen_ids.add(ad_id)
+                    self.seen_ads[ad_id] = {
+                        "last_price": current_price,
+                        "notified": False,
+                        "title": ad["title"],
+                        "last_seen": ad.get("date") or datetime.now().isoformat(),
+                    }
 
             # Polite pause between queries
             time.sleep(1.5)
 
         self._save_seen_ads()
         logger.info(
-            f"✨ Scansione completata: {total_seen_this_run} nuovi annunci esaminati, {new_deals_count} affari segnalati."
+            f"✨ Scansione completata: {total_seen_this_run} annunci esaminati/aggiornati, {new_deals_count} affari segnalati."
         )
         return new_deals_count
 
