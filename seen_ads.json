@@ -6181,6 +6181,12 @@
       "notified": false,
       "title": "MacBook Pro 13”M2 2022 256GB –Touchbar+Accessori",
       "last_seen": "2026-09-19 22:26:01"
+    },
+    "661383191": {
+      "last_price": 179.0,
+      "notified": false,
+      "title": "Samsung Tab S7 FE 128gb Wifi 12.4 pollici",
+      "last_seen": "2026-09-19 22:56:28"
     }
   },
   "seen_ids": [
@@ -7534,6 +7540,7 @@
     "661378684",
     "661378887",
     "661380521",
-    "661380740"
+    "661380740",
+    "661383191"
   ]
 }
