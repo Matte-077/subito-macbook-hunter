@@ -6189,6 +6189,12 @@
       "notified": false,
       "title": "Samsung Tab S7 FE 128gb Wifi 12.4 pollici",
       "last_seen": "2026-09-19 22:56:28"
+    },
+    "661384958": {
+      "last_price": 2800.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M5 Pro 14” 24GB RAM 2TB SSD",
+      "last_seen": "2026-09-19 23:43:10"
     }
   },
   "seen_ids": [
@@ -7543,6 +7549,7 @@
     "661378887",
     "661380521",
     "661380740",
-    "661383191"
+    "661383191",
+    "661384958"
   ]
 }
