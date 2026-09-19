@@ -6055,6 +6055,24 @@
       "notified": false,
       "title": "Ricambi Originali MacBook Pro 13\" 2019 (A2159)",
       "last_seen": "2026-09-19 18:15:39"
+    },
+    "661363663": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w x MacBook Pro 13/14",
+      "last_seen": "2026-09-19 18:35:50"
+    },
+    "661363599": {
+      "last_price": 1699.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2023 M2 pro 16-1TB usato",
+      "last_seen": "2026-09-19 18:35:47"
+    },
+    "661363421": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "MacBook pro 13” Hdd 250 / Ram 4 tutto ok",
+      "last_seen": "2026-09-19 18:35:36"
     }
   },
   "seen_ids": [
@@ -7389,6 +7407,9 @@
     "661353235",
     "661358001",
     "661358568",
-    "661359350"
+    "661359350",
+    "661363421",
+    "661363599",
+    "661363663"
   ]
 }
