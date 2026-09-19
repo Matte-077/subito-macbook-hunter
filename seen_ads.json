@@ -6111,6 +6111,24 @@
       "notified": false,
       "title": "MacBook Pro (Retina, 15 pollici, metà 2015)",
       "last_seen": "2026-09-19 19:27:00"
+    },
+    "661370267": {
+      "last_price": 460.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM",
+      "last_seen": "2026-09-19 19:43:30"
+    },
+    "661363061": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Macbook Pro M1 13” 2020",
+      "last_seen": "2026-09-19 19:42:59"
+    },
+    "661370433": {
+      "last_price": 5.0,
+      "notified": false,
+      "title": "Cavo Adattatore da Mini DisplayPort (Maschio) a HD",
+      "last_seen": "2026-09-19 19:43:37"
     }
   },
   "seen_ids": [
@@ -7446,6 +7464,7 @@
     "661358001",
     "661358568",
     "661359350",
+    "661363061",
     "661363421",
     "661363599",
     "661363663",
@@ -7453,6 +7472,8 @@
     "661364513",
     "661365387",
     "661366633",
-    "661368720"
+    "661368720",
+    "661370267",
+    "661370433"
   ]
 }
