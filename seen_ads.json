@@ -5995,6 +5995,12 @@
       "notified": false,
       "title": "MacBook Pro 15’ Retina mid 2014",
       "last_seen": "2026-09-19 16:04:54"
+    },
+    "661331816": {
+      "last_price": 2590.0,
+      "notified": false,
+      "title": "MacBookPro14”M3Max  36GBRAM  SSD 1 TB  AppleCare+",
+      "last_seen": "2026-09-19 16:36:10"
     }
   },
   "seen_ids": [
@@ -7318,6 +7324,7 @@
     "661319332",
     "661326085",
     "661328428",
+    "661331816",
     "661340635",
     "661340856",
     "661341203",
