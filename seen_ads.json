@@ -1523,8 +1523,10 @@
       "notified": false
     },
     "659516629": {
-      "last_price": null,
-      "notified": false
+      "last_price": 290.0,
+      "notified": false,
+      "title": "Macbook Pro 2015 retina 15  - 16gb ram - 500gb ssd",
+      "last_seen": "2026-09-19 18:49:27"
     },
     "659539347": {
       "last_price": 45.0,
@@ -6073,6 +6075,18 @@
       "notified": false,
       "title": "MacBook pro 13” Hdd 250 / Ram 4 tutto ok",
       "last_seen": "2026-09-19 18:35:36"
+    },
+    "661364513": {
+      "last_price": 2999.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2023 M3 Max 36-1TB usato",
+      "last_seen": "2026-09-19 18:50:35"
+    },
+    "661364090": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2023 M2 Pro 16-512GB usato",
+      "last_seen": "2026-09-19 18:50:09"
     }
   },
   "seen_ids": [
@@ -7410,6 +7424,8 @@
     "661359350",
     "661363421",
     "661363599",
-    "661363663"
+    "661363663",
+    "661364090",
+    "661364513"
   ]
 }
