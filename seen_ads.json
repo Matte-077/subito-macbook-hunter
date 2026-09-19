@@ -143,8 +143,10 @@
       "last_seen": "2026-09-18 11:38:51"
     },
     "637259755": {
-      "last_price": null,
-      "notified": false
+      "last_price": 2149.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14\" M5 24/ 1TB - NUOVO SIGILLATO",
+      "last_seen": "2026-09-19 17:29:47"
     },
     "638309415": {
       "last_price": null,
@@ -643,8 +645,10 @@
       "notified": false
     },
     "655579106": {
-      "last_price": null,
-      "notified": false
+      "last_price": 1479.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M2 Pro Silver – 16 GB RAM / 512 GB",
+      "last_seen": "2026-09-19 17:27:51"
     },
     "655614612": {
       "last_price": 1650.0,
@@ -2105,8 +2109,10 @@
       "notified": false
     },
     "659928219": {
-      "last_price": null,
-      "notified": false
+      "last_price": 399.0,
+      "notified": false,
+      "title": "IPHONE 12 PRO MAX 256GB USATO",
+      "last_seen": "2026-09-19 17:27:59"
     },
     "659928295": {
       "last_price": null,
@@ -6019,6 +6025,12 @@
       "notified": false,
       "title": "Lenovo ThinkPad P1 Gen4, i7, RTX3070, 32GB, 1TB",
       "last_seen": "2026-09-19 17:09:04"
+    },
+    "661353235": {
+      "last_price": 1399.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2021 M1 Max 64GB RAM Tastiera Ita",
+      "last_seen": "2026-09-19 17:31:44"
     }
   },
   "seen_ids": [
@@ -7349,6 +7361,7 @@
     "661341203",
     "661341806",
     "661348352",
-    "661349581"
+    "661349581",
+    "661353235"
   ]
 }
