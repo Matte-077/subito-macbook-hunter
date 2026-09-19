@@ -3769,8 +3769,10 @@
       "notified": false
     },
     "660610885": {
-      "last_price": null,
-      "notified": false
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "MacBook Pro M5",
+      "last_seen": "2026-09-19 23:10:51"
     },
     "660611019": {
       "last_price": null,
