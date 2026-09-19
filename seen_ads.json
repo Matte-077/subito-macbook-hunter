@@ -6095,6 +6095,12 @@
       "notified": false,
       "title": "MacBook Pro 13 Mid 2012 i5 SSD 512GB",
       "last_seen": "2026-09-19 18:51:28"
+    },
+    "661366633": {
+      "last_price": 167.0,
+      "notified": false,
+      "title": "Macbook Pro 13\"2015 con i5, 8GB RAM e 128GB SSD",
+      "last_seen": "2026-09-19 19:08:00"
     }
   },
   "seen_ids": [
@@ -7435,6 +7441,7 @@
     "661363663",
     "661364090",
     "661364513",
-    "661365387"
+    "661365387",
+    "661366633"
   ]
 }
