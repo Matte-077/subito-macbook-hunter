@@ -6007,6 +6007,18 @@
       "notified": false,
       "title": "MacBook Pro 15 2017 i7 16GB 1TB",
       "last_seen": "2026-09-19 16:52:31"
+    },
+    "661349581": {
+      "last_price": 1310.0,
+      "notified": false,
+      "title": "Mac Book Pro M3 Pro",
+      "last_seen": "2026-09-19 17:09:15"
+    },
+    "661340860": {
+      "last_price": 1050.0,
+      "notified": false,
+      "title": "Lenovo ThinkPad P1 Gen4, i7, RTX3070, 32GB, 1TB",
+      "last_seen": "2026-09-19 17:09:04"
     }
   },
   "seen_ids": [
@@ -7333,8 +7345,10 @@
     "661331816",
     "661340635",
     "661340856",
+    "661340860",
     "661341203",
     "661341806",
-    "661348352"
+    "661348352",
+    "661349581"
   ]
 }
