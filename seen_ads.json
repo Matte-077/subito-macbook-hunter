@@ -303,8 +303,10 @@
       "notified": false
     },
     "648587082": {
-      "last_price": null,
-      "notified": false
+      "last_price": 6499.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M5 MAX 18-40 2TB 128GB RAM Nuovo",
+      "last_seen": "2026-09-19 19:25:46"
     },
     "648669054": {
       "last_price": null,
@@ -333,8 +335,10 @@
       "notified": false
     },
     "649586402": {
-      "last_price": null,
-      "notified": false
+      "last_price": 6299.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 MAX 18-40 2TB 128GB RAM Nuovo",
+      "last_seen": "2026-09-19 19:25:47"
     },
     "649909894": {
       "last_price": null,
@@ -6101,6 +6105,12 @@
       "notified": false,
       "title": "Macbook Pro 13\"2015 con i5, 8GB RAM e 128GB SSD",
       "last_seen": "2026-09-19 19:08:00"
+    },
+    "661368720": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "MacBook Pro (Retina, 15 pollici, metà 2015)",
+      "last_seen": "2026-09-19 19:27:00"
     }
   },
   "seen_ids": [
@@ -7442,6 +7452,7 @@
     "661364090",
     "661364513",
     "661365387",
-    "661366633"
+    "661366633",
+    "661368720"
   ]
 }
