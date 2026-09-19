@@ -6207,6 +6207,12 @@
       "notified": false,
       "title": "GIGABYTE AOURUS 17H 4080",
       "last_seen": "2026-09-20 01:28:07"
+    },
+    "661388357": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M1  parti guasti + Genelec 8010a",
+      "last_seen": "2026-09-20 01:42:33"
     }
   },
   "seen_ids": [
@@ -7564,6 +7570,7 @@
     "661383191",
     "661384958",
     "661385980",
-    "661388249"
+    "661388249",
+    "661388357"
   ]
 }
