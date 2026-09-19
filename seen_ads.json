@@ -3677,8 +3677,10 @@
       "notified": false
     },
     "660585878": {
-      "last_price": null,
-      "notified": false
+      "last_price": 5.0,
+      "notified": false,
+      "title": "Cover Tastiera Apple Macbook Pro  14'' da M1 a M5",
+      "last_seen": "2026-09-13 17:36:59"
     },
     "660589124": {
       "last_price": null,
@@ -6033,6 +6035,12 @@
       "notified": false,
       "title": "MacBook Pro 16 2021 M1 Max 64GB RAM Tastiera Ita",
       "last_seen": "2026-09-19 17:31:44"
+    },
+    "661358001": {
+      "last_price": 990.0,
+      "notified": false,
+      "title": "MacBook Pro 16 chip Apple M1 Max - Ram 32Gb - 1TB",
+      "last_seen": "2026-09-19 17:56:50"
     }
   },
   "seen_ids": [
@@ -7364,6 +7372,7 @@
     "661341806",
     "661348352",
     "661349581",
-    "661353235"
+    "661353235",
+    "661358001"
   ]
 }
