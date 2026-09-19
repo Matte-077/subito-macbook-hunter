@@ -2509,8 +2509,10 @@
       "notified": false
     },
     "660105834": {
-      "last_price": null,
-      "notified": false
+      "last_price": 1299.0,
+      "notified": false,
+      "title": "mac book pro 14 Apple M3 8gb ram-512gb ssd",
+      "last_seen": "2026-09-19 22:25:12"
     },
     "660107466": {
       "last_price": null,
@@ -6173,6 +6175,12 @@
       "notified": false,
       "title": "MacBook pro",
       "last_seen": "2026-09-19 22:09:48"
+    },
+    "661372910": {
+      "last_price": 690.0,
+      "notified": false,
+      "title": "MacBook Pro 13”M2 2022 256GB –Touchbar+Accessori",
+      "last_seen": "2026-09-19 22:26:01"
     }
   },
   "seen_ids": [
@@ -7519,6 +7527,7 @@
     "661368720",
     "661370267",
     "661370433",
+    "661372910",
     "661376500",
     "661376573",
     "661378602",
