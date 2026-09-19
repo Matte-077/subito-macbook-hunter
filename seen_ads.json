@@ -3035,8 +3035,10 @@
       "notified": false
     },
     "660328358": {
-      "last_price": null,
-      "notified": false
+      "last_price": 1899.0,
+      "notified": false,
+      "title": "Apple MacBook 14\" M5 16/ 1TB - NUOVO SIGILLATO",
+      "last_seen": "2026-09-19 18:14:06"
     },
     "660330328": {
       "last_price": null,
@@ -5989,7 +5991,7 @@
       "last_seen": "2026-09-19 16:03:53"
     },
     "661340856": {
-      "last_price": 918.0,
+      "last_price": 800.0,
       "notified": true,
       "title": "MacBook M2 Pro 14 (2023)",
       "last_seen": "2026-09-19 16:04:05"
@@ -6041,6 +6043,18 @@
       "notified": false,
       "title": "MacBook Pro 16 chip Apple M1 Max - Ram 32Gb - 1TB",
       "last_seen": "2026-09-19 17:56:50"
+    },
+    "661359350": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "Samsung galaxy s25 ultra pari al nuovo",
+      "last_seen": "2026-09-19 18:16:10"
+    },
+    "661358568": {
+      "last_price": null,
+      "notified": false,
+      "title": "Ricambi Originali MacBook Pro 13\" 2019 (A2159)",
+      "last_seen": "2026-09-19 18:15:39"
     }
   },
   "seen_ids": [
@@ -7373,6 +7387,8 @@
     "661348352",
     "661349581",
     "661353235",
-    "661358001"
+    "661358001",
+    "661358568",
+    "661359350"
   ]
 }
