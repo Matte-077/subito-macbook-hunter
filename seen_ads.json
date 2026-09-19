@@ -6001,6 +6001,12 @@
       "notified": false,
       "title": "MacBookPro14”M3Max  36GBRAM  SSD 1 TB  AppleCare+",
       "last_seen": "2026-09-19 16:36:10"
+    },
+    "661348352": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 15 2017 i7 16GB 1TB",
+      "last_seen": "2026-09-19 16:52:31"
     }
   },
   "seen_ids": [
@@ -7328,6 +7334,7 @@
     "661340635",
     "661340856",
     "661341203",
-    "661341806"
+    "661341806",
+    "661348352"
   ]
 }
