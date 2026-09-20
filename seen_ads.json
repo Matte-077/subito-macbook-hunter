@@ -159,10 +159,10 @@
       "notified": false
     },
     "639093934": {
-      "last_price": 1025.0,
+      "last_price": 999.0,
       "notified": false,
       "title": "Macbook Pro M1 14 pollici 16GB 512GB SSD",
-      "last_seen": "2026-09-18 17:03:55"
+      "last_seen": "2026-09-20 17:13:30"
     },
     "639655444": {
       "last_price": null,
@@ -6505,7 +6505,7 @@
       "last_seen": "2026-09-20 15:30:19"
     },
     "661443748": {
-      "last_price": 700.0,
+      "last_price": 650.0,
       "notified": false,
       "title": "MacBook Pro 13 M1 512GB 8GB RAM",
       "last_seen": "2026-09-20 15:44:47"
@@ -6563,6 +6563,18 @@
       "notified": false,
       "title": "MacBook Neo 13 A18 Pro 512GB nuovo sigillato",
       "last_seen": "2026-09-20 17:14:53"
+    },
+    "661458149": {
+      "last_price": 20.0,
+      "notified": false,
+      "title": "Anker caricatore USB C rapido 735 (Nano II 65W) po",
+      "last_seen": "2026-09-20 17:29:12"
+    },
+    "661457568": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "MacBook Pro Retina 13” Mid 2014",
+      "last_seen": "2026-09-20 17:28:46"
     }
   },
   "seen_ids": [
@@ -7977,6 +7989,8 @@
     "661454033",
     "661454527",
     "661455125",
-    "661456060"
+    "661456060",
+    "661457568",
+    "661458149"
   ]
 }
