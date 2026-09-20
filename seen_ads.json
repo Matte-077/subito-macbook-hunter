@@ -6631,6 +6631,12 @@
       "notified": false,
       "title": "Macbook pro m1 13 pollici 2023",
       "last_seen": "2026-09-20 19:11:06"
+    },
+    "661472803": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook pro 15,4’ i7 6 core 2.2Ghz",
+      "last_seen": "2026-09-20 19:24:50"
     }
   },
   "seen_ids": [
@@ -8056,6 +8062,7 @@
     "661462429",
     "661466635",
     "661468530",
-    "661471427"
+    "661471427",
+    "661472803"
   ]
 }
