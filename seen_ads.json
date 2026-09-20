@@ -6339,7 +6339,7 @@
       "last_seen": "2026-09-20 11:49:18"
     },
     "661414821": {
-      "last_price": 150.0,
+      "last_price": 140.0,
       "notified": false,
       "title": "MacBook Pro 15\" (Retina, Mid 2014) - Modello A1398",
       "last_seen": "2026-09-20 11:49:06"
@@ -6421,6 +6421,12 @@
       "notified": false,
       "title": "MacBook Pro 16\" M1 Pro (2021) - 16GB RAM - 1T SSD",
       "last_seen": "2026-09-20 12:48:58"
+    },
+    "661426327": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro 13 M1 QWERTY + Tasti Coreani",
+      "last_seen": "2026-09-20 13:05:00"
     }
   },
   "seen_ids": [
@@ -7813,6 +7819,7 @@
     "661421732",
     "661422011",
     "661422602",
-    "661423090"
+    "661423090",
+    "661426327"
   ]
 }
