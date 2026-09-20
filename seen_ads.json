@@ -4955,7 +4955,7 @@
       "last_seen": "2026-09-16 19:07:30"
     },
     "660993157": {
-      "last_price": 30.0,
+      "last_price": 25.0,
       "notified": false,
       "title": "MacBook Pro anno 2010",
       "last_seen": "2026-09-16 19:08:07"
@@ -6237,6 +6237,12 @@
       "notified": false,
       "title": "Lotto scatole originali Apple",
       "last_seen": "2026-09-20 08:56:29"
+    },
+    "661397702": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "MacBook pro del 2010 formattato",
+      "last_seen": "2026-09-20 09:10:38"
     }
   },
   "seen_ids": [
@@ -7599,6 +7605,7 @@
     "661390705",
     "661391283",
     "661395431",
-    "661396117"
+    "661396117",
+    "661397702"
   ]
 }
