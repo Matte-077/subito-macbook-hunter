@@ -6673,6 +6673,12 @@
       "notified": false,
       "title": "MacBook pro 2015",
       "last_seen": "2026-09-20 21:02:17"
+    },
+    "661483220": {
+      "last_price": 70.0,
+      "notified": false,
+      "title": "Zaino Tucano Nuovo ghiaccio grigio chiaro",
+      "last_seen": "2026-09-20 21:15:23"
     }
   },
   "seen_ids": [
@@ -8105,6 +8111,7 @@
     "661476987",
     "661477267",
     "661477384",
-    "661482619"
+    "661482619",
+    "661483220"
   ]
 }
