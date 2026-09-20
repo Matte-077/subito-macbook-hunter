@@ -6519,6 +6519,18 @@
       "notified": false,
       "title": "Macbook Air M2",
       "last_seen": "2026-09-20 16:14:32"
+    },
+    "661450826": {
+      "last_price": 15.0,
+      "notified": false,
+      "title": "carica batterie per macbook",
+      "last_seen": "2026-09-20 16:30:27"
+    },
+    "661450644": {
+      "last_price": 3500.0,
+      "notified": false,
+      "title": "Apple MacBook pro m5pro 14pro 2tb",
+      "last_seen": "2026-09-20 16:30:26"
     }
   },
   "seen_ids": [
@@ -7926,6 +7938,8 @@
     "661444933",
     "661444960",
     "661446748",
-    "661448440"
+    "661448440",
+    "661450644",
+    "661450826"
   ]
 }
