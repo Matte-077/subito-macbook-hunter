@@ -6439,6 +6439,12 @@
       "notified": false,
       "title": "mcbook pro 16 pollici",
       "last_seen": "2026-09-20 13:34:24"
+    },
+    "661431117": {
+      "last_price": 2990.0,
+      "notified": false,
+      "title": "macbook pro da 16” chip M5 pro  24gb ram 1tb",
+      "last_seen": "2026-09-20 13:48:52"
     }
   },
   "seen_ids": [
@@ -7834,6 +7840,7 @@
     "661423090",
     "661426327",
     "661427628",
-    "661429276"
+    "661429276",
+    "661431117"
   ]
 }
