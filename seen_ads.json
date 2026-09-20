@@ -6307,6 +6307,24 @@
       "notified": false,
       "title": "MacBook Pro da 14\" Chip M5 16gbram 1tb hd",
       "last_seen": "2026-09-20 11:04:51"
+    },
+    "661410009": {
+      "last_price": 1990.0,
+      "notified": false,
+      "title": "MacBook M4 Pro 16” 24Gb SSD 512Gb",
+      "last_seen": "2026-09-20 11:19:06"
+    },
+    "661410724": {
+      "last_price": 170.0,
+      "notified": false,
+      "title": "Macbook pro 2017/2018",
+      "last_seen": "2026-09-20 11:19:43"
+    },
+    "661410085": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook pro 2020",
+      "last_seen": "2026-09-20 11:19:11"
     }
   },
   "seen_ids": [
@@ -7680,6 +7698,9 @@
     "661405624",
     "661406498",
     "661407521",
-    "661409241"
+    "661409241",
+    "661410009",
+    "661410085",
+    "661410724"
   ]
 }
