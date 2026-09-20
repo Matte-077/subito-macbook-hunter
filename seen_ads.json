@@ -6215,10 +6215,10 @@
       "last_seen": "2026-09-20 00:13:54"
     },
     "661388249": {
-      "last_price": 1500.0,
+      "last_price": 1350.0,
       "notified": false,
       "title": "GIGABYTE AOURUS 17H 4080",
-      "last_seen": "2026-09-20 01:42:15"
+      "last_seen": "2026-09-20 14:30:20"
     },
     "661388357": {
       "last_price": 850.0,
@@ -6513,6 +6513,12 @@
       "notified": false,
       "title": "Apple 85w magsafe 2 alimentatore x MacBook Pro 15”",
       "last_seen": "2026-09-20 16:00:14"
+    },
+    "661448440": {
+      "last_price": 615.0,
+      "notified": false,
+      "title": "Macbook Air M2",
+      "last_seen": "2026-09-20 16:14:32"
     }
   },
   "seen_ids": [
@@ -7919,6 +7925,7 @@
     "661443748",
     "661444933",
     "661444960",
-    "661446748"
+    "661446748",
+    "661448440"
   ]
 }
