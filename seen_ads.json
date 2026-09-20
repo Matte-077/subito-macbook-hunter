@@ -6433,6 +6433,12 @@
       "notified": false,
       "title": "iPhone 16 Pro 128 Giga Con Garanzia",
       "last_seen": "2026-09-20 13:19:23"
+    },
+    "661429276": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "mcbook pro 16 pollici",
+      "last_seen": "2026-09-20 13:34:24"
     }
   },
   "seen_ids": [
@@ -7827,6 +7833,7 @@
     "661422602",
     "661423090",
     "661426327",
-    "661427628"
+    "661427628",
+    "661429276"
   ]
 }
