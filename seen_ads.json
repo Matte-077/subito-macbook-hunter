@@ -1535,10 +1535,10 @@
       "notified": false
     },
     "659516629": {
-      "last_price": 290.0,
+      "last_price": 250.0,
       "notified": false,
       "title": "Macbook Pro 2015 retina 15  - 16gb ram - 500gb ssd",
-      "last_seen": "2026-09-19 18:49:27"
+      "last_seen": "2026-09-20 18:40:49"
     },
     "659539347": {
       "last_price": 45.0,
@@ -6613,6 +6613,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 2015 i5 GB BATERÍA RAM 8 GB",
       "last_seen": "2026-09-20 17:58:11"
+    },
+    "661466635": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 13 M1",
+      "last_seen": "2026-09-20 18:41:10"
     }
   },
   "seen_ids": [
@@ -8035,6 +8041,7 @@
     "661461216",
     "661462052",
     "661462183",
-    "661462429"
+    "661462429",
+    "661466635"
   ]
 }
