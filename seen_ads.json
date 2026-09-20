@@ -39,8 +39,10 @@
       "last_seen": "2025-03-10 18:00:35"
     },
     "601616735": {
-      "last_price": null,
-      "notified": false
+      "last_price": 499.0,
+      "notified": false,
+      "title": "Apple Macbook AiR M1 8 - 16 gb ram",
+      "last_seen": "2026-09-20 15:14:51"
     },
     "614930938": {
       "last_price": null,
@@ -123,8 +125,10 @@
       "last_seen": "2026-01-23 15:24:31"
     },
     "633045610": {
-      "last_price": null,
-      "notified": false
+      "last_price": 819.0,
+      "notified": false,
+      "title": "Macbook Pro M2",
+      "last_seen": "2026-09-20 15:14:51"
     },
     "633214543": {
       "last_price": null,
@@ -2057,8 +2061,10 @@
       "notified": false
     },
     "659924067": {
-      "last_price": null,
-      "notified": false
+      "last_price": 499.0,
+      "notified": false,
+      "title": "IPHONE 16e 128gb USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-09-20 15:14:36"
     },
     "659924363": {
       "last_price": null,
@@ -6471,6 +6477,12 @@
       "notified": false,
       "title": "MacBook Pro 13 pollici con chip Apple Silicon M2",
       "last_seen": "2026-09-20 15:01:13"
+    },
+    "661441309": {
+      "last_price": 20.0,
+      "notified": false,
+      "title": "confezione originale Apple MacBook Pro 14\"",
+      "last_seen": "2026-09-20 15:16:16"
     }
   },
   "seen_ids": [
@@ -7871,6 +7883,7 @@
     "661432193",
     "661432643",
     "661438498",
-    "661438514"
+    "661438514",
+    "661441309"
   ]
 }
