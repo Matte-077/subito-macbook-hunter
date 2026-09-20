@@ -6289,6 +6289,18 @@
       "notified": false,
       "title": "Apple MacBook Pro 2017 i5 2.3GHz 8 GB RAM Computer",
       "last_seen": "2026-09-20 10:35:43"
+    },
+    "661406498": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M1 (2020) - 8 GB RAM - 256 GB SSD",
+      "last_seen": "2026-09-20 10:49:44"
+    },
+    "661407521": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "Macbook Pro M2",
+      "last_seen": "2026-09-20 10:50:36"
     }
   },
   "seen_ids": [
@@ -7659,6 +7671,8 @@
     "661400342",
     "661400499",
     "661405408",
-    "661405624"
+    "661405624",
+    "661406498",
+    "661407521"
   ]
 }
