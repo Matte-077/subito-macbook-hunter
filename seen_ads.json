@@ -6531,6 +6531,12 @@
       "notified": false,
       "title": "Apple MacBook pro m5pro 14pro 2tb",
       "last_seen": "2026-09-20 16:30:26"
+    },
+    "661452785": {
+      "last_price": 230.0,
+      "notified": false,
+      "title": "Apple Magic Keyboard per iPad Pro",
+      "last_seen": "2026-09-20 16:45:32"
     }
   },
   "seen_ids": [
@@ -7940,6 +7946,7 @@
     "661446748",
     "661448440",
     "661450644",
-    "661450826"
+    "661450826",
+    "661452785"
   ]
 }
