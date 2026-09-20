@@ -6301,6 +6301,12 @@
       "notified": false,
       "title": "Macbook Pro M2",
       "last_seen": "2026-09-20 10:50:36"
+    },
+    "661409241": {
+      "last_price": 1400.0,
+      "notified": false,
+      "title": "MacBook Pro da 14\" Chip M5 16gbram 1tb hd",
+      "last_seen": "2026-09-20 11:04:51"
     }
   },
   "seen_ids": [
@@ -7673,6 +7679,7 @@
     "661405408",
     "661405624",
     "661406498",
-    "661407521"
+    "661407521",
+    "661409241"
   ]
 }
