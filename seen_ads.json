@@ -177,10 +177,10 @@
       "notified": false
     },
     "642131103": {
-      "last_price": 369.0,
+      "last_price": 339.0,
       "notified": false,
       "title": "Apple Macbook Pro 2019 - i5 - 8 gb - 256 GB SSD",
-      "last_seen": "2026-09-18 18:35:10"
+      "last_seen": "2026-09-19 18:49:35"
     },
     "642416141": {
       "last_price": 799.0,
@@ -415,7 +415,7 @@
       "last_seen": "2026-09-18 17:03:49"
     },
     "651715208": {
-      "last_price": 1700.0,
+      "last_price": 1780.0,
       "notified": false,
       "title": "MacBook Pro 14” Apple M4 | 1TB SSD|Pari al Nuovo!🔥",
       "last_seen": "2026-09-16 19:39:57"
@@ -6331,6 +6331,24 @@
       "notified": false,
       "title": "Macbook pro retina 13 pollici i7 hd SSD fine 2012",
       "last_seen": "2026-09-20 11:35:07"
+    },
+    "661415033": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 256gb",
+      "last_seen": "2026-09-20 11:49:18"
+    },
+    "661414821": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" (Retina, Mid 2014) - Modello A1398",
+      "last_seen": "2026-09-20 11:49:06"
+    },
+    "661414185": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16,1 2019.. i7 6 core..RAM 16..",
+      "last_seen": "2026-09-20 11:48:32"
     }
   },
   "seen_ids": [
@@ -7708,6 +7726,9 @@
     "661410009",
     "661410085",
     "661410724",
-    "661413690"
+    "661413690",
+    "661414185",
+    "661414821",
+    "661415033"
   ]
 }
