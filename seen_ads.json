@@ -6225,6 +6225,12 @@
       "notified": false,
       "title": "Macbook pro 13 2016/2017",
       "last_seen": "2026-09-20 06:10:36"
+    },
+    "661395431": {
+      "last_price": 10.0,
+      "notified": false,
+      "title": "Anker Nano Power Bank 10.000mAh 30W USB-C Integrat",
+      "last_seen": "2026-09-20 08:43:33"
     }
   },
   "seen_ids": [
@@ -7585,6 +7591,7 @@
     "661388249",
     "661388357",
     "661390705",
-    "661391283"
+    "661391283",
+    "661395431"
   ]
 }
