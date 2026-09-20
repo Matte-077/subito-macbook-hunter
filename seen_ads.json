@@ -6349,6 +6349,24 @@
       "notified": false,
       "title": "Apple MacBook Pro 16,1 2019.. i7 6 core..RAM 16..",
       "last_seen": "2026-09-20 11:48:32"
+    },
+    "661417921": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M2 - 8GB / 256GB SSD",
+      "last_seen": "2026-09-20 12:04:47"
+    },
+    "661418064": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "MacBook pro 2011",
+      "last_seen": "2026-09-20 12:04:53"
+    },
+    "661417646": {
+      "last_price": 160.0,
+      "notified": false,
+      "title": "Lotto MacBook Pro Display retina",
+      "last_seen": "2026-09-20 12:04:36"
     }
   },
   "seen_ids": [
@@ -7729,6 +7747,9 @@
     "661413690",
     "661414185",
     "661414821",
-    "661415033"
+    "661415033",
+    "661417646",
+    "661417921",
+    "661418064"
   ]
 }
