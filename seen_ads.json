@@ -1191,10 +1191,10 @@
       "notified": false
     },
     "658863268": {
-      "last_price": 369.0,
+      "last_price": 349.0,
       "notified": false,
       "title": "Macbook Pro 15\" 2016 i7 2,9GHz 16GB 1TB SSD Radeon",
-      "last_seen": "2026-09-19 10:28:09"
+      "last_seen": "2026-09-20 10:19:05"
     },
     "658867539": {
       "last_price": null,
@@ -2239,8 +2239,10 @@
       "notified": false
     },
     "659984241": {
-      "last_price": null,
-      "notified": false
+      "last_price": 549.0,
+      "notified": false,
+      "title": "SAMSUNG GALAXY S23 ULTRA 512GB",
+      "last_seen": "2026-09-20 17:42:13"
     },
     "659984569": {
       "last_price": 549.0,
