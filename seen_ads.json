@@ -6703,6 +6703,12 @@
       "notified": false,
       "title": "MacBook Pro 14” M5 – 16 GB – SSD 1 TB – Nuovo sigi",
       "last_seen": "2026-09-20 22:37:45"
+    },
+    "661492537": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "MacBook Pro (14 pollici, M5)",
+      "last_seen": "2026-09-20 23:18:05"
     }
   },
   "seen_ids": [
@@ -8140,6 +8146,7 @@
     "661484626",
     "661488653",
     "661489525",
-    "661490375"
+    "661490375",
+    "661492537"
   ]
 }
