@@ -6445,6 +6445,18 @@
       "notified": false,
       "title": "macbook pro da 16” chip M5 pro  24gb ram 1tb",
       "last_seen": "2026-09-20 13:48:52"
+    },
+    "661432643": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "Bundle Samsung s25 ultra tablet amoled pari nuovo",
+      "last_seen": "2026-09-20 14:03:13"
+    },
+    "661432193": {
+      "last_price": 579.0,
+      "notified": false,
+      "title": "Macbook Pro M1 2021 13”",
+      "last_seen": "2026-09-20 14:02:49"
     }
   },
   "seen_ids": [
@@ -7841,6 +7853,8 @@
     "661426327",
     "661427628",
     "661429276",
-    "661431117"
+    "661431117",
+    "661432193",
+    "661432643"
   ]
 }
