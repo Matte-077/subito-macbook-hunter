@@ -6467,7 +6467,7 @@
       "last_seen": "2026-09-20 14:02:49"
     },
     "661438514": {
-      "last_price": 265.0,
+      "last_price": 1.0,
       "notified": false,
       "title": "Scatole Apple",
       "last_seen": "2026-09-20 15:01:14"
@@ -6483,6 +6483,30 @@
       "notified": false,
       "title": "confezione originale Apple MacBook Pro 14\"",
       "last_seen": "2026-09-20 15:16:16"
+    },
+    "661444960": {
+      "last_price": 2299.0,
+      "notified": false,
+      "title": "MacBook Pro M5 Pro 14 - 1 Tb - 24 GB Ram - Argento",
+      "last_seen": "2026-09-20 15:45:52"
+    },
+    "661444933": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "Macbook M1 (2020) con schermo rotto",
+      "last_seen": "2026-09-20 15:45:51"
+    },
+    "661442393": {
+      "last_price": 35.0,
+      "notified": false,
+      "title": "Rasalas 16GB (2x8GB)",
+      "last_seen": "2026-09-20 15:30:19"
+    },
+    "661443748": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Pro 13 M1 512GB 8GB RAM",
+      "last_seen": "2026-09-20 15:44:47"
     }
   },
   "seen_ids": [
@@ -7884,6 +7908,10 @@
     "661432643",
     "661438498",
     "661438514",
-    "661441309"
+    "661441309",
+    "661442393",
+    "661443748",
+    "661444933",
+    "661444960"
   ]
 }
