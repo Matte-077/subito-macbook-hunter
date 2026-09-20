@@ -645,8 +645,10 @@
       "last_seen": "2026-07-27 14:43:25"
     },
     "655570159": {
-      "last_price": null,
-      "notified": false
+      "last_price": 1699.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M2 Pro Silver – 16 GB RAM / 512 GB",
+      "last_seen": "2026-09-20 10:34:16"
     },
     "655579106": {
       "last_price": 1479.0,
@@ -6275,6 +6277,18 @@
       "notified": false,
       "title": "iphone 16 pro max 256gb",
       "last_seen": "2026-09-13 12:23:01"
+    },
+    "661405408": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "Macbook",
+      "last_seen": "2026-09-20 10:35:32"
+    },
+    "661405624": {
+      "last_price": 215.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8 GB RAM Computer",
+      "last_seen": "2026-09-20 10:35:43"
     }
   },
   "seen_ids": [
@@ -7643,6 +7657,8 @@
     "661397702",
     "661399838",
     "661400342",
-    "661400499"
+    "661400499",
+    "661405408",
+    "661405624"
   ]
 }
