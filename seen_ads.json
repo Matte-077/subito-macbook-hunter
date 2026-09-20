@@ -6385,6 +6385,36 @@
       "notified": false,
       "title": "Macbook pro mid 2010",
       "last_seen": "2026-09-20 12:20:34"
+    },
+    "661422602": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Pro (2021) - 16GB RAM - 512 SSD",
+      "last_seen": "2026-09-20 12:35:40"
+    },
+    "661422011": {
+      "last_price": 460.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM",
+      "last_seen": "2026-09-20 12:35:05"
+    },
+    "661421732": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16 M1 2021-16”LIQUID RETINA XDR M1 PRO",
+      "last_seen": "2026-09-20 12:34:50"
+    },
+    "661420718": {
+      "last_price": 30.0,
+      "notified": false,
+      "title": "MacBook Pro 2010 13 pollici",
+      "last_seen": "2026-09-20 12:33:52"
+    },
+    "661420886": {
+      "last_price": 580.0,
+      "notified": false,
+      "title": "Apple macbook neo in garanzia",
+      "last_seen": "2026-09-20 12:34:02"
     }
   },
   "seen_ids": [
@@ -7771,6 +7801,11 @@
     "661418064",
     "661419242",
     "661419831",
-    "661420525"
+    "661420525",
+    "661420718",
+    "661420886",
+    "661421732",
+    "661422011",
+    "661422602"
   ]
 }
