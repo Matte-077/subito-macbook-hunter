@@ -6625,6 +6625,12 @@
       "notified": false,
       "title": "Macbook m2 pro 14'' 16GB ram 512GB ssd",
       "last_seen": "2026-09-20 18:55:36"
+    },
+    "661471427": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "Macbook pro m1 13 pollici 2023",
+      "last_seen": "2026-09-20 19:11:06"
     }
   },
   "seen_ids": [
@@ -8049,6 +8055,7 @@
     "661462183",
     "661462429",
     "661466635",
-    "661468530"
+    "661468530",
+    "661471427"
   ]
 }
