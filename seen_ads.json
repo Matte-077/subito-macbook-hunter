@@ -6685,6 +6685,12 @@
       "notified": false,
       "title": "Macbook pro 13",
       "last_seen": "2026-09-20 21:29:26"
+    },
+    "661488653": {
+      "last_price": 90.0,
+      "notified": false,
+      "title": "SSD da 512 Gb per Macbook Pro A1708",
+      "last_seen": "2026-09-20 22:10:29"
     }
   },
   "seen_ids": [
@@ -8119,6 +8125,7 @@
     "661477384",
     "661482619",
     "661483220",
-    "661484626"
+    "661484626",
+    "661488653"
   ]
 }
