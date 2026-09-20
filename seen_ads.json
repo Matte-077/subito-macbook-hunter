@@ -6577,6 +6577,42 @@
       "notified": false,
       "title": "MacBook Pro Retina 13” Mid 2014",
       "last_seen": "2026-09-20 17:28:46"
+    },
+    "661462183": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" 2021, M1 Pro, 16GB RAM, 512GB SSD",
+      "last_seen": "2026-09-20 17:58:54"
+    },
+    "661462429": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "MacBook pro 16” touch bar",
+      "last_seen": "2026-09-20 17:59:03"
+    },
+    "661462052": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16” i7 16GB 512SSD AMD Radeon",
+      "last_seen": "2026-09-20 17:58:49"
+    },
+    "661461097": {
+      "last_price": 469.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 2019 i7 16GB 512GB SSD Radeon",
+      "last_seen": "2026-09-20 17:58:04"
+    },
+    "661460699": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "APPLE MacBook Pro 15 2018 i7 16GB 1TB Radeon 560X",
+      "last_seen": "2026-09-20 17:57:43"
+    },
+    "661461216": {
+      "last_price": 119.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 2015 i5 GB BATERÍA RAM 8 GB",
+      "last_seen": "2026-09-20 17:58:11"
     }
   },
   "seen_ids": [
@@ -7993,6 +8029,12 @@
     "661455125",
     "661456060",
     "661457568",
-    "661458149"
+    "661458149",
+    "661460699",
+    "661461097",
+    "661461216",
+    "661462052",
+    "661462183",
+    "661462429"
   ]
 }
