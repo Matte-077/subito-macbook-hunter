@@ -6679,6 +6679,12 @@
       "notified": false,
       "title": "Zaino Tucano Nuovo ghiaccio grigio chiaro",
       "last_seen": "2026-09-20 21:15:23"
+    },
+    "661484626": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Macbook pro 13",
+      "last_seen": "2026-09-20 21:29:26"
     }
   },
   "seen_ids": [
@@ -8112,6 +8118,7 @@
     "661477267",
     "661477384",
     "661482619",
-    "661483220"
+    "661483220",
+    "661484626"
   ]
 }
