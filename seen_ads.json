@@ -6415,6 +6415,12 @@
       "notified": false,
       "title": "Apple macbook neo in garanzia",
       "last_seen": "2026-09-20 12:34:02"
+    },
+    "661423090": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M1 Pro (2021) - 16GB RAM - 1T SSD",
+      "last_seen": "2026-09-20 12:48:58"
     }
   },
   "seen_ids": [
@@ -7806,6 +7812,7 @@
     "661420886",
     "661421732",
     "661422011",
-    "661422602"
+    "661422602",
+    "661423090"
   ]
 }
