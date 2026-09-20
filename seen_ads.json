@@ -6225,10 +6225,10 @@
       "last_seen": "2026-09-20 14:30:20"
     },
     "661388357": {
-      "last_price": 850.0,
+      "last_price": 799.0,
       "notified": false,
       "title": "MacBook Pro 16” M1  parti guasti + Genelec 8010a",
-      "last_seen": "2026-09-20 01:42:33"
+      "last_seen": "2026-09-20 18:40:40"
     },
     "661390705": {
       "last_price": 2200.0,
@@ -6667,6 +6667,12 @@
       "notified": false,
       "title": "IPhone 14 Pro silver/bianco 128 gb (apple)",
       "last_seen": "2026-09-20 20:07:15"
+    },
+    "661482619": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook pro 2015",
+      "last_seen": "2026-09-20 21:02:17"
     }
   },
   "seen_ids": [
@@ -8098,6 +8104,7 @@
     "661475588",
     "661476987",
     "661477267",
-    "661477384"
+    "661477384",
+    "661482619"
   ]
 }
