@@ -6325,6 +6325,12 @@
       "notified": false,
       "title": "Macbook pro 2020",
       "last_seen": "2026-09-20 11:19:11"
+    },
+    "661413690": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "Macbook pro retina 13 pollici i7 hd SSD fine 2012",
+      "last_seen": "2026-09-20 11:35:07"
     }
   },
   "seen_ids": [
@@ -7701,6 +7707,7 @@
     "661409241",
     "661410009",
     "661410085",
-    "661410724"
+    "661410724",
+    "661413690"
   ]
 }
