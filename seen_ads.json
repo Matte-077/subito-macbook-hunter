@@ -2093,8 +2093,10 @@
       "notified": false
     },
     "659926538": {
-      "last_price": null,
-      "notified": false
+      "last_price": 599.0,
+      "notified": false,
+      "title": "IPHONE 15 PRO USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-09-20 15:00:31"
     },
     "659926809": {
       "last_price": 499.0,
@@ -6457,6 +6459,18 @@
       "notified": false,
       "title": "Macbook Pro M1 2021 13”",
       "last_seen": "2026-09-20 14:02:49"
+    },
+    "661438514": {
+      "last_price": 265.0,
+      "notified": false,
+      "title": "Scatole Apple",
+      "last_seen": "2026-09-20 15:01:14"
+    },
+    "661438498": {
+      "last_price": 970.0,
+      "notified": false,
+      "title": "MacBook Pro 13 pollici con chip Apple Silicon M2",
+      "last_seen": "2026-09-20 15:01:13"
     }
   },
   "seen_ids": [
@@ -7855,6 +7869,8 @@
     "661429276",
     "661431117",
     "661432193",
-    "661432643"
+    "661432643",
+    "661438498",
+    "661438514"
   ]
 }
