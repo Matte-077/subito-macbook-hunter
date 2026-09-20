@@ -6019,9 +6019,9 @@
       "last_seen": "2026-09-19 16:03:53"
     },
     "661340856": {
-      "last_price": 800.0,
+      "last_price": 638.0,
       "notified": true,
-      "title": "MacBook M2 Pro 14 (2023)",
+      "title": "MacBook M2 Pro 14 (2023) trattabile",
       "last_seen": "2026-09-19 16:04:05"
     },
     "661341203": {
@@ -6541,7 +6541,7 @@
       "last_seen": "2026-09-20 16:45:32"
     },
     "661454033": {
-      "last_price": 800.0,
+      "last_price": 849.0,
       "notified": false,
       "title": "Macbook Air M3 13” 16Gb",
       "last_seen": "2026-09-20 17:00:07"
@@ -6551,6 +6551,18 @@
       "notified": false,
       "title": "Google Pixel 11 pro 512 gb nero",
       "last_seen": "2026-09-20 17:00:34"
+    },
+    "661455125": {
+      "last_price": 355.0,
+      "notified": false,
+      "title": "Apple macbook pro 256gb",
+      "last_seen": "2026-09-20 17:14:07"
+    },
+    "661456060": {
+      "last_price": 770.0,
+      "notified": false,
+      "title": "MacBook Neo 13 A18 Pro 512GB nuovo sigillato",
+      "last_seen": "2026-09-20 17:14:53"
     }
   },
   "seen_ids": [
@@ -7963,6 +7975,8 @@
     "661450826",
     "661452785",
     "661454033",
-    "661454527"
+    "661454527",
+    "661455125",
+    "661456060"
   ]
 }
