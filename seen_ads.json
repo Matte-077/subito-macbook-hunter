@@ -6269,6 +6269,12 @@
       "notified": false,
       "title": "MacBook Pro Retina display 15” - 2014",
       "last_seen": "2026-09-20 09:52:03"
+    },
+    "660545308": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "iphone 16 pro max 256gb",
+      "last_seen": "2026-09-13 12:23:01"
     }
   },
   "seen_ids": [
@@ -7082,6 +7088,7 @@
     "660541724",
     "660542023",
     "660545094",
+    "660545308",
     "660546936",
     "660548583",
     "660550972",
