@@ -6213,6 +6213,12 @@
       "notified": false,
       "title": "MacBook Pro 16” M1  parti guasti + Genelec 8010a",
       "last_seen": "2026-09-20 01:42:33"
+    },
+    "661390705": {
+      "last_price": 2200.0,
+      "notified": false,
+      "title": "Macbook pro M4 2026",
+      "last_seen": "2026-09-20 04:34:30"
     }
   },
   "seen_ids": [
@@ -7571,6 +7577,7 @@
     "661384958",
     "661385980",
     "661388249",
-    "661388357"
+    "661388357",
+    "661390705"
   ]
 }
