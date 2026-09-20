@@ -6367,6 +6367,24 @@
       "notified": false,
       "title": "Lotto MacBook Pro Display retina",
       "last_seen": "2026-09-20 12:04:36"
+    },
+    "661419831": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Macbook Pro 16",
+      "last_seen": "2026-09-20 12:20:04"
+    },
+    "661419242": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "2 MacBook: Air 11\" Early 2012 e Pro 13\" Mid 2010",
+      "last_seen": "2026-09-20 12:19:39"
+    },
+    "661420525": {
+      "last_price": 30.0,
+      "notified": false,
+      "title": "Macbook pro mid 2010",
+      "last_seen": "2026-09-20 12:20:34"
     }
   },
   "seen_ids": [
@@ -7750,6 +7768,9 @@
     "661415033",
     "661417646",
     "661417921",
-    "661418064"
+    "661418064",
+    "661419242",
+    "661419831",
+    "661420525"
   ]
 }
