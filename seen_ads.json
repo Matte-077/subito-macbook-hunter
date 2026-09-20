@@ -115,8 +115,10 @@
       "last_seen": "2026-09-19 12:03:29"
     },
     "631579408": {
-      "last_price": null,
-      "notified": false
+      "last_price": 249.0,
+      "notified": false,
+      "title": "MacBook Pro 15” Retina i7 con scatola",
+      "last_seen": "2026-09-20 16:58:34"
     },
     "632688225": {
       "last_price": 600.0,
@@ -5333,7 +5335,7 @@
       "notified": false
     },
     "661126956": {
-      "last_price": 1600.0,
+      "last_price": 1500.0,
       "notified": false,
       "title": "Apple MacBook Pro 16\" (1TB SSD, M2 Max, 32GB) Lapt",
       "last_seen": "2026-09-17 20:04:51"
@@ -6537,6 +6539,18 @@
       "notified": false,
       "title": "Apple Magic Keyboard per iPad Pro",
       "last_seen": "2026-09-20 16:45:32"
+    },
+    "661454033": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "Macbook Air M3 13” 16Gb",
+      "last_seen": "2026-09-20 17:00:07"
+    },
+    "661454527": {
+      "last_price": 880.0,
+      "notified": false,
+      "title": "Google Pixel 11 pro 512 gb nero",
+      "last_seen": "2026-09-20 17:00:34"
     }
   },
   "seen_ids": [
@@ -7947,6 +7961,8 @@
     "661448440",
     "661450644",
     "661450826",
-    "661452785"
+    "661452785",
+    "661454033",
+    "661454527"
   ]
 }
