@@ -6561,7 +6561,7 @@
       "last_seen": "2026-09-20 17:14:07"
     },
     "661456060": {
-      "last_price": 770.0,
+      "last_price": 750.0,
       "notified": false,
       "title": "MacBook Neo 13 A18 Pro 512GB nuovo sigillato",
       "last_seen": "2026-09-20 17:14:53"
@@ -6655,6 +6655,18 @@
       "notified": false,
       "title": "MacBook Pro Retina 13 - Early 2015 - 8GB RAM - 1TB",
       "last_seen": "2026-09-20 20:06:56"
+    },
+    "661477384": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "IPhone 12 128 giga green verde",
+      "last_seen": "2026-09-20 20:07:23"
+    },
+    "661477267": {
+      "last_price": 410.0,
+      "notified": false,
+      "title": "IPhone 14 Pro silver/bianco 128 gb (apple)",
+      "last_seen": "2026-09-20 20:07:15"
     }
   },
   "seen_ids": [
@@ -8084,6 +8096,8 @@
     "661472803",
     "661475585",
     "661475588",
-    "661476987"
+    "661476987",
+    "661477267",
+    "661477384"
   ]
 }
