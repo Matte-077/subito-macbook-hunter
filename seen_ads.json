@@ -6231,6 +6231,12 @@
       "notified": false,
       "title": "Anker Nano Power Bank 10.000mAh 30W USB-C Integrat",
       "last_seen": "2026-09-20 08:43:33"
+    },
+    "661396117": {
+      "last_price": 25.0,
+      "notified": false,
+      "title": "Lotto scatole originali Apple",
+      "last_seen": "2026-09-20 08:56:29"
     }
   },
   "seen_ids": [
@@ -7592,6 +7598,7 @@
     "661388357",
     "661390705",
     "661391283",
-    "661395431"
+    "661395431",
+    "661396117"
   ]
 }
