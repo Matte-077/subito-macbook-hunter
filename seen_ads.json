@@ -6715,6 +6715,18 @@
       "notified": false,
       "title": "MacBook Pro da 16\" M4 Pro - PARI AL NUOVO",
       "last_seen": "2026-09-21 00:17:36"
+    },
+    "661495751": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14 M5 PRO RAM 24GB SSD 1 TB SIGILLATO",
+      "last_seen": "2026-09-21 00:29:23"
+    },
+    "661495711": {
+      "last_price": 1050.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M1 Pro",
+      "last_seen": "2026-09-21 00:29:21"
     }
   },
   "seen_ids": [
@@ -8154,6 +8166,8 @@
     "661489525",
     "661490375",
     "661492537",
-    "661495463"
+    "661495463",
+    "661495711",
+    "661495751"
   ]
 }
