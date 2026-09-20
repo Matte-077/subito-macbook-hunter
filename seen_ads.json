@@ -6709,6 +6709,12 @@
       "notified": false,
       "title": "MacBook Pro (14 pollici, M5)",
       "last_seen": "2026-09-20 23:18:05"
+    },
+    "661495463": {
+      "last_price": 2450.0,
+      "notified": false,
+      "title": "MacBook Pro da 16\" M4 Pro - PARI AL NUOVO",
+      "last_seen": "2026-09-21 00:17:36"
     }
   },
   "seen_ids": [
@@ -8147,6 +8153,7 @@
     "661488653",
     "661489525",
     "661490375",
-    "661492537"
+    "661492537",
+    "661495463"
   ]
 }
