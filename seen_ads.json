@@ -2113,8 +2113,10 @@
       "notified": false
     },
     "659928002": {
-      "last_price": null,
-      "notified": false
+      "last_price": 399.0,
+      "notified": false,
+      "title": "IPHONE 13 PRO 128GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-09-20 10:04:51"
     },
     "659928219": {
       "last_price": 399.0,
@@ -6255,6 +6257,18 @@
       "notified": false,
       "title": "MacBook Pro 13\" (2017) - 256GB SSD / 8GB RAM - Sol",
       "last_seen": "2026-09-20 09:38:17"
+    },
+    "661400342": {
+      "last_price": 1249.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M1 Max 32GB/1TB Space Gray",
+      "last_seen": "2026-09-20 09:51:56"
+    },
+    "661400499": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro Retina display 15” - 2014",
+      "last_seen": "2026-09-20 09:52:03"
     }
   },
   "seen_ids": [
@@ -7620,6 +7634,8 @@
     "661395501",
     "661396117",
     "661397702",
-    "661399838"
+    "661399838",
+    "661400342",
+    "661400499"
   ]
 }
