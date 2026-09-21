@@ -6745,6 +6745,12 @@
       "notified": false,
       "title": "Macbook pro chip M5, 16” pollici, 48gb RAM, 1tb",
       "last_seen": "2026-09-21 07:58:05"
+    },
+    "661505730": {
+      "last_price": 860.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" i9 (2019) Top - 32GB RAM / 2TB SSD",
+      "last_seen": "2026-09-21 08:45:42"
     }
   },
   "seen_ids": [
@@ -8189,6 +8195,7 @@
     "661495751",
     "661497118",
     "661501613",
-    "661502181"
+    "661502181",
+    "661505730"
   ]
 }
