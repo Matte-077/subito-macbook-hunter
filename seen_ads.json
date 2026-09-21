@@ -7065,6 +7065,24 @@
       "notified": false,
       "title": "IPAD MINI 7 - PENCIL PRO - SMART FOLIO",
       "last_seen": "2026-09-21 19:50:58"
+    },
+    "661600686": {
+      "last_price": 460.0,
+      "notified": false,
+      "title": "Macbook Pro 16'' i7 6-Core 16GB RAM",
+      "last_seen": "2026-09-21 20:20:21"
+    },
+    "661601897": {
+      "last_price": 649.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13″ M2 8/256 92%",
+      "last_seen": "2026-09-21 20:21:09"
+    },
+    "661600085": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook pro 13”  A1706 Mid 2017 Touch Bar x ricamb",
+      "last_seen": "2026-09-21 20:19:54"
     }
   },
   "seen_ids": [
@@ -8560,6 +8578,9 @@
     "661595486",
     "661596993",
     "661597845",
-    "661598835"
+    "661598835",
+    "661600085",
+    "661600686",
+    "661601897"
   ]
 }
