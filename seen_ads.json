@@ -7083,6 +7083,12 @@
       "notified": false,
       "title": "MacBook pro 13”  A1706 Mid 2017 Touch Bar x ricamb",
       "last_seen": "2026-09-21 20:19:54"
+    },
+    "661602926": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M1 - 2020",
+      "last_seen": "2026-09-21 20:35:19"
     }
   },
   "seen_ids": [
@@ -8581,6 +8587,7 @@
     "661598835",
     "661600085",
     "661600686",
-    "661601897"
+    "661601897",
+    "661602926"
   ]
 }
