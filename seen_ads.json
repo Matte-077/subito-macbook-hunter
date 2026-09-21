@@ -6533,7 +6533,7 @@
       "last_seen": "2026-09-20 16:00:14"
     },
     "661448440": {
-      "last_price": 615.0,
+      "last_price": 650.0,
       "notified": false,
       "title": "Macbook Air M2",
       "last_seen": "2026-09-20 16:14:32"
@@ -7041,6 +7041,12 @@
       "notified": false,
       "title": "Macbook Pro 2019 - I9, 32gb Ram, SSD 1TB",
       "last_seen": "2026-09-21 19:19:47"
+    },
+    "661595486": {
+      "last_price": 380.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" (2019) - i5 2.4 GHz - SSD256",
+      "last_seen": "2026-09-21 19:35:16"
     }
   },
   "seen_ids": [
@@ -8532,6 +8538,7 @@
     "661590507",
     "661590663",
     "661593712",
-    "661594652"
+    "661594652",
+    "661595486"
   ]
 }
