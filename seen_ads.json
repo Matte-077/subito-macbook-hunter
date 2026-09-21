@@ -6751,6 +6751,18 @@
       "notified": false,
       "title": "MacBook Pro 16\" i9 (2019) Top - 32GB RAM / 2TB SSD",
       "last_seen": "2026-09-21 08:45:42"
+    },
+    "661503329": {
+      "last_price": 1950.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M1 Max - 64GB RAM, 1TB SSD",
+      "last_seen": "2026-09-21 09:12:23"
+    },
+    "661508042": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "MacBook Pro 13 “ retina SSD 500 / Ram 8 Batt. Nuov",
+      "last_seen": "2026-09-21 09:12:12"
     }
   },
   "seen_ids": [
@@ -8196,6 +8208,8 @@
     "661497118",
     "661501613",
     "661502181",
-    "661505730"
+    "661503329",
+    "661505730",
+    "661508042"
   ]
 }
