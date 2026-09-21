@@ -783,8 +783,10 @@
       "last_seen": "2026-08-09 17:14:28"
     },
     "656836077": {
-      "last_price": null,
-      "notified": false
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro (13inc 2016, Four Thunderbolt, 3 Ports",
+      "last_seen": "2026-09-21 10:57:09"
     },
     "656910452": {
       "last_price": 1200.0,
@@ -6793,6 +6795,18 @@
       "notified": false,
       "title": "APPLE MacBook Pro 15 2018 i7 16GB 1TB Radeon 560X",
       "last_seen": "2026-09-21 10:42:26"
+    },
+    "661522512": {
+      "last_price": 540.0,
+      "notified": false,
+      "title": "IPHONE 14 PRO 256 GB BIANCO batteria 100%",
+      "last_seen": "2026-09-21 11:02:55"
+    },
+    "661522186": {
+      "last_price": 3000.0,
+      "notified": false,
+      "title": "MacBook M4 Max 36GB",
+      "last_seen": "2026-09-21 11:02:34"
     }
   },
   "seen_ids": [
@@ -8245,6 +8259,8 @@
     "661515134",
     "661515702",
     "661519414",
-    "661519509"
+    "661519509",
+    "661522186",
+    "661522512"
   ]
 }
