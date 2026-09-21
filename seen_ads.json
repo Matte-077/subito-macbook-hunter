@@ -6807,6 +6807,30 @@
       "notified": false,
       "title": "MacBook M4 Max 36GB",
       "last_seen": "2026-09-21 11:02:34"
+    },
+    "661525796": {
+      "last_price": 2050.0,
+      "notified": false,
+      "title": "MacBook Pro M5 Pro 14” 24GB RAM – 2TB SSD",
+      "last_seen": "2026-09-21 11:22:48"
+    },
+    "661526108": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "Macbook pro 16’ 2019 i9 32GB RAM 500 GB HD",
+      "last_seen": "2026-09-21 11:23:03"
+    },
+    "661527245": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "MACBOOK PRO  MODEL A2442",
+      "last_seen": "2026-09-21 11:24:04"
+    },
+    "661524567": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "Macbook Pro A2289 Anno 2020 molto bello",
+      "last_seen": "2026-09-21 11:21:44"
     }
   },
   "seen_ids": [
@@ -8261,6 +8285,10 @@
     "661519414",
     "661519509",
     "661522186",
-    "661522512"
+    "661522512",
+    "661524567",
+    "661525796",
+    "661526108",
+    "661527245"
   ]
 }
