@@ -6733,6 +6733,18 @@
       "notified": false,
       "title": "Macbook pro",
       "last_seen": "2026-09-21 01:52:10"
+    },
+    "661502181": {
+      "last_price": 2999.0,
+      "notified": false,
+      "title": "MACBOOK m5 pro, 16”, 48gb RAM, 1tb",
+      "last_seen": "2026-09-21 08:04:44"
+    },
+    "661501613": {
+      "last_price": 2999.0,
+      "notified": false,
+      "title": "Macbook pro chip M5, 16” pollici, 48gb RAM, 1tb",
+      "last_seen": "2026-09-21 07:58:05"
     }
   },
   "seen_ids": [
@@ -8175,6 +8187,8 @@
     "661495463",
     "661495711",
     "661495751",
-    "661497118"
+    "661497118",
+    "661501613",
+    "661502181"
   ]
 }
