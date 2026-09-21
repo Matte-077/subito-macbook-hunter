@@ -11,10 +11,10 @@
       "notified": false
     },
     "530400278": {
-      "last_price": 599.0,
+      "last_price": 499.0,
       "notified": false,
-      "title": "Macbook Pro M1 13.3 256Gb Touchbar",
-      "last_seen": "2026-09-12 10:44:46"
+      "title": "Macbook Pro i5 13.3 256Gb Touchbar",
+      "last_seen": "2026-09-19 18:13:48"
     },
     "554817536": {
       "last_price": null,
@@ -6775,6 +6775,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 2015 i5 GB BATERÍA RAM 8 GB",
       "last_seen": "2026-09-21 10:00:29"
+    },
+    "661515702": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2019 64GB RAM  batt nuova 60 cicli",
+      "last_seen": "2026-09-21 10:13:20"
     }
   },
   "seen_ids": [
@@ -8224,6 +8230,7 @@
     "661505730",
     "661508042",
     "661512473",
-    "661515134"
+    "661515134",
+    "661515702"
   ]
 }
