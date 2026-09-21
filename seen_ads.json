@@ -315,8 +315,10 @@
       "last_seen": "2026-09-19 19:25:46"
     },
     "648669054": {
-      "last_price": null,
-      "notified": false
+      "last_price": 2150.0,
+      "notified": false,
+      "title": "Mac Book Pro 16\" M2 max, 64GB RAM 1T ssd, 2023",
+      "last_seen": "2026-05-27 19:37:21"
     },
     "648872223": {
       "last_price": null,
@@ -6861,6 +6863,12 @@
       "notified": false,
       "title": "Macbook Pro 15” 2015 - 16gb - ricambi",
       "last_seen": "2026-09-21 12:48:40"
+    },
+    "661547237": {
+      "last_price": 1300.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16” M1 Pro | 32GB RAM 512GB SSD",
+      "last_seen": "2026-09-21 13:54:25"
     }
   },
   "seen_ids": [
@@ -8324,6 +8332,7 @@
     "661531390",
     "661533564",
     "661538238",
-    "661538738"
+    "661538738",
+    "661547237"
   ]
 }
