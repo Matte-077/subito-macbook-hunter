@@ -6843,6 +6843,12 @@
       "notified": false,
       "title": "MacBook Pro 16\" A2141 (late 2019) 16 GB - 1TB",
       "last_seen": "2026-09-21 11:57:32"
+    },
+    "661533564": {
+      "last_price": 2135.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3Max/48gb/1Tb Garanzia 1 anno",
+      "last_seen": "2026-09-21 12:14:47"
     }
   },
   "seen_ids": [
@@ -8303,6 +8309,7 @@
     "661526108",
     "661527245",
     "661529454",
-    "661531390"
+    "661531390",
+    "661533564"
   ]
 }
