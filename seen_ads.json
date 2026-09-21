@@ -6781,6 +6781,18 @@
       "notified": false,
       "title": "MacBook Pro 16 2019 64GB RAM  batt nuova 60 cicli",
       "last_seen": "2026-09-21 10:13:20"
+    },
+    "661519509": {
+      "last_price": 469.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 2019 i7 16GB 512GB SSD Radeon",
+      "last_seen": "2026-09-21 10:42:32"
+    },
+    "661519414": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "APPLE MacBook Pro 15 2018 i7 16GB 1TB Radeon 560X",
+      "last_seen": "2026-09-21 10:42:26"
     }
   },
   "seen_ids": [
@@ -8231,6 +8243,8 @@
     "661508042",
     "661512473",
     "661515134",
-    "661515702"
+    "661515702",
+    "661519414",
+    "661519509"
   ]
 }
