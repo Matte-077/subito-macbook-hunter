@@ -7143,6 +7143,30 @@
       "notified": false,
       "title": "Macbook pro 2016 15” doppia scheda grafica radeon",
       "last_seen": "2026-09-21 21:35:37"
+    },
+    "661619279": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "Macbook pro 2018 - i5 - 16gb ram - 256gb ssd",
+      "last_seen": "2026-09-21 22:52:11"
+    },
+    "661619172": {
+      "last_price": 320.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" 2018",
+      "last_seen": "2026-09-21 22:52:06"
+    },
+    "661620188": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13,3\" 2015 i5 8 GB RAM 256GB SSD",
+      "last_seen": "2026-09-21 23:06:05"
+    },
+    "661619984": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "Apple Macbook Pro 13,3\" 2015 i5 8gb RAM 256GB ssd",
+      "last_seen": "2026-09-21 23:05:54"
     }
   },
   "seen_ids": [
@@ -8651,6 +8675,10 @@
     "661611856",
     "661613519",
     "661613594",
-    "661615267"
+    "661615267",
+    "661619172",
+    "661619279",
+    "661619984",
+    "661620188"
   ]
 }
