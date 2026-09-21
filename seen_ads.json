@@ -4151,10 +4151,10 @@
       "notified": false
     },
     "660749346": {
-      "last_price": 1190.0,
+      "last_price": 1100.0,
       "notified": false,
       "title": "MacBook Pro 14” M3 1TB SSD 8GB",
-      "last_seen": "2026-09-14 23:00:22"
+      "last_seen": "2026-09-20 19:24:07"
     },
     "660749375": {
       "last_price": null,
@@ -6869,6 +6869,24 @@
       "notified": false,
       "title": "Apple MacBook Pro 16” M1 Pro | 32GB RAM 512GB SSD",
       "last_seen": "2026-09-21 13:54:25"
+    },
+    "661551041": {
+      "last_price": 5.0,
+      "notified": false,
+      "title": "Cover Tastiera Apple Macbook Pro 14'' da M1 a M5",
+      "last_seen": "2026-09-21 14:26:44"
+    },
+    "661550946": {
+      "last_price": 25.0,
+      "notified": false,
+      "title": "Casse Originali Apple Macbook Pro",
+      "last_seen": "2026-09-21 14:12:19"
+    },
+    "661550305": {
+      "last_price": 379.0,
+      "notified": false,
+      "title": "HP Ryzen 5 16GB RAM 512GB SSD – Batteria 100%",
+      "last_seen": "2026-09-21 14:26:21"
     }
   },
   "seen_ids": [
@@ -8333,6 +8351,9 @@
     "661533564",
     "661538238",
     "661538738",
-    "661547237"
+    "661547237",
+    "661550305",
+    "661550946",
+    "661551041"
   ]
 }
