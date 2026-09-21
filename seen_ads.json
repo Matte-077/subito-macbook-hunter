@@ -6893,6 +6893,30 @@
       "notified": false,
       "title": "MacBook pro 16 M1 Max 32 gb Ram 1Tb SSD",
       "last_seen": "2026-09-21 14:59:57"
+    },
+    "661561790": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "Macbook pro m5 14’’",
+      "last_seen": "2026-09-21 15:33:45"
+    },
+    "661560929": {
+      "last_price": 949.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" 16GB/1TB i9 -GARANZIA PER 12 MESI",
+      "last_seen": "2026-09-21 15:32:54"
+    },
+    "661560333": {
+      "last_price": 949.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" 16GB/1TB i9 -GARANZIA PER 12 MESI",
+      "last_seen": "2026-09-21 15:32:12"
+    },
+    "661560528": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro M1 - 16 GB - 1Tb Hd",
+      "last_seen": "2026-09-21 15:32:22"
     }
   },
   "seen_ids": [
@@ -8361,6 +8385,10 @@
     "661550305",
     "661550946",
     "661551041",
-    "661555848"
+    "661555848",
+    "661560333",
+    "661560528",
+    "661560929",
+    "661561790"
   ]
 }
