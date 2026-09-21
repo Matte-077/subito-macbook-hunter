@@ -6837,6 +6837,12 @@
       "notified": false,
       "title": "MacBook Pro 15\" Touch Bar intel i7-1TB - 16Gb",
       "last_seen": "2026-09-21 11:41:11"
+    },
+    "661531390": {
+      "last_price": 680.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" A2141 (late 2019) 16 GB - 1TB",
+      "last_seen": "2026-09-21 11:57:32"
     }
   },
   "seen_ids": [
@@ -8296,6 +8302,7 @@
     "661525796",
     "661526108",
     "661527245",
-    "661529454"
+    "661529454",
+    "661531390"
   ]
 }
