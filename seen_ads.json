@@ -209,8 +209,10 @@
       "last_seen": "2026-04-15 10:32:54"
     },
     "643405659": {
-      "last_price": null,
-      "notified": false
+      "last_price": 2200.0,
+      "notified": false,
+      "title": "MacBook Pro 14 pollici M2 Max",
+      "last_seen": "2026-04-15 16:48:30"
     },
     "644036203": {
       "last_price": null,
@@ -7015,6 +7017,18 @@
       "notified": false,
       "title": "IPHONE 14 PRO MAX 512GB USATO Garanzia: 1 ANNO",
       "last_seen": "2026-09-21 18:47:58"
+    },
+    "661590663": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "IPHONE 14 128GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-09-21 19:03:00"
+    },
+    "661590507": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "IPHONE 14 256GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-09-21 19:02:51"
     }
   },
   "seen_ids": [
@@ -8502,6 +8516,8 @@
     "661585915",
     "661586153",
     "661589698",
-    "661590379"
+    "661590379",
+    "661590507",
+    "661590663"
   ]
 }
