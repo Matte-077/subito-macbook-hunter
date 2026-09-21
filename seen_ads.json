@@ -2997,10 +2997,10 @@
       "notified": false
     },
     "660298699": {
-      "last_price": 900.0,
+      "last_price": 850.0,
       "notified": false,
       "title": "Macbook Pro 14\" M1 Pro 16GB MU 1TB SSD+caricatore",
-      "last_seen": "2026-09-11 09:31:37"
+      "last_seen": "2026-09-21 18:12:11"
     },
     "660300326": {
       "last_price": null,
@@ -6985,6 +6985,12 @@
       "notified": false,
       "title": "MacBook Pro 13” 2020 i5 8GB SSD 512GB",
       "last_seen": "2026-09-21 17:58:31"
+    },
+    "661584686": {
+      "last_price": 31.0,
+      "notified": false,
+      "title": "Nexode 100W Caricatore USB C Caricabatterie Ricari",
+      "last_seen": "2026-09-21 18:13:51"
     }
   },
   "seen_ids": [
@@ -8467,6 +8473,7 @@
     "661572366",
     "661573153",
     "661578252",
-    "661582259"
+    "661582259",
+    "661584686"
   ]
 }
