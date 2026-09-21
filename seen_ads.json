@@ -7179,6 +7179,12 @@
       "notified": false,
       "title": "MacBook Pro mid 2014",
       "last_seen": "2026-09-21 23:46:43"
+    },
+    "661624847": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M3 Pro – 18GB RAM – 1TB SSD",
+      "last_seen": "2026-09-22 00:53:40"
     }
   },
   "seen_ids": [
@@ -8693,6 +8699,7 @@
     "661619984",
     "661620188",
     "661622461",
-    "661622839"
+    "661622839",
+    "661624847"
   ]
 }
