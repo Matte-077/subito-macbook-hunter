@@ -6849,6 +6849,18 @@
       "notified": false,
       "title": "MacBook Pro 16 M3Max/48gb/1Tb Garanzia 1 anno",
       "last_seen": "2026-09-21 12:14:47"
+    },
+    "661538238": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2019 intel core i7 16/512GB",
+      "last_seen": "2026-09-21 12:48:17"
+    },
+    "661538738": {
+      "last_price": 25.0,
+      "notified": false,
+      "title": "Macbook Pro 15” 2015 - 16gb - ricambi",
+      "last_seen": "2026-09-21 12:48:40"
     }
   },
   "seen_ids": [
@@ -8310,6 +8322,8 @@
     "661527245",
     "661529454",
     "661531390",
-    "661533564"
+    "661533564",
+    "661538238",
+    "661538738"
   ]
 }
