@@ -6621,7 +6621,7 @@
       "last_seen": "2026-09-20 18:41:10"
     },
     "661468530": {
-      "last_price": 1300.0,
+      "last_price": 1250.0,
       "notified": false,
       "title": "Macbook m2 pro 14'' 16GB ram 512GB ssd",
       "last_seen": "2026-09-20 18:55:36"
@@ -6763,6 +6763,18 @@
       "notified": false,
       "title": "MacBook Pro 13 “ retina SSD 500 / Ram 8 Batt. Nuov",
       "last_seen": "2026-09-21 09:12:12"
+    },
+    "661512473": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" (2012) - Grado A",
+      "last_seen": "2026-09-21 09:46:30"
+    },
+    "661515134": {
+      "last_price": 115.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 2015 i5 GB BATERÍA RAM 8 GB",
+      "last_seen": "2026-09-21 10:00:29"
     }
   },
   "seen_ids": [
@@ -8210,6 +8222,8 @@
     "661502181",
     "661503329",
     "661505730",
-    "661508042"
+    "661508042",
+    "661512473",
+    "661515134"
   ]
 }
