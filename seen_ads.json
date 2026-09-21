@@ -609,8 +609,10 @@
       "last_seen": "2026-09-18 17:34:31"
     },
     "654969246": {
-      "last_price": null,
-      "notified": false
+      "last_price": 1778.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14” M5 1TB (16 gb) - nuovo",
+      "last_seen": "2026-09-21 16:03:35"
     },
     "654971331": {
       "last_price": 2200.0,
@@ -6917,6 +6919,18 @@
       "notified": false,
       "title": "Macbook Pro M1 - 16 GB - 1Tb Hd",
       "last_seen": "2026-09-21 15:32:22"
+    },
+    "661564977": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "Macbook Pro 14 2021 -M1",
+      "last_seen": "2026-09-21 16:04:18"
+    },
+    "661565392": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15” retina HDD 250 / Ram 16 Mid 2014",
+      "last_seen": "2026-09-21 16:04:40"
     }
   },
   "seen_ids": [
@@ -8389,6 +8403,8 @@
     "661560333",
     "661560528",
     "661560929",
-    "661561790"
+    "661561790",
+    "661564977",
+    "661565392"
   ]
 }
