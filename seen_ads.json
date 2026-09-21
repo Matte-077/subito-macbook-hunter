@@ -6973,6 +6973,18 @@
       "notified": false,
       "title": "IPHONE 16 Pro 128gb Usato Garanzia: 1 anno",
       "last_seen": "2026-09-21 17:28:00"
+    },
+    "661582259": {
+      "last_price": 38.0,
+      "notified": false,
+      "title": "UGREEN Nexode Pro 100W Caricatore USB C Ricarica R",
+      "last_seen": "2026-09-21 17:58:32"
+    },
+    "661573153": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2020 i5 8GB SSD 512GB",
+      "last_seen": "2026-09-21 17:58:31"
     }
   },
   "seen_ids": [
@@ -8453,6 +8465,8 @@
     "661569276",
     "661571262",
     "661572366",
-    "661578252"
+    "661573153",
+    "661578252",
+    "661582259"
   ]
 }
