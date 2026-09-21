@@ -6991,6 +6991,18 @@
       "notified": false,
       "title": "Nexode 100W Caricatore USB C Caricabatterie Ricari",
       "last_seen": "2026-09-21 18:13:51"
+    },
+    "661585915": {
+      "last_price": 46.0,
+      "notified": false,
+      "title": "Nexode 145W Power Bank 25000mAh Caricatore Portati",
+      "last_seen": "2026-09-21 18:29:50"
+    },
+    "661586153": {
+      "last_price": 190.0,
+      "notified": false,
+      "title": "Modello: MacBook Pro 13\"",
+      "last_seen": "2026-09-21 18:30:05"
     }
   },
   "seen_ids": [
@@ -8474,6 +8486,8 @@
     "661573153",
     "661578252",
     "661582259",
-    "661584686"
+    "661584686",
+    "661585915",
+    "661586153"
   ]
 }
