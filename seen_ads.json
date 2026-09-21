@@ -6887,6 +6887,12 @@
       "notified": false,
       "title": "HP Ryzen 5 16GB RAM 512GB SSD – Batteria 100%",
       "last_seen": "2026-09-21 14:26:21"
+    },
+    "661555848": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "MacBook pro 16 M1 Max 32 gb Ram 1Tb SSD",
+      "last_seen": "2026-09-21 14:59:57"
     }
   },
   "seen_ids": [
@@ -8354,6 +8360,7 @@
     "661547237",
     "661550305",
     "661550946",
-    "661551041"
+    "661551041",
+    "661555848"
   ]
 }
