@@ -767,10 +767,10 @@
       "last_seen": "2026-08-06 23:51:08"
     },
     "656803226": {
-      "last_price": 899.0,
+      "last_price": 800.0,
       "notified": false,
       "title": "MacBook Pro M1 Pro 1TB",
-      "last_seen": "2026-09-18 15:07:45"
+      "last_seen": "2026-09-20 15:14:41"
     },
     "656822463": {
       "last_price": null,
@@ -6831,6 +6831,12 @@
       "notified": false,
       "title": "Macbook Pro A2289 Anno 2020 molto bello",
       "last_seen": "2026-09-21 11:21:44"
+    },
+    "661529454": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Touch Bar intel i7-1TB - 16Gb",
+      "last_seen": "2026-09-21 11:41:11"
     }
   },
   "seen_ids": [
@@ -8289,6 +8295,7 @@
     "661524567",
     "661525796",
     "661526108",
-    "661527245"
+    "661527245",
+    "661529454"
   ]
 }
