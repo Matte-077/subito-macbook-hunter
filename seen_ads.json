@@ -7131,6 +7131,18 @@
       "notified": false,
       "title": "Macbook pro  13'' con cpu M1",
       "last_seen": "2026-09-21 22:06:50"
+    },
+    "661615267": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook pro 16 “",
+      "last_seen": "2026-09-21 22:22:12"
+    },
+    "661609212": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Macbook pro 2016 15” doppia scheda grafica radeon",
+      "last_seen": "2026-09-21 21:35:37"
     }
   },
   "seen_ids": [
@@ -8635,8 +8647,10 @@
     "661606512",
     "661607894",
     "661608280",
+    "661609212",
     "661611856",
     "661613519",
-    "661613594"
+    "661613594",
+    "661615267"
   ]
 }
