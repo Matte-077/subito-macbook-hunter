@@ -7167,6 +7167,18 @@
       "notified": false,
       "title": "Apple Macbook Pro 13,3\" 2015 i5 8gb RAM 256GB ssd",
       "last_seen": "2026-09-21 23:05:54"
+    },
+    "661622839": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "Macbook pro chip m5",
+      "last_seen": "2026-09-21 23:47:01"
+    },
+    "661622461": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "MacBook Pro mid 2014",
+      "last_seen": "2026-09-21 23:46:43"
     }
   },
   "seen_ids": [
@@ -8679,6 +8691,8 @@
     "661619172",
     "661619279",
     "661619984",
-    "661620188"
+    "661620188",
+    "661622461",
+    "661622839"
   ]
 }
