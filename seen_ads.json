@@ -6967,6 +6967,12 @@
       "notified": false,
       "title": "MacBook pro 16 M1 MAX 32 Ram 1 Tb SSD",
       "last_seen": "2026-09-21 16:54:08"
+    },
+    "661578252": {
+      "last_price": 689.0,
+      "notified": false,
+      "title": "IPHONE 16 Pro 128gb Usato Garanzia: 1 anno",
+      "last_seen": "2026-09-21 17:28:00"
     }
   },
   "seen_ids": [
@@ -8446,6 +8452,7 @@
     "661567086",
     "661569276",
     "661571262",
-    "661572366"
+    "661572366",
+    "661578252"
   ]
 }
