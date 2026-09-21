@@ -241,8 +241,10 @@
       "last_seen": "2026-04-29 23:39:19"
     },
     "645320185": {
-      "last_price": null,
-      "notified": false
+      "last_price": 45.0,
+      "notified": false,
+      "title": "Apple cavo da USB‑C a MagSafe 3 - Grigio siderale",
+      "last_seen": "2026-04-30 17:19:15"
     },
     "645391017": {
       "last_price": null,
@@ -275,8 +277,10 @@
       "last_seen": "2026-05-12 21:27:27"
     },
     "646920090": {
-      "last_price": null,
-      "notified": false
+      "last_price": 2300.0,
+      "notified": false,
+      "title": "Macbook pro 16 M2 1TB",
+      "last_seen": "2026-05-13 13:37:13"
     },
     "647281107": {
       "last_price": null,
@@ -3141,10 +3145,10 @@
       "notified": false
     },
     "660353767": {
-      "last_price": 800.0,
+      "last_price": 770.0,
       "notified": false,
       "title": "iPad Air 11' M4 128 GB Wi‑Fi + Apple Pencil Pro",
-      "last_seen": "2026-09-19 09:33:48"
+      "last_seen": "2026-09-21 10:59:15"
     },
     "660354269": {
       "last_price": null,
@@ -6937,6 +6941,18 @@
       "notified": false,
       "title": "MacBook pro 2015",
       "last_seen": "2026-09-21 16:20:37"
+    },
+    "661571262": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Zaino TUCANO Binario Gravity (15,6” / 16”), nero",
+      "last_seen": "2026-09-21 16:39:00"
+    },
+    "661569276": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Neo in garanzia",
+      "last_seen": "2026-09-21 16:37:20"
     }
   },
   "seen_ids": [
@@ -8412,6 +8428,8 @@
     "661561790",
     "661564977",
     "661565392",
-    "661567086"
+    "661567086",
+    "661569276",
+    "661571262"
   ]
 }
