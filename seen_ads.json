@@ -6931,6 +6931,12 @@
       "notified": false,
       "title": "MacBook Pro 15” retina HDD 250 / Ram 16 Mid 2014",
       "last_seen": "2026-09-21 16:04:40"
+    },
+    "661567086": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook pro 2015",
+      "last_seen": "2026-09-21 16:20:37"
     }
   },
   "seen_ids": [
@@ -8405,6 +8411,7 @@
     "661560929",
     "661561790",
     "661564977",
-    "661565392"
+    "661565392",
+    "661567086"
   ]
 }
