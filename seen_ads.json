@@ -2701,8 +2701,10 @@
       "notified": false
     },
     "660193560": {
-      "last_price": null,
-      "notified": false
+      "last_price": 850.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Pro 16GB Argento",
+      "last_seen": "2026-09-21 16:53:00"
     },
     "660193740": {
       "last_price": null,
