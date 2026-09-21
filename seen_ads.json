@@ -7107,6 +7107,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 Zoll (2017) – 8 GB, 256 GB",
       "last_seen": "2026-09-21 21:20:34"
+    },
+    "661606512": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "IPhone 16 Black 128 GB",
+      "last_seen": "2026-09-21 21:05:42"
     }
   },
   "seen_ids": [
@@ -8608,6 +8614,7 @@
     "661601897",
     "661602926",
     "661606225",
+    "661606512",
     "661607894",
     "661608280"
   ]
