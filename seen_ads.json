@@ -7089,6 +7089,12 @@
       "notified": false,
       "title": "Apple MacBook Pro M1 - 2020",
       "last_seen": "2026-09-21 20:35:19"
+    },
+    "661606225": {
+      "last_price": 2400.0,
+      "notified": false,
+      "title": "Dell 16 Premium Ultra 9 285H 32GB 1TB gtx 5070",
+      "last_seen": "2026-09-21 21:05:27"
     }
   },
   "seen_ids": [
@@ -8588,6 +8594,7 @@
     "661600085",
     "661600686",
     "661601897",
-    "661602926"
+    "661602926",
+    "661606225"
   ]
 }
