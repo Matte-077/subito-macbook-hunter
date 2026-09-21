@@ -7029,6 +7029,18 @@
       "notified": false,
       "title": "IPHONE 14 256GB USATO Garanzia: 1 ANNO",
       "last_seen": "2026-09-21 19:02:51"
+    },
+    "661594652": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "ACQUISTIAMO E PERMUTIAMO MACBOOK, SURFACE",
+      "last_seen": "2026-09-21 19:20:35"
+    },
+    "661593712": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook Pro 2019 - I9, 32gb Ram, SSD 1TB",
+      "last_seen": "2026-09-21 19:19:47"
     }
   },
   "seen_ids": [
@@ -8518,6 +8530,8 @@
     "661589698",
     "661590379",
     "661590507",
-    "661590663"
+    "661590663",
+    "661593712",
+    "661594652"
   ]
 }
