@@ -7003,6 +7003,18 @@
       "notified": false,
       "title": "Modello: MacBook Pro 13\"",
       "last_seen": "2026-09-21 18:30:05"
+    },
+    "661590379": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "IPHONE 14 256GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-09-21 18:48:34"
+    },
+    "661589698": {
+      "last_price": 649.0,
+      "notified": false,
+      "title": "IPHONE 14 PRO MAX 512GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-09-21 18:47:58"
     }
   },
   "seen_ids": [
@@ -8488,6 +8500,8 @@
     "661582259",
     "661584686",
     "661585915",
-    "661586153"
+    "661586153",
+    "661589698",
+    "661590379"
   ]
 }
