@@ -7113,6 +7113,24 @@
       "notified": false,
       "title": "IPhone 16 Black 128 GB",
       "last_seen": "2026-09-21 21:05:42"
+    },
+    "661613519": {
+      "last_price": 2300.0,
+      "notified": false,
+      "title": "MacBook Pro M5 Pro",
+      "last_seen": "2026-09-21 22:06:45"
+    },
+    "661611856": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Macbook Pro 15-inch (2016)",
+      "last_seen": "2026-09-21 21:51:28"
+    },
+    "661613594": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "Macbook pro  13'' con cpu M1",
+      "last_seen": "2026-09-21 22:06:50"
     }
   },
   "seen_ids": [
@@ -8616,6 +8634,9 @@
     "661606225",
     "661606512",
     "661607894",
-    "661608280"
+    "661608280",
+    "661611856",
+    "661613519",
+    "661613594"
   ]
 }
