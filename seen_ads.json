@@ -7095,6 +7095,18 @@
       "notified": false,
       "title": "Dell 16 Premium Ultra 9 285H 32GB 1TB gtx 5070",
       "last_seen": "2026-09-21 21:05:27"
+    },
+    "661608280": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 16” TouchBar 512GB Grigio Siderale",
+      "last_seen": "2026-09-21 21:20:56"
+    },
+    "661607894": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 Zoll (2017) – 8 GB, 256 GB",
+      "last_seen": "2026-09-21 21:20:34"
     }
   },
   "seen_ids": [
@@ -8595,6 +8607,8 @@
     "661600686",
     "661601897",
     "661602926",
-    "661606225"
+    "661606225",
+    "661607894",
+    "661608280"
   ]
 }
