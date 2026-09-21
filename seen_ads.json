@@ -6377,9 +6377,9 @@
       "last_seen": "2026-09-20 11:48:32"
     },
     "661417921": {
-      "last_price": 800.0,
+      "last_price": 780.0,
       "notified": false,
-      "title": "MacBook Pro 13\" M2 - 8GB / 256GB SSD",
+      "title": "Macbook Pro 13 M2 8GB 256GB TouchBar Batteria 93%",
       "last_seen": "2026-09-20 12:04:47"
     },
     "661418064": {
@@ -7053,6 +7053,18 @@
       "notified": false,
       "title": "MacBook Pro 16\" M3 Max",
       "last_seen": "2026-09-21 19:50:11"
+    },
+    "661598835": {
+      "last_price": 2399.0,
+      "notified": false,
+      "title": "Macbook M5 Pro 14” chip Pro nero",
+      "last_seen": "2026-09-21 20:05:26"
+    },
+    "661597845": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "IPAD MINI 7 - PENCIL PRO - SMART FOLIO",
+      "last_seen": "2026-09-21 19:50:58"
     }
   },
   "seen_ids": [
@@ -8546,6 +8558,8 @@
     "661593712",
     "661594652",
     "661595486",
-    "661596993"
+    "661596993",
+    "661597845",
+    "661598835"
   ]
 }
