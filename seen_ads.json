@@ -7729,6 +7729,12 @@
       "notified": false,
       "title": "Iphone 17 Prosx 256 gb colore blue",
       "last_seen": "2026-09-22 22:43:47"
+    },
+    "661764934": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M1 Pro",
+      "last_seen": "2026-09-22 23:24:48"
     }
   },
   "seen_ids": [
@@ -9334,6 +9340,7 @@
     "661756140",
     "661760483",
     "661761625",
-    "661762289"
+    "661762289",
+    "661764934"
   ]
 }
