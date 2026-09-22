@@ -5247,7 +5247,7 @@
       "last_seen": "2026-09-18 15:39:02"
     },
     "661091918": {
-      "last_price": 1900.0,
+      "last_price": 1850.0,
       "notified": false,
       "title": "Workstation DDR5 - RTX 5070 | i7 14700F",
       "last_seen": "2026-09-17 15:36:19"
@@ -7553,6 +7553,24 @@
       "notified": false,
       "title": "Macbook pro 19” intel i9 1Tb Ssd 16gb ram",
       "last_seen": "2026-09-22 17:05:33"
+    },
+    "661718103": {
+      "last_price": 1249.0,
+      "notified": false,
+      "title": "MacBook Pro 14”M3 16gb/512gb 2023",
+      "last_seen": "2026-09-22 17:20:30"
+    },
+    "661720725": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "IPHONE 16 PRO MAX 256GB titanio sabbia",
+      "last_seen": "2026-09-22 17:20:27"
+    },
+    "661722314": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "Macbook pro 2023 M1 8gb ssd 256 display retina",
+      "last_seen": "2026-09-22 17:21:33"
     }
   },
   "seen_ids": [
@@ -9127,8 +9145,11 @@
     "661713718",
     "661714370",
     "661717290",
+    "661718103",
     "661718761",
     "661720356",
-    "661720505"
+    "661720505",
+    "661720725",
+    "661722314"
   ]
 }
