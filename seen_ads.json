@@ -7717,6 +7717,18 @@
       "notified": false,
       "title": "MacBook Pro 13\" 2017 – 128 GB - 8 GB di RAM",
       "last_seen": "2026-09-22 22:28:55"
+    },
+    "661761625": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M5 Pro (24 gb ram/1 TB SSD)",
+      "last_seen": "2026-09-22 22:42:59"
+    },
+    "661762289": {
+      "last_price": 980.0,
+      "notified": false,
+      "title": "Iphone 17 Prosx 256 gb colore blue",
+      "last_seen": "2026-09-22 22:43:47"
     }
   },
   "seen_ids": [
@@ -9320,6 +9332,8 @@
     "661749061",
     "661754782",
     "661756140",
-    "661760483"
+    "661760483",
+    "661761625",
+    "661762289"
   ]
 }
