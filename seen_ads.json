@@ -7499,6 +7499,24 @@
       "notified": false,
       "title": "MacBook Pro 13” M2 2022 8GB/256GB Touchbar",
       "last_seen": "2026-09-22 15:42:22"
+    },
+    "661713490": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro M1",
+      "last_seen": "2026-09-22 16:15:21"
+    },
+    "661712261": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2015 – difetto al display",
+      "last_seen": "2026-09-22 16:14:22"
+    },
+    "661711823": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "MacBook Pro 2015",
+      "last_seen": "2026-09-22 16:13:57"
     }
   },
   "seen_ids": [
@@ -9066,6 +9084,9 @@
     "661702113",
     "661702151",
     "661707904",
-    "661709047"
+    "661709047",
+    "661711823",
+    "661712261",
+    "661713490"
   ]
 }
