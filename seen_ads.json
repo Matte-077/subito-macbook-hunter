@@ -7523,6 +7523,18 @@
       "notified": false,
       "title": "MacBook Pro 13” 2019  – difetto al display",
       "last_seen": "2026-09-22 16:31:47"
+    },
+    "661717290": {
+      "last_price": 469.0,
+      "notified": false,
+      "title": "Google Pixel 10 pro 128gb nuovo garanzia google",
+      "last_seen": "2026-09-22 16:49:04"
+    },
+    "661714370": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 2020 – 8GB RAM – SSD 512GB",
+      "last_seen": "2026-09-22 16:48:12"
     }
   },
   "seen_ids": [
@@ -9094,6 +9106,8 @@
     "661711823",
     "661712261",
     "661713490",
-    "661713718"
+    "661713718",
+    "661714370",
+    "661717290"
   ]
 }
