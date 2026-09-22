@@ -7711,6 +7711,12 @@
       "notified": false,
       "title": "MacBook Pro 13” 2019 Touch Bar 256GB",
       "last_seen": "2026-09-22 21:44:51"
+    },
+    "661760483": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2017 – 128 GB - 8 GB di RAM",
+      "last_seen": "2026-09-22 22:28:55"
     }
   },
   "seen_ids": [
@@ -9313,6 +9319,7 @@
     "661746553",
     "661749061",
     "661754782",
-    "661756140"
+    "661756140",
+    "661760483"
   ]
 }
