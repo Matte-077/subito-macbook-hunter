@@ -7571,6 +7571,24 @@
       "notified": false,
       "title": "Macbook pro 2023 M1 8gb ssd 256 display retina",
       "last_seen": "2026-09-22 17:21:33"
+    },
+    "661727463": {
+      "last_price": 35.0,
+      "notified": false,
+      "title": "Zaino Tucano Nemo laptop e Macbook",
+      "last_seen": "2026-09-22 17:54:18"
+    },
+    "661716181": {
+      "last_price": 540.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" i9 - 16GB - 512GB - Vega 20  Batt.",
+      "last_seen": "2026-09-22 17:54:01"
+    },
+    "661725931": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "MacBook Pro 13” SSD 500 / Ram 8 Batt. Nuova",
+      "last_seen": "2026-09-22 17:53:09"
     }
   },
   "seen_ids": [
@@ -9144,12 +9162,15 @@
     "661713490",
     "661713718",
     "661714370",
+    "661716181",
     "661717290",
     "661718103",
     "661718761",
     "661720356",
     "661720505",
     "661720725",
-    "661722314"
+    "661722314",
+    "661725931",
+    "661727463"
   ]
 }
