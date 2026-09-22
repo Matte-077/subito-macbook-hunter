@@ -7639,6 +7639,12 @@
       "notified": false,
       "title": "MacBook Pro 13” M1 (2020) – 8 GB RAM",
       "last_seen": "2026-09-22 19:29:41"
+    },
+    "661742217": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w x MacBook pro 13/14",
+      "last_seen": "2026-09-22 19:43:31"
     }
   },
   "seen_ids": [
@@ -9229,6 +9235,7 @@
     "661735894",
     "661735934",
     "661740169",
-    "661741781"
+    "661741781",
+    "661742217"
   ]
 }
