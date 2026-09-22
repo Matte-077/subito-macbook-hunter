@@ -7285,7 +7285,7 @@
       "last_seen": "2026-09-22 11:11:38"
     },
     "657479363": {
-      "last_price": 220.0,
+      "last_price": 230.0,
       "notified": false,
       "title": "MacBook Pro 15” Touch Bar 2017",
       "last_seen": "2026-09-22 11:09:54"
@@ -7295,6 +7295,42 @@
       "notified": false,
       "title": "Apple MacBook Pro 13\" Retina 2016 | i5 | 8GB RAM |",
       "last_seen": "2026-09-22 11:12:15"
+    },
+    "661667829": {
+      "last_price": 2690.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3 Max  36GB RAM 1TB",
+      "last_seen": "2026-09-22 11:34:05"
+    },
+    "661664696": {
+      "last_price": 700.0,
+      "notified": true,
+      "title": "Macbook Pro M2 13” - 16 GB Ram / 512 GB SSD",
+      "last_seen": "2026-09-22 11:31:43"
+    },
+    "661662047": {
+      "last_price": 5.0,
+      "notified": false,
+      "title": "Protezione tastiera macbook pro 13",
+      "last_seen": "2026-09-22 11:29:46"
+    },
+    "661663652": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook pro M1",
+      "last_seen": "2026-09-22 11:30:56"
+    },
+    "661661786": {
+      "last_price": 6.0,
+      "notified": false,
+      "title": "Hard case macbook pro 13",
+      "last_seen": "2026-09-22 11:29:35"
+    },
+    "661666433": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "PORTATILE GAMING I9-14900HX RTX 4070 – 15,3” 240Hz",
+      "last_seen": "2026-09-22 11:33:05"
     }
   },
   "seen_ids": [
@@ -8828,6 +8864,12 @@
     "661658123",
     "661658962",
     "661659232",
-    "661659515"
+    "661659515",
+    "661661786",
+    "661662047",
+    "661663652",
+    "661664696",
+    "661666433",
+    "661667829"
   ]
 }
