@@ -5841,10 +5841,10 @@
       "last_seen": "2026-09-19 09:01:13"
     },
     "661279683": {
-      "last_price": 630.0,
+      "last_price": 599.0,
       "notified": false,
       "title": "MacBook Pro M1 - 8Gb 256",
-      "last_seen": "2026-09-19 09:01:20"
+      "last_seen": "2026-09-22 14:33:06"
     },
     "661281984": {
       "last_price": 1150.0,
@@ -7469,6 +7469,24 @@
       "notified": false,
       "title": "MacBook Pro M1",
       "last_seen": "2026-09-22 14:19:07"
+    },
+    "661700412": {
+      "last_price": 700.0,
+      "notified": true,
+      "title": "MacBook Pro M1 Pro 16\" 16Gb 512Gb",
+      "last_seen": "2026-09-22 14:36:04"
+    },
+    "661702151": {
+      "last_price": 360.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 2026 (8/512)",
+      "last_seen": "2026-09-22 14:52:08"
+    },
+    "661702113": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2020 intel core i5 512/16GB",
+      "last_seen": "2026-09-22 14:52:06"
     }
   },
   "seen_ids": [
@@ -9031,6 +9049,9 @@
     "661695307",
     "661695464",
     "661697330",
-    "661697727"
+    "661697727",
+    "661700412",
+    "661702113",
+    "661702151"
   ]
 }
