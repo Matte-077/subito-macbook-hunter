@@ -895,8 +895,10 @@
       "notified": false
     },
     "658038207": {
-      "last_price": null,
-      "notified": false
+      "last_price": 2700.0,
+      "notified": false,
+      "title": "Apple MacBook pro 14” -  M5 PRO -  24 ram 2TB SSD",
+      "last_seen": "2026-09-22 18:24:47"
     },
     "658054715": {
       "last_price": null,
@@ -5489,7 +5491,7 @@
       "notified": false
     },
     "661178925": {
-      "last_price": 89.0,
+      "last_price": 79.0,
       "notified": false,
       "title": "Magicmouse black usb-C NUOVO",
       "last_seen": "2026-09-18 11:31:39"
@@ -7589,6 +7591,18 @@
       "notified": false,
       "title": "MacBook Pro 13” SSD 500 / Ram 8 Batt. Nuova",
       "last_seen": "2026-09-22 17:53:09"
+    },
+    "661728667": {
+      "last_price": 38.0,
+      "notified": false,
+      "title": "UGREEN Nexode Pro 100W Caricatore USB C Ricarica R",
+      "last_seen": "2026-09-22 18:26:01"
+    },
+    "661717548": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "macbook pro m1",
+      "last_seen": "2026-09-22 18:11:12"
     }
   },
   "seen_ids": [
@@ -9164,6 +9178,7 @@
     "661714370",
     "661716181",
     "661717290",
+    "661717548",
     "661718103",
     "661718761",
     "661720356",
@@ -9171,6 +9186,7 @@
     "661720725",
     "661722314",
     "661725931",
-    "661727463"
+    "661727463",
+    "661728667"
   ]
 }
