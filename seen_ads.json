@@ -7397,6 +7397,30 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
       "last_seen": "2026-09-22 12:46:21"
+    },
+    "661669105": {
+      "last_price": 1350.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M3 Pro 18GB RAM / 512GB SSD",
+      "last_seen": "2026-09-22 13:06:10"
+    },
+    "661685815": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w con cavetto usb- c",
+      "last_seen": "2026-09-22 13:05:33"
+    },
+    "661686309": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "MacBook Pro M4 Pro 16” 24Gb SSD 512Gb",
+      "last_seen": "2026-09-22 13:06:03"
+    },
+    "661675479": {
+      "last_price": 75.0,
+      "notified": false,
+      "title": "Apple Macbook Air 2017 (A1466)",
+      "last_seen": "2026-09-22 12:11:23"
     }
   },
   "seen_ids": [
@@ -8938,6 +8962,8 @@
     "661664696",
     "661666433",
     "661667829",
+    "661669105",
+    "661675479",
     "661678918",
     "661679598",
     "661680175",
@@ -8947,6 +8973,8 @@
     "661682247",
     "661682331",
     "661682855",
-    "661683861"
+    "661683861",
+    "661685815",
+    "661686309"
   ]
 }
