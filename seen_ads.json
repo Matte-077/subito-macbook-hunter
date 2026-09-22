@@ -7535,6 +7535,24 @@
       "notified": false,
       "title": "MacBook Pro 13” M1 2020 – 8GB RAM – SSD 512GB",
       "last_seen": "2026-09-22 16:48:12"
+    },
+    "661720505": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "MacBook pro da 14 chip apple m3 pro 1 tb",
+      "last_seen": "2026-09-22 17:05:42"
+    },
+    "661718761": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16,1 2019.. i7 6 core..RAM 16..",
+      "last_seen": "2026-09-22 17:04:58"
+    },
+    "661720356": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook pro 19” intel i9 1Tb Ssd 16gb ram",
+      "last_seen": "2026-09-22 17:05:33"
     }
   },
   "seen_ids": [
@@ -9108,6 +9126,9 @@
     "661713490",
     "661713718",
     "661714370",
-    "661717290"
+    "661717290",
+    "661718761",
+    "661720356",
+    "661720505"
   ]
 }
