@@ -7693,6 +7693,12 @@
       "notified": false,
       "title": "PC Desktop Gaming MSI Trident AS RTX 3070 32gb ram",
       "last_seen": "2026-09-22 20:29:56"
+    },
+    "661754782": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Neo in garanzia",
+      "last_seen": "2026-09-22 21:29:59"
     }
   },
   "seen_ids": [
@@ -9292,6 +9298,7 @@
     "661746376",
     "661746462",
     "661746553",
-    "661749061"
+    "661749061",
+    "661754782"
   ]
 }
