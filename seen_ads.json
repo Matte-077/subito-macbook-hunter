@@ -571,7 +571,7 @@
       "last_seen": "2026-07-13 12:27:48"
     },
     "653935768": {
-      "last_price": 2200.0,
+      "last_price": 2600.0,
       "notified": false,
       "title": "MacBook Pro 16\" M3 Max (2023) – 48GB RAM / 1TB SSD",
       "last_seen": "2026-07-13 12:46:22"
@@ -7421,6 +7421,18 @@
       "notified": false,
       "title": "Apple Macbook Air 2017 (A1466)",
       "last_seen": "2026-09-22 12:11:23"
+    },
+    "661693520": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-09-22 13:46:12"
+    },
+    "661693826": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
+      "last_seen": "2026-09-22 13:46:32"
     }
   },
   "seen_ids": [
@@ -8975,6 +8987,8 @@
     "661682855",
     "661683861",
     "661685815",
-    "661686309"
+    "661686309",
+    "661693520",
+    "661693826"
   ]
 }
