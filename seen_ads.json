@@ -627,8 +627,10 @@
       "last_seen": "2026-07-22 15:25:46"
     },
     "655107811": {
-      "last_price": null,
-      "notified": false
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro Intel Dual Core Lotto di 12 pezzi",
+      "last_seen": "2026-09-22 11:10:22"
     },
     "655120251": {
       "last_price": null,
@@ -7263,6 +7265,36 @@
       "notified": false,
       "title": "Apple MacBook Pro 2017 i5 2.3GHz 8 GB RAM Computer",
       "last_seen": "2026-09-22 10:52:47"
+    },
+    "661659515": {
+      "last_price": 1990.0,
+      "notified": false,
+      "title": "MacBook PRO 14” M5 1Tb",
+      "last_seen": "2026-09-22 11:12:36"
+    },
+    "661659232": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 14” 18gb/512gb M3 PRO- usato garantito",
+      "last_seen": "2026-09-22 11:12:25"
+    },
+    "661658123": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Retina Touch Bar 2016 | i7 | 16GB",
+      "last_seen": "2026-09-22 11:11:38"
+    },
+    "657479363": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "MacBook Pro 15” Touch Bar 2017",
+      "last_seen": "2026-09-22 11:09:54"
+    },
+    "661658962": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" Retina 2016 | i5 | 8GB RAM |",
+      "last_seen": "2026-09-22 11:12:15"
     }
   },
   "seen_ids": [
@@ -7424,6 +7456,7 @@
     "657300543",
     "657324899",
     "657464521",
+    "657479363",
     "657550602",
     "657574896",
     "657664753",
@@ -8791,6 +8824,10 @@
     "661652063",
     "661652895",
     "661654725",
-    "661654921"
+    "661654921",
+    "661658123",
+    "661658962",
+    "661659232",
+    "661659515"
   ]
 }
