@@ -7185,6 +7185,24 @@
       "notified": false,
       "title": "MacBook Pro 14” M3 Pro – 18GB RAM – 1TB SSD",
       "last_seen": "2026-09-22 00:53:40"
+    },
+    "661642822": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" i9 16GB RAM/512GB SSD CON GARANZIA",
+      "last_seen": "2026-09-22 09:25:19"
+    },
+    "661642012": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14\" M3 PRO 18GB/512GB CON GARANZIA",
+      "last_seen": "2026-09-22 09:24:36"
+    },
+    "661643329": {
+      "last_price": 1949.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M5 32GB 1TB – Apple Care, 5 cicli",
+      "last_seen": "2026-09-22 09:25:51"
     }
   },
   "seen_ids": [
@@ -8700,6 +8718,9 @@
     "661620188",
     "661622461",
     "661622839",
-    "661624847"
+    "661624847",
+    "661642012",
+    "661642822",
+    "661643329"
   ]
 }
