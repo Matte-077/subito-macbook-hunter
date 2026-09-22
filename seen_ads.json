@@ -7373,6 +7373,30 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
       "last_seen": "2026-09-22 12:31:35"
+    },
+    "661682855": {
+      "last_price": 2190.0,
+      "notified": false,
+      "title": "MacBook Pro M5 Pro (CPU 15c, GPU 16c, 24GB RAM)",
+      "last_seen": "2026-09-22 12:46:53"
+    },
+    "661682331": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "MacBook Pro 15 Intel Core I7 16/512 Radeon Pro 4GB",
+      "last_seen": "2026-09-22 12:46:26"
+    },
+    "661683861": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Neo 13’’ (giallo) - Chip A18 pro- garanzia",
+      "last_seen": "2026-09-22 12:47:43"
+    },
+    "661682247": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-09-22 12:46:21"
     }
   },
   "seen_ids": [
@@ -8919,6 +8943,10 @@
     "661680175",
     "661681771",
     "661681891",
-    "661681963"
+    "661681963",
+    "661682247",
+    "661682331",
+    "661682855",
+    "661683861"
   ]
 }
