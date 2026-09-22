@@ -7517,6 +7517,12 @@
       "notified": false,
       "title": "MacBook Pro 2015",
       "last_seen": "2026-09-22 16:13:57"
+    },
+    "661713718": {
+      "last_price": 75.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2019  – difetto al display",
+      "last_seen": "2026-09-22 16:31:47"
     }
   },
   "seen_ids": [
@@ -9087,6 +9093,7 @@
     "661709047",
     "661711823",
     "661712261",
-    "661713490"
+    "661713490",
+    "661713718"
   ]
 }
