@@ -7173,7 +7173,7 @@
       "last_seen": "2026-09-21 23:05:54"
     },
     "661622839": {
-      "last_price": 1800.0,
+      "last_price": 1700.0,
       "notified": false,
       "title": "Macbook pro chip m5",
       "last_seen": "2026-09-21 23:47:01"
@@ -7627,6 +7627,18 @@
       "notified": false,
       "title": "Macbook pro M1 2023",
       "last_seen": "2026-09-22 18:57:18"
+    },
+    "661740169": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" 2015 Intel Core i7 quad-core a 2,8",
+      "last_seen": "2026-09-22 19:28:18"
+    },
+    "661741781": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 (2020) – 8 GB RAM",
+      "last_seen": "2026-09-22 19:29:41"
     }
   },
   "seen_ids": [
@@ -9215,6 +9227,8 @@
     "661733393",
     "661734019",
     "661735894",
-    "661735934"
+    "661735934",
+    "661740169",
+    "661741781"
   ]
 }
