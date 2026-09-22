@@ -7487,6 +7487,18 @@
       "notified": false,
       "title": "MacBook Pro 13” 2020 intel core i5 512/16GB",
       "last_seen": "2026-09-22 14:52:06"
+    },
+    "661709047": {
+      "last_price": 1599.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14 M3 PRO 18GB/512GB",
+      "last_seen": "2026-09-22 15:42:47"
+    },
+    "661707904": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M2 2022 8GB/256GB Touchbar",
+      "last_seen": "2026-09-22 15:42:22"
     }
   },
   "seen_ids": [
@@ -9052,6 +9064,8 @@
     "661697727",
     "661700412",
     "661702113",
-    "661702151"
+    "661702151",
+    "661707904",
+    "661709047"
   ]
 }
