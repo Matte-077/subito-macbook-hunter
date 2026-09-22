@@ -7153,7 +7153,7 @@
       "last_seen": "2026-09-21 22:52:11"
     },
     "661619172": {
-      "last_price": 320.0,
+      "last_price": 300.0,
       "notified": false,
       "title": "MacBook Pro 15\" 2018",
       "last_seen": "2026-09-21 22:52:06"
@@ -7337,6 +7337,42 @@
       "notified": false,
       "title": "MacBook Pro 16 2023 M2 Max 32 GB Ram",
       "last_seen": "2026-09-22 12:13:59"
+    },
+    "661679598": {
+      "last_price": 1875.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2023 M2 Max 32 GB Ram",
+      "last_seen": "2026-09-22 12:29:33"
+    },
+    "661681891": {
+      "last_price": 779.0,
+      "notified": false,
+      "title": "IPAD PRO 6TH GEN M2 256GB POLLICI:12.9 WIFI+CELL",
+      "last_seen": "2026-09-22 12:31:41"
+    },
+    "661680175": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Macbook pro m4",
+      "last_seen": "2026-09-22 12:30:05"
+    },
+    "661681963": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-09-22 12:31:45"
+    },
+    "661662625": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" Retina 2016 i5 8GB 256GB SSD",
+      "last_seen": "2026-09-22 12:29:41"
+    },
+    "661681771": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
+      "last_seen": "2026-09-22 12:31:35"
     }
   },
   "seen_ids": [
@@ -8873,10 +8909,16 @@
     "661659515",
     "661661786",
     "661662047",
+    "661662625",
     "661663652",
     "661664696",
     "661666433",
     "661667829",
-    "661678918"
+    "661678918",
+    "661679598",
+    "661680175",
+    "661681771",
+    "661681891",
+    "661681963"
   ]
 }
