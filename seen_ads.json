@@ -1219,10 +1219,10 @@
       "notified": false
     },
     "658875040": {
-      "last_price": 90.0,
+      "last_price": 80.0,
       "notified": false,
       "title": "MacBook Pro 13” i5 8GB SSD CD/DVD+alimentatore",
-      "last_seen": "2026-09-19 08:28:04"
+      "last_seen": "2026-09-20 08:28:40"
     },
     "658884279": {
       "last_price": null,
@@ -7331,6 +7331,12 @@
       "notified": false,
       "title": "PORTATILE GAMING I9-14900HX RTX 4070 – 15,3” 240Hz",
       "last_seen": "2026-09-22 11:33:05"
+    },
+    "661678918": {
+      "last_price": 1875.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2023 M2 Max 32 GB Ram",
+      "last_seen": "2026-09-22 12:13:59"
     }
   },
   "seen_ids": [
@@ -8870,6 +8876,7 @@
     "661663652",
     "661664696",
     "661666433",
-    "661667829"
+    "661667829",
+    "661678918"
   ]
 }
