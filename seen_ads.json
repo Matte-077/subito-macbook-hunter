@@ -7251,6 +7251,18 @@
       "notified": false,
       "title": "Macbook pro m1 512 gb",
       "last_seen": "2026-09-22 10:33:57"
+    },
+    "661654921": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro M1 Pro - 2021",
+      "last_seen": "2026-09-22 10:53:04"
+    },
+    "661654725": {
+      "last_price": 209.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8 GB RAM Computer",
+      "last_seen": "2026-09-22 10:52:47"
     }
   },
   "seen_ids": [
@@ -8777,6 +8789,8 @@
     "661649944",
     "661650857",
     "661652063",
-    "661652895"
+    "661652895",
+    "661654725",
+    "661654921"
   ]
 }
