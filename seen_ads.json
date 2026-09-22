@@ -7433,6 +7433,30 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
       "last_seen": "2026-09-22 13:46:32"
+    },
+    "661695464": {
+      "last_price": 1350.0,
+      "notified": false,
+      "title": "Macbook",
+      "last_seen": "2026-09-22 14:03:01"
+    },
+    "661695138": {
+      "last_price": 270.0,
+      "notified": false,
+      "title": "Apple Macbook pro 15",
+      "last_seen": "2026-09-22 14:02:45"
+    },
+    "661695307": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "Macbook Pro 2012 13.3”",
+      "last_seen": "2026-09-22 14:02:53"
+    },
+    "661694165": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-09-22 14:01:54"
     }
   },
   "seen_ids": [
@@ -8989,6 +9013,10 @@
     "661685815",
     "661686309",
     "661693520",
-    "661693826"
+    "661693826",
+    "661694165",
+    "661695138",
+    "661695307",
+    "661695464"
   ]
 }
