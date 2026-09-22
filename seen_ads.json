@@ -7473,7 +7473,7 @@
       "last_seen": "2026-09-22 14:19:07"
     },
     "661700412": {
-      "last_price": 750.0,
+      "last_price": 800.0,
       "notified": true,
       "title": "MacBook Pro M1 Pro 16\" 16Gb 512Gb",
       "last_seen": "2026-09-22 14:36:04"
@@ -7645,6 +7645,30 @@
       "notified": false,
       "title": "Apple caricabatterie usb-c 67w x MacBook pro 13/14",
       "last_seen": "2026-09-22 19:43:31"
+    },
+    "661746174": {
+      "last_price": 160.0,
+      "notified": false,
+      "title": "IPhone 12 128 gb green",
+      "last_seen": "2026-09-22 20:00:40"
+    },
+    "661745950": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "IPhone 16 Black 128 giga",
+      "last_seen": "2026-09-22 20:00:21"
+    },
+    "661746289": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
+      "last_seen": "2026-09-22 20:00:48"
+    },
+    "661746173": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-09-22 20:00:40"
     }
   },
   "seen_ids": [
@@ -9236,6 +9260,10 @@
     "661735934",
     "661740169",
     "661741781",
-    "661742217"
+    "661742217",
+    "661745950",
+    "661746173",
+    "661746174",
+    "661746289"
   ]
 }
