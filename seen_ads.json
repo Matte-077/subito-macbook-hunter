@@ -7603,6 +7603,18 @@
       "notified": false,
       "title": "macbook pro m1",
       "last_seen": "2026-09-22 18:11:12"
+    },
+    "661734019": {
+      "last_price": 1350.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M4 Pro 24GB/512GB – Space Black",
+      "last_seen": "2026-09-22 18:41:30"
+    },
+    "661733393": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MacBook Pro 16” i9 2019 16GB/1TB - GARANTITO",
+      "last_seen": "2026-09-22 18:41:47"
     }
   },
   "seen_ids": [
@@ -9187,6 +9199,8 @@
     "661722314",
     "661725931",
     "661727463",
-    "661728667"
+    "661728667",
+    "661733393",
+    "661734019"
   ]
 }
