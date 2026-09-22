@@ -7233,6 +7233,24 @@
       "notified": false,
       "title": "MacBook Pro 15\" 16GB 512GB",
       "last_seen": "2026-09-22 10:16:48"
+    },
+    "661652895": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 16 m1 anno 2022 63 cicli nuovo complet",
+      "last_seen": "2026-09-22 10:34:33"
+    },
+    "661650857": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "IPHONE 14 PRO MAX 256GB e 128GB",
+      "last_seen": "2026-09-22 10:32:52"
+    },
+    "661652063": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "Macbook pro m1 512 gb",
+      "last_seen": "2026-09-22 10:33:57"
     }
   },
   "seen_ids": [
@@ -8756,6 +8774,9 @@
     "661644572",
     "661645388",
     "661649327",
-    "661649944"
+    "661649944",
+    "661650857",
+    "661652063",
+    "661652895"
   ]
 }
