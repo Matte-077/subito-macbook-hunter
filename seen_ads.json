@@ -7203,6 +7203,24 @@
       "notified": false,
       "title": "MacBook Pro 14 M5 32GB 1TB – Apple Care, 5 cicli",
       "last_seen": "2026-09-22 09:25:51"
+    },
+    "661645388": {
+      "last_price": 1149.0,
+      "notified": false,
+      "title": "IPAD PRO 11 5th GEN(2024) M4 1TB WIFI CELL",
+      "last_seen": "2026-09-22 09:43:24"
+    },
+    "661644572": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "MacBook Pro 13” hsd 250/Ram 4 funzionante",
+      "last_seen": "2026-09-22 09:42:23"
+    },
+    "661644312": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "MACBOOK PRO 13.  512 GB",
+      "last_seen": "2026-09-22 09:42:06"
     }
   },
   "seen_ids": [
@@ -8721,6 +8739,9 @@
     "661624847",
     "661642012",
     "661642822",
-    "661643329"
+    "661643329",
+    "661644312",
+    "661644572",
+    "661645388"
   ]
 }
