@@ -7819,6 +7819,12 @@
       "notified": false,
       "title": "MacBook Pro 13” M1",
       "last_seen": "2026-09-23 10:59:05"
+    },
+    "661822268": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w con cavetto usb-c",
+      "last_seen": "2026-09-23 11:31:56"
     }
   },
   "seen_ids": [
@@ -9439,6 +9445,7 @@
     "661810856",
     "661814125",
     "661814664",
-    "661816251"
+    "661816251",
+    "661822268"
   ]
 }
