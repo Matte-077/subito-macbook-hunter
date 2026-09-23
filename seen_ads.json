@@ -7987,6 +7987,18 @@
       "notified": false,
       "title": "Apple MacBook Neo 13\" 512GB Rosa Pastello NUOVO",
       "last_seen": "2026-09-23 17:07:47"
+    },
+    "661869144": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook air M2 (2022) 13” 256 gb",
+      "last_seen": "2026-09-23 17:15:28"
+    },
+    "661870439": {
+      "last_price": 149.0,
+      "notified": false,
+      "title": "Macbook Pro 15\" ssd 512gb",
+      "last_seen": "2026-09-23 17:24:18"
     }
   },
   "seen_ids": [
@@ -9635,6 +9647,8 @@
     "661857150",
     "661858826",
     "661860299",
-    "661868812"
+    "661868812",
+    "661869144",
+    "661870439"
   ]
 }
