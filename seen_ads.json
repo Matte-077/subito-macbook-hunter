@@ -7909,6 +7909,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 2015 i5 GB BATERIA RAM 8 GB",
       "last_seen": "2026-09-23 13:40:02"
+    },
+    "661841670": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "iPad Pro (2024) | 11\" M4  512GB  wifi cell",
+      "last_seen": "2026-09-23 13:58:11"
     }
   },
   "seen_ids": [
@@ -9544,6 +9550,7 @@
     "661829718",
     "661832233",
     "661837853",
-    "661839518"
+    "661839518",
+    "661841670"
   ]
 }
