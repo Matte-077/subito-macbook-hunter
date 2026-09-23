@@ -5634,7 +5634,7 @@
       "last_price": null,
       "notified": false,
       "title": "Apple MacBook Pro 13” con chip M1",
-      "last_seen": "2026-09-22 15:57:04"
+      "last_seen": "2026-09-23 15:49:57"
     },
     "661216644": {
       "last_price": 900.0,
@@ -7963,6 +7963,12 @@
       "notified": false,
       "title": "Apple Macbook Neo 13” 512Gb Argento(con touch ID)",
       "last_seen": "2026-09-23 15:42:14"
+    },
+    "661857150": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M1 Pro",
+      "last_seen": "2026-09-23 15:50:47"
     }
   },
   "seen_ids": [
@@ -9607,6 +9613,7 @@
     "661849913",
     "661852601",
     "661855954",
-    "661856270"
+    "661856270",
+    "661857150"
   ]
 }
