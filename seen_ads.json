@@ -7539,7 +7539,7 @@
       "last_seen": "2026-09-22 16:48:12"
     },
     "661720505": {
-      "last_price": 1600.0,
+      "last_price": 1500.0,
       "notified": false,
       "title": "MacBook pro da 14 chip apple m3 pro 1 tb",
       "last_seen": "2026-09-22 17:05:42"
@@ -7777,6 +7777,18 @@
       "notified": false,
       "title": "macbook pro 13\" retina",
       "last_seen": "2026-09-23 09:23:09"
+    },
+    "659118169": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "Macbook Pro m3 Pro",
+      "last_seen": "2026-09-23 10:07:39"
+    },
+    "661805747": {
+      "last_price": 25000.0,
+      "notified": false,
+      "title": "Macbook pro m5 pro 16\"",
+      "last_seen": "2026-09-23 09:54:16"
     }
   },
   "seen_ids": [
@@ -8040,6 +8052,7 @@
     "659074318",
     "659084997",
     "659109551",
+    "659118169",
     "659127516",
     "659135733",
     "659144636",
@@ -9390,6 +9403,7 @@
     "661792479",
     "661798862",
     "661801330",
-    "661802972"
+    "661802972",
+    "661805747"
   ]
 }
