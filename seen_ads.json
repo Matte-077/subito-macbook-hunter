@@ -8029,6 +8029,24 @@
       "notified": false,
       "title": "Apple MacBook Pro M5 14\"  16Gb  1Tb nuovo",
       "last_seen": "2026-09-23 18:40:08"
+    },
+    "661892802": {
+      "last_price": 1199.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14\" M3 8GB/512GB CON GARANZIA",
+      "last_seen": "2026-09-23 19:06:54"
+    },
+    "661890056": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14\" - Chip M5, RAM 16GB , Disco 1TB",
+      "last_seen": "2026-09-23 18:57:58"
+    },
+    "661890773": {
+      "last_price": 270.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" (2015) - 16GB RAM / 1TB SSD",
+      "last_seen": "2026-09-23 18:58:29"
     }
   },
   "seen_ids": [
@@ -9684,6 +9702,9 @@
     "661871718",
     "661880328",
     "661881564",
-    "661883758"
+    "661883758",
+    "661890056",
+    "661890773",
+    "661892802"
   ]
 }
