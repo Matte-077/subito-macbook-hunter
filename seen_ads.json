@@ -8145,6 +8145,12 @@
       "notified": false,
       "title": "Lotto 4 PC portatili Acer, Toshiba, HP, Apple",
       "last_seen": "2026-09-24 01:17:44"
+    },
+    "661933777": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Lenovo legion 5i NUOVO (leggere descrizione)",
+      "last_seen": "2026-09-24 01:36:49"
     }
   },
   "seen_ids": [
@@ -9819,6 +9825,7 @@
     "661924453",
     "661925294",
     "661926818",
-    "661933415"
+    "661933415",
+    "661933777"
   ]
 }
