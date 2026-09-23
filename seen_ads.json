@@ -7759,6 +7759,12 @@
       "notified": false,
       "title": "PC MACBOOK 21.5 CPU i5 RAM 8GB HDD 1TB",
       "last_seen": "2026-09-23 07:12:55"
+    },
+    "661798862": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15” retina SSD 250/Ram 16 Mid 2014",
+      "last_seen": "2026-09-23 08:52:32"
     }
   },
   "seen_ids": [
@@ -9369,6 +9375,7 @@
     "661767363",
     "661768467",
     "661770085",
-    "661792479"
+    "661792479",
+    "661798862"
   ]
 }
