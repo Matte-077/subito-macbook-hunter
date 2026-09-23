@@ -8089,6 +8089,12 @@
       "notified": false,
       "title": "IPAD PRO 11  4TH GEN M2 128GB WIFI+SIM",
       "last_seen": "2026-09-23 20:56:31"
+    },
+    "661918130": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "IPhone 16 Black (Nero ) 128 GB",
+      "last_seen": "2026-09-23 21:19:51"
     }
   },
   "seen_ids": [
@@ -9754,6 +9760,7 @@
     "661911767",
     "661913280",
     "661913934",
-    "661915402"
+    "661915402",
+    "661918130"
   ]
 }
