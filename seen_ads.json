@@ -7915,6 +7915,24 @@
       "notified": false,
       "title": "iPad Pro (2024) | 11\" M4  512GB  wifi cell",
       "last_seen": "2026-09-23 13:58:11"
+    },
+    "661845310": {
+      "last_price": 1529.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M3 Pro 18GB/512GB",
+      "last_seen": "2026-09-23 14:21:01"
+    },
+    "661845843": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Macbook Pro 16\"",
+      "last_seen": "2026-09-23 14:27:29"
+    },
+    "661845605": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Macbook pro",
+      "last_seen": "2026-09-23 14:27:19"
     }
   },
   "seen_ids": [
@@ -9551,6 +9569,9 @@
     "661832233",
     "661837853",
     "661839518",
-    "661841670"
+    "661841670",
+    "661845310",
+    "661845605",
+    "661845843"
   ]
 }
