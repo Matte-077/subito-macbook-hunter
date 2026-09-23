@@ -7801,6 +7801,24 @@
       "notified": false,
       "title": "Adattatore Universale da Viaggio MOMAX 100W GaN",
       "last_seen": "2026-09-23 10:40:17"
+    },
+    "661814125": {
+      "last_price": 1749.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" M3 PRO 1TB 2023",
+      "last_seen": "2026-09-23 10:57:45"
+    },
+    "661814664": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16” M1 Max 10/32 64GB 1TB",
+      "last_seen": "2026-09-23 10:58:05"
+    },
+    "661816251": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1",
+      "last_seen": "2026-09-23 10:59:05"
     }
   },
   "seen_ids": [
@@ -9418,6 +9436,9 @@
     "661802972",
     "661805747",
     "661809578",
-    "661810856"
+    "661810856",
+    "661814125",
+    "661814664",
+    "661816251"
   ]
 }
