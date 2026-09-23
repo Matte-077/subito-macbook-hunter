@@ -7951,6 +7951,18 @@
       "notified": false,
       "title": "Macbook Pro 16” i7 6-Core 16GB RAM",
       "last_seen": "2026-09-23 15:16:30"
+    },
+    "661855954": {
+      "last_price": 45.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2012 | i5 | 4 GB RAM | 500 GB HDD",
+      "last_seen": "2026-09-23 15:42:00"
+    },
+    "661856270": {
+      "last_price": 820.0,
+      "notified": false,
+      "title": "Apple Macbook Neo 13” 512Gb Argento(con touch ID)",
+      "last_seen": "2026-09-23 15:42:14"
     }
   },
   "seen_ids": [
@@ -9593,6 +9605,8 @@
     "661845605",
     "661845843",
     "661849913",
-    "661852601"
+    "661852601",
+    "661855954",
+    "661856270"
   ]
 }
