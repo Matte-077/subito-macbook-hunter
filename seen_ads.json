@@ -7825,6 +7825,42 @@
       "notified": false,
       "title": "Apple caricabatterie usb-c 67w con cavetto usb-c",
       "last_seen": "2026-09-23 11:31:56"
+    },
+    "661824348": {
+      "last_price": 1950.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14 M4 PRO",
+      "last_seen": "2026-09-23 11:47:33"
+    },
+    "661824237": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MacBook Pro 14 - M1",
+      "last_seen": "2026-09-23 11:47:26"
+    },
+    "661824510": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M1 Pro 16/512GB US Pari al nuovo",
+      "last_seen": "2026-09-23 11:47:42"
+    },
+    "661822606": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "Lotto Apple MacBook Pro + iPad + 3 iPhone  + iPod",
+      "last_seen": "2026-09-23 11:45:47"
+    },
+    "661824571": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-09-23 11:47:46"
+    },
+    "661822551": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Apple 85w msgsafe 2 alimentatore x MacBook Pro 15”",
+      "last_seen": "2026-09-23 11:45:45"
     }
   },
   "seen_ids": [
@@ -9446,6 +9482,12 @@
     "661814125",
     "661814664",
     "661816251",
-    "661822268"
+    "661822268",
+    "661822551",
+    "661822606",
+    "661824237",
+    "661824348",
+    "661824510",
+    "661824571"
   ]
 }
