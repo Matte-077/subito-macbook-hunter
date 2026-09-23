@@ -7969,6 +7969,18 @@
       "notified": false,
       "title": "MacBook Pro 14 M1 Pro",
       "last_seen": "2026-09-23 15:50:47"
+    },
+    "661858826": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M3 2023  8GB 512GB",
+      "last_seen": "2026-09-23 15:59:13"
+    },
+    "661860299": {
+      "last_price": 240.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" Mid 2012 i7 2.9 GHz – 8GB - 1 TB",
+      "last_seen": "2026-09-23 16:07:42"
     }
   },
   "seen_ids": [
@@ -9614,6 +9626,8 @@
     "661852601",
     "661855954",
     "661856270",
-    "661857150"
+    "661857150",
+    "661858826",
+    "661860299"
   ]
 }
