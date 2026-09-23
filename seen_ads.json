@@ -8133,6 +8133,12 @@
       "notified": false,
       "title": "MacBook Pro 13” 2022 M2 8GB – 256GB SSD – Batteria",
       "last_seen": "2026-09-23 22:39:01"
+    },
+    "661926818": {
+      "last_price": 235.0,
+      "notified": false,
+      "title": "MacBook Pro 16” A2141 2019 i7 Radeon Pro– Ricambi",
+      "last_seen": "2026-09-23 23:00:22"
     }
   },
   "seen_ids": [
@@ -9805,6 +9811,7 @@
     "661923053",
     "661923184",
     "661924453",
-    "661925294"
+    "661925294",
+    "661926818"
   ]
 }
