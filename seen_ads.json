@@ -7623,7 +7623,7 @@
       "last_seen": "2026-09-22 18:57:17"
     },
     "661735934": {
-      "last_price": 640.0,
+      "last_price": 600.0,
       "notified": false,
       "title": "Macbook pro M1 2023",
       "last_seen": "2026-09-22 18:57:18"
@@ -7981,6 +7981,12 @@
       "notified": false,
       "title": "MacBook Pro 13\" Mid 2012 i7 2.9 GHz – 8GB - 1 TB",
       "last_seen": "2026-09-23 16:07:42"
+    },
+    "661868812": {
+      "last_price": 740.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 13\" 512GB Rosa Pastello NUOVO",
+      "last_seen": "2026-09-23 17:07:47"
     }
   },
   "seen_ids": [
@@ -9628,6 +9634,7 @@
     "661856270",
     "661857150",
     "661858826",
-    "661860299"
+    "661860299",
+    "661868812"
   ]
 }
