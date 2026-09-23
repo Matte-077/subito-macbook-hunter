@@ -7861,6 +7861,24 @@
       "notified": false,
       "title": "Apple 85w msgsafe 2 alimentatore x MacBook Pro 15”",
       "last_seen": "2026-09-23 11:45:45"
+    },
+    "656106280": {
+      "last_price": 570.0,
+      "notified": false,
+      "title": "Macbook Pro M2 256GB",
+      "last_seen": "2026-09-23 12:01:02"
+    },
+    "661826661": {
+      "last_price": 209.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8 GB RAM Computer",
+      "last_seen": "2026-09-23 12:03:26"
+    },
+    "661824910": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
+      "last_seen": "2026-09-23 12:01:58"
     }
   },
   "seen_ids": [
@@ -7999,6 +8017,7 @@
     "655976826",
     "656012842",
     "656077873",
+    "656106280",
     "656119751",
     "656158873",
     "656185437",
@@ -9488,6 +9507,8 @@
     "661824237",
     "661824348",
     "661824510",
-    "661824571"
+    "661824571",
+    "661824910",
+    "661826661"
   ]
 }
