@@ -7897,6 +7897,18 @@
       "notified": false,
       "title": "macbook pro 14 m5",
       "last_seen": "2026-09-23 12:48:31"
+    },
+    "661837853": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "APPLE MacBook Pro 15 2018 i7 16GB 1TB Radeon 560X",
+      "last_seen": "2026-09-23 13:30:36"
+    },
+    "661839518": {
+      "last_price": 109.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 2015 i5 GB BATERIA RAM 8 GB",
+      "last_seen": "2026-09-23 13:40:02"
     }
   },
   "seen_ids": [
@@ -9530,6 +9542,8 @@
     "661826661",
     "661829596",
     "661829718",
-    "661832233"
+    "661832233",
+    "661837853",
+    "661839518"
   ]
 }
