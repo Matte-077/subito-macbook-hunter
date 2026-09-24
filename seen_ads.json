@@ -8415,6 +8415,12 @@
       "notified": false,
       "title": "APPLE MacBook Pro 15 2018 i7 16GB 1TB Radeon 560X",
       "last_seen": "2026-09-24 12:37:00"
+    },
+    "661979386": {
+      "last_price": 1249.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M2 Pro 16GB 512GB Grigio Siderale",
+      "last_seen": "2026-09-24 12:46:38"
     }
   },
   "seen_ids": [
@@ -10134,6 +10140,7 @@
     "661972950",
     "661973028",
     "661974812",
-    "661978012"
+    "661978012",
+    "661979386"
   ]
 }
