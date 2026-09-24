@@ -8591,6 +8591,12 @@
       "notified": false,
       "title": "MacBook Pro 15” 2019 i7 16GB Radeon  555X",
       "last_seen": "2026-09-24 19:52:21"
+    },
+    "662037961": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "MacBook Pro 13” retina SSD 500 / Ram 8 bat. Nuova",
+      "last_seen": "2026-09-24 20:34:59"
     }
   },
   "seen_ids": [
@@ -10339,6 +10345,7 @@
     "662025312",
     "662028600",
     "662031422",
-    "662032628"
+    "662032628",
+    "662037961"
   ]
 }
