@@ -8367,6 +8367,18 @@
       "notified": false,
       "title": "Apple MacBook Pro 13\" Aluminum Late 2008 Usato",
       "last_seen": "2026-09-24 11:23:23"
+    },
+    "661968813": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "Apple MacBook Neo Giallo Agrume 8/256 GB",
+      "last_seen": "2026-09-24 11:33:35"
+    },
+    "661968167": {
+      "last_price": 15.0,
+      "notified": false,
+      "title": "RAM Originali 4GB Kit (2x2GB) 1066MHz DDR3 SDRAM",
+      "last_seen": "2026-09-24 11:33:10"
     }
   },
   "seen_ids": [
@@ -10078,6 +10090,8 @@
     "661963791",
     "661963941",
     "661963974",
-    "661964450"
+    "661964450",
+    "661968167",
+    "661968813"
   ]
 }
