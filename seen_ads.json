@@ -8147,9 +8147,9 @@
       "last_seen": "2026-09-24 01:17:44"
     },
     "661933777": {
-      "last_price": 1500.0,
+      "last_price": 1400.0,
       "notified": false,
-      "title": "Lenovo legion 5i NUOVO (leggere descrizione)",
+      "title": "Lenovo legion 5i NUOVO (accetto scambi)",
       "last_seen": "2026-09-24 01:36:49"
     },
     "661926465": {
@@ -8379,6 +8379,12 @@
       "notified": false,
       "title": "RAM Originali 4GB Kit (2x2GB) 1066MHz DDR3 SDRAM",
       "last_seen": "2026-09-24 11:33:10"
+    },
+    "661967116": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "Xiaomi ultra e tanto altro",
+      "last_seen": "2026-09-24 11:49:04"
     }
   },
   "seen_ids": [
@@ -10091,6 +10097,7 @@
     "661963941",
     "661963974",
     "661964450",
+    "661967116",
     "661968167",
     "661968813"
   ]
