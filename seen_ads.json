@@ -8565,6 +8565,18 @@
       "notified": false,
       "title": "Macbook pro 14”",
       "last_seen": "2026-09-24 18:56:49"
+    },
+    "662028600": {
+      "last_price": 38.0,
+      "notified": false,
+      "title": "Zaino viaggio lavoro Heroic Knight nero/giallo",
+      "last_seen": "2026-09-24 19:15:47"
+    },
+    "656888642": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M1 Pro 2021 - 16GB/1TB - Batteria",
+      "last_seen": "2026-09-24 19:13:23"
     }
   },
   "seen_ids": [
@@ -8722,6 +8734,7 @@
     "656822463",
     "656830064",
     "656836077",
+    "656888642",
     "656910452",
     "656938386",
     "657114113",
@@ -10309,6 +10322,7 @@
     "662019966",
     "662020422",
     "662023140",
-    "662025312"
+    "662025312",
+    "662028600"
   ]
 }
