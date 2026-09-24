@@ -8427,6 +8427,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 2015 i5 GB BATERIA RAM 8 GB",
       "last_seen": "2026-09-24 13:06:15"
+    },
+    "661987525": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro M1 13 pollici",
+      "last_seen": "2026-09-24 13:58:02"
     }
   },
   "seen_ids": [
@@ -10148,6 +10154,7 @@
     "661974812",
     "661978012",
     "661979386",
-    "661981450"
+    "661981450",
+    "661987525"
   ]
 }
