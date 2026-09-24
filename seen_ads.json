@@ -7835,7 +7835,7 @@
       "last_seen": "2026-09-23 11:47:33"
     },
     "661824237": {
-      "last_price": 397.0,
+      "last_price": 437.0,
       "notified": false,
       "title": "MacBook Pro 13 - M1",
       "last_seen": "2026-09-23 11:47:26"
@@ -8409,6 +8409,12 @@
       "notified": false,
       "title": "Macbook Pro 14” M4",
       "last_seen": "2026-09-24 12:14:58"
+    },
+    "661978012": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "APPLE MacBook Pro 15 2018 i7 16GB 1TB Radeon 560X",
+      "last_seen": "2026-09-24 12:37:00"
     }
   },
   "seen_ids": [
@@ -10127,6 +10133,7 @@
     "661972152",
     "661972950",
     "661973028",
-    "661974812"
+    "661974812",
+    "661978012"
   ]
 }
