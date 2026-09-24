@@ -8621,6 +8621,12 @@
       "notified": false,
       "title": "MacBook Pro (Retina 13-inch early 2015)",
       "last_seen": "2026-09-24 23:05:28"
+    },
+    "662048646": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "MacBook Pro M4 MAX - 36GB RAM - 1TB SSD",
+      "last_seen": "2026-09-24 23:34:37"
     }
   },
   "seen_ids": [
@@ -10373,6 +10379,7 @@
     "662033541",
     "662037961",
     "662040729",
+    "662048646",
     "662049457",
     "662051209"
   ]
