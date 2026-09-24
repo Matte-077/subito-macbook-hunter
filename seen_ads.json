@@ -8361,6 +8361,12 @@
       "notified": false,
       "title": "MacBook Pro 16″ M1 Max RAM 32Gb, SSD 1Tb Ex Demo",
       "last_seen": "2026-09-24 10:59:27"
+    },
+    "661962744": {
+      "last_price": 119.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" Aluminum Late 2008 Usato",
+      "last_seen": "2026-09-24 11:23:23"
     }
   },
   "seen_ids": [
@@ -10060,6 +10066,7 @@
     "661955980",
     "661959448",
     "661959482",
+    "661962744",
     "661963113",
     "661963234",
     "661963435",
