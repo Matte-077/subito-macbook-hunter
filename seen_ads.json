@@ -8559,6 +8559,12 @@
       "notified": false,
       "title": "MacBook Pro 14\" Apple Silicon M3 Pro",
       "last_seen": "2026-09-24 18:37:40"
+    },
+    "662025312": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Macbook pro 14”",
+      "last_seen": "2026-09-24 18:56:49"
     }
   },
   "seen_ids": [
@@ -10302,6 +10308,7 @@
     "662019357",
     "662019966",
     "662020422",
-    "662023140"
+    "662023140",
+    "662025312"
   ]
 }
