@@ -8615,6 +8615,12 @@
       "notified": false,
       "title": "Macbook Pro M4 Max 16 pollici 36gb RAM",
       "last_seen": "2026-09-24 22:41:17"
+    },
+    "662051209": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook Pro (Retina 13-inch early 2015)",
+      "last_seen": "2026-09-24 23:05:28"
     }
   },
   "seen_ids": [
@@ -10367,6 +10373,7 @@
     "662033541",
     "662037961",
     "662040729",
-    "662049457"
+    "662049457",
+    "662051209"
   ]
 }
