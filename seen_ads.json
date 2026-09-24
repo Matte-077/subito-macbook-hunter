@@ -8609,6 +8609,12 @@
       "notified": false,
       "title": "MacBook Neo 13” A18 Pro 8GB / 512GB SSD + Touch ID",
       "last_seen": "2026-09-24 20:59:25"
+    },
+    "662049457": {
+      "last_price": 2999.0,
+      "notified": false,
+      "title": "Macbook Pro M4 Max 16 pollici 36gb RAM",
+      "last_seen": "2026-09-24 22:41:17"
     }
   },
   "seen_ids": [
@@ -10360,6 +10366,7 @@
     "662032628",
     "662033541",
     "662037961",
-    "662040729"
+    "662040729",
+    "662049457"
   ]
 }
