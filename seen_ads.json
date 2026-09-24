@@ -8187,6 +8187,18 @@
       "notified": true,
       "title": "MacBook Pro M1 Pro 16\" 16Gb 512Gb",
       "last_seen": "2026-09-24 09:05:42"
+    },
+    "661948442": {
+      "last_price": 1299.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16(2019)16GB-1TB i9",
+      "last_seen": "2026-09-24 09:28:58"
+    },
+    "661949580": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Neo in garanzia",
+      "last_seen": "2026-09-24 09:30:08"
     }
   },
   "seen_ids": [
@@ -9868,6 +9880,8 @@
     "661944952",
     "661944976",
     "661945335",
-    "661946713"
+    "661946713",
+    "661948442",
+    "661949580"
   ]
 }
