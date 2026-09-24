@@ -8627,6 +8627,12 @@
       "notified": false,
       "title": "MacBook Pro M4 MAX - 36GB RAM - 1TB SSD",
       "last_seen": "2026-09-24 23:34:37"
+    },
+    "662053066": {
+      "last_price": 1300.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M4 Pro 24GB Ram + Magic Mouse",
+      "last_seen": "2026-09-24 23:48:27"
     }
   },
   "seen_ids": [
@@ -10381,6 +10387,7 @@
     "662040729",
     "662048646",
     "662049457",
-    "662051209"
+    "662051209",
+    "662053066"
   ]
 }
