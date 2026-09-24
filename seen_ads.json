@@ -8199,6 +8199,24 @@
       "notified": false,
       "title": "MacBook Neo in garanzia",
       "last_seen": "2026-09-24 09:30:08"
+    },
+    "661951500": {
+      "last_price": 800.0,
+      "notified": true,
+      "title": "MacBook Pro M1 Pro 16\" 16Gb 512Gb",
+      "last_seen": "2026-09-24 09:44:29"
+    },
+    "661951029": {
+      "last_price": 1.0,
+      "notified": false,
+      "title": "MacBook Pro M1 Pro 16\" 16Gb 512Gb",
+      "last_seen": "2026-09-24 09:43:59"
+    },
+    "661950555": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" | i7 | 16 GB | RICONDIZIONATO",
+      "last_seen": "2026-09-24 09:43:31"
     }
   },
   "seen_ids": [
@@ -9882,6 +9900,9 @@
     "661945335",
     "661946713",
     "661948442",
-    "661949580"
+    "661949580",
+    "661950555",
+    "661951029",
+    "661951500"
   ]
 }
