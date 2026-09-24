@@ -8385,6 +8385,24 @@
       "notified": false,
       "title": "Xiaomi ultra e tanto altro",
       "last_seen": "2026-09-24 11:49:04"
+    },
+    "661972950": {
+      "last_price": 459.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 2019 i7 16GB 512GB SSD Radeon",
+      "last_seen": "2026-09-24 12:00:25"
+    },
+    "661973028": {
+      "last_price": 190.0,
+      "notified": false,
+      "title": "MacBook Pro Retina 13”, 256GB",
+      "last_seen": "2026-09-24 12:00:28"
+    },
+    "661972152": {
+      "last_price": 215.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatil",
+      "last_seen": "2026-09-24 11:59:38"
     }
   },
   "seen_ids": [
@@ -10099,6 +10117,9 @@
     "661964450",
     "661967116",
     "661968167",
-    "661968813"
+    "661968813",
+    "661972152",
+    "661972950",
+    "661973028"
   ]
 }
