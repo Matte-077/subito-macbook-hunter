@@ -8403,6 +8403,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatil",
       "last_seen": "2026-09-24 11:59:38"
+    },
+    "661974812": {
+      "last_price": 1350.0,
+      "notified": false,
+      "title": "Macbook Pro 14” M4",
+      "last_seen": "2026-09-24 12:14:58"
     }
   },
   "seen_ids": [
@@ -10120,6 +10126,7 @@
     "661968813",
     "661972152",
     "661972950",
-    "661973028"
+    "661973028",
+    "661974812"
   ]
 }
