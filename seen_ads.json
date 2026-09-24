@@ -7189,10 +7189,10 @@
       "last_seen": "2026-09-21 23:46:43"
     },
     "661624847": {
-      "last_price": 1600.0,
+      "last_price": 1500.0,
       "notified": false,
       "title": "MacBook Pro 14” M3 Pro – 18GB RAM – 1TB SSD",
-      "last_seen": "2026-09-22 00:53:40"
+      "last_seen": "2026-09-24 01:03:32"
     },
     "661642822": {
       "last_price": 699.0,
@@ -8597,6 +8597,18 @@
       "notified": false,
       "title": "MacBook Pro 13” retina SSD 500 / Ram 8 bat. Nuova",
       "last_seen": "2026-09-24 20:34:59"
+    },
+    "662040729": {
+      "last_price": 299.0,
+      "notified": false,
+      "title": "IPhone 14 nero 128 gb",
+      "last_seen": "2026-09-24 21:06:32"
+    },
+    "662033541": {
+      "last_price": 799.0,
+      "notified": false,
+      "title": "MacBook Neo 13” A18 Pro 8GB / 512GB SSD + Touch ID",
+      "last_seen": "2026-09-24 20:59:25"
     }
   },
   "seen_ids": [
@@ -10346,6 +10358,8 @@
     "662028600",
     "662031422",
     "662032628",
-    "662037961"
+    "662033541",
+    "662037961",
+    "662040729"
   ]
 }
