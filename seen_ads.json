@@ -8201,7 +8201,7 @@
       "last_seen": "2026-09-24 09:30:08"
     },
     "661951500": {
-      "last_price": 800.0,
+      "last_price": 850.0,
       "notified": true,
       "title": "MacBook Pro M1 Pro 16\" 16Gb 512Gb",
       "last_seen": "2026-09-24 11:30:26"
@@ -8541,6 +8541,18 @@
       "notified": false,
       "title": "MacBook Pro 13” A1706 Mid 2017 Touch Bar x ricambi",
       "last_seen": "2026-09-24 17:57:43"
+    },
+    "662020422": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "IPHONE 16 PRO 256 GB NERO",
+      "last_seen": "2026-09-24 18:18:27"
+    },
+    "662019966": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "MacBook Pro 13 pollici, Metà 2010 solo per ricambi",
+      "last_seen": "2026-09-24 18:17:13"
     }
   },
   "seen_ids": [
@@ -10281,6 +10293,8 @@
     "662017359",
     "662019058",
     "662019259",
-    "662019357"
+    "662019357",
+    "662019966",
+    "662020422"
   ]
 }
