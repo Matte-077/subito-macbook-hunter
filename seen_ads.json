@@ -8283,6 +8283,24 @@
       "notified": false,
       "title": "Macbook PRO M4 MAX 36GB 1TB",
       "last_seen": "2026-09-24 10:36:25"
+    },
+    "661963234": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M2 Pro 19Core RAM 16Gb, SSD 512Gb",
+      "last_seen": "2026-09-24 10:53:36"
+    },
+    "661963113": {
+      "last_price": 190.0,
+      "notified": false,
+      "title": "MACBOOK PRO RETINA 15 core i7 16gb 250ssd  big sur",
+      "last_seen": "2026-09-24 10:53:31"
+    },
+    "661949133": {
+      "last_price": 2050.0,
+      "notified": false,
+      "title": "Macbook Pro 16 M3 Pro 18Gb 512Gb + Apple Care",
+      "last_seen": "2026-09-24 10:53:18"
     }
   },
   "seen_ids": [
@@ -9966,6 +9984,7 @@
     "661945335",
     "661946713",
     "661948442",
+    "661949133",
     "661949580",
     "661950555",
     "661951029",
@@ -9980,6 +9999,8 @@
     "661955952",
     "661955980",
     "661959448",
-    "661959482"
+    "661959482",
+    "661963113",
+    "661963234"
   ]
 }
