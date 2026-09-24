@@ -5279,7 +5279,7 @@
       "last_seen": "2026-09-17 16:40:11"
     },
     "661099434": {
-      "last_price": 25.0,
+      "last_price": 19.0,
       "notified": false,
       "title": "MacBook Pro per parti",
       "last_seen": "2026-09-17 16:40:04"
@@ -8553,6 +8553,12 @@
       "notified": false,
       "title": "MacBook Pro 13 pollici, Metà 2010 solo per ricambi",
       "last_seen": "2026-09-24 18:17:13"
+    },
+    "662023140": {
+      "last_price": 1650.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" Apple Silicon M3 Pro",
+      "last_seen": "2026-09-24 18:37:40"
     }
   },
   "seen_ids": [
@@ -10295,6 +10301,7 @@
     "662019259",
     "662019357",
     "662019966",
-    "662020422"
+    "662020422",
+    "662023140"
   ]
 }
