@@ -8247,6 +8247,30 @@
       "notified": false,
       "title": "Apple Macbook Pro - 16\" / Intel Core i9",
       "last_seen": "2026-09-24 10:00:02"
+    },
+    "661955980": {
+      "last_price": 3099.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3 Max 40Core RAM 48Gb SSD 1Tb",
+      "last_seen": "2026-09-24 10:18:38"
+    },
+    "661955952": {
+      "last_price": 2499.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M5 pro 16core GPU 24gb ram 1tb ssd",
+      "last_seen": "2026-09-24 10:18:37"
+    },
+    "661955138": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 14″ M3 Pro 14Core RAM 18Gb, SSD 512Gb",
+      "last_seen": "2026-09-24 10:11:41"
+    },
+    "661955102": {
+      "last_price": 1879.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M1 Max RAM 64Gb, SSD 1Tb Ex Nuovo",
+      "last_seen": "2026-09-24 10:11:40"
     }
   },
   "seen_ids": [
@@ -9938,6 +9962,10 @@
     "661954968",
     "661954998",
     "661955012",
-    "661955028"
+    "661955028",
+    "661955102",
+    "661955138",
+    "661955952",
+    "661955980"
   ]
 }
