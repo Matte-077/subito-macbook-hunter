@@ -8151,6 +8151,12 @@
       "notified": false,
       "title": "Lenovo legion 5i NUOVO (leggere descrizione)",
       "last_seen": "2026-09-24 01:36:49"
+    },
+    "661926465": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2018, i5, 8 GB RAM, 256 GB",
+      "last_seen": "2026-09-24 07:13:14"
     }
   },
   "seen_ids": [
@@ -9824,6 +9830,7 @@
     "661923184",
     "661924453",
     "661925294",
+    "661926465",
     "661926818",
     "661933415",
     "661933777"
