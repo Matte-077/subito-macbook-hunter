@@ -8517,6 +8517,30 @@
       "notified": false,
       "title": "MACBOOK PRO M1 - 2020",
       "last_seen": "2026-09-24 17:38:57"
+    },
+    "662019357": {
+      "last_price": 970.0,
+      "notified": false,
+      "title": "MacBook M1 Pro 14\" 2021 – perfette condizioni",
+      "last_seen": "2026-09-24 17:59:27"
+    },
+    "662019259": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "Apple Macbook Pro - M3 Pro - 512ssd - 36gb Ram",
+      "last_seen": "2026-09-24 17:59:21"
+    },
+    "662019058": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2018, Intel i5, 256 GB ssd",
+      "last_seen": "2026-09-24 17:59:11"
+    },
+    "662017359": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook Pro 13” A1706 Mid 2017 Touch Bar x ricambi",
+      "last_seen": "2026-09-24 17:57:43"
     }
   },
   "seen_ids": [
@@ -10253,6 +10277,10 @@
     "662010691",
     "662011339",
     "662013061",
-    "662014718"
+    "662014718",
+    "662017359",
+    "662019058",
+    "662019259",
+    "662019357"
   ]
 }
