@@ -6077,7 +6077,7 @@
       "last_seen": "2026-09-22 17:19:27"
     },
     "661340860": {
-      "last_price": 1050.0,
+      "last_price": 950.0,
       "notified": false,
       "title": "Lenovo ThinkPad P1 Gen4, i7, RTX3070, 32GB, 1TB",
       "last_seen": "2026-09-19 17:09:04"
@@ -8463,6 +8463,30 @@
       "notified": false,
       "title": "Apple MacBook Pro 14\" M3",
       "last_seen": "2026-09-24 15:42:46"
+    },
+    "662001121": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14” M3 A2992 – 18GB RAM – 1TB SSD",
+      "last_seen": "2026-09-24 16:06:22"
+    },
+    "662003970": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 13“ 2020 Touchbar",
+      "last_seen": "2026-09-24 16:08:42"
+    },
+    "661995926": {
+      "last_price": 1599.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M2 Pro 2023 16gb 512gb",
+      "last_seen": "2026-09-24 16:08:05"
+    },
+    "662001440": {
+      "last_price": 670.0,
+      "notified": false,
+      "title": "Samsung galaxy s25 ultra 256GB pari al nuovo",
+      "last_seen": "2026-09-24 16:06:39"
     }
   },
   "seen_ids": [
@@ -10190,6 +10214,10 @@
     "661988254",
     "661989200",
     "661989241",
-    "661999648"
+    "661995926",
+    "661999648",
+    "662001121",
+    "662001440",
+    "662003970"
   ]
 }
