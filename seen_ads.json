@@ -7835,9 +7835,9 @@
       "last_seen": "2026-09-23 11:47:33"
     },
     "661824237": {
-      "last_price": 457.0,
+      "last_price": 397.0,
       "notified": false,
-      "title": "MacBook Pro 14 - M1",
+      "title": "MacBook Pro 13 - M1",
       "last_seen": "2026-09-23 11:47:26"
     },
     "661824510": {
@@ -8181,6 +8181,12 @@
       "notified": true,
       "title": "Schermo rotto 13'' MacBook pro M2-2022 mod. 2338",
       "last_seen": "2026-09-23 20:19:43"
+    },
+    "661946713": {
+      "last_price": 800.0,
+      "notified": true,
+      "title": "MacBook Pro M1 Pro 16\" 16Gb 512Gb",
+      "last_seen": "2026-09-24 09:05:42"
     }
   },
   "seen_ids": [
@@ -9861,6 +9867,7 @@
     "661933777",
     "661944952",
     "661944976",
-    "661945335"
+    "661945335",
+    "661946713"
   ]
 }
