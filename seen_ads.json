@@ -8301,6 +8301,66 @@
       "notified": false,
       "title": "Macbook Pro 16 M3 Pro 18Gb 512Gb + Apple Care",
       "last_seen": "2026-09-24 10:53:18"
+    },
+    "661963974": {
+      "last_price": 3099.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3 Max 40Core RAM 48Gb SSD 1Tb",
+      "last_seen": "2026-09-24 10:59:39"
+    },
+    "661963941": {
+      "last_price": 2499.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M5 pro 16core GPU 24gb ram 1tb ssd",
+      "last_seen": "2026-09-24 10:59:37"
+    },
+    "661963791": {
+      "last_price": 2399.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M4 Pro 20Core RAM 24Gb SSD Ex-Nuovo",
+      "last_seen": "2026-09-24 10:59:32"
+    },
+    "661963757": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 14″ M3 Pro 14Core RAM 18Gb, SSD 512Gb",
+      "last_seen": "2026-09-24 10:59:31"
+    },
+    "661963656": {
+      "last_price": 3479.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M3 Max RAM 64Gb, SSD 1Tb Ex-Nuovo",
+      "last_seen": "2026-09-24 10:59:28"
+    },
+    "661963435": {
+      "last_price": 2049.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M4 PRO 16core, RAM 24Gb, SSD 512GB",
+      "last_seen": "2026-09-24 10:59:20"
+    },
+    "661964450": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MACBOOK Pro",
+      "last_seen": "2026-09-24 11:06:24"
+    },
+    "661963729": {
+      "last_price": 1879.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M1 Max RAM 64Gb, SSD 1Tb Ex Nuovo",
+      "last_seen": "2026-09-24 10:59:31"
+    },
+    "661963687": {
+      "last_price": 719.0,
+      "notified": false,
+      "title": "MacBook Pro 13′′ M1 Apple, RAM 16GB, SSD 512GB",
+      "last_seen": "2026-09-24 10:59:29"
+    },
+    "661963617": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M1 Max RAM 32Gb, SSD 1Tb Ex Demo",
+      "last_seen": "2026-09-24 10:59:27"
     }
   },
   "seen_ids": [
@@ -10001,6 +10061,16 @@
     "661959448",
     "661959482",
     "661963113",
-    "661963234"
+    "661963234",
+    "661963435",
+    "661963617",
+    "661963656",
+    "661963687",
+    "661963729",
+    "661963757",
+    "661963791",
+    "661963941",
+    "661963974",
+    "661964450"
   ]
 }
