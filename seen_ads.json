@@ -5281,7 +5281,7 @@
       "last_seen": "2026-09-17 16:40:11"
     },
     "661099434": {
-      "last_price": 19.0,
+      "last_price": 15.0,
       "notified": false,
       "title": "MacBook Pro per parti",
       "last_seen": "2026-09-17 16:40:04"
@@ -5501,7 +5501,7 @@
       "last_seen": "2026-09-18 11:31:39"
     },
     "661182544": {
-      "last_price": 1150.0,
+      "last_price": 1090.0,
       "notified": false,
       "title": "Macbook pro M2 pro 14",
       "last_seen": "2026-09-18 11:16:10"
@@ -8585,6 +8585,12 @@
       "notified": false,
       "title": "MacBook Pro 16\" (2019) – Intel Core i9 / 16GB RAM",
       "last_seen": "2026-09-24 19:34:30"
+    },
+    "662032628": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 15” 2019 i7 16GB Radeon  555X",
+      "last_seen": "2026-09-24 19:52:21"
     }
   },
   "seen_ids": [
@@ -10332,6 +10338,7 @@
     "662023140",
     "662025312",
     "662028600",
-    "662031422"
+    "662031422",
+    "662032628"
   ]
 }
