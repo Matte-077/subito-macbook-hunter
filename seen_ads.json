@@ -8457,6 +8457,12 @@
       "notified": false,
       "title": "MacBook Pro 13\" Retina",
       "last_seen": "2026-09-24 14:13:06"
+    },
+    "661999648": {
+      "last_price": 970.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M3",
+      "last_seen": "2026-09-24 15:42:46"
     }
   },
   "seen_ids": [
@@ -10183,6 +10189,7 @@
     "661988184",
     "661988254",
     "661989200",
-    "661989241"
+    "661989241",
+    "661999648"
   ]
 }
