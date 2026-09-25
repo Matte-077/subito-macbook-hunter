@@ -8963,6 +8963,12 @@
       "notified": false,
       "title": "MacBook pro 16” touch bar",
       "last_seen": "2026-09-25 18:31:02"
+    },
+    "662148791": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M1 Pro",
+      "last_seen": "2026-09-25 18:55:43"
     }
   },
   "seen_ids": [
@@ -10773,6 +10779,7 @@
     "662142089",
     "662143172",
     "662145959",
-    "662146176"
+    "662146176",
+    "662148791"
   ]
 }
