@@ -8951,6 +8951,18 @@
       "notified": false,
       "title": "Macbook pro",
       "last_seen": "2026-09-25 18:09:39"
+    },
+    "662145959": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16 2023 M2 MAX 32GB/1TB",
+      "last_seen": "2026-09-25 18:30:49"
+    },
+    "662146176": {
+      "last_price": 490.0,
+      "notified": false,
+      "title": "MacBook pro 16” touch bar",
+      "last_seen": "2026-09-25 18:31:02"
     }
   },
   "seen_ids": [
@@ -10759,6 +10771,8 @@
     "662139829",
     "662141819",
     "662142089",
-    "662143172"
+    "662143172",
+    "662145959",
+    "662146176"
   ]
 }
