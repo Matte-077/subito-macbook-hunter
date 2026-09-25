@@ -8711,6 +8711,12 @@
       "notified": false,
       "title": "MacBook Pro M1 Pro 16\" - 512/16",
       "last_seen": "2026-09-25 10:37:01"
+    },
+    "662082787": {
+      "last_price": 1199.0,
+      "notified": false,
+      "title": "MacBook Pro da 14 M3 8GB/512GB CON GARANZIA",
+      "last_seen": "2026-09-25 10:52:34"
     }
   },
   "seen_ids": [
@@ -10479,6 +10485,7 @@
     "662077852",
     "662079138",
     "662079942",
-    "662081099"
+    "662081099",
+    "662082787"
   ]
 }
