@@ -8723,6 +8723,18 @@
       "notified": false,
       "title": "Apple MacBook Pro 15 2019 i7 16GB 512GB SSD Radeon",
       "last_seen": "2026-09-25 11:00:51"
+    },
+    "662088728": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M5 NUOVO - Tastiera tedesca",
+      "last_seen": "2026-09-25 11:23:47"
+    },
+    "662080800": {
+      "last_price": 125.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" 2020  8GB RAM 2TB SSD",
+      "last_seen": "2026-09-25 11:16:00"
     }
   },
   "seen_ids": [
@@ -10491,8 +10503,10 @@
     "662077852",
     "662079138",
     "662079942",
+    "662080800",
     "662081099",
     "662082787",
-    "662085408"
+    "662085408",
+    "662088728"
   ]
 }
