@@ -9101,6 +9101,12 @@
       "notified": false,
       "title": "MacBook Pro 15” 32GB RAM i7 1TB SSD APPLE LAPTOP",
       "last_seen": "2026-09-25 22:40:17"
+    },
+    "662169549": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "MacBook Pro (15 pollici, 2019) - funzionante",
+      "last_seen": "2026-09-25 22:56:16"
     }
   },
   "seen_ids": [
@@ -10934,6 +10940,7 @@
     "662165502",
     "662165648",
     "662166258",
-    "662168184"
+    "662168184",
+    "662169549"
   ]
 }
