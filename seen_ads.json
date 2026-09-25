@@ -8785,7 +8785,7 @@
       "last_seen": "2026-09-25 12:26:35"
     },
     "662098122": {
-      "last_price": 390.0,
+      "last_price": 350.0,
       "notified": false,
       "title": "Macbook Pro 15” 16 GB / 256 touchbar",
       "last_seen": "2026-09-25 12:33:13"
@@ -8927,6 +8927,24 @@
       "notified": false,
       "title": "MacBook Pro 15 Intel Core I7 16/512 Radeon Pro 4GB",
       "last_seen": "2026-09-25 17:45:09"
+    },
+    "662141819": {
+      "last_price": 2800.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14 M5 Pro 24GB RAM 2TB Argento",
+      "last_seen": "2026-09-25 18:03:03"
+    },
+    "662142089": {
+      "last_price": 2190.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M1 Max 32-core 64GB SSD 4TB",
+      "last_seen": "2026-09-25 18:03:16"
+    },
+    "662136444": {
+      "last_price": 2299.0,
+      "notified": false,
+      "title": "IPHONE 18 PRO MAX 1TB nuovo",
+      "last_seen": "2026-09-25 18:03:17"
     }
   },
   "seen_ids": [
@@ -10730,7 +10748,10 @@
     "662133027",
     "662134093",
     "662135455",
+    "662136444",
     "662137424",
-    "662139829"
+    "662139829",
+    "662141819",
+    "662142089"
   ]
 }
