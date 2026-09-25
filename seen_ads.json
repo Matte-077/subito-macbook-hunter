@@ -8783,6 +8783,18 @@
       "notified": false,
       "title": "MacBook Pro 14” M1 Pro 16GB RAM 512GB SSD",
       "last_seen": "2026-09-25 12:26:35"
+    },
+    "662098122": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "Macbook Pro 15” 16 GB / 256",
+      "last_seen": "2026-09-25 12:33:13"
+    },
+    "662099609": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Macbook PRO M1 - 512 GB",
+      "last_seen": "2026-09-25 12:34:22"
     }
   },
   "seen_ids": [
@@ -10563,6 +10575,8 @@
     "662092813",
     "662094004",
     "662097517",
-    "662098441"
+    "662098122",
+    "662098441",
+    "662099609"
   ]
 }
