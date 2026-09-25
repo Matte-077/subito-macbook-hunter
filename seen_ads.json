@@ -8657,6 +8657,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 2015 i5 GB BATERIA RAM 8 GB",
       "last_seen": "2026-09-25 08:42:54"
+    },
+    "662069085": {
+      "last_price": 215.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatil",
+      "last_seen": "2026-09-25 08:57:19"
     }
   },
   "seen_ids": [
@@ -10416,6 +10422,7 @@
     "662061923",
     "662066535",
     "662066676",
-    "662068096"
+    "662068096",
+    "662069085"
   ]
 }
