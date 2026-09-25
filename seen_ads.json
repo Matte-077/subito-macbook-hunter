@@ -8663,6 +8663,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatil",
       "last_seen": "2026-09-25 08:57:19"
+    },
+    "662072478": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14\" M3 PRO 18GB/512GB GARANZIA 12 MESI",
+      "last_seen": "2026-09-25 09:27:41"
     }
   },
   "seen_ids": [
@@ -10423,6 +10429,7 @@
     "662066535",
     "662066676",
     "662068096",
-    "662069085"
+    "662069085",
+    "662072478"
   ]
 }
