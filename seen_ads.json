@@ -8981,6 +8981,18 @@
       "notified": false,
       "title": "MacBook Air 13” M3 16GB/256GB Grigio Siderale",
       "last_seen": "2026-09-25 19:05:18"
+    },
+    "662152101": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" 2017 i7 16GB 512GB Radeon 560",
+      "last_seen": "2026-09-25 19:27:54"
+    },
+    "662151769": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16’’ - M1 PRO - SILVER",
+      "last_seen": "2026-09-25 19:27:37"
     }
   },
   "seen_ids": [
@@ -10794,6 +10806,8 @@
     "662146176",
     "662148791",
     "662149754",
-    "662150076"
+    "662150076",
+    "662151769",
+    "662152101"
   ]
 }
