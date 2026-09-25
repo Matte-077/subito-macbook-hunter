@@ -8843,6 +8843,12 @@
       "notified": false,
       "title": "MacBook Neo in garanzia con scontrino",
       "last_seen": "2026-09-25 14:07:49"
+    },
+    "662115143": {
+      "last_price": 2550.0,
+      "notified": false,
+      "title": "MacBook Pro 16 pollici m4 Max",
+      "last_seen": "2026-09-25 14:40:23"
     }
   },
   "seen_ids": [
@@ -10633,6 +10639,7 @@
     "662106148",
     "662107364",
     "662107754",
-    "662110036"
+    "662110036",
+    "662115143"
   ]
 }
