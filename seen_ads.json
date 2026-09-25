@@ -8969,6 +8969,18 @@
       "notified": false,
       "title": "MacBook Pro 14 M1 Pro",
       "last_seen": "2026-09-25 18:55:43"
+    },
+    "662150076": {
+      "last_price": 14.0,
+      "notified": false,
+      "title": "CAVO USB-C TO HDMI",
+      "last_seen": "2026-09-25 19:05:34"
+    },
+    "662149754": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Air 13” M3 16GB/256GB Grigio Siderale",
+      "last_seen": "2026-09-25 19:05:18"
     }
   },
   "seen_ids": [
@@ -10780,6 +10792,8 @@
     "662143172",
     "662145959",
     "662146176",
-    "662148791"
+    "662148791",
+    "662149754",
+    "662150076"
   ]
 }
