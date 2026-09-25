@@ -8993,6 +8993,24 @@
       "notified": false,
       "title": "MACBOOK PRO 16’’ - M1 PRO - SILVER",
       "last_seen": "2026-09-25 19:27:37"
+    },
+    "662153307": {
+      "last_price": 2300.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M3 MAX AppleCare+",
+      "last_seen": "2026-09-25 19:40:29"
+    },
+    "662154762": {
+      "last_price": 32.0,
+      "notified": false,
+      "title": "Nexode 100W Caricatore USB C Caricabatterie Ricari",
+      "last_seen": "2026-09-25 19:52:58"
+    },
+    "662153219": {
+      "last_price": 569.0,
+      "notified": false,
+      "title": "Macbook Pro i9 Ram 16 Gb SSD 512 Gb 2019 Touchbar",
+      "last_seen": "2026-09-25 19:40:24"
     }
   },
   "seen_ids": [
@@ -10808,6 +10826,9 @@
     "662149754",
     "662150076",
     "662151769",
-    "662152101"
+    "662152101",
+    "662153219",
+    "662153307",
+    "662154762"
   ]
 }
