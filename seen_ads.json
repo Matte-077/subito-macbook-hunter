@@ -9107,6 +9107,12 @@
       "notified": false,
       "title": "MacBook Pro (15 pollici, 2019) - funzionante",
       "last_seen": "2026-09-25 22:56:16"
+    },
+    "662170514": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Pro 2019 16” i9 64GB RAM APPLE Fattura mac",
+      "last_seen": "2026-09-25 23:25:27"
     }
   },
   "seen_ids": [
@@ -10941,6 +10947,7 @@
     "662165648",
     "662166258",
     "662168184",
-    "662169549"
+    "662169549",
+    "662170514"
   ]
 }
