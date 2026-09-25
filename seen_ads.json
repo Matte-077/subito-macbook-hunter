@@ -8795,6 +8795,12 @@
       "notified": false,
       "title": "Macbook PRO M1 - 512 GB",
       "last_seen": "2026-09-25 12:34:22"
+    },
+    "662101018": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "Macbook Pro 16\" 2019 intel i9 1TB ssd 16gb ram",
+      "last_seen": "2026-09-25 12:49:28"
     }
   },
   "seen_ids": [
@@ -10577,6 +10583,7 @@
     "662097517",
     "662098122",
     "662098441",
-    "662099609"
+    "662099609",
+    "662101018"
   ]
 }
