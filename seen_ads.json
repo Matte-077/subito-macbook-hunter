@@ -8873,6 +8873,18 @@
       "notified": false,
       "title": "Macbook Pro 13 A1502 display rotto.",
       "last_seen": "2026-09-25 15:51:50"
+    },
+    "662126138": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "Mac Book Pro M1 16GB - SSD 512GB",
+      "last_seen": "2026-09-25 16:08:03"
+    },
+    "662125293": {
+      "last_price": 80.0,
+      "notified": false,
+      "title": "Macbook Pro 13 2017 problema display",
+      "last_seen": "2026-09-25 15:59:55"
     }
   },
   "seen_ids": [
@@ -10668,6 +10680,8 @@
     "662116956",
     "662120015",
     "662121895",
-    "662124215"
+    "662124215",
+    "662125293",
+    "662126138"
   ]
 }
