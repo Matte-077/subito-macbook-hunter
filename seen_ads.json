@@ -8699,6 +8699,18 @@
       "notified": false,
       "title": "IPAD PRO 13\" M4 256GB cellular",
       "last_seen": "2026-09-25 10:13:27"
+    },
+    "662079942": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w x MacBook Pro 13/14",
+      "last_seen": "2026-09-25 10:28:56"
+    },
+    "662081099": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro M1 Pro 16\" - 512/16",
+      "last_seen": "2026-09-25 10:37:01"
     }
   },
   "seen_ids": [
@@ -10465,6 +10477,8 @@
     "662076235",
     "662077534",
     "662077852",
-    "662079138"
+    "662079138",
+    "662079942",
+    "662081099"
   ]
 }
