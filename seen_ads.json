@@ -2953,7 +2953,7 @@
       "notified": false
     },
     "660274746": {
-      "last_price": 1950.0,
+      "last_price": 1900.0,
       "notified": false,
       "title": "MacBook Pro 14” M2 Max 32GB 1TB - Nuovo",
       "last_seen": "2026-09-10 22:17:16"
@@ -8759,6 +8759,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 15 2018 i7 16GB 1TB Radeon 560X",
       "last_seen": "2026-09-25 11:47:03"
+    },
+    "662094004": {
+      "last_price": 349.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2018 — i5 / 16GB / 256GB SSD",
+      "last_seen": "2026-09-25 11:54:55"
     }
   },
   "seen_ids": [
@@ -10535,6 +10541,7 @@
     "662088728",
     "662091139",
     "662092012",
-    "662092813"
+    "662092813",
+    "662094004"
   ]
 }
