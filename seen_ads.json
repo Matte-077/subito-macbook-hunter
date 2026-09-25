@@ -8203,7 +8203,7 @@
       "last_seen": "2026-09-24 09:30:08"
     },
     "661951500": {
-      "last_price": 850.0,
+      "last_price": 800.0,
       "notified": true,
       "title": "MacBook Pro M1 Pro 16\" 16Gb 512Gb",
       "last_seen": "2026-09-24 11:30:26"
@@ -8639,6 +8639,18 @@
       "notified": false,
       "title": "Scheda Madre MSI Z890 EDGE TI WIFI Intel 1851",
       "last_seen": "2026-09-25 06:57:23"
+    },
+    "662066535": {
+      "last_price": 25.0,
+      "notified": false,
+      "title": "Cover Spigen Compatibile con MacBook Pro 14 inch",
+      "last_seen": "2026-09-25 08:21:15"
+    },
+    "662066676": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "macbook pro 16 tiouch",
+      "last_seen": "2026-09-25 08:21:21"
     }
   },
   "seen_ids": [
@@ -10395,6 +10407,8 @@
     "662049457",
     "662051209",
     "662053066",
-    "662061923"
+    "662061923",
+    "662066535",
+    "662066676"
   ]
 }
