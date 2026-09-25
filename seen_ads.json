@@ -8633,6 +8633,12 @@
       "notified": false,
       "title": "MacBook Pro 16\" M4 Pro 24GB Ram + Magic Mouse",
       "last_seen": "2026-09-24 23:48:27"
+    },
+    "662061923": {
+      "last_price": 260.0,
+      "notified": false,
+      "title": "Scheda Madre MSI Z890 EDGE TI WIFI Intel 1851",
+      "last_seen": "2026-09-25 06:57:23"
     }
   },
   "seen_ids": [
@@ -10388,6 +10394,7 @@
     "662048646",
     "662049457",
     "662051209",
-    "662053066"
+    "662053066",
+    "662061923"
   ]
 }
