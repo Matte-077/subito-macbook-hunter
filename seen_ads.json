@@ -8849,6 +8849,12 @@
       "notified": false,
       "title": "MacBook Pro 16 pollici m4 Max",
       "last_seen": "2026-09-25 14:40:23"
+    },
+    "662116956": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" 2021 M1 Pro 10-core 16GB 512GB",
+      "last_seen": "2026-09-25 14:56:16"
     }
   },
   "seen_ids": [
@@ -10640,6 +10646,7 @@
     "662107364",
     "662107754",
     "662110036",
-    "662115143"
+    "662115143",
+    "662116956"
   ]
 }
