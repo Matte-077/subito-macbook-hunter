@@ -8921,6 +8921,12 @@
       "notified": false,
       "title": "MacBook Pro 16” 512Gb 2019 - come nuovo",
       "last_seen": "2026-09-25 17:28:53"
+    },
+    "662139829": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "MacBook Pro 15 Intel Core I7 16/512 Radeon Pro 4GB",
+      "last_seen": "2026-09-25 17:45:09"
     }
   },
   "seen_ids": [
@@ -10724,6 +10730,7 @@
     "662133027",
     "662134093",
     "662135455",
-    "662137424"
+    "662137424",
+    "662139829"
   ]
 }
