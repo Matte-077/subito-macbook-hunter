@@ -8669,6 +8669,18 @@
       "notified": false,
       "title": "MACBOOK PRO 14\" M3 PRO 18GB/512GB GARANZIA 12 MESI",
       "last_seen": "2026-09-25 09:27:41"
+    },
+    "662076235": {
+      "last_price": 1900.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" Apple M5 (2026)",
+      "last_seen": "2026-09-25 10:04:53"
+    },
+    "662075649": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "Macbook pro M4 13” 1 tera nero con applecare+",
+      "last_seen": "2026-09-25 09:57:31"
     }
   },
   "seen_ids": [
@@ -10430,6 +10442,8 @@
     "662066676",
     "662068096",
     "662069085",
-    "662072478"
+    "662072478",
+    "662075649",
+    "662076235"
   ]
 }
