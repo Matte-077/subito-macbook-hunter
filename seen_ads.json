@@ -8945,6 +8945,12 @@
       "notified": false,
       "title": "IPHONE 18 PRO MAX 1TB nuovo",
       "last_seen": "2026-09-25 18:03:17"
+    },
+    "662143172": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Macbook pro",
+      "last_seen": "2026-09-25 18:09:39"
     }
   },
   "seen_ids": [
@@ -10752,6 +10758,7 @@
     "662137424",
     "662139829",
     "662141819",
-    "662142089"
+    "662142089",
+    "662143172"
   ]
 }
