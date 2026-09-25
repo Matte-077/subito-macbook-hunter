@@ -8885,6 +8885,30 @@
       "notified": false,
       "title": "Macbook Pro 13 2017 problema display",
       "last_seen": "2026-09-25 15:59:55"
+    },
+    "662134093": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M4 MAX PERFETTO",
+      "last_seen": "2026-09-25 17:04:19"
+    },
+    "662133027": {
+      "last_price": 250.0,
+      "notified": true,
+      "title": "Macbook Pro 16’ M1 1 TB 16 GB scheda logica rotta",
+      "last_seen": "2026-09-25 16:55:50"
+    },
+    "662132182": {
+      "last_price": 580.0,
+      "notified": false,
+      "title": "MACBOOK PRO 13’’ 8 Gb / 512 Gb M1 Grigio Siderale",
+      "last_seen": "2026-09-25 16:47:49"
+    },
+    "662132668": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M2 (2022) - 8GB/512GB - Come nuovo",
+      "last_seen": "2026-09-25 16:55:37"
     }
   },
   "seen_ids": [
@@ -10682,6 +10706,10 @@
     "662121895",
     "662124215",
     "662125293",
-    "662126138"
+    "662126138",
+    "662132182",
+    "662132668",
+    "662133027",
+    "662134093"
   ]
 }
