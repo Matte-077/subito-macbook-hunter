@@ -9029,6 +9029,18 @@
       "notified": false,
       "title": "Nexode 145W Power Bank 25000mAh Caricatore Portat",
       "last_seen": "2026-09-25 19:53:06"
+    },
+    "662154426": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "UGREEN Nexode Pro 100W Caricatore USB C Ricarica R",
+      "last_seen": "2026-09-25 20:21:50"
+    },
+    "662152191": {
+      "last_price": 119.0,
+      "notified": false,
+      "title": "REDMI A7 PRO 64GB e 128 GB",
+      "last_seen": "2026-09-25 20:21:16"
     }
   },
   "seen_ids": [
@@ -10845,8 +10857,10 @@
     "662150076",
     "662151769",
     "662152101",
+    "662152191",
     "662153219",
     "662153307",
+    "662154426",
     "662154762",
     "662154897",
     "662155057",
