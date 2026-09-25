@@ -1553,10 +1553,10 @@
       "notified": false
     },
     "659516629": {
-      "last_price": 250.0,
+      "last_price": 230.0,
       "notified": false,
       "title": "Macbook Pro 2015 retina 15  - 16gb ram - 500gb ssd",
-      "last_seen": "2026-09-20 18:40:49"
+      "last_seen": "2026-09-25 21:49:40"
     },
     "659539347": {
       "last_price": 45.0,
@@ -9059,6 +9059,18 @@
       "notified": false,
       "title": "Due MacBook Pro 15 pollici 2017",
       "last_seen": "2026-09-25 21:31:57"
+    },
+    "662164255": {
+      "last_price": 1649.0,
+      "notified": false,
+      "title": "iPhone 18 Pro Max 256 Giga Nuovi Sigilati",
+      "last_seen": "2026-09-25 21:51:10"
+    },
+    "662164021": {
+      "last_price": 1649.0,
+      "notified": false,
+      "title": "iPhone 18 Pro Max 256 Giga Nuovi Sigilati 🔥",
+      "last_seen": "2026-09-25 21:50:54"
     }
   },
   "seen_ids": [
@@ -10885,6 +10897,8 @@
     "662155500",
     "662161101",
     "662162099",
-    "662163252"
+    "662163252",
+    "662164021",
+    "662164255"
   ]
 }
