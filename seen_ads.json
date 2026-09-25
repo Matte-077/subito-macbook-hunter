@@ -8717,6 +8717,12 @@
       "notified": false,
       "title": "MacBook Pro da 14 M3 8GB/512GB CON GARANZIA",
       "last_seen": "2026-09-25 10:52:34"
+    },
+    "662085408": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 2019 i7 16GB 512GB SSD Radeon",
+      "last_seen": "2026-09-25 11:00:51"
     }
   },
   "seen_ids": [
@@ -10486,6 +10492,7 @@
     "662079138",
     "662079942",
     "662081099",
-    "662082787"
+    "662082787",
+    "662085408"
   ]
 }
