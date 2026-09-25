@@ -9077,6 +9077,24 @@
       "notified": false,
       "title": "iPhone SE 128 Giga Con Garanzia",
       "last_seen": "2026-09-25 21:52:13"
+    },
+    "662165648": {
+      "last_price": 529.0,
+      "notified": false,
+      "title": "iPhone 16 128 Giga Con Garanzia 1 Anno 🔥",
+      "last_seen": "2026-09-25 22:08:17"
+    },
+    "662165502": {
+      "last_price": 719.0,
+      "notified": false,
+      "title": "iPhone 16 Pro 128 Giga Con Garanzia 🔥",
+      "last_seen": "2026-09-25 22:08:06"
+    },
+    "662166258": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "Macbook M3 Pro 16’’ CON ASSICURAZIONE ATTIVA",
+      "last_seen": "2026-09-25 22:08:50"
     }
   },
   "seen_ids": [
@@ -10906,6 +10924,9 @@
     "662163252",
     "662164021",
     "662164255",
-    "662165219"
+    "662165219",
+    "662165502",
+    "662165648",
+    "662166258"
   ]
 }
