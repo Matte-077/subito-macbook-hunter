@@ -8867,6 +8867,12 @@
       "notified": false,
       "title": "Macbook Pro 16 2019",
       "last_seen": "2026-09-25 15:43:06"
+    },
+    "662124215": {
+      "last_price": 70.0,
+      "notified": false,
+      "title": "Macbook Pro 13 A1502 display rotto.",
+      "last_seen": "2026-09-25 15:51:50"
     }
   },
   "seen_ids": [
@@ -10661,6 +10667,7 @@
     "662115143",
     "662116956",
     "662120015",
-    "662121895"
+    "662121895",
+    "662124215"
   ]
 }
