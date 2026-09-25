@@ -8837,6 +8837,12 @@
       "notified": false,
       "title": "Macbook Pro 14'' 16gb ram 512gb ssd",
       "last_seen": "2026-09-25 13:44:28"
+    },
+    "662110036": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Neo in garanzia con scontrino",
+      "last_seen": "2026-09-25 14:07:49"
     }
   },
   "seen_ids": [
@@ -10626,6 +10632,7 @@
     "662105814",
     "662106148",
     "662107364",
-    "662107754"
+    "662107754",
+    "662110036"
   ]
 }
