@@ -8681,6 +8681,24 @@
       "notified": false,
       "title": "Macbook pro M4 13” 1 tera nero con applecare+",
       "last_seen": "2026-09-25 09:57:31"
+    },
+    "662079138": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "Macbook pro m1 512g / 16 ram",
+      "last_seen": "2026-09-25 10:21:25"
+    },
+    "662077852": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15” retina SSD 250/Ram 16 Mid 2014",
+      "last_seen": "2026-09-25 10:13:27"
+    },
+    "662077534": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "IPAD PRO 13\" M4 256GB cellular",
+      "last_seen": "2026-09-25 10:13:27"
     }
   },
   "seen_ids": [
@@ -10444,6 +10462,9 @@
     "662069085",
     "662072478",
     "662075649",
-    "662076235"
+    "662076235",
+    "662077534",
+    "662077852",
+    "662079138"
   ]
 }
