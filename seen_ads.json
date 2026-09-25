@@ -8825,6 +8825,18 @@
       "notified": false,
       "title": "MacBook Pro 13” Grigio siderale 500GB, 16 GB RAM",
       "last_seen": "2026-09-25 13:29:27"
+    },
+    "662107754": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "MacBook Pro M1 Pro 14\"",
+      "last_seen": "2026-09-25 13:44:45"
+    },
+    "662107364": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "Macbook Pro 14'' 16gb ram 512gb ssd",
+      "last_seen": "2026-09-25 13:44:28"
     }
   },
   "seen_ids": [
@@ -10612,6 +10624,8 @@
     "662104296",
     "662105738",
     "662105814",
-    "662106148"
+    "662106148",
+    "662107364",
+    "662107754"
   ]
 }
