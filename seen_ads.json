@@ -9095,6 +9095,12 @@
       "notified": false,
       "title": "Macbook M3 Pro 16’’ CON ASSICURAZIONE ATTIVA",
       "last_seen": "2026-09-25 22:08:50"
+    },
+    "662168184": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 15” 32GB RAM i7 1TB SSD APPLE LAPTOP",
+      "last_seen": "2026-09-25 22:40:17"
     }
   },
   "seen_ids": [
@@ -10927,6 +10933,7 @@
     "662165219",
     "662165502",
     "662165648",
-    "662166258"
+    "662166258",
+    "662168184"
   ]
 }
