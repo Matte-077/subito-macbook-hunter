@@ -9053,6 +9053,12 @@
       "notified": false,
       "title": "MacBook Pro 16” 2019 – Intel i9 2,4 GHz",
       "last_seen": "2026-09-25 21:12:47"
+    },
+    "662163252": {
+      "last_price": 320.0,
+      "notified": false,
+      "title": "Due MacBook Pro 15 pollici 2017",
+      "last_seen": "2026-09-25 21:31:57"
     }
   },
   "seen_ids": [
@@ -10878,6 +10884,7 @@
     "662155057",
     "662155500",
     "662161101",
-    "662162099"
+    "662162099",
+    "662163252"
   ]
 }
