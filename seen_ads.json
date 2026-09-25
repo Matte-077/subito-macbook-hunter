@@ -4867,10 +4867,10 @@
       "last_seen": "2026-09-16 13:51:53"
     },
     "660954056": {
-      "last_price": 1900.0,
+      "last_price": 1600.0,
       "notified": false,
       "title": "MacBook PRO M4 14\" 1TB con display nanotexture",
-      "last_seen": "2026-09-18 14:29:51"
+      "last_seen": "2026-09-25 14:31:31"
     },
     "660954218": {
       "last_price": null,
@@ -5709,7 +5709,7 @@
       "last_seen": "2026-09-22 11:10:12"
     },
     "661235907": {
-      "last_price": 2250.0,
+      "last_price": 2150.0,
       "notified": false,
       "title": "MacBook Pro Max M3  16”",
       "last_seen": "2026-09-18 18:05:51"
@@ -8915,6 +8915,12 @@
       "notified": true,
       "title": "Macbook Pro 14 M3 Pro 18GB RAM 512GB SSD",
       "last_seen": "2026-09-25 17:12:32"
+    },
+    "662137424": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 512Gb 2019 - come nuovo",
+      "last_seen": "2026-09-25 17:28:53"
     }
   },
   "seen_ids": [
@@ -10717,6 +10723,7 @@
     "662132668",
     "662133027",
     "662134093",
-    "662135455"
+    "662135455",
+    "662137424"
   ]
 }
