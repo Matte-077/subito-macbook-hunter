@@ -8807,6 +8807,24 @@
       "notified": false,
       "title": "Macbook Pro 14” M4",
       "last_seen": "2026-09-25 13:14:13"
+    },
+    "662105814": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "MacBook Pro 15” 2018 i7 6-Core – 16GB RAM – 256GB",
+      "last_seen": "2026-09-25 13:35:58"
+    },
+    "662106148": {
+      "last_price": 70.0,
+      "notified": false,
+      "title": "Ssd 512 gb originale MacBook",
+      "last_seen": "2026-09-25 13:29:45"
+    },
+    "662105738": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro 13” Grigio siderale 500GB, 16 GB RAM",
+      "last_seen": "2026-09-25 13:29:27"
     }
   },
   "seen_ids": [
@@ -10591,6 +10609,9 @@
     "662098441",
     "662099609",
     "662101018",
-    "662104296"
+    "662104296",
+    "662105738",
+    "662105814",
+    "662106148"
   ]
 }
