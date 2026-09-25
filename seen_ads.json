@@ -9011,6 +9011,24 @@
       "notified": false,
       "title": "Macbook Pro i9 Ram 16 Gb SSD 512 Gb 2019 Touchbar",
       "last_seen": "2026-09-25 19:40:24"
+    },
+    "662155500": {
+      "last_price": 37.0,
+      "notified": false,
+      "title": "Nexode Pro 100W Caricatore USB C Ricarica Rapida G",
+      "last_seen": "2026-09-25 20:06:37"
+    },
+    "662155057": {
+      "last_price": 22.0,
+      "notified": false,
+      "title": "Nexode Air 65W Caricatore USB C con Cable USB C (G",
+      "last_seen": "2026-09-25 19:53:15"
+    },
+    "662154897": {
+      "last_price": 47.0,
+      "notified": false,
+      "title": "Nexode 145W Power Bank 25000mAh Caricatore Portat",
+      "last_seen": "2026-09-25 19:53:06"
     }
   },
   "seen_ids": [
@@ -10829,6 +10847,9 @@
     "662152101",
     "662153219",
     "662153307",
-    "662154762"
+    "662154762",
+    "662154897",
+    "662155057",
+    "662155500"
   ]
 }
