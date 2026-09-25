@@ -8765,6 +8765,24 @@
       "notified": false,
       "title": "MacBook Pro 13\" 2018 — i5 / 16GB / 256GB SSD",
       "last_seen": "2026-09-25 11:54:55"
+    },
+    "662097517": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” M2 – 8GB/256GB – Perfetto",
+      "last_seen": "2026-09-25 12:18:32"
+    },
+    "662087977": {
+      "last_price": 139.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2020 🍏 8GB RAM 2TB SSD 🛑Ricambio",
+      "last_seen": "2026-09-25 12:26:12"
+    },
+    "662098441": {
+      "last_price": 830.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M1 Pro 16GB RAM 512GB SSD",
+      "last_seen": "2026-09-25 12:26:35"
     }
   },
   "seen_ids": [
@@ -10538,10 +10556,13 @@
     "662081099",
     "662082787",
     "662085408",
+    "662087977",
     "662088728",
     "662091139",
     "662092012",
     "662092813",
-    "662094004"
+    "662094004",
+    "662097517",
+    "662098441"
   ]
 }
