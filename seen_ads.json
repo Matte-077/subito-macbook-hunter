@@ -8909,6 +8909,12 @@
       "notified": false,
       "title": "MacBook Pro 13\" M2 (2022) - 8GB/512GB - Come nuovo",
       "last_seen": "2026-09-25 16:55:37"
+    },
+    "662135455": {
+      "last_price": 700.0,
+      "notified": true,
+      "title": "Macbook Pro 14 M3 Pro 18GB RAM 512GB SSD",
+      "last_seen": "2026-09-25 17:12:32"
     }
   },
   "seen_ids": [
@@ -10710,6 +10716,7 @@
     "662132182",
     "662132668",
     "662133027",
-    "662134093"
+    "662134093",
+    "662135455"
   ]
 }
