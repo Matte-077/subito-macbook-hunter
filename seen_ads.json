@@ -8735,6 +8735,18 @@
       "notified": false,
       "title": "Apple MacBook Pro 13\" 2020  8GB RAM 2TB SSD",
       "last_seen": "2026-09-25 11:16:00"
+    },
+    "662092012": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "MacBook pro Retina 13’’ 2014- Windows 11pro",
+      "last_seen": "2026-09-25 11:39:43"
+    },
+    "662091139": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "MacBook Pro Retina13” (2014) Windows 11 pro",
+      "last_seen": "2026-09-25 11:39:13"
     }
   },
   "seen_ids": [
@@ -10507,6 +10519,8 @@
     "662081099",
     "662082787",
     "662085408",
-    "662088728"
+    "662088728",
+    "662091139",
+    "662092012"
   ]
 }
