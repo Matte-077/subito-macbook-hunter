@@ -8771,7 +8771,7 @@
       "last_seen": "2026-09-25 11:54:55"
     },
     "662097517": {
-      "last_price": 749.0,
+      "last_price": 729.0,
       "notified": false,
       "title": "Apple MacBook Pro 13” M2 – 8GB/256GB – Perfetto",
       "last_seen": "2026-09-25 12:18:32"
@@ -9339,6 +9339,12 @@
       "notified": false,
       "title": "MacBook pro 15 pollici Retina touchbar",
       "last_seen": "2026-09-26 17:29:59"
+    },
+    "658121930": {
+      "last_price": 210.0,
+      "notified": false,
+      "title": "MACBOOK PRO A1425  integro e funzionante",
+      "last_seen": "2026-09-26 17:43:50"
     }
   },
   "seen_ids": [
@@ -9522,6 +9528,7 @@
     "658038207",
     "658054715",
     "658083721",
+    "658121930",
     "658155882",
     "658159778",
     "658164750",
