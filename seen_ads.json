@@ -9131,6 +9131,30 @@
       "notified": false,
       "title": "PC Gaming i9-13900 | RTX 4070 Super | 64GB DDR5 |",
       "last_seen": "2026-09-25 22:40:40"
+    },
+    "662182161": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 16 m1 anno 2022 63 cicli nuovo complet",
+      "last_seen": "2026-09-26 08:19:00"
+    },
+    "662182462": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 2019 i7 16GB 512GB SSD Radeon",
+      "last_seen": "2026-09-26 08:19:23"
+    },
+    "662182317": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 16” TouchBar 512GB 2019 Space Grey",
+      "last_seen": "2026-09-26 08:19:10"
+    },
+    "662181012": {
+      "last_price": 129.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" 2020 8GB RAM 2TB SSD",
+      "last_seen": "2026-09-26 08:19:28"
     }
   },
   "seen_ids": [
@@ -10969,6 +10993,10 @@
     "662169549",
     "662170514",
     "662180846",
-    "662180946"
+    "662180946",
+    "662181012",
+    "662182161",
+    "662182317",
+    "662182462"
   ]
 }
