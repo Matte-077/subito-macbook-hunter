@@ -9185,6 +9185,12 @@
       "notified": false,
       "title": "Macbook Pro M3 36gb 512ssd",
       "last_seen": "2026-09-26 10:48:39"
+    },
+    "662202041": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "MacBook Pro M1 2021 16 pollici",
+      "last_seen": "2026-09-26 11:04:34"
     }
   },
   "seen_ids": [
@@ -11032,6 +11038,7 @@
     "662191366",
     "662194627",
     "662195024",
-    "662199056"
+    "662199056",
+    "662202041"
   ]
 }
