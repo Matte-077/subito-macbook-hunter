@@ -9417,6 +9417,12 @@
       "notified": false,
       "title": "MacBook Pro 13” Apple M1 - Anno 2020",
       "last_seen": "2026-09-26 20:39:05"
+    },
+    "662281906": {
+      "last_price": 840.0,
+      "notified": false,
+      "title": "iPhone 17 Pro Max Blu 256GB",
+      "last_seen": "2026-09-26 21:33:28"
     }
   },
   "seen_ids": [
@@ -11302,6 +11308,7 @@
     "662267755",
     "662273872",
     "662278103",
-    "662278269"
+    "662278269",
+    "662281906"
   ]
 }
