@@ -5297,8 +5297,10 @@
       "notified": false
     },
     "661105877": {
-      "last_price": null,
-      "notified": false
+      "last_price": 580.0,
+      "notified": false,
+      "title": "MacBook pro 13 M1 8/256GB usato garanzia",
+      "last_seen": "2026-09-26 15:02:52"
     },
     "661106425": {
       "last_price": null,
@@ -9271,6 +9273,30 @@
       "notified": false,
       "title": "IPHONE 18 PRO MAX 1TB nuovo",
       "last_seen": "2026-09-26 13:52:33"
+    },
+    "650586193": {
+      "last_price": 759.0,
+      "notified": false,
+      "title": "apple macbook pro M1 16gb ram 512 ssd",
+      "last_seen": "2026-09-26 15:03:19"
+    },
+    "662237201": {
+      "last_price": 174.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" A2141 2019 i7 Radeon Pro- Ricambi",
+      "last_seen": "2026-09-26 14:49:06"
+    },
+    "656941037": {
+      "last_price": 320.0,
+      "notified": false,
+      "title": "MacBook Pro Retina 256Gb",
+      "last_seen": "2026-09-26 15:04:49"
+    },
+    "662230322": {
+      "last_price": 119.0,
+      "notified": false,
+      "title": "REDMI A7 PRO 64GB e 128 GB",
+      "last_seen": "2026-09-26 14:47:31"
     }
   },
   "seen_ids": [
@@ -9350,6 +9376,7 @@
     "650080726",
     "650403865",
     "650512384",
+    "650586193",
     "650691752",
     "650770900",
     "650803529",
@@ -9431,6 +9458,7 @@
     "656888642",
     "656910452",
     "656938386",
+    "656941037",
     "657114113",
     "657138352",
     "657300543",
@@ -11131,7 +11159,9 @@
     "662222169",
     "662222804",
     "662225763",
+    "662230322",
     "662230397",
-    "662231281"
+    "662231281",
+    "662237201"
   ]
 }
