@@ -8977,10 +8977,10 @@
       "last_seen": "2026-09-25 19:05:34"
     },
     "662149754": {
-      "last_price": 650.0,
+      "last_price": 600.0,
       "notified": false,
       "title": "MacBook Air 13” M3 16GB/256GB Grigio Siderale",
-      "last_seen": "2026-09-25 19:05:18"
+      "last_seen": "2026-09-25 21:48:03"
     },
     "662152101": {
       "last_price": 440.0,
@@ -9167,6 +9167,18 @@
       "notified": true,
       "title": "MacBook Pro 16 pollici (2021) M1 Pro",
       "last_seen": "2026-09-26 10:01:04"
+    },
+    "662195024": {
+      "last_price": 1449.0,
+      "notified": false,
+      "title": "MACBOOK 14\" M3 PRO 18GB/512GB - USATO GARANTITO",
+      "last_seen": "2026-09-26 10:17:55"
+    },
+    "662194627": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M2 MAx 32Gb RAM",
+      "last_seen": "2026-09-26 10:17:39"
     }
   },
   "seen_ids": [
@@ -11011,6 +11023,8 @@
     "662182161",
     "662182317",
     "662182462",
-    "662191366"
+    "662191366",
+    "662194627",
+    "662195024"
   ]
 }
