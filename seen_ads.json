@@ -9259,6 +9259,18 @@
       "notified": false,
       "title": "macbook pro m1",
       "last_seen": "2026-09-26 13:29:23"
+    },
+    "662231281": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "IPHONE 16 PRO MAX 256GB titanio sabbia",
+      "last_seen": "2026-09-26 14:04:45"
+    },
+    "662230397": {
+      "last_price": 2299.0,
+      "notified": false,
+      "title": "IPHONE 18 PRO MAX 1TB nuovo",
+      "last_seen": "2026-09-26 13:52:33"
     }
   },
   "seen_ids": [
@@ -11118,6 +11130,8 @@
     "662221740",
     "662222169",
     "662222804",
-    "662225763"
+    "662225763",
+    "662230397",
+    "662231281"
   ]
 }
