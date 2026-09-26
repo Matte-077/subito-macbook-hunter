@@ -9363,6 +9363,12 @@
       "notified": false,
       "title": "MacBook Pro 13” 2019 guasto per ricambi",
       "last_seen": "2026-09-26 17:59:48"
+    },
+    "662262532": {
+      "last_price": 8.0,
+      "notified": false,
+      "title": "Cover MacBook Pro 13\" M1 + Scatola",
+      "last_seen": "2026-09-26 18:14:36"
     }
   },
   "seen_ids": [
@@ -11239,6 +11245,7 @@
     "662257415",
     "662260841",
     "662261446",
-    "662261539"
+    "662261539",
+    "662262532"
   ]
 }
