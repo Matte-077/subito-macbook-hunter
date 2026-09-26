@@ -9155,6 +9155,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 13\" 2020 8GB RAM 2TB SSD",
       "last_seen": "2026-09-26 08:19:28"
+    },
+    "662182049": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "MacBook Pro A1706 8 giga 512 gb SSD ( schermo nuo)",
+      "last_seen": "2026-09-26 09:31:19"
     }
   },
   "seen_ids": [
@@ -10995,6 +11001,7 @@
     "662180846",
     "662180946",
     "662181012",
+    "662182049",
     "662182161",
     "662182317",
     "662182462"
