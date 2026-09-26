@@ -9423,6 +9423,12 @@
       "notified": false,
       "title": "iPhone 17 Pro Max Blu 256GB",
       "last_seen": "2026-09-26 21:33:28"
+    },
+    "662284613": {
+      "last_price": 799.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2020 ,i7 ,16 GB Ricondiz. da Apple",
+      "last_seen": "2026-09-26 22:13:35"
     }
   },
   "seen_ids": [
@@ -11309,6 +11315,7 @@
     "662273872",
     "662278103",
     "662278269",
-    "662281906"
+    "662281906",
+    "662284613"
   ]
 }
