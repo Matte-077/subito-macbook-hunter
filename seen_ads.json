@@ -9333,6 +9333,12 @@
       "notified": true,
       "title": "Display MacBook Pro M1 A2338 - LCD rotto - Ricambi",
       "last_seen": "2026-09-26 17:15:22"
+    },
+    "662257415": {
+      "last_price": 790.0,
+      "notified": false,
+      "title": "MacBook pro 15 pollici Retina touchbar",
+      "last_seen": "2026-09-26 17:29:59"
     }
   },
   "seen_ids": [
@@ -11204,6 +11210,7 @@
     "662252444",
     "662252791",
     "662255993",
-    "662256327"
+    "662256327",
+    "662257415"
   ]
 }
