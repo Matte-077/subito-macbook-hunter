@@ -9253,6 +9253,12 @@
       "notified": false,
       "title": "Macbook Pro M5 24gb ram 1TB ssd nuovo",
       "last_seen": "2026-09-26 13:18:27"
+    },
+    "662207417": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "macbook pro m1",
+      "last_seen": "2026-09-26 13:29:23"
     }
   },
   "seen_ids": [
@@ -11102,6 +11108,7 @@
     "662195024",
     "662199056",
     "662202041",
+    "662207417",
     "662210927",
     "662212601",
     "662213735",
