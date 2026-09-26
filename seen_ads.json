@@ -9321,6 +9321,18 @@
       "notified": true,
       "title": "Apple MacBook Pro M2 Pro",
       "last_seen": "2026-09-26 16:59:02"
+    },
+    "662256327": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "Permuto Macbook Air 2020 con Pro 15 /16",
+      "last_seen": "2026-09-26 17:15:38"
+    },
+    "662255993": {
+      "last_price": 150.0,
+      "notified": true,
+      "title": "Display MacBook Pro M1 A2338 - LCD rotto - Ricambi",
+      "last_seen": "2026-09-26 17:15:22"
     }
   },
   "seen_ids": [
@@ -11190,6 +11202,8 @@
     "662241218",
     "662241752",
     "662252444",
-    "662252791"
+    "662252791",
+    "662255993",
+    "662256327"
   ]
 }
