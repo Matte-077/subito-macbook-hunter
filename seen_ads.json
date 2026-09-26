@@ -9161,6 +9161,12 @@
       "notified": false,
       "title": "MacBook Pro A1706 8 giga 512 gb SSD ( schermo nuo)",
       "last_seen": "2026-09-26 09:31:19"
+    },
+    "662191366": {
+      "last_price": 750.0,
+      "notified": true,
+      "title": "MacBook Pro 16 pollici (2021) M1 Pro",
+      "last_seen": "2026-09-26 10:01:04"
     }
   },
   "seen_ids": [
@@ -11004,6 +11010,7 @@
     "662182049",
     "662182161",
     "662182317",
-    "662182462"
+    "662182462",
+    "662191366"
   ]
 }
