@@ -9369,6 +9369,24 @@
       "notified": false,
       "title": "Cover MacBook Pro 13\" M1 + Scatola",
       "last_seen": "2026-09-26 18:14:36"
+    },
+    "662265793": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "MacBook Pro 16 inch M1 Pro (2021)",
+      "last_seen": "2026-09-26 18:30:29"
+    },
+    "662256447": {
+      "last_price": 2200.0,
+      "notified": false,
+      "title": "MacBook Pro 16’’ M3 Pro- 18GB RAM- BATTERIA 94%",
+      "last_seen": "2026-09-26 18:30:00"
+    },
+    "662264678": {
+      "last_price": null,
+      "notified": false,
+      "title": "Apple Macbook Air 13” chip M5 16/512gb (nuovo)",
+      "last_seen": "2026-09-26 18:29:37"
     }
   },
   "seen_ids": [
@@ -11242,10 +11260,13 @@
     "662252791",
     "662255993",
     "662256327",
+    "662256447",
     "662257415",
     "662260841",
     "662261446",
     "662261539",
-    "662262532"
+    "662262532",
+    "662264678",
+    "662265793"
   ]
 }
