@@ -9345,6 +9345,24 @@
       "notified": false,
       "title": "MACBOOK PRO A1425  integro e funzionante",
       "last_seen": "2026-09-26 17:43:50"
+    },
+    "662261539": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16 pollici",
+      "last_seen": "2026-09-26 18:00:18"
+    },
+    "662261446": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "Macbook Pro M1",
+      "last_seen": "2026-09-26 18:00:14"
+    },
+    "662260841": {
+      "last_price": 55.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2019 guasto per ricambi",
+      "last_seen": "2026-09-26 17:59:48"
     }
   },
   "seen_ids": [
@@ -11218,6 +11236,9 @@
     "662252791",
     "662255993",
     "662256327",
-    "662257415"
+    "662257415",
+    "662260841",
+    "662261446",
+    "662261539"
   ]
 }
