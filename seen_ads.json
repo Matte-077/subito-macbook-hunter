@@ -9193,6 +9193,30 @@
       "notified": false,
       "title": "MacBook Pro M1 2021 16 pollici",
       "last_seen": "2026-09-26 11:04:34"
+    },
+    "662212601": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "Macbook Pro 2019 i9 16\"",
+      "last_seen": "2026-09-26 12:01:11"
+    },
+    "662210927": {
+      "last_price": 2300.0,
+      "notified": false,
+      "title": "Macbook pro m5 pro 16\"",
+      "last_seen": "2026-09-26 11:52:00"
+    },
+    "662214665": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Touch Bar intel i7-1TB - 16Gb",
+      "last_seen": "2026-09-26 12:04:14"
+    },
+    "662213735": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "Notebook apple",
+      "last_seen": "2026-09-26 12:01:54"
     }
   },
   "seen_ids": [
@@ -11041,6 +11065,10 @@
     "662194627",
     "662195024",
     "662199056",
-    "662202041"
+    "662202041",
+    "662210927",
+    "662212601",
+    "662213735",
+    "662214665"
   ]
 }
