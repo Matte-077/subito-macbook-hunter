@@ -9429,6 +9429,12 @@
       "notified": false,
       "title": "MacBook Pro 16” 2020 ,i7 ,16 GB Ricondiz. da Apple",
       "last_seen": "2026-09-26 22:13:35"
+    },
+    "662287776": {
+      "last_price": 530.0,
+      "notified": false,
+      "title": "iPad Pro 12.9 (4 gen.) Wi-Fi + Cel. 128 gb",
+      "last_seen": "2026-09-26 23:19:26"
     }
   },
   "seen_ids": [
@@ -11316,6 +11322,7 @@
     "662278103",
     "662278269",
     "662281906",
-    "662284613"
+    "662284613",
+    "662287776"
   ]
 }
