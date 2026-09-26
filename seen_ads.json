@@ -8203,10 +8203,10 @@
       "last_seen": "2026-09-24 09:30:08"
     },
     "661951500": {
-      "last_price": 800.0,
+      "last_price": 790.0,
       "notified": true,
       "title": "MacBook Pro M1 Pro 16\" 16Gb 512Gb",
-      "last_seen": "2026-09-24 11:30:26"
+      "last_seen": "2026-09-25 09:48:37"
     },
     "661951029": {
       "last_price": 1.0,
@@ -9113,6 +9113,18 @@
       "notified": false,
       "title": "MacBook Pro 2019 16” i9 64GB RAM APPLE Fattura mac",
       "last_seen": "2026-09-25 23:25:27"
+    },
+    "662180946": {
+      "last_price": 215.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatil",
+      "last_seen": "2026-09-26 07:40:29"
+    },
+    "662180846": {
+      "last_price": 115.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 2015 i5 GB BATERIA RAM 8 GB",
+      "last_seen": "2026-09-26 07:40:22"
     }
   },
   "seen_ids": [
@@ -10948,6 +10960,8 @@
     "662166258",
     "662168184",
     "662169549",
-    "662170514"
+    "662170514",
+    "662180846",
+    "662180946"
   ]
 }
