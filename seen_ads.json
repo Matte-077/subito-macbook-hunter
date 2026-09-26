@@ -9315,6 +9315,12 @@
       "notified": false,
       "title": "MacBook Pro 16” (2019) Intel i7 / 16 GB RAM",
       "last_seen": "2026-09-26 16:45:19"
+    },
+    "662252791": {
+      "last_price": 960.0,
+      "notified": true,
+      "title": "Apple MacBook Pro M2 Pro",
+      "last_seen": "2026-09-26 16:59:02"
     }
   },
   "seen_ids": [
@@ -11183,6 +11189,7 @@
     "662237201",
     "662241218",
     "662241752",
-    "662252444"
+    "662252444",
+    "662252791"
   ]
 }
