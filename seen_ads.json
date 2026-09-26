@@ -97,7 +97,7 @@
       "last_seen": "2026-08-28 16:23:08"
     },
     "628842205": {
-      "last_price": 5900.0,
+      "last_price": 6490.0,
       "notified": false,
       "title": "MacBook Pro 16” M3 Max 40 Core 128 GB RAM 8 TB",
       "last_seen": "2026-08-04 21:34:45"
@@ -9229,6 +9229,18 @@
       "notified": false,
       "title": "MacBook Pro 16\" M5 PRO (48 GB / 1 TB)",
       "last_seen": "2026-09-26 12:29:55"
+    },
+    "662221740": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 14” 18gb/512gb M3 PRO- usato garantito",
+      "last_seen": "2026-09-26 12:43:32"
+    },
+    "662222169": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "Macbook Pro 13”",
+      "last_seen": "2026-09-26 12:50:39"
     }
   },
   "seen_ids": [
@@ -11083,6 +11095,8 @@
     "662213735",
     "662214665",
     "662217095",
-    "662219700"
+    "662219700",
+    "662221740",
+    "662222169"
   ]
 }
