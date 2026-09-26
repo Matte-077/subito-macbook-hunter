@@ -9125,6 +9125,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 2015 i5 GB BATERIA RAM 8 GB",
       "last_seen": "2026-09-26 07:40:22"
+    },
+    "662168587": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "PC Gaming i9-13900 | RTX 4070 Super | 64GB DDR5 |",
+      "last_seen": "2026-09-25 22:40:40"
     }
   },
   "seen_ids": [
@@ -10959,6 +10965,7 @@
     "662165648",
     "662166258",
     "662168184",
+    "662168587",
     "662169549",
     "662170514",
     "662180846",
