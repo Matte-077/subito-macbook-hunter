@@ -9405,6 +9405,18 @@
       "notified": false,
       "title": "MacBook Pro M4 Pro 512GB SSD 24GB RAM Nero Sideral",
       "last_seen": "2026-09-26 19:43:45"
+    },
+    "662278103": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" 2019 – Intel Core i9 – 16GB – 1TB",
+      "last_seen": "2026-09-26 20:38:57"
+    },
+    "662278269": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro 13” Apple M1 - Anno 2020",
+      "last_seen": "2026-09-26 20:39:05"
     }
   },
   "seen_ids": [
@@ -11288,6 +11300,8 @@
     "662265793",
     "662267093",
     "662267755",
-    "662273872"
+    "662273872",
+    "662278103",
+    "662278269"
   ]
 }
