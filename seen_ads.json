@@ -5642,7 +5642,7 @@
       "last_price": null,
       "notified": false,
       "title": "Apple MacBook Pro 13” con chip M1",
-      "last_seen": "2026-09-25 16:31:01"
+      "last_seen": "2026-09-26 16:43:12"
     },
     "661216644": {
       "last_price": 900.0,
@@ -9309,6 +9309,12 @@
       "notified": false,
       "title": "MacBook Pro 13\" 2018 — i5 quad core / 16GB / 256GB",
       "last_seen": "2026-09-26 15:26:09"
+    },
+    "662252444": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro 16” (2019) Intel i7 / 16 GB RAM",
+      "last_seen": "2026-09-26 16:45:19"
     }
   },
   "seen_ids": [
@@ -11176,6 +11182,7 @@
     "662231281",
     "662237201",
     "662241218",
-    "662241752"
+    "662241752",
+    "662252444"
   ]
 }
