@@ -9179,6 +9179,12 @@
       "notified": false,
       "title": "MacBook Pro 16\" M2 MAx 32Gb RAM",
       "last_seen": "2026-09-26 10:17:39"
+    },
+    "662199056": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "Macbook Pro M3 36gb 512ssd",
+      "last_seen": "2026-09-26 10:48:39"
     }
   },
   "seen_ids": [
@@ -11025,6 +11031,7 @@
     "662182462",
     "662191366",
     "662194627",
-    "662195024"
+    "662195024",
+    "662199056"
   ]
 }
