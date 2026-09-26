@@ -9387,6 +9387,18 @@
       "notified": false,
       "title": "Apple Macbook Air 13” chip M5 16/512gb (nuovo)",
       "last_seen": "2026-09-26 18:29:37"
+    },
+    "662267093": {
+      "last_price": null,
+      "notified": false,
+      "title": "Apple Macbook Air 13” 16/512gb (NUOVO)",
+      "last_seen": "2026-09-26 18:44:57"
+    },
+    "662267755": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "Macbook Pro 13” 2022",
+      "last_seen": "2026-09-26 18:45:30"
     }
   },
   "seen_ids": [
@@ -11267,6 +11279,8 @@
     "662261539",
     "662262532",
     "662264678",
-    "662265793"
+    "662265793",
+    "662267093",
+    "662267755"
   ]
 }
