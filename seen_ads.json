@@ -9399,6 +9399,12 @@
       "notified": false,
       "title": "Macbook Pro 13” 2022",
       "last_seen": "2026-09-26 18:45:30"
+    },
+    "662273872": {
+      "last_price": 1799.0,
+      "notified": false,
+      "title": "MacBook Pro M4 Pro 512GB SSD 24GB RAM Nero Sideral",
+      "last_seen": "2026-09-26 19:43:45"
     }
   },
   "seen_ids": [
@@ -11281,6 +11287,7 @@
     "662264678",
     "662265793",
     "662267093",
-    "662267755"
+    "662267755",
+    "662273872"
   ]
 }
