@@ -9297,6 +9297,18 @@
       "notified": false,
       "title": "REDMI A7 PRO 64GB e 128 GB",
       "last_seen": "2026-09-26 14:47:31"
+    },
+    "662241752": {
+      "last_price": null,
+      "notified": false,
+      "title": "MacBook Pro 16’’",
+      "last_seen": "2026-09-26 15:26:35"
+    },
+    "662241218": {
+      "last_price": 320.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2018 — i5 quad core / 16GB / 256GB",
+      "last_seen": "2026-09-26 15:26:09"
     }
   },
   "seen_ids": [
@@ -11162,6 +11174,8 @@
     "662230322",
     "662230397",
     "662231281",
-    "662237201"
+    "662237201",
+    "662241218",
+    "662241752"
   ]
 }
