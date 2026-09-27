@@ -9507,6 +9507,12 @@
       "notified": false,
       "title": "MacBook Pro 13” Apple M1 - Anno 2020 Perfetto",
       "last_seen": "2026-09-27 10:17:34"
+    },
+    "662310069": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "APPLE Led Cinema Display 27",
+      "last_seen": "2026-09-27 10:40:02"
     }
   },
   "seen_ids": [
@@ -11407,6 +11413,7 @@
     "662301086",
     "662303865",
     "662304427",
-    "662306094"
+    "662306094",
+    "662310069"
   ]
 }
