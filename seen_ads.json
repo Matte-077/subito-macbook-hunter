@@ -8015,7 +8015,7 @@
       "last_seen": "2026-09-23 17:32:19"
     },
     "661871718": {
-      "last_price": 80.0,
+      "last_price": 60.0,
       "notified": false,
       "title": "MacBook Pro, i5 2.5Ghz SDD 8gb DDR3, da riparare",
       "last_seen": "2026-09-23 17:32:44"
@@ -9447,6 +9447,12 @@
       "notified": false,
       "title": "MacBook Pro 16” 2019 i7 16GB 512GB Space Grey",
       "last_seen": "2026-09-27 02:57:26"
+    },
+    "662296907": {
+      "last_price": 159.0,
+      "notified": false,
+      "title": "Lotto apple iphone 12+12 mini + macbook pro",
+      "last_seen": "2026-09-27 08:26:30"
     }
   },
   "seen_ids": [
@@ -11337,6 +11343,7 @@
     "662284613",
     "662287776",
     "662290924",
-    "662293142"
+    "662293142",
+    "662296907"
   ]
 }
