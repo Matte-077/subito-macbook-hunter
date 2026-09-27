@@ -4015,7 +4015,7 @@
       "notified": false
     },
     "660698485": {
-      "last_price": 75.0,
+      "last_price": 65.0,
       "notified": false,
       "title": "MacBook Pro 15\" Retina (Mid 2015)",
       "last_seen": "2026-09-14 16:02:43"
@@ -9347,7 +9347,7 @@
       "last_seen": "2026-09-26 17:43:50"
     },
     "662261539": {
-      "last_price": 500.0,
+      "last_price": 450.0,
       "notified": false,
       "title": "Apple MacBook Pro 16 pollici",
       "last_seen": "2026-09-26 18:00:18"
@@ -9501,6 +9501,12 @@
       "notified": false,
       "title": "Macbook 13 pollici  2011 per pezzi di ricambio",
       "last_seen": "2026-09-27 09:58:51"
+    },
+    "662306094": {
+      "last_price": 580.0,
+      "notified": false,
+      "title": "MacBook Pro 13” Apple M1 - Anno 2020 Perfetto",
+      "last_seen": "2026-09-27 10:17:34"
     }
   },
   "seen_ids": [
@@ -11400,6 +11406,7 @@
     "662300845",
     "662301086",
     "662303865",
-    "662304427"
+    "662304427",
+    "662306094"
   ]
 }
