@@ -9665,6 +9665,12 @@
       "notified": false,
       "title": "MacBook Pro 16” 2019 i9 64GB 1TB Radeon 8GB",
       "last_seen": "2026-09-27 14:59:42"
+    },
+    "662344181": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "MacBook Pro 15” 2018 i7 16GB RAM 256GB",
+      "last_seen": "2026-09-27 15:20:36"
     }
   },
   "seen_ids": [
@@ -11591,6 +11597,7 @@
     "662337737",
     "662337884",
     "662338079",
-    "662338247"
+    "662338247",
+    "662344181"
   ]
 }
