@@ -9597,6 +9597,12 @@
       "notified": false,
       "title": "CalDigit TS4 dock Thunderbolt 4 18 porte 98W Mac",
       "last_seen": "2026-09-27 13:00:56"
+    },
+    "654094403": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" Intel Core i5, 16GB RAM-2020",
+      "last_seen": "2026-09-27 13:38:54"
     }
   },
   "seen_ids": [
@@ -9712,6 +9718,7 @@
     "653876015",
     "653933063",
     "653935768",
+    "654094403",
     "654220662",
     "654250320",
     "654311356",
