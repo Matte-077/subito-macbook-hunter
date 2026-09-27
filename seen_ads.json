@@ -9609,6 +9609,36 @@
       "notified": false,
       "title": "Macbook pro m1 13”",
       "last_seen": "2026-09-27 13:40:18"
+    },
+    "662338079": {
+      "last_price": 369.0,
+      "notified": false,
+      "title": "IPhone 14 Pro silver/bianco 128 giga (apple)",
+      "last_seen": "2026-09-27 14:21:42"
+    },
+    "662337737": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "IPhone 12 128 gb verde",
+      "last_seen": "2026-09-27 14:21:21"
+    },
+    "662335647": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "MACBOOK PRO 15” RETINA 16 GB ARGENTO",
+      "last_seen": "2026-09-27 14:19:22"
+    },
+    "662337884": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook Pro 13” touch bar A1706 Mid 2017 x ricambi",
+      "last_seen": "2026-09-27 14:21:30"
+    },
+    "662336887": {
+      "last_price": 765.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 13\" 512GB Rosa Pastello NUOVO",
+      "last_seen": "2026-09-27 14:20:35"
     }
   },
   "seen_ids": [
@@ -11526,6 +11556,11 @@
     "662324553",
     "662327688",
     "662328113",
-    "662332468"
+    "662332468",
+    "662335647",
+    "662336887",
+    "662337737",
+    "662337884",
+    "662338079"
   ]
 }
