@@ -9639,6 +9639,24 @@
       "notified": false,
       "title": "Apple MacBook Neo 13\" 512GB Rosa Pastello NUOVO",
       "last_seen": "2026-09-27 14:20:35"
+    },
+    "662338247": {
+      "last_price": 319.0,
+      "notified": false,
+      "title": "IPhone 14 nero/black 128 giga",
+      "last_seen": "2026-09-27 14:39:53"
+    },
+    "662336024": {
+      "last_price": 775.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 13\" 512GB Rosa Pastello",
+      "last_seen": "2026-09-27 14:40:19"
+    },
+    "662332897": {
+      "last_price": 775.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 13\" 512GB Rosa Pastello NUOVO",
+      "last_seen": "2026-09-27 14:40:18"
     }
   },
   "seen_ids": [
@@ -11557,10 +11575,13 @@
     "662327688",
     "662328113",
     "662332468",
+    "662332897",
     "662335647",
+    "662336024",
     "662336887",
     "662337737",
     "662337884",
-    "662338079"
+    "662338079",
+    "662338247"
   ]
 }
