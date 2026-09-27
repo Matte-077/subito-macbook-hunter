@@ -9775,6 +9775,18 @@
       "notified": false,
       "title": "Samsung Z Flip 8 256 gb NUOVO SIGILLATO",
       "last_seen": "2026-09-27 19:42:20"
+    },
+    "662383728": {
+      "last_price": 778.0,
+      "notified": false,
+      "title": "Macbook Pro 16’’ (i9 - 32 GB - 1 TB SSD)",
+      "last_seen": "2026-09-27 20:19:15"
+    },
+    "662383627": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "PC Gaming i7-12700 RTX 4060 32GB - Scambi",
+      "last_seen": "2026-09-27 20:19:10"
     }
   },
   "seen_ids": [
@@ -11719,6 +11731,8 @@
     "662375872",
     "662376867",
     "662377947",
-    "662379654"
+    "662379654",
+    "662383627",
+    "662383728"
   ]
 }
