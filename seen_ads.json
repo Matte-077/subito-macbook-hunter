@@ -9787,6 +9787,12 @@
       "notified": false,
       "title": "PC Gaming i7-12700 RTX 4060 32GB - Scambi",
       "last_seen": "2026-09-27 20:19:10"
+    },
+    "662387383": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 13 pollici M2",
+      "last_seen": "2026-09-27 20:55:51"
     }
   },
   "seen_ids": [
@@ -11733,6 +11739,7 @@
     "662377947",
     "662379654",
     "662383627",
-    "662383728"
+    "662383728",
+    "662387383"
   ]
 }
