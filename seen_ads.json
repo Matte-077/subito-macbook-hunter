@@ -9769,6 +9769,12 @@
       "notified": false,
       "title": "MacBook Pro 13” del 2017  con Touch Bar",
       "last_seen": "2026-09-27 19:22:39"
+    },
+    "662379654": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "Samsung Z Flip 8 256 gb NUOVO SIGILLATO",
+      "last_seen": "2026-09-27 19:42:20"
     }
   },
   "seen_ids": [
@@ -11712,6 +11718,7 @@
     "662371376",
     "662375872",
     "662376867",
-    "662377947"
+    "662377947",
+    "662379654"
   ]
 }
