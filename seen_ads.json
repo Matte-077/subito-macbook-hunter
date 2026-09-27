@@ -3743,8 +3743,10 @@
       "notified": false
     },
     "660589407": {
-      "last_price": null,
-      "notified": false
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 2020 – 8GB / 256GB – Scatola...",
+      "last_seen": "2026-09-27 21:12:45"
     },
     "660589618": {
       "last_price": null,
@@ -9793,6 +9795,18 @@
       "notified": false,
       "title": "MacBook Pro 13 pollici M2",
       "last_seen": "2026-09-27 20:55:51"
+    },
+    "662389349": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M5 16GB 512GB SSD – 2025",
+      "last_seen": "2026-09-27 21:14:54"
+    },
+    "662387707": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Retina (Mid 2015) - i7",
+      "last_seen": "2026-09-27 21:13:11"
     }
   },
   "seen_ids": [
@@ -11740,6 +11754,8 @@
     "662379654",
     "662383627",
     "662383728",
-    "662387383"
+    "662387383",
+    "662387707",
+    "662389349"
   ]
 }
