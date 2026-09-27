@@ -9727,6 +9727,12 @@
       "notified": false,
       "title": "MacBook Pro 16 M3 Max 36GB/1TB 100%🔋",
       "last_seen": "2026-09-27 17:20:45"
+    },
+    "662361387": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "HP EliteBook x360 1040 G11 da 14\" Touch screen",
+      "last_seen": "2026-09-27 17:39:44"
     }
   },
   "seen_ids": [
@@ -11663,6 +11669,7 @@
     "662355351",
     "662355511",
     "662358862",
-    "662360215"
+    "662360215",
+    "662361387"
   ]
 }
