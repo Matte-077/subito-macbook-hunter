@@ -9537,6 +9537,18 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 2020 8GB RAM 2TB SSD",
       "last_seen": "2026-09-27 10:58:41"
+    },
+    "662313521": {
+      "last_price": 1650.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Max (32GB RAM - 1TB) + Garanzia",
+      "last_seen": "2026-09-27 11:18:48"
+    },
+    "662312701": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MACBOOK PRO RETINA",
+      "last_seen": "2026-09-27 11:18:04"
     }
   },
   "seen_ids": [
@@ -11442,6 +11454,8 @@
     "662310197",
     "662310495",
     "662310859",
-    "662311707"
+    "662311707",
+    "662312701",
+    "662313521"
   ]
 }
