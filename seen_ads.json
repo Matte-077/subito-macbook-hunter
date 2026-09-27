@@ -4231,7 +4231,7 @@
       "notified": false
     },
     "660768664": {
-      "last_price": 1500.0,
+      "last_price": 1600.0,
       "notified": false,
       "title": "MacBook pro 14 18GB 1TB M3 batteria 100%",
       "last_seen": "2026-09-19 09:17:36"
@@ -9585,6 +9585,18 @@
       "notified": false,
       "title": "MacBook Pro Retina 13” A1502 – 2016",
       "last_seen": "2026-09-27 12:40:09"
+    },
+    "662327688": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Pro M2",
+      "last_seen": "2026-09-27 13:00:33"
+    },
+    "662328113": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "CalDigit TS4 dock Thunderbolt 4 18 porte 98W Mac",
+      "last_seen": "2026-09-27 13:00:56"
     }
   },
   "seen_ids": [
@@ -11498,6 +11510,8 @@
     "662315940",
     "662318836",
     "662319656",
-    "662324553"
+    "662324553",
+    "662327688",
+    "662328113"
   ]
 }
