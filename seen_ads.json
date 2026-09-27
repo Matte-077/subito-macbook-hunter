@@ -9751,6 +9751,24 @@
       "notified": false,
       "title": "Macbook Pro da 14”nuovo",
       "last_seen": "2026-09-27 18:40:34"
+    },
+    "662375872": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "Nexode Pro 100W Caricatore USB C Ricarica Rapido S",
+      "last_seen": "2026-09-27 19:20:54"
+    },
+    "662376867": {
+      "last_price": 260.0,
+      "notified": false,
+      "title": "MacBook pro 15",
+      "last_seen": "2026-09-27 19:21:45"
+    },
+    "662377947": {
+      "last_price": 230.0,
+      "notified": false,
+      "title": "MacBook Pro 13” del 2017  con Touch Bar",
+      "last_seen": "2026-09-27 19:22:39"
     }
   },
   "seen_ids": [
@@ -11691,6 +11709,9 @@
     "662361387",
     "662367518",
     "662367947",
-    "662371376"
+    "662371376",
+    "662375872",
+    "662376867",
+    "662377947"
   ]
 }
