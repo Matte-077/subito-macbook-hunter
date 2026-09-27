@@ -9713,6 +9713,18 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
       "last_seen": "2026-09-27 16:39:41"
+    },
+    "662358862": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook Pro M1 14” 16GB/512GB",
+      "last_seen": "2026-09-27 17:19:35"
+    },
+    "662360215": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3 Max 36GB/1TB 100%🔋",
+      "last_seen": "2026-09-27 17:20:45"
     }
   },
   "seen_ids": [
@@ -11647,6 +11659,8 @@
     "662353621",
     "662353833",
     "662355351",
-    "662355511"
+    "662355511",
+    "662358862",
+    "662360215"
   ]
 }
