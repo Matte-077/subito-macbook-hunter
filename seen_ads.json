@@ -9489,6 +9489,18 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 2015 i5 GB BATERIA RAM 8 GB",
       "last_seen": "2026-09-27 09:20:26"
+    },
+    "662303865": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro Retina 15\" 2015 i7 16GB SSD 256GB + sc",
+      "last_seen": "2026-09-27 09:58:25"
+    },
+    "662304427": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "Macbook 13 pollici  2011 per pezzi di ricambio",
+      "last_seen": "2026-09-27 09:58:51"
     }
   },
   "seen_ids": [
@@ -11386,6 +11398,8 @@
     "662299717",
     "662300442",
     "662300845",
-    "662301086"
+    "662301086",
+    "662303865",
+    "662304427"
   ]
 }
