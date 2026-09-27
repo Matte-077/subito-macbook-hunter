@@ -9745,6 +9745,12 @@
       "notified": false,
       "title": "Macbook Pro 16 512GB Come Nuovo + Accessori",
       "last_seen": "2026-09-27 18:19:15"
+    },
+    "662371376": {
+      "last_price": 2000.0,
+      "notified": false,
+      "title": "Macbook Pro da 14”nuovo",
+      "last_seen": "2026-09-27 18:40:34"
     }
   },
   "seen_ids": [
@@ -11684,6 +11690,7 @@
     "662360215",
     "662361387",
     "662367518",
-    "662367947"
+    "662367947",
+    "662371376"
   ]
 }
