@@ -9453,6 +9453,30 @@
       "notified": false,
       "title": "Lotto apple iphone 12+12 mini + macbook pro",
       "last_seen": "2026-09-27 08:26:30"
+    },
+    "662300442": {
+      "last_price": 45.0,
+      "notified": false,
+      "title": "Nexode Pro 130W Power Bank 20000mAh Caricatore Por",
+      "last_seen": "2026-09-27 09:03:31"
+    },
+    "662299717": {
+      "last_price": 2100.0,
+      "notified": false,
+      "title": "MacBook Pro M5 Pro (GPU 16c, CPU 15c, 24GB RAM)",
+      "last_seen": "2026-09-27 09:02:45"
+    },
+    "662299303": {
+      "last_price": 46.0,
+      "notified": false,
+      "title": "Nexode 145W Power Bank 25000mAh Caricatore Portati",
+      "last_seen": "2026-09-27 09:02:27"
+    },
+    "662298790": {
+      "last_price": 33.0,
+      "notified": false,
+      "title": "Nexode 100W Caricatore USB C Caricabatterie Ricari",
+      "last_seen": "2026-09-27 09:01:57"
     }
   },
   "seen_ids": [
@@ -11344,6 +11368,10 @@
     "662287776",
     "662290924",
     "662293142",
-    "662296907"
+    "662296907",
+    "662298790",
+    "662299303",
+    "662299717",
+    "662300442"
   ]
 }
