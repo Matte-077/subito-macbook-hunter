@@ -9441,6 +9441,12 @@
       "notified": false,
       "title": "MacBook Pro M5 Pro",
       "last_seen": "2026-09-27 01:07:23"
+    },
+    "662293142": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2019 i7 16GB 512GB Space Grey",
+      "last_seen": "2026-09-27 02:57:26"
     }
   },
   "seen_ids": [
@@ -11330,6 +11336,7 @@
     "662281906",
     "662284613",
     "662287776",
-    "662290924"
+    "662290924",
+    "662293142"
   ]
 }
