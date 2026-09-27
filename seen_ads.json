@@ -9549,6 +9549,24 @@
       "notified": false,
       "title": "MACBOOK PRO RETINA",
       "last_seen": "2026-09-27 11:18:04"
+    },
+    "662303128": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" 2020 8GB RAM 2TB SSD PC",
+      "last_seen": "2026-09-27 11:38:33"
+    },
+    "662315940": {
+      "last_price": 215.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatil",
+      "last_seen": "2026-09-27 11:39:09"
+    },
+    "662315316": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Apple MacBook Pro Retina 15 i7 / 8Gb / 256+256 Gb",
+      "last_seen": "2026-09-27 11:38:34"
     }
   },
   "seen_ids": [
@@ -11447,6 +11465,7 @@
     "662300442",
     "662300845",
     "662301086",
+    "662303128",
     "662303865",
     "662304427",
     "662306094",
@@ -11456,6 +11475,8 @@
     "662310859",
     "662311707",
     "662312701",
-    "662313521"
+    "662313521",
+    "662315316",
+    "662315940"
   ]
 }
