@@ -9567,6 +9567,18 @@
       "notified": false,
       "title": "Apple MacBook Pro Retina 15 i7 / 8Gb / 256+256 Gb",
       "last_seen": "2026-09-27 11:38:34"
+    },
+    "662319656": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 2019 i7 16GB 512GB SSD Radeon",
+      "last_seen": "2026-09-27 12:00:59"
+    },
+    "662318836": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook 13” M2 2022 8gb RAM e SSD 256GB",
+      "last_seen": "2026-09-27 12:00:16"
     }
   },
   "seen_ids": [
@@ -11477,6 +11489,8 @@
     "662312701",
     "662313521",
     "662315316",
-    "662315940"
+    "662315940",
+    "662318836",
+    "662319656"
   ]
 }
