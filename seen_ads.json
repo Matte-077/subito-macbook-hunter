@@ -9683,6 +9683,36 @@
       "notified": false,
       "title": "Macbook pro m5 14’n",
       "last_seen": "2026-09-27 16:19:22"
+    },
+    "662355351": {
+      "last_price": 160.0,
+      "notified": false,
+      "title": "2X MacBook Pro A1286 Non Funzionante",
+      "last_seen": "2026-09-27 16:41:33"
+    },
+    "662353833": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-09-27 16:40:06"
+    },
+    "662355511": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "Macbook pro retina 13",
+      "last_seen": "2026-09-27 16:41:39"
+    },
+    "662353621": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
+      "last_seen": "2026-09-27 16:40:03"
+    },
+    "662353480": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-09-27 16:39:41"
     }
   },
   "seen_ids": [
@@ -11612,6 +11642,11 @@
     "662338247",
     "662344181",
     "662346507",
-    "662352102"
+    "662352102",
+    "662353480",
+    "662353621",
+    "662353833",
+    "662355351",
+    "662355511"
   ]
 }
