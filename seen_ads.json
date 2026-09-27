@@ -2329,8 +2329,10 @@
       "notified": false
     },
     "659998197": {
-      "last_price": null,
-      "notified": false
+      "last_price": 280.0,
+      "notified": false,
+      "title": "MacBook Pro 2017 16 RAM 512 SSD Garanzia Laptop",
+      "last_seen": "2026-09-27 14:59:33"
     },
     "659998378": {
       "last_price": null,
@@ -4031,7 +4033,7 @@
       "notified": false
     },
     "660703513": {
-      "last_price": 55.0,
+      "last_price": 50.0,
       "notified": false,
       "title": "MacBook Pro 15\" A1398",
       "last_seen": "2026-09-14 16:26:34"
@@ -9657,6 +9659,12 @@
       "notified": false,
       "title": "Apple MacBook Neo 13\" 512GB Rosa Pastello NUOVO",
       "last_seen": "2026-09-27 14:40:18"
+    },
+    "657207709": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2019 i9 64GB 1TB Radeon 8GB",
+      "last_seen": "2026-09-27 14:59:42"
     }
   },
   "seen_ids": [
@@ -9822,6 +9830,7 @@
     "656941037",
     "657114113",
     "657138352",
+    "657207709",
     "657300543",
     "657324899",
     "657464521",
