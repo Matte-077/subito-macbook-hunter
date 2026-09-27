@@ -9733,6 +9733,18 @@
       "notified": false,
       "title": "HP EliteBook x360 1040 G11 da 14\" Touch screen",
       "last_seen": "2026-09-27 17:39:44"
+    },
+    "662367947": {
+      "last_price": 3200.0,
+      "notified": false,
+      "title": "Macbook Pro m5 pro 48gb ram 16 pollici",
+      "last_seen": "2026-09-27 18:19:40"
+    },
+    "662367518": {
+      "last_price": 930.0,
+      "notified": false,
+      "title": "Macbook Pro 16 512GB Come Nuovo + Accessori",
+      "last_seen": "2026-09-27 18:19:15"
     }
   },
   "seen_ids": [
@@ -11670,6 +11682,8 @@
     "662355511",
     "662358862",
     "662360215",
-    "662361387"
+    "662361387",
+    "662367518",
+    "662367947"
   ]
 }
