@@ -10093,7 +10093,7 @@
       "last_seen": "2026-09-28 08:21:56"
     },
     "662449866": {
-      "last_price": 2000.0,
+      "last_price": 2350.0,
       "notified": false,
       "title": "Macbook Pro 14\" M4Pro 48Gb 512Gb",
       "last_seen": "2026-09-28 13:32:41"
@@ -10127,6 +10127,24 @@
       "notified": false,
       "title": "Apple MacBook Pro 15 2019 i7 16GB 512GB SSD Radeon",
       "last_seen": "2026-09-28 14:18:16"
+    },
+    "662455209": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "Macbook Pro 14 pollici M1 Pro 10 core - 1TB - 16GB",
+      "last_seen": "2026-09-28 14:44:55"
+    },
+    "662457825": {
+      "last_price": 1149.0,
+      "notified": false,
+      "title": "IPAD AIR 6th Gen M2 256GB WIFI Cell",
+      "last_seen": "2026-09-28 14:43:19"
+    },
+    "662455581": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Air M2 (2022) - Condizioni Perfette",
+      "last_seen": "2026-09-28 14:46:05"
     }
   },
   "seen_ids": [
@@ -12129,6 +12147,9 @@
     "662446218",
     "662449866",
     "662451769",
-    "662453124"
+    "662453124",
+    "662455209",
+    "662455581",
+    "662457825"
   ]
 }
