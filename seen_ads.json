@@ -10319,6 +10319,12 @@
       "notified": false,
       "title": "IPhone 12 Pro Max 512 gb",
       "last_seen": "2026-09-28 21:23:50"
+    },
+    "662535306": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "MacBook pro touch bar",
+      "last_seen": "2026-09-28 22:07:25"
     }
   },
   "seen_ids": [
@@ -12353,6 +12359,7 @@
     "662523382",
     "662523568",
     "662529919",
-    "662530128"
+    "662530128",
+    "662535306"
   ]
 }
