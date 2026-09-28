@@ -3227,8 +3227,10 @@
       "notified": false
     },
     "660380214": {
-      "last_price": null,
-      "notified": false
+      "last_price": 270.0,
+      "notified": false,
+      "title": "MacBook Pro 256 GB",
+      "last_seen": "2026-09-28 10:40:32"
     },
     "660380640": {
       "last_price": null,
@@ -8075,10 +8077,10 @@
       "last_seen": "2026-09-23 19:57:24"
     },
     "661911767": {
-      "last_price": 450.0,
+      "last_price": 400.0,
       "notified": false,
       "title": "MacBook Pro 16” 2019 i7 512/16GB",
-      "last_seen": "2026-09-23 20:19:49"
+      "last_seen": "2026-09-27 20:54:09"
     },
     "661911197": {
       "last_price": 400.0,
@@ -9719,7 +9721,7 @@
       "last_seen": "2026-09-27 16:39:41"
     },
     "662358862": {
-      "last_price": 750.0,
+      "last_price": 875.0,
       "notified": false,
       "title": "Macbook Pro M1 14” 16GB/512GB",
       "last_seen": "2026-09-27 17:19:35"
@@ -9903,6 +9905,66 @@
       "notified": false,
       "title": "MacBook pro",
       "last_seen": "2026-09-28 10:15:26"
+    },
+    "662428259": {
+      "last_price": null,
+      "notified": false,
+      "title": "MacBook Pro 16” i9 2019 16GB/1TB - GARANTITO",
+      "last_seen": "2026-09-28 10:46:18"
+    },
+    "662427821": {
+      "last_price": 1249.0,
+      "notified": false,
+      "title": "MacBook Pro 14”M3 16gb/512gb 2023",
+      "last_seen": "2026-09-28 10:46:01"
+    },
+    "662426926": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14\" M3 PRO 18GB/512GB CON GARANZIA",
+      "last_seen": "2026-09-28 10:45:29"
+    },
+    "662427448": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" i9 16GB RAM/512GB SSD CON GARANZIA",
+      "last_seen": "2026-09-28 10:45:25"
+    },
+    "662426165": {
+      "last_price": 2300.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-09-28 10:44:11"
+    },
+    "662427626": {
+      "last_price": 889.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 256GB | Garanzia Apple",
+      "last_seen": "2026-09-28 10:45:42"
+    },
+    "662427161": {
+      "last_price": 949.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 256GB | Garanzia Apple",
+      "last_seen": "2026-09-28 10:45:26"
+    },
+    "662424973": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Retina i7 16GB/256GB con scatola",
+      "last_seen": "2026-09-28 10:43:35"
+    },
+    "662428121": {
+      "last_price": 80.0,
+      "notified": true,
+      "title": "Macbook Pro M1 Non Funzionante",
+      "last_seen": "2026-09-28 10:46:09"
+    },
+    "662427296": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "macbook pro 6,1",
+      "last_seen": "2026-09-28 10:45:18"
     }
   },
   "seen_ids": [
@@ -11868,6 +11930,16 @@
     "662415658",
     "662419288",
     "662419851",
-    "662420436"
+    "662420436",
+    "662424973",
+    "662426165",
+    "662426926",
+    "662427161",
+    "662427296",
+    "662427448",
+    "662427626",
+    "662427821",
+    "662428121",
+    "662428259"
   ]
 }
