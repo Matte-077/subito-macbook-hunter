@@ -10337,6 +10337,12 @@
       "notified": false,
       "title": "MacBook Pro 13 M1 16GB RAM 512 SSD",
       "last_seen": "2026-09-28 22:49:35"
+    },
+    "662542166": {
+      "last_price": 1250.0,
+      "notified": false,
+      "title": "Macbook Pro M1 Pro 16\" 32Gb Ram + Scatola + access",
+      "last_seen": "2026-09-28 23:28:05"
     }
   },
   "seen_ids": [
@@ -12374,6 +12380,7 @@
     "662530128",
     "662532664",
     "662535306",
-    "662540170"
+    "662540170",
+    "662542166"
   ]
 }
