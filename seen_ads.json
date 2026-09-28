@@ -10075,7 +10075,7 @@
       "last_seen": "2026-09-28 12:21:34"
     },
     "662446218": {
-      "last_price": 350.0,
+      "last_price": 647.0,
       "notified": false,
       "title": "MacBook Pro 2017  i7   2,9 GHz  16GB ram  1 TB ssd",
       "last_seen": "2026-09-28 12:45:07"
@@ -10121,6 +10121,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 13\" 2020 8GB RAM 2TB SSD PC",
       "last_seen": "2026-09-28 13:56:20"
+    },
+    "662453124": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 2019 i7 16GB 512GB SSD Radeon",
+      "last_seen": "2026-09-28 14:18:16"
     }
   },
   "seen_ids": [
@@ -12122,6 +12128,7 @@
     "662446075",
     "662446218",
     "662449866",
-    "662451769"
+    "662451769",
+    "662453124"
   ]
 }
