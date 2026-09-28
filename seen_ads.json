@@ -9979,8 +9979,8 @@
       "last_seen": "2026-09-28 11:34:36"
     },
     "662433018": {
-      "last_price": 180.0,
-      "notified": true,
+      "last_price": null,
+      "notified": false,
       "title": "Ricambi MacBook Pro M1  14 32GB 512GB",
       "last_seen": "2026-09-28 11:32:26"
     },
@@ -10091,6 +10091,24 @@
       "notified": false,
       "title": "Samsung galaxy s25 ultra 256GB pari al nuovo",
       "last_seen": "2026-09-28 08:21:56"
+    },
+    "662449866": {
+      "last_price": 2000.0,
+      "notified": false,
+      "title": "Macbook Pro 14\" M4Pro 48Gb 512Gb",
+      "last_seen": "2026-09-28 13:32:41"
+    },
+    "662440260": {
+      "last_price": 540.0,
+      "notified": false,
+      "title": "Apple Macbook Pro 15 intel Retina 1TB SSD 16gb Ram",
+      "last_seen": "2026-09-28 13:32:33"
+    },
+    "662440948": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook pro m1 pro",
+      "last_seen": "2026-09-28 13:32:39"
     }
   },
   "seen_ids": [
@@ -12081,12 +12099,15 @@
     "662438263",
     "662439344",
     "662439763",
+    "662440260",
+    "662440948",
     "662440962",
     "662441293",
     "662441552",
     "662442602",
     "662442744",
     "662445743",
-    "662446218"
+    "662446218",
+    "662449866"
   ]
 }
