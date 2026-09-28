@@ -9831,6 +9831,12 @@
       "notified": false,
       "title": "MacBook Pro 14 M1 Pro",
       "last_seen": "2026-09-27 23:38:49"
+    },
+    "662403909": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "Macbook Pro M1 16 pollici 512gb",
+      "last_seen": "2026-09-28 03:41:08"
     }
   },
   "seen_ids": [
@@ -11784,6 +11790,7 @@
     "662396603",
     "662396820",
     "662398379",
-    "662399740"
+    "662399740",
+    "662403909"
   ]
 }
