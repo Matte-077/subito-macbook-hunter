@@ -10169,6 +10169,18 @@
       "notified": false,
       "title": "Macbook pro 15” 2016, SSD 500 Gb, schermo rotto",
       "last_seen": "2026-09-28 15:58:55"
+    },
+    "662480359": {
+      "last_price": 1088.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14 pouces M3 Pro 12 cœurs/18 cœu",
+      "last_seen": "2026-09-28 16:22:53"
+    },
+    "662483100": {
+      "last_price": 5.0,
+      "notified": false,
+      "title": "macbook pro m2 ultra",
+      "last_seen": "2026-09-28 16:25:45"
     }
   },
   "seen_ids": [
@@ -12178,6 +12190,8 @@
     "662470913",
     "662475251",
     "662475682",
-    "662476391"
+    "662476391",
+    "662480359",
+    "662483100"
   ]
 }
