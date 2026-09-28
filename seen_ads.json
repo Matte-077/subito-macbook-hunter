@@ -1221,10 +1221,10 @@
       "notified": false
     },
     "658875040": {
-      "last_price": 70.0,
+      "last_price": 55.0,
       "notified": false,
       "title": "MacBook Pro 13” i5 8GB SSD CD/DVD+alimentatore",
-      "last_seen": "2026-09-20 08:28:40"
+      "last_seen": "2026-09-28 15:29:53"
     },
     "658884279": {
       "last_price": null,
@@ -10307,6 +10307,18 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
       "last_seen": "2026-09-28 20:20:17"
+    },
+    "662530128": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "macbook pro a1707 per pezzi di ricambio",
+      "last_seen": "2026-09-28 21:24:05"
+    },
+    "662529919": {
+      "last_price": 330.0,
+      "notified": false,
+      "title": "IPhone 12 Pro Max 512 gb",
+      "last_seen": "2026-09-28 21:23:50"
     }
   },
   "seen_ids": [
@@ -12339,6 +12351,8 @@
     "662519804",
     "662523278",
     "662523382",
-    "662523568"
+    "662523568",
+    "662529919",
+    "662530128"
   ]
 }
