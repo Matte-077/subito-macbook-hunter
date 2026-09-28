@@ -9843,6 +9843,12 @@
       "notified": false,
       "title": "COPPIA MACBOOK PRO A1502 E A1425",
       "last_seen": "2026-09-28 07:24:01"
+    },
+    "662408921": {
+      "last_price": 38.0,
+      "notified": false,
+      "title": "Nexode Pro 100W Caricatore USB C Ricarica Rapido S",
+      "last_seen": "2026-09-28 08:21:22"
     }
   },
   "seen_ids": [
@@ -11798,6 +11804,7 @@
     "662398379",
     "662399740",
     "662403909",
-    "662406243"
+    "662406243",
+    "662408921"
   ]
 }
