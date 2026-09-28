@@ -10361,6 +10361,12 @@
       "notified": false,
       "title": "MacBook Pro 13\" Retina A1502 – 2015 – i5 – 8GB RAM",
       "last_seen": "2026-09-29 00:04:18"
+    },
+    "662545078": {
+      "last_price": 2699.0,
+      "notified": false,
+      "title": "💻 MacBook Pro 14” M5 Pro - 24GB RAM - 2TB SSD",
+      "last_seen": "2026-09-29 00:40:21"
     }
   },
   "seen_ids": [
@@ -12402,6 +12408,7 @@
     "662542166",
     "662543318",
     "662543326",
-    "662543787"
+    "662543787",
+    "662545078"
   ]
 }
