@@ -5650,7 +5650,7 @@
       "last_price": null,
       "notified": false,
       "title": "Apple MacBook Pro 13” con chip M1",
-      "last_seen": "2026-09-27 16:57:39"
+      "last_seen": "2026-09-28 16:45:59"
     },
     "661216644": {
       "last_price": 900.0,
@@ -10181,6 +10181,18 @@
       "notified": false,
       "title": "macbook pro m2 ultra",
       "last_seen": "2026-09-28 16:25:45"
+    },
+    "662485884": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Apple MacBook M1 Pro 16gb/256gb",
+      "last_seen": "2026-09-28 16:48:20"
+    },
+    "662484257": {
+      "last_price": 80.0,
+      "notified": false,
+      "title": "Macbook pro a1708 schermo rotto",
+      "last_seen": "2026-09-28 16:46:50"
     }
   },
   "seen_ids": [
@@ -12192,6 +12204,8 @@
     "662475682",
     "662476391",
     "662480359",
-    "662483100"
+    "662483100",
+    "662484257",
+    "662485884"
   ]
 }
