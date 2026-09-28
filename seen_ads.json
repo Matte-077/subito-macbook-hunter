@@ -9873,6 +9873,18 @@
       "notified": false,
       "title": "Apple 85w magsafe 2 alimementatore MacBook Pro 15”",
       "last_seen": "2026-09-28 09:23:20"
+    },
+    "662415658": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Apple 2024 MacBook Pro Portatile con chip M4 Pro",
+      "last_seen": "2026-09-28 09:44:33"
+    },
+    "662415515": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Schermo macbook pro 13” 2017 NON FUNZIONANTE",
+      "last_seen": "2026-09-28 09:44:23"
     }
   },
   "seen_ids": [
@@ -11833,6 +11845,8 @@
     "662413610",
     "662414852",
     "662415132",
-    "662415460"
+    "662415460",
+    "662415515",
+    "662415658"
   ]
 }
