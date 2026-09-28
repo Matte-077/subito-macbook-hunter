@@ -8239,13 +8239,13 @@
       "last_seen": "2026-09-24 10:08:54"
     },
     "661954998": {
-      "last_price": 2049.0,
+      "last_price": 1949.0,
       "notified": false,
       "title": "MacBook Pro 14 M4 Pro 16core GPU RAM 24Gb, SSD 512",
       "last_seen": "2026-09-24 10:08:52"
     },
     "661954968": {
-      "last_price": 2399.0,
+      "last_price": 2369.0,
       "notified": false,
       "title": "MacBook Pro 14 M4 Pro 20Core RAM 24Gb SSD Ex-Nuovo",
       "last_seen": "2026-09-24 10:08:51"
@@ -8281,7 +8281,7 @@
       "last_seen": "2026-09-24 10:11:41"
     },
     "661955102": {
-      "last_price": 1879.0,
+      "last_price": 1829.0,
       "notified": false,
       "title": "MacBook Pro 16″ M1 Max RAM 64Gb, SSD 1Tb Ex Nuovo",
       "last_seen": "2026-09-24 10:11:40"
@@ -10073,6 +10073,18 @@
       "notified": false,
       "title": "Macbook Pro M5 24gb 1Tb",
       "last_seen": "2026-09-28 12:21:34"
+    },
+    "662446218": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro 2017  i7   2,9 GHz  16GB ram  1 TB ssd",
+      "last_seen": "2026-09-28 12:45:07"
+    },
+    "662445743": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 2020 8GB RAM 2TB SSD",
+      "last_seen": "2026-09-28 12:44:27"
     }
   },
   "seen_ids": [
@@ -12066,6 +12078,8 @@
     "662441293",
     "662441552",
     "662442602",
-    "662442744"
+    "662442744",
+    "662445743",
+    "662446218"
   ]
 }
