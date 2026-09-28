@@ -10235,6 +10235,18 @@
       "notified": true,
       "title": "Apple Macbook Pro 16\" M2 Pro, 32GB, 1TB",
       "last_seen": "2026-09-28 18:28:19"
+    },
+    "662514097": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" M2 MAX 32GB/1TB PARI AL NUOVO A+",
+      "last_seen": "2026-09-28 18:54:58"
+    },
+    "662513375": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "IPHONE 16 PRO 256GB bianco",
+      "last_seen": "2026-09-28 18:54:23"
     }
   },
   "seen_ids": [
@@ -12255,6 +12267,8 @@
     "662497872",
     "662502399",
     "662505098",
-    "662508126"
+    "662508126",
+    "662513375",
+    "662514097"
   ]
 }
