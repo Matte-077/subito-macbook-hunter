@@ -9837,6 +9837,12 @@
       "notified": false,
       "title": "Macbook Pro M1 16 pollici 512gb",
       "last_seen": "2026-09-28 03:41:08"
+    },
+    "662406243": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "COPPIA MACBOOK PRO A1502 E A1425",
+      "last_seen": "2026-09-28 07:24:01"
     }
   },
   "seen_ids": [
@@ -11791,6 +11797,7 @@
     "662396820",
     "662398379",
     "662399740",
-    "662403909"
+    "662403909",
+    "662406243"
   ]
 }
