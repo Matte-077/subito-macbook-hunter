@@ -8233,7 +8233,7 @@
       "last_seen": "2026-09-24 09:43:31"
     },
     "661955028": {
-      "last_price": 3479.0,
+      "last_price": 3399.0,
       "notified": false,
       "title": "MacBook Pro 16″ M3 Max RAM 64Gb, SSD 1Tb Ex-Nuovo",
       "last_seen": "2026-09-24 10:08:54"
@@ -8263,7 +8263,7 @@
       "last_seen": "2026-09-24 10:00:02"
     },
     "661955980": {
-      "last_price": 3099.0,
+      "last_price": 2949.0,
       "notified": false,
       "title": "MacBook Pro 16 M3 Max 40Core RAM 48Gb SSD 1Tb",
       "last_seen": "2026-09-24 10:18:38"
@@ -10085,6 +10085,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 2020 8GB RAM 2TB SSD",
       "last_seen": "2026-09-28 12:44:27"
+    },
+    "662409382": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "Samsung galaxy s25 ultra 256GB pari al nuovo",
+      "last_seen": "2026-09-28 08:21:56"
     }
   },
   "seen_ids": [
@@ -12042,6 +12048,7 @@
     "662403909",
     "662406243",
     "662408921",
+    "662409382",
     "662413610",
     "662414852",
     "662415132",
