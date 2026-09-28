@@ -5003,7 +5003,7 @@
       "last_seen": "2026-09-16 19:07:30"
     },
     "660993157": {
-      "last_price": 25.0,
+      "last_price": 24.0,
       "notified": false,
       "title": "MacBook Pro anno 2010",
       "last_seen": "2026-09-16 19:08:07"
@@ -9971,6 +9971,48 @@
       "notified": false,
       "title": "Apple MacBook Pro 14″ - M5 (16-512) 13 Cicli",
       "last_seen": "2026-09-28 11:11:24"
+    },
+    "662435198": {
+      "last_price": 639.0,
+      "notified": false,
+      "title": "iPhone 14 Pro Max 128GB NERO | Usato | Garanzia 1",
+      "last_seen": "2026-09-28 11:34:36"
+    },
+    "662433018": {
+      "last_price": 180.0,
+      "notified": true,
+      "title": "Ricambi MacBook Pro M1  14 32GB 512GB",
+      "last_seen": "2026-09-28 11:32:26"
+    },
+    "662435676": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-09-28 11:35:04"
+    },
+    "662435966": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-09-28 11:35:19"
+    },
+    "662435435": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
+      "last_seen": "2026-09-28 11:34:50"
+    },
+    "662434698": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-09-28 11:34:07"
+    },
+    "662434404": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
+      "last_seen": "2026-09-28 11:33:46"
     }
   },
   "seen_ids": [
@@ -11947,6 +11989,13 @@
     "662427821",
     "662428121",
     "662428259",
-    "662432046"
+    "662432046",
+    "662433018",
+    "662434404",
+    "662434698",
+    "662435198",
+    "662435435",
+    "662435676",
+    "662435966"
   ]
 }
