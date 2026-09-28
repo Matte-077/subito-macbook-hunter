@@ -10013,6 +10013,30 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
       "last_seen": "2026-09-28 11:33:46"
+    },
+    "662438263": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "iPhone 14 Pro 128GB Nero | Usato | Garanzia 1 anno",
+      "last_seen": "2026-09-28 11:57:32"
+    },
+    "662436840": {
+      "last_price": 439.0,
+      "notified": false,
+      "title": "iPhone 14 256GB NERO | Usato | Garanzia 1 anno",
+      "last_seen": "2026-09-28 11:56:07"
+    },
+    "662439344": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "Macbook Pro 15 - 2015",
+      "last_seen": "2026-09-28 11:58:34"
+    },
+    "662437788": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 2015 i5 GB BATERIA RAM 8 GB",
+      "last_seen": "2026-09-28 11:57:06"
     }
   },
   "seen_ids": [
@@ -11996,6 +12020,10 @@
     "662435198",
     "662435435",
     "662435676",
-    "662435966"
+    "662435966",
+    "662436840",
+    "662437788",
+    "662438263",
+    "662439344"
   ]
 }
