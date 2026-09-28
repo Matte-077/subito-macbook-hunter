@@ -10325,6 +10325,12 @@
       "notified": false,
       "title": "MacBook pro touch bar",
       "last_seen": "2026-09-28 22:07:25"
+    },
+    "662532664": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 15\" (2018)-i7 32 GB RAM 512 GB SSD",
+      "last_seen": "2026-09-28 22:28:23"
     }
   },
   "seen_ids": [
@@ -12360,6 +12366,7 @@
     "662523568",
     "662529919",
     "662530128",
+    "662532664",
     "662535306"
   ]
 }
