@@ -10271,6 +10271,24 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 M1 16GB/512SSD/TouchID",
       "last_seen": "2026-09-28 19:15:07"
+    },
+    "662518160": {
+      "last_price": 379.0,
+      "notified": false,
+      "title": "IPHONE 14 128GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-09-28 19:37:23"
+    },
+    "662513630": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" M2 MAX 32GB/1TB PARI AL NUOVO A+",
+      "last_seen": "2026-09-28 19:36:56"
+    },
+    "662519804": {
+      "last_price": 30.0,
+      "notified": false,
+      "title": "MacBook Pro i7 per ricambi",
+      "last_seen": "2026-09-28 19:39:04"
     }
   },
   "seen_ids": [
@@ -12293,10 +12311,13 @@
     "662505098",
     "662508126",
     "662513375",
+    "662513630",
     "662514097",
     "662515106",
     "662515938",
     "662516599",
-    "662516700"
+    "662516700",
+    "662518160",
+    "662519804"
   ]
 }
