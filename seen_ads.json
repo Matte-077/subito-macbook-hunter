@@ -9849,6 +9849,30 @@
       "notified": false,
       "title": "Nexode Pro 100W Caricatore USB C Ricarica Rapido S",
       "last_seen": "2026-09-28 08:21:22"
+    },
+    "662415460": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w x MacBook Pro 13/14",
+      "last_seen": "2026-09-28 09:23:57"
+    },
+    "662413610": {
+      "last_price": 1120.0,
+      "notified": false,
+      "title": "Workstation Portatile Dell Precision 5560 – i7",
+      "last_seen": "2026-09-28 09:21:55"
+    },
+    "662415132": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "MacBook pro 13” hdd 250/ ram 4 funzionante",
+      "last_seen": "2026-09-28 09:23:35"
+    },
+    "662414852": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Apple 85w magsafe 2 alimementatore MacBook Pro 15”",
+      "last_seen": "2026-09-28 09:23:20"
     }
   },
   "seen_ids": [
@@ -11805,6 +11829,10 @@
     "662399740",
     "662403909",
     "662406243",
-    "662408921"
+    "662408921",
+    "662413610",
+    "662414852",
+    "662415132",
+    "662415460"
   ]
 }
