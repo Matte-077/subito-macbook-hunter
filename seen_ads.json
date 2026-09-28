@@ -10247,6 +10247,30 @@
       "notified": false,
       "title": "IPHONE 16 PRO 256GB bianco",
       "last_seen": "2026-09-28 18:54:23"
+    },
+    "662516700": {
+      "last_price": 429.0,
+      "notified": false,
+      "title": "IPHONE 14 256GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-09-28 19:16:46"
+    },
+    "662516599": {
+      "last_price": 429.0,
+      "notified": false,
+      "title": "IPHONE 14 256GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-09-28 19:16:39"
+    },
+    "662515938": {
+      "last_price": 330.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" 2016 con Touch Bar",
+      "last_seen": "2026-09-28 19:15:56"
+    },
+    "662515106": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 M1 16GB/512SSD/TouchID",
+      "last_seen": "2026-09-28 19:15:07"
     }
   },
   "seen_ids": [
@@ -12269,6 +12293,10 @@
     "662505098",
     "662508126",
     "662513375",
-    "662514097"
+    "662514097",
+    "662515106",
+    "662515938",
+    "662516599",
+    "662516700"
   ]
 }
