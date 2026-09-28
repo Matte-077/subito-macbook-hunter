@@ -10087,7 +10087,7 @@
       "last_seen": "2026-09-28 12:44:27"
     },
     "662409382": {
-      "last_price": 599.0,
+      "last_price": 550.0,
       "notified": false,
       "title": "Samsung galaxy s25 ultra 256GB pari al nuovo",
       "last_seen": "2026-09-28 08:21:56"
@@ -10159,7 +10159,7 @@
       "last_seen": "2026-09-28 15:58:45"
     },
     "662476391": {
-      "last_price": 890.0,
+      "last_price": 800.0,
       "notified": false,
       "title": "iPad Pro 12,9”256GB + Pencil 2 + Magic Keyboard",
       "last_seen": "2026-09-28 15:59:10"
@@ -10229,6 +10229,12 @@
       "notified": false,
       "title": "Macbook pro 2020 - 13” (Intel I5) schermo difettos",
       "last_seen": "2026-09-28 18:03:26"
+    },
+    "662508126": {
+      "last_price": 849.0,
+      "notified": true,
+      "title": "Apple Macbook Pro 16\" M2 Pro, 32GB, 1TB",
+      "last_seen": "2026-09-28 18:28:19"
     }
   },
   "seen_ids": [
@@ -12248,6 +12254,7 @@
     "662497597",
     "662497872",
     "662502399",
-    "662505098"
+    "662505098",
+    "662508126"
   ]
 }
