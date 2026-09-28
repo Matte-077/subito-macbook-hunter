@@ -10331,6 +10331,12 @@
       "notified": false,
       "title": "Macbook Pro 15\" (2018)-i7 32 GB RAM 512 GB SSD",
       "last_seen": "2026-09-28 22:28:23"
+    },
+    "662540170": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Pro 13 M1 16GB RAM 512 SSD",
+      "last_seen": "2026-09-28 22:49:35"
     }
   },
   "seen_ids": [
@@ -12367,6 +12373,7 @@
     "662529919",
     "662530128",
     "662532664",
-    "662535306"
+    "662535306",
+    "662540170"
   ]
 }
