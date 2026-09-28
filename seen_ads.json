@@ -10343,6 +10343,18 @@
       "notified": false,
       "title": "Macbook Pro M1 Pro 16\" 32Gb Ram + Scatola + access",
       "last_seen": "2026-09-28 23:28:05"
+    },
+    "662543318": {
+      "last_price": 1400.0,
+      "notified": false,
+      "title": "Macbook Pro 14” M4",
+      "last_seen": "2026-09-28 23:46:35"
+    },
+    "662543326": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook Pro 13-inch - Condizioni ottime",
+      "last_seen": "2026-09-28 23:46:35"
     }
   },
   "seen_ids": [
@@ -12381,6 +12393,8 @@
     "662532664",
     "662535306",
     "662540170",
-    "662542166"
+    "662542166",
+    "662543318",
+    "662543326"
   ]
 }
