@@ -7717,7 +7717,7 @@
       "last_seen": "2026-09-22 21:29:59"
     },
     "661733388": {
-      "last_price": 1800.0,
+      "last_price": 1750.0,
       "notified": false,
       "title": "MacBook Pro 14\" M4 Pro chip",
       "last_seen": "2026-09-22 21:44:58"
@@ -10157,6 +10157,18 @@
       "notified": false,
       "title": "MacBook pro 13”retina SSD 500/Ram 8 Batt. Nuova",
       "last_seen": "2026-09-28 15:58:45"
+    },
+    "662476391": {
+      "last_price": 890.0,
+      "notified": false,
+      "title": "iPad Pro 12,9”256GB + Pencil 2 + Magic Keyboard",
+      "last_seen": "2026-09-28 15:59:10"
+    },
+    "662475251": {
+      "last_price": 95.0,
+      "notified": false,
+      "title": "Macbook pro 15” 2016, SSD 500 Gb, schermo rotto",
+      "last_seen": "2026-09-28 15:58:55"
     }
   },
   "seen_ids": [
@@ -12164,6 +12176,8 @@
     "662455581",
     "662457825",
     "662470913",
-    "662475682"
+    "662475251",
+    "662475682",
+    "662476391"
   ]
 }
