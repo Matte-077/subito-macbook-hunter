@@ -10151,6 +10151,12 @@
       "notified": true,
       "title": "Apple Macbook Pro 14\" M1 Pro, 16GB, 512GB",
       "last_seen": "2026-09-28 15:33:18"
+    },
+    "662475682": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "MacBook pro 13”retina SSD 500/Ram 8 Batt. Nuova",
+      "last_seen": "2026-09-28 15:58:45"
     }
   },
   "seen_ids": [
@@ -12157,6 +12163,7 @@
     "662455209",
     "662455581",
     "662457825",
-    "662470913"
+    "662470913",
+    "662475682"
   ]
 }
