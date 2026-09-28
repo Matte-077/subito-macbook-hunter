@@ -9533,7 +9533,7 @@
       "last_seen": "2026-09-27 10:59:28"
     },
     "662310197": {
-      "last_price": 400.0,
+      "last_price": 375.0,
       "notified": false,
       "title": "MacBook pro 13” M1",
       "last_seen": "2026-09-27 10:58:02"
@@ -9885,6 +9885,24 @@
       "notified": false,
       "title": "Schermo macbook pro 13” 2017 NON FUNZIONANTE",
       "last_seen": "2026-09-28 09:44:23"
+    },
+    "662420436": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M1 Pro 1TB scatola e alimentatore",
+      "last_seen": "2026-09-28 10:17:00"
+    },
+    "662419851": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "MacBook pro",
+      "last_seen": "2026-09-28 10:16:08"
+    },
+    "662419288": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook pro",
+      "last_seen": "2026-09-28 10:15:26"
     }
   },
   "seen_ids": [
@@ -11847,6 +11865,9 @@
     "662415132",
     "662415460",
     "662415515",
-    "662415658"
+    "662415658",
+    "662419288",
+    "662419851",
+    "662420436"
   ]
 }
