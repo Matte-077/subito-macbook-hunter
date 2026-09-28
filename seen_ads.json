@@ -10109,6 +10109,18 @@
       "notified": false,
       "title": "Macbook pro m1 pro",
       "last_seen": "2026-09-28 13:32:39"
+    },
+    "662451769": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 16 m1 anno 2022 63 cicli nuovo complet",
+      "last_seen": "2026-09-28 13:55:37"
+    },
+    "662446075": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" 2020 8GB RAM 2TB SSD PC",
+      "last_seen": "2026-09-28 13:56:20"
     }
   },
   "seen_ids": [
@@ -12107,7 +12119,9 @@
     "662442602",
     "662442744",
     "662445743",
+    "662446075",
     "662446218",
-    "662449866"
+    "662449866",
+    "662451769"
   ]
 }
