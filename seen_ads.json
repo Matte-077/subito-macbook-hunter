@@ -7003,10 +7003,10 @@
       "last_seen": "2026-09-21 17:58:32"
     },
     "661573153": {
-      "last_price": 399.0,
+      "last_price": 340.0,
       "notified": false,
       "title": "MacBook Pro 13” 2020 i5 8GB SSD 512GB",
-      "last_seen": "2026-09-21 17:58:31"
+      "last_seen": "2026-09-29 08:59:29"
     },
     "661584686": {
       "last_price": 31.0,
@@ -7501,10 +7501,10 @@
       "last_seen": "2026-09-22 14:52:08"
     },
     "661702113": {
-      "last_price": 450.0,
+      "last_price": 400.0,
       "notified": false,
       "title": "MacBook Pro 13” 2020 intel core i5 512/16GB",
-      "last_seen": "2026-09-22 14:52:06"
+      "last_seen": "2026-09-28 21:01:21"
     },
     "661709047": {
       "last_price": 1599.0,
@@ -8863,8 +8863,8 @@
       "last_seen": "2026-09-25 14:40:23"
     },
     "662116956": {
-      "last_price": 849.0,
-      "notified": false,
+      "last_price": 799.0,
+      "notified": true,
       "title": "MacBook Pro 16\" 2021 M1 Pro 10-core 16GB 512GB",
       "last_seen": "2026-09-25 14:56:16"
     },
@@ -9733,10 +9733,10 @@
       "last_seen": "2026-09-27 17:20:45"
     },
     "662361387": {
-      "last_price": 950.0,
+      "last_price": 850.0,
       "notified": false,
       "title": "HP EliteBook x360 1040 G11 da 14\" Touch screen",
-      "last_seen": "2026-09-27 17:39:44"
+      "last_seen": "2026-09-28 17:59:32"
     },
     "662367947": {
       "last_price": 3200.0,
@@ -10409,6 +10409,18 @@
       "notified": false,
       "title": "MOTOROLA SIGNATURE 512GB / 16 RAM",
       "last_seen": "2026-09-29 10:18:53"
+    },
+    "662573545": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "MacBook pro 14 pollici chip M5 24GB",
+      "last_seen": "2026-09-29 10:52:57"
+    },
+    "662570540": {
+      "last_price": 669.0,
+      "notified": false,
+      "title": "iPhone 16 128GB | Garanzia Apple",
+      "last_seen": "2026-09-29 10:35:33"
     }
   },
   "seen_ids": [
@@ -12458,6 +12470,8 @@
     "662561905",
     "662566228",
     "662566855",
-    "662569874"
+    "662569874",
+    "662570540",
+    "662573545"
   ]
 }
