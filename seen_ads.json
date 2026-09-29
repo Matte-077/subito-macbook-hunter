@@ -8875,10 +8875,10 @@
       "last_seen": "2026-09-25 15:20:08"
     },
     "662121895": {
-      "last_price": 900.0,
+      "last_price": 850.0,
       "notified": false,
       "title": "Macbook Pro 16 2019",
-      "last_seen": "2026-09-25 15:43:06"
+      "last_seen": "2026-09-29 15:43:38"
     },
     "662124215": {
       "last_price": 70.0,
@@ -10841,6 +10841,24 @@
       "notified": false,
       "title": "iPhone 15 Pro 256 Giga Con Garanzia 1 Anno 🔥",
       "last_seen": "2026-09-29 23:50:17"
+    },
+    "662680710": {
+      "last_price": 309.0,
+      "notified": false,
+      "title": "iPhone 13 128 Giga Con Garanzia",
+      "last_seen": "2026-09-30 00:03:33"
+    },
+    "662680561": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "iPhone 14 Pro 128 / 256 Giga Con Garanzia",
+      "last_seen": "2026-09-30 00:03:25"
+    },
+    "662680464": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "iPhone 14 Pro 128 / 256 Giga Con Garanzia 12 Mesi",
+      "last_seen": "2026-09-30 00:03:19"
     }
   },
   "seen_ids": [
@@ -12962,6 +12980,9 @@
     "662675585",
     "662679926",
     "662680283",
-    "662680347"
+    "662680347",
+    "662680464",
+    "662680561",
+    "662680710"
   ]
 }
