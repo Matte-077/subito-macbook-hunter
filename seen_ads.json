@@ -10495,13 +10495,13 @@
       "last_seen": "2026-09-29 12:22:09"
     },
     "662595053": {
-      "last_price": 350.0,
+      "last_price": 290.0,
       "notified": false,
       "title": "X2 NUOVE Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
       "last_seen": "2026-09-29 12:21:10"
     },
     "662594403": {
-      "last_price": 175.0,
+      "last_price": 145.0,
       "notified": false,
       "title": "NUOVA Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
       "last_seen": "2026-09-29 12:20:42"
@@ -10601,6 +10601,18 @@
       "notified": false,
       "title": "Zaino WANDRD STRATUS 18 L",
       "last_seen": "2026-09-29 14:10:19"
+    },
+    "662612685": {
+      "last_price": 1535.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M3Pro/36gb/1Tb Garanzia 1 anno",
+      "last_seen": "2026-09-29 14:26:17"
+    },
+    "662612239": {
+      "last_price": 275.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-09-29 14:25:55"
     }
   },
   "seen_ids": [
@@ -12682,6 +12694,8 @@
     "662605546",
     "662606044",
     "662606911",
-    "662610892"
+    "662610892",
+    "662612239",
+    "662612685"
   ]
 }
