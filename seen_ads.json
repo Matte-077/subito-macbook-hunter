@@ -10787,6 +10787,12 @@
       "notified": false,
       "title": "MacBook Pro 13” Apple M1 - Anno 2020 Perfetto",
       "last_seen": "2026-09-29 20:54:22"
+    },
+    "662666936": {
+      "last_price": 45.0,
+      "notified": false,
+      "title": "Apple Alimentatore MagSafe 1 60W Originale NUOVO",
+      "last_seen": "2026-09-29 21:13:39"
     }
   },
   "seen_ids": [
@@ -12899,6 +12905,7 @@
     "662662654",
     "662664707",
     "662665403",
-    "662665590"
+    "662665590",
+    "662666936"
   ]
 }
