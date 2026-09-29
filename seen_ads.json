@@ -10481,6 +10481,30 @@
       "notified": false,
       "title": "Macbook Pro 13 2020",
       "last_seen": "2026-09-29 12:04:04"
+    },
+    "662594177": {
+      "last_price": 1300.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M3 Pro 18GB 512GB Space Black",
+      "last_seen": "2026-09-29 12:20:32"
+    },
+    "662596310": {
+      "last_price": 1100.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" M1 1 TB",
+      "last_seen": "2026-09-29 12:22:09"
+    },
+    "662595053": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "X2 NUOVE Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-09-29 12:21:10"
+    },
+    "662594403": {
+      "last_price": 175.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-09-29 12:20:42"
     }
   },
   "seen_ids": [
@@ -12542,6 +12566,10 @@
     "662585878",
     "662585882",
     "662590988",
-    "662591992"
+    "662591992",
+    "662594177",
+    "662594403",
+    "662595053",
+    "662596310"
   ]
 }
