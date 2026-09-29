@@ -10823,6 +10823,24 @@
       "notified": false,
       "title": "Macbook Pro M1 batteria 93%",
       "last_seen": "2026-09-29 22:55:21"
+    },
+    "662680347": {
+      "last_price": 299.0,
+      "notified": false,
+      "title": "iPhone 13 128 Giga Con Garanzia 12 Mesi 🔥",
+      "last_seen": "2026-09-29 23:50:39"
+    },
+    "662680283": {
+      "last_price": 419.0,
+      "notified": false,
+      "title": "iPhone 13 Pro 128 Giga Con Garanzia 12 Mesi 🔥",
+      "last_seen": "2026-09-29 23:50:35"
+    },
+    "662679926": {
+      "last_price": 629.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 256 Giga Con Garanzia 1 Anno 🔥",
+      "last_seen": "2026-09-29 23:50:17"
     }
   },
   "seen_ids": [
@@ -12941,6 +12959,9 @@
     "662672660",
     "662672974",
     "662673839",
-    "662675585"
+    "662675585",
+    "662679926",
+    "662680283",
+    "662680347"
   ]
 }
