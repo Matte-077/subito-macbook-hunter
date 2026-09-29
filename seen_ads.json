@@ -10613,6 +10613,12 @@
       "notified": false,
       "title": "NUOVA Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
       "last_seen": "2026-09-29 14:25:55"
+    },
+    "662616455": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro  15” 2018,  i7   16 gb ram  ssd 512",
+      "last_seen": "2026-09-29 14:57:36"
     }
   },
   "seen_ids": [
@@ -12696,6 +12702,7 @@
     "662606911",
     "662610892",
     "662612239",
-    "662612685"
+    "662612685",
+    "662616455"
   ]
 }
