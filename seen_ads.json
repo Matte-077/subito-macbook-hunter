@@ -10709,6 +10709,18 @@
       "notified": false,
       "title": "Apple MacBook Neo 13\" 512GB Rosa Pastello NUOVO",
       "last_seen": "2026-09-29 18:40:21"
+    },
+    "662651403": {
+      "last_price": 35.0,
+      "notified": false,
+      "title": "Ssd 256 gb originale MacBook",
+      "last_seen": "2026-09-29 18:56:49"
+    },
+    "662651448": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "XIAOMI 15 T PRO 5G 512GB",
+      "last_seen": "2026-09-29 19:05:03"
     }
   },
   "seen_ids": [
@@ -12808,6 +12820,8 @@
     "662648868",
     "662649233",
     "662650282",
+    "662651403",
+    "662651448",
     "662651519"
   ]
 }
