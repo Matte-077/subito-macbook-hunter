@@ -10673,6 +10673,42 @@
       "notified": false,
       "title": "MacBook Pro 16 2023 M3 Max 36-1TB usato",
       "last_seen": "2026-09-29 18:33:19"
+    },
+    "662650282": {
+      "last_price": 1299.0,
+      "notified": false,
+      "title": "MacBook Pro 14 2023 M2 Pro 16-512GB usato",
+      "last_seen": "2026-09-29 18:48:40"
+    },
+    "662649233": {
+      "last_price": 1699.0,
+      "notified": false,
+      "title": "MacBook Pro 14 2024 M4 16-512GB usato",
+      "last_seen": "2026-09-29 18:40:45"
+    },
+    "662648868": {
+      "last_price": 1699.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2023 M2 Pro 16-1TB usato",
+      "last_seen": "2026-09-29 18:40:25"
+    },
+    "662648354": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2023 M2 Pro 16-512GB usato",
+      "last_seen": "2026-09-29 18:33:47"
+    },
+    "662651519": {
+      "last_price": 1699.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M5 16/ 512GB - BATTERIA 100%",
+      "last_seen": "2026-09-29 18:56:57"
+    },
+    "662648791": {
+      "last_price": 660.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 13\" 512GB Rosa Pastello NUOVO",
+      "last_seen": "2026-09-29 18:40:21"
     }
   },
   "seen_ids": [
@@ -12766,6 +12802,12 @@
     "662639517",
     "662645491",
     "662646782",
-    "662647787"
+    "662647787",
+    "662648354",
+    "662648791",
+    "662648868",
+    "662649233",
+    "662650282",
+    "662651519"
   ]
 }
