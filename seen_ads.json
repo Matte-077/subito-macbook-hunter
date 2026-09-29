@@ -10391,6 +10391,12 @@
       "notified": false,
       "title": "IPHONE 18 PRO 256 GB borgogna",
       "last_seen": "2026-09-29 09:30:14"
+    },
+    "662566228": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "MacBook Pro APPLE 13 2020 8GB RAM 2TB SSD PORTATIL",
+      "last_seen": "2026-09-29 10:02:23"
     }
   },
   "seen_ids": [
@@ -12437,6 +12443,7 @@
     "662545109",
     "662550073",
     "662560758",
-    "662561905"
+    "662561905",
+    "662566228"
   ]
 }
