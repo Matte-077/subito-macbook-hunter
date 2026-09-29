@@ -10505,6 +10505,36 @@
       "notified": false,
       "title": "NUOVA Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
       "last_seen": "2026-09-29 12:20:42"
+    },
+    "662599279": {
+      "last_price": 2000.0,
+      "notified": false,
+      "title": "Macbook Pro 14, M4 Pro, 24 Gb, 512 Gb, Int English",
+      "last_seen": "2026-09-29 12:38:40"
+    },
+    "662574379": {
+      "last_price": 1300.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" (2021) – Apple M1 Pro / 16 GB RAM",
+      "last_seen": "2026-09-29 12:38:12"
+    },
+    "662598203": {
+      "last_price": 240.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" (2017) Space Grey - 16 GB RAM",
+      "last_seen": "2026-09-29 12:37:37"
+    },
+    "662597995": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" (2019) - Intel Core i9 8 Core 1 TB",
+      "last_seen": "2026-09-29 12:37:25"
+    },
+    "662598984": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 15  2019 - Intel  i9 8 Core HD SSD 1TB",
+      "last_seen": "2026-09-29 12:38:25"
     }
   },
   "seen_ids": [
@@ -12557,6 +12587,7 @@
     "662569874",
     "662570540",
     "662573545",
+    "662574379",
     "662575714",
     "662576542",
     "662577238",
@@ -12570,6 +12601,10 @@
     "662594177",
     "662594403",
     "662595053",
-    "662596310"
+    "662596310",
+    "662597995",
+    "662598203",
+    "662598984",
+    "662599279"
   ]
 }
