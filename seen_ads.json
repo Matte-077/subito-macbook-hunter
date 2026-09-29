@@ -10625,6 +10625,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 14\" M1 Pro",
       "last_seen": "2026-09-29 15:13:52"
+    },
+    "662623261": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook Pro 13 pollici con touch bar - 512 GB",
+      "last_seen": "2026-09-29 15:45:10"
     }
   },
   "seen_ids": [
@@ -12710,6 +12716,7 @@
     "662612239",
     "662612685",
     "662616455",
-    "662618946"
+    "662618946",
+    "662623261"
   ]
 }
