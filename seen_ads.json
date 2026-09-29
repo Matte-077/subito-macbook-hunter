@@ -10757,6 +10757,18 @@
       "notified": false,
       "title": "Macbook pro 13",
       "last_seen": "2026-09-29 19:59:30"
+    },
+    "662662654": {
+      "last_price": 530.0,
+      "notified": false,
+      "title": "Apple iphone 15 pro max 256gb nero completo",
+      "last_seen": "2026-09-29 20:26:27"
+    },
+    "662662604": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "MacBook Pro 13 M2",
+      "last_seen": "2026-09-29 20:26:25"
     }
   },
   "seen_ids": [
@@ -12864,6 +12876,8 @@
     "662654736",
     "662657812",
     "662658322",
-    "662658844"
+    "662658844",
+    "662662604",
+    "662662654"
   ]
 }
