@@ -10427,6 +10427,36 @@
       "notified": false,
       "title": "Macbook pro m5",
       "last_seen": "2026-09-29 11:10:11"
+    },
+    "662580754": {
+      "last_price": 439.0,
+      "notified": false,
+      "title": "iPhone 14 128GB NERO | Usato | Garanzia 1 anno",
+      "last_seen": "2026-09-29 11:28:57"
+    },
+    "662580080": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "iPhone 14 128GB NERO | Usato | Garanzia 1 anno",
+      "last_seen": "2026-09-29 11:28:29"
+    },
+    "662577238": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "iPhone 14 256GB NERO | Usato | Garanzia 1 anno",
+      "last_seen": "2026-09-29 11:11:26"
+    },
+    "662576542": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "iPhone 14 Pro Max 128GB viola scuro| Usato | Garan",
+      "last_seen": "2026-09-29 11:10:49"
+    },
+    "662580070": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "Macbook pro m3 8gb ssd da 512gb 2024",
+      "last_seen": "2026-09-29 11:28:28"
     }
   },
   "seen_ids": [
@@ -12479,6 +12509,11 @@
     "662569874",
     "662570540",
     "662573545",
-    "662575714"
+    "662575714",
+    "662576542",
+    "662577238",
+    "662580070",
+    "662580080",
+    "662580754"
   ]
 }
