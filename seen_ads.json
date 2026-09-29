@@ -10367,6 +10367,12 @@
       "notified": false,
       "title": "💻 MacBook Pro 14” M5 Pro - 24GB RAM - 2TB SSD",
       "last_seen": "2026-09-29 00:40:21"
+    },
+    "662550073": {
+      "last_price": 680.0,
+      "notified": false,
+      "title": "Macbook Pro 15 2019 i7 32gb Ram 1Tb BATTERIA NUOVA",
+      "last_seen": "2026-09-29 06:15:18"
     }
   },
   "seen_ids": [
@@ -12409,6 +12415,7 @@
     "662543318",
     "662543326",
     "662543787",
-    "662545078"
+    "662545078",
+    "662550073"
   ]
 }
