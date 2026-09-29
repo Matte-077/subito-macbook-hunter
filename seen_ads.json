@@ -10469,6 +10469,18 @@
       "notified": false,
       "title": "NUOVA Samsung 990 PRO 2TB  + GARANZIA 5 Anni",
       "last_seen": "2026-09-29 11:46:39"
+    },
+    "662591992": {
+      "last_price": 1899.0,
+      "notified": false,
+      "title": "MacBook Pro M4 14” 16GB RAM 1TB SSD Nano-Texture",
+      "last_seen": "2026-09-29 12:04:48"
+    },
+    "662590988": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 13 2020",
+      "last_seen": "2026-09-29 12:04:04"
     }
   },
   "seen_ids": [
@@ -12528,6 +12540,8 @@
     "662580080",
     "662580754",
     "662585878",
-    "662585882"
+    "662585882",
+    "662590988",
+    "662591992"
   ]
 }
