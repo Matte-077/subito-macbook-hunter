@@ -10457,6 +10457,18 @@
       "notified": false,
       "title": "Macbook pro m3 8gb ssd da 512gb 2024",
       "last_seen": "2026-09-29 11:28:28"
+    },
+    "662585882": {
+      "last_price": 2250.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M2 Max 30Core 64gb ram 2tb Ssd",
+      "last_seen": "2026-09-29 11:46:38"
+    },
+    "662585878": {
+      "last_price": 245.0,
+      "notified": false,
+      "title": "NUOVA Samsung 990 PRO 2TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-09-29 11:46:39"
     }
   },
   "seen_ids": [
@@ -12514,6 +12526,8 @@
     "662577238",
     "662580070",
     "662580080",
-    "662580754"
+    "662580754",
+    "662585878",
+    "662585882"
   ]
 }
