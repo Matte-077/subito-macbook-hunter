@@ -10397,6 +10397,18 @@
       "notified": false,
       "title": "MacBook Pro APPLE 13 2020 8GB RAM 2TB SSD PORTATIL",
       "last_seen": "2026-09-29 10:02:23"
+    },
+    "662569874": {
+      "last_price": 5100.0,
+      "notified": false,
+      "title": "Macbook Pro M4 Max 16\" 128GB Ram",
+      "last_seen": "2026-09-29 10:20:20"
+    },
+    "662566855": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "MOTOROLA SIGNATURE 512GB / 16 RAM",
+      "last_seen": "2026-09-29 10:18:53"
     }
   },
   "seen_ids": [
@@ -12444,6 +12456,8 @@
     "662550073",
     "662560758",
     "662561905",
-    "662566228"
+    "662566228",
+    "662566855",
+    "662569874"
   ]
 }
