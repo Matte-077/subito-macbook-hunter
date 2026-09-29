@@ -10369,10 +10369,10 @@
       "last_seen": "2026-09-29 00:40:21"
     },
     "662550073": {
-      "last_price": 680.0,
+      "last_price": 600.0,
       "notified": false,
       "title": "Macbook Pro 15 2019 i7 32gb Ram 1Tb BATTERIA NUOVA",
-      "last_seen": "2026-09-29 06:15:18"
+      "last_seen": "2026-09-29 08:29:42"
     },
     "662545109": {
       "last_price": 400.0,
@@ -10643,6 +10643,18 @@
       "notified": false,
       "title": "MacBook Pro 14” M5 Pro 2Tb - NUOVO",
       "last_seen": "2026-09-29 17:04:16"
+    },
+    "662639517": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M1 Pro 16GB 512GB 2021 Argento",
+      "last_seen": "2026-09-29 17:35:53"
+    },
+    "662639247": {
+      "last_price": 1150.0,
+      "notified": false,
+      "title": "Macbook pro m3 ssd 512 gb 8gb ram",
+      "last_seen": "2026-09-29 17:35:40"
     }
   },
   "seen_ids": [
@@ -12731,6 +12743,8 @@
     "662618946",
     "662623261",
     "662629330",
-    "662634639"
+    "662634639",
+    "662639247",
+    "662639517"
   ]
 }
