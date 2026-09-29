@@ -10769,6 +10769,24 @@
       "notified": false,
       "title": "MacBook Pro 13 M2",
       "last_seen": "2026-09-29 20:26:25"
+    },
+    "662665590": {
+      "last_price": 169.0,
+      "notified": false,
+      "title": "macbook pro m1 2021",
+      "last_seen": "2026-09-29 20:55:09"
+    },
+    "662665403": {
+      "last_price": 150.0,
+      "notified": true,
+      "title": "Macbook Pro m1 2021",
+      "last_seen": "2026-09-29 20:54:58"
+    },
+    "662664707": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 13” Apple M1 - Anno 2020 Perfetto",
+      "last_seen": "2026-09-29 20:54:22"
     }
   },
   "seen_ids": [
@@ -12878,6 +12896,9 @@
     "662658322",
     "662658844",
     "662662604",
-    "662662654"
+    "662662654",
+    "662664707",
+    "662665403",
+    "662665590"
   ]
 }
