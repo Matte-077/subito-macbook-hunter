@@ -10369,7 +10369,7 @@
       "last_seen": "2026-09-29 00:40:21"
     },
     "662550073": {
-      "last_price": 600.0,
+      "last_price": 550.0,
       "notified": false,
       "title": "Macbook Pro 15 2019 i7 32gb Ram 1Tb BATTERIA NUOVA",
       "last_seen": "2026-09-29 08:29:42"
@@ -10721,6 +10721,24 @@
       "notified": false,
       "title": "XIAOMI 15 T PRO 5G 512GB",
       "last_seen": "2026-09-29 19:05:03"
+    },
+    "662653994": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "IPHONE 14 PLUS 128GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-09-29 19:24:47"
+    },
+    "662654736": {
+      "last_price": 360.0,
+      "notified": false,
+      "title": "Macbook pro 15” 2019",
+      "last_seen": "2026-09-29 19:25:25"
+    },
+    "662652885": {
+      "last_price": 579.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" M1 8/ 256GB - PROMO",
+      "last_seen": "2026-09-29 19:14:33"
     }
   },
   "seen_ids": [
@@ -12822,6 +12840,9 @@
     "662650282",
     "662651403",
     "662651448",
-    "662651519"
+    "662651519",
+    "662652885",
+    "662653994",
+    "662654736"
   ]
 }
