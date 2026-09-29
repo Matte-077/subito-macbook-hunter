@@ -8863,7 +8863,7 @@
       "last_seen": "2026-09-25 14:40:23"
     },
     "662116956": {
-      "last_price": 799.0,
+      "last_price": 749.0,
       "notified": true,
       "title": "MacBook Pro 16\" 2021 M1 Pro 10-core 16GB 512GB",
       "last_seen": "2026-09-25 14:56:16"
@@ -10655,6 +10655,24 @@
       "notified": false,
       "title": "Macbook pro m3 ssd 512 gb 8gb ram",
       "last_seen": "2026-09-29 17:35:40"
+    },
+    "662646782": {
+      "last_price": 1400.0,
+      "notified": false,
+      "title": "IPHONE 16 PRO MAX+ MACBOOK AIR M2",
+      "last_seen": "2026-09-29 18:27:06"
+    },
+    "662645491": {
+      "last_price": 779.0,
+      "notified": false,
+      "title": "IPAD PRO 6TH GEN M2 12.9 WIFI+CELL",
+      "last_seen": "2026-09-29 18:13:43"
+    },
+    "662647787": {
+      "last_price": 2999.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2023 M3 Max 36-1TB usato",
+      "last_seen": "2026-09-29 18:33:19"
     }
   },
   "seen_ids": [
@@ -12745,6 +12763,9 @@
     "662629330",
     "662634639",
     "662639247",
-    "662639517"
+    "662639517",
+    "662645491",
+    "662646782",
+    "662647787"
   ]
 }
