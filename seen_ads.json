@@ -8185,10 +8185,10 @@
       "last_seen": "2026-09-24 08:44:54"
     },
     "661945335": {
-      "last_price": 950.0,
+      "last_price": 900.0,
       "notified": false,
       "title": "MacBook Pro",
-      "last_seen": "2026-09-24 08:45:19"
+      "last_seen": "2026-09-29 08:59:33"
     },
     "661911617": {
       "last_price": 100.0,
@@ -8215,10 +8215,10 @@
       "last_seen": "2026-09-24 09:30:08"
     },
     "661951500": {
-      "last_price": 900.0,
-      "notified": true,
+      "last_price": 850.0,
+      "notified": false,
       "title": "MacBook Pro M1 Pro 16\" 16Gb 512Gb",
-      "last_seen": "2026-09-25 09:48:37"
+      "last_seen": "2026-09-29 10:00:33"
     },
     "661951029": {
       "last_price": 1.0,
@@ -8527,10 +8527,10 @@
       "last_seen": "2026-09-24 17:20:44"
     },
     "662014718": {
-      "last_price": 500.0,
+      "last_price": 480.0,
       "notified": false,
       "title": "MacBook Pro 13” M1 2020 – 8GB RAM 256GB SSD",
-      "last_seen": "2026-09-24 17:38:57"
+      "last_seen": "2026-09-29 15:12:07"
     },
     "662019357": {
       "last_price": 970.0,
@@ -10619,6 +10619,12 @@
       "notified": false,
       "title": "MacBook Pro  15” 2018,  i7   16 gb ram  ssd 512",
       "last_seen": "2026-09-29 14:57:36"
+    },
+    "662618946": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M1 Pro",
+      "last_seen": "2026-09-29 15:13:52"
     }
   },
   "seen_ids": [
@@ -12703,6 +12709,7 @@
     "662610892",
     "662612239",
     "662612685",
-    "662616455"
+    "662616455",
+    "662618946"
   ]
 }
