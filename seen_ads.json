@@ -10535,6 +10535,18 @@
       "notified": false,
       "title": "MacBook Pro 15  2019 - Intel  i9 8 Core HD SSD 1TB",
       "last_seen": "2026-09-29 12:38:25"
+    },
+    "662600218": {
+      "last_price": 280.0,
+      "notified": false,
+      "title": "APPLE MACBOOK PRO 13\" 2018\nA1989",
+      "last_seen": "2026-09-29 12:53:12"
+    },
+    "662601643": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2018 | 13.3\" | Touch Bar",
+      "last_seen": "2026-09-29 12:54:23"
     }
   },
   "seen_ids": [
@@ -12605,6 +12617,8 @@
     "662597995",
     "662598203",
     "662598984",
-    "662599279"
+    "662599279",
+    "662600218",
+    "662601643"
   ]
 }
