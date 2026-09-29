@@ -10739,6 +10739,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 13\" M1 8/ 256GB - PROMO",
       "last_seen": "2026-09-29 19:14:33"
+    },
+    "662657812": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "Mac book pro 16 M2Max 64Gb 2T",
+      "last_seen": "2026-09-29 19:47:57"
     }
   },
   "seen_ids": [
@@ -12843,6 +12849,7 @@
     "662651519",
     "662652885",
     "662653994",
-    "662654736"
+    "662654736",
+    "662657812"
   ]
 }
