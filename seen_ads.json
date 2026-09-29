@@ -10811,6 +10811,12 @@
       "notified": false,
       "title": "IPhone 12 128 giga green",
       "last_seen": "2026-09-29 22:12:47"
+    },
+    "662675585": {
+      "last_price": 279.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" Touch Bar 2017 A1706 i7 16GB 1TB",
+      "last_seen": "2026-09-29 22:42:00"
     }
   },
   "seen_ids": [
@@ -12927,6 +12933,7 @@
     "662666936",
     "662672660",
     "662672974",
-    "662673839"
+    "662673839",
+    "662675585"
   ]
 }
