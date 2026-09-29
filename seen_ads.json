@@ -10637,6 +10637,12 @@
       "notified": false,
       "title": "MacBook Pro M5 Pro",
       "last_seen": "2026-09-29 16:31:41"
+    },
+    "662634639": {
+      "last_price": 2699.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M5 Pro 2Tb - NUOVO",
+      "last_seen": "2026-09-29 17:04:16"
     }
   },
   "seen_ids": [
@@ -12724,6 +12730,7 @@
     "662616455",
     "662618946",
     "662623261",
-    "662629330"
+    "662629330",
+    "662634639"
   ]
 }
