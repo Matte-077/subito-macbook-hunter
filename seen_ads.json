@@ -10379,6 +10379,18 @@
       "notified": false,
       "title": "MacBook Pro 16\"",
       "last_seen": "2026-09-29 08:02:27"
+    },
+    "662561905": {
+      "last_price": 1599.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14 M3 PRO 18GB/512GB",
+      "last_seen": "2026-09-29 09:30:51"
+    },
+    "662560758": {
+      "last_price": 1399.0,
+      "notified": false,
+      "title": "IPHONE 18 PRO 256 GB borgogna",
+      "last_seen": "2026-09-29 09:30:14"
     }
   },
   "seen_ids": [
@@ -12423,6 +12435,8 @@
     "662543787",
     "662545078",
     "662545109",
-    "662550073"
+    "662550073",
+    "662560758",
+    "662561905"
   ]
 }
