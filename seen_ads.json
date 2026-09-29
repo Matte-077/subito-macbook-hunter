@@ -5263,10 +5263,10 @@
       "last_seen": "2026-09-18 15:39:02"
     },
     "661091918": {
-      "last_price": 1850.0,
+      "last_price": 1650.0,
       "notified": false,
       "title": "Workstation DDR5 - RTX 5070 | i7 14700F",
-      "last_seen": "2026-09-17 15:36:19"
+      "last_seen": "2026-09-29 11:09:07"
     },
     "661093515": {
       "last_price": null,
@@ -10421,6 +10421,12 @@
       "notified": false,
       "title": "iPhone 16 128GB | Garanzia Apple",
       "last_seen": "2026-09-29 10:35:33"
+    },
+    "662575714": {
+      "last_price": 1400.0,
+      "notified": false,
+      "title": "Macbook pro m5",
+      "last_seen": "2026-09-29 11:10:11"
     }
   },
   "seen_ids": [
@@ -12472,6 +12478,7 @@
     "662566855",
     "662569874",
     "662570540",
-    "662573545"
+    "662573545",
+    "662575714"
   ]
 }
