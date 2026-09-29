@@ -10577,6 +10577,18 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 2015 i5 GB BATERIA RAM 8 GB",
       "last_seen": "2026-09-29 13:25:10"
+    },
+    "662606911": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" (2021) — M1 Pro · 16 GB RAM · SSD",
+      "last_seen": "2026-09-29 13:40:35"
+    },
+    "662606044": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatil",
+      "last_seen": "2026-09-29 13:39:46"
     }
   },
   "seen_ids": [
@@ -12654,6 +12666,8 @@
     "662603866",
     "662604050",
     "662605079",
-    "662605546"
+    "662605546",
+    "662606044",
+    "662606911"
   ]
 }
