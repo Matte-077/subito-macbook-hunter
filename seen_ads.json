@@ -10793,6 +10793,24 @@
       "notified": false,
       "title": "Apple Alimentatore MagSafe 1 60W Originale NUOVO",
       "last_seen": "2026-09-29 21:13:39"
+    },
+    "662673839": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 2021 M1 Pro 14” Garanzia Apple Laptop",
+      "last_seen": "2026-09-29 22:13:44"
+    },
+    "662672974": {
+      "last_price": 339.0,
+      "notified": false,
+      "title": "IPhone 14 nero/black 128 giga Apple Store",
+      "last_seen": "2026-09-29 22:12:59"
+    },
+    "662672660": {
+      "last_price": 160.0,
+      "notified": false,
+      "title": "IPhone 12 128 giga green",
+      "last_seen": "2026-09-29 22:12:47"
     }
   },
   "seen_ids": [
@@ -12906,6 +12924,9 @@
     "662664707",
     "662665403",
     "662665590",
-    "662666936"
+    "662666936",
+    "662672660",
+    "662672974",
+    "662673839"
   ]
 }
