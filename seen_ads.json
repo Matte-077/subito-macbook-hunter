@@ -5650,7 +5650,7 @@
       "last_price": null,
       "notified": false,
       "title": "Apple MacBook Pro 13” con chip M1",
-      "last_seen": "2026-09-28 16:45:59"
+      "last_seen": "2026-09-29 16:45:55"
     },
     "661216644": {
       "last_price": 900.0,
@@ -10453,7 +10453,7 @@
       "last_seen": "2026-09-29 11:10:49"
     },
     "662580070": {
-      "last_price": 1200.0,
+      "last_price": 1150.0,
       "notified": false,
       "title": "Macbook pro m3 8gb ssd da 512gb 2024",
       "last_seen": "2026-09-29 11:28:28"
@@ -10631,6 +10631,12 @@
       "notified": false,
       "title": "Macbook Pro 13 pollici con touch bar - 512 GB",
       "last_seen": "2026-09-29 15:45:10"
+    },
+    "662629330": {
+      "last_price": 2190.0,
+      "notified": false,
+      "title": "MacBook Pro M5 Pro",
+      "last_seen": "2026-09-29 16:31:41"
     }
   },
   "seen_ids": [
@@ -12717,6 +12723,7 @@
     "662612685",
     "662616455",
     "662618946",
-    "662623261"
+    "662623261",
+    "662629330"
   ]
 }
