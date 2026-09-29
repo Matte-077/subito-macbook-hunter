@@ -10817,6 +10817,12 @@
       "notified": false,
       "title": "MacBook Pro 13\" Touch Bar 2017 A1706 i7 16GB 1TB",
       "last_seen": "2026-09-29 22:42:00"
+    },
+    "659046911": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook Pro M1 batteria 93%",
+      "last_seen": "2026-09-29 22:55:21"
     }
   },
   "seen_ids": [
@@ -11085,6 +11091,7 @@
     "659010356",
     "659010611",
     "659025402",
+    "659046911",
     "659049144",
     "659051496",
     "659074318",
