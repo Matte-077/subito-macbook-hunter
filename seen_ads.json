@@ -10859,6 +10859,18 @@
       "notified": false,
       "title": "iPhone 14 Pro 128 / 256 Giga Con Garanzia 12 Mesi",
       "last_seen": "2026-09-30 00:03:19"
+    },
+    "662680844": {
+      "last_price": 529.0,
+      "notified": false,
+      "title": "iPhone 16 128 Giga Con Garanzia 12 Mesi 🔥",
+      "last_seen": "2026-09-30 00:16:21"
+    },
+    "662680931": {
+      "last_price": 629.0,
+      "notified": false,
+      "title": "Macbook Air 13 M2 256 Giga Garantito 🔥",
+      "last_seen": "2026-09-30 00:16:26"
     }
   },
   "seen_ids": [
@@ -12983,6 +12995,8 @@
     "662680347",
     "662680464",
     "662680561",
-    "662680710"
+    "662680710",
+    "662680844",
+    "662680931"
   ]
 }
