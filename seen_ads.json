@@ -11467,6 +11467,12 @@
       "notified": false,
       "title": "Apple Macbook Pro 13 i5 8GB RAM HDD 500GB 2011",
       "last_seen": "2026-10-01 00:29:22"
+    },
+    "662816244": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro  16 pollici",
+      "last_seen": "2026-10-01 01:45:39"
     }
   },
   "seen_ids": [
@@ -13692,6 +13698,7 @@
     "662812010",
     "662812765",
     "662814256",
-    "662814748"
+    "662814748",
+    "662816244"
   ]
 }
