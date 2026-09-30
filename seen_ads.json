@@ -10907,6 +10907,18 @@
       "notified": false,
       "title": "MacBook Pro 15”retina ssd 250/ ram 16 Mid 2014",
       "last_seen": "2026-09-30 09:11:01"
+    },
+    "662702521": {
+      "last_price": 669.0,
+      "notified": false,
+      "title": "iPhone 16  128GB | Garanzia Apple",
+      "last_seen": "2026-09-30 09:45:39"
+    },
+    "662701261": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook Pro M1 13 pollici 8Gb SSD 256 Gb",
+      "last_seen": "2026-09-30 09:44:35"
     }
   },
   "seen_ids": [
@@ -13039,6 +13051,8 @@
     "662688625",
     "662697061",
     "662697222",
-    "662697573"
+    "662697573",
+    "662701261",
+    "662702521"
   ]
 }
