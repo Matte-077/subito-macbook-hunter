@@ -11285,6 +11285,18 @@
       "notified": false,
       "title": "MacBook Pro 15\" Mid 2014 16/512 GT 750M",
       "last_seen": "2026-09-30 18:32:27"
+    },
+    "662780379": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "Apple Macbook AiR M3 16gb ram  - SmartEconomy",
+      "last_seen": "2026-09-30 18:47:06"
+    },
+    "662780413": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "Macbook Pro 2018 512gb",
+      "last_seen": "2026-09-30 18:47:07"
     }
   },
   "seen_ids": [
@@ -13480,6 +13492,8 @@
     "662770397",
     "662774641",
     "662774660",
-    "662778802"
+    "662778802",
+    "662780379",
+    "662780413"
   ]
 }
