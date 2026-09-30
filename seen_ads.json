@@ -11383,6 +11383,24 @@
       "notified": false,
       "title": "IPhone 14 nero/black 128 gb Apple Store",
       "last_seen": "2026-09-30 21:47:07"
+    },
+    "662804871": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "Traktor S4 MK1 + MacBook Pro 13 16GB 1TB SSD",
+      "last_seen": "2026-09-30 22:01:55"
+    },
+    "662804055": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Oppo Reno 16 Pro 5G 12/512 BUNDLE COVER CARICATORE",
+      "last_seen": "2026-09-30 22:01:10"
+    },
+    "662804089": {
+      "last_price": 365.0,
+      "notified": false,
+      "title": "MacBook Pro 13,3” – Touch Bar – Batteria nuova",
+      "last_seen": "2026-09-30 22:01:12"
     }
   },
   "seen_ids": [
@@ -13594,6 +13612,9 @@
     "662802052",
     "662802919",
     "662803034",
-    "662803243"
+    "662803243",
+    "662804055",
+    "662804089",
+    "662804871"
   ]
 }
