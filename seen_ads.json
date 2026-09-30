@@ -11279,6 +11279,12 @@
       "notified": false,
       "title": "Cavo OTG Type C a USB 3.0 Adattatore USB C",
       "last_seen": "2026-09-30 18:01:18"
+    },
+    "662778802": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Mid 2014 16/512 GT 750M",
+      "last_seen": "2026-09-30 18:32:27"
     }
   },
   "seen_ids": [
@@ -13473,6 +13479,7 @@
     "662770370",
     "662770397",
     "662774641",
-    "662774660"
+    "662774660",
+    "662778802"
   ]
 }
