@@ -11455,6 +11455,18 @@
       "notified": false,
       "title": "Realme GT 8 pro gar.23 mesi amazon",
       "last_seen": "2026-09-30 23:51:09"
+    },
+    "662814748": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "Macbook Pro 13’ mid 2020 M1 - 8gb - 256Gb",
+      "last_seen": "2026-10-01 00:41:58"
+    },
+    "662814256": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "Apple Macbook Pro 13 i5 8GB RAM HDD 500GB 2011",
+      "last_seen": "2026-10-01 00:29:22"
     }
   },
   "seen_ids": [
@@ -13678,6 +13690,8 @@
     "662809815",
     "662810237",
     "662812010",
-    "662812765"
+    "662812765",
+    "662814256",
+    "662814748"
   ]
 }
