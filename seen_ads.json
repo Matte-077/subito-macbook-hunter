@@ -11365,6 +11365,24 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 M2 2022 8GB 256GB",
       "last_seen": "2026-09-30 21:17:28"
+    },
+    "662803243": {
+      "last_price": 370.0,
+      "notified": false,
+      "title": "IPhone 14 Pro silver/bianco 128 giga (apple)",
+      "last_seen": "2026-09-30 21:47:21"
+    },
+    "662803034": {
+      "last_price": 160.0,
+      "notified": false,
+      "title": "IPhone 12 128 gb green verde",
+      "last_seen": "2026-09-30 21:47:13"
+    },
+    "662802919": {
+      "last_price": 319.0,
+      "notified": false,
+      "title": "IPhone 14 nero/black 128 gb Apple Store",
+      "last_seen": "2026-09-30 21:47:07"
     }
   },
   "seen_ids": [
@@ -13573,6 +13591,9 @@
     "662791754",
     "662795152",
     "662799543",
-    "662802052"
+    "662802052",
+    "662802919",
+    "662803034",
+    "662803243"
   ]
 }
