@@ -9589,10 +9589,10 @@
       "last_seen": "2026-09-27 12:00:16"
     },
     "662324553": {
-      "last_price": 310.0,
+      "last_price": 270.0,
       "notified": false,
       "title": "MacBook Pro Retina 13” A1502 – 2016",
-      "last_seen": "2026-09-27 12:40:09"
+      "last_seen": "2026-09-30 13:02:00"
     },
     "662327688": {
       "last_price": 700.0,
@@ -11081,6 +11081,12 @@
       "notified": false,
       "title": "MACBOOK PRO 14 M3 16Gb Ram 512Gb",
       "last_seen": "2026-09-30 12:31:04"
+    },
+    "662736854": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "Ipad pro 11’’ M4",
+      "last_seen": "2026-09-30 13:04:06"
     }
   },
   "seen_ids": [
@@ -13242,6 +13248,7 @@
     "662730202",
     "662730279",
     "662730851",
-    "662730971"
+    "662730971",
+    "662736854"
   ]
 }
