@@ -11111,6 +11111,12 @@
       "notified": false,
       "title": "Vivo X300 Ultra 1 terabyte Global",
       "last_seen": "2026-09-30 13:51:01"
+    },
+    "662746968": {
+      "last_price": 370.0,
+      "notified": false,
+      "title": "IPhone 14 Pro silver/bianco 128 gb (apple)",
+      "last_seen": "2026-09-30 14:36:08"
     }
   },
   "seen_ids": [
@@ -13277,6 +13283,7 @@
     "662741018",
     "662742084",
     "662742132",
-    "662742321"
+    "662742321",
+    "662746968"
   ]
 }
