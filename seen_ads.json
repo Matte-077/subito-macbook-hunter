@@ -10931,6 +10931,36 @@
       "notified": false,
       "title": "MacBook Pro 2010",
       "last_seen": "2026-09-30 10:01:31"
+    },
+    "662710665": {
+      "last_price": 439.0,
+      "notified": false,
+      "title": "iPhone 14pro 256GB NERO | Usato | Garanzia 1 anno",
+      "last_seen": "2026-09-30 10:35:47"
+    },
+    "662710063": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "iPhone 14 Pro Max 128GB viola scuro",
+      "last_seen": "2026-09-30 10:35:13"
+    },
+    "662709541": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-09-30 10:34:46"
+    },
+    "662710188": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-09-30 10:35:20"
+    },
+    "662709852": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
+      "last_seen": "2026-09-30 10:35:04"
     }
   },
   "seen_ids": [
@@ -13067,6 +13097,11 @@
     "662701261",
     "662702521",
     "662703624",
-    "662704553"
+    "662704553",
+    "662709541",
+    "662709852",
+    "662710063",
+    "662710188",
+    "662710665"
   ]
 }
