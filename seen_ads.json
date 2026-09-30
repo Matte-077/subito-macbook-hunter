@@ -10895,6 +10895,18 @@
       "notified": false,
       "title": "MacBook Pro 16 m1 anno 2022 63 cicli nuovo complet",
       "last_seen": "2026-09-30 08:56:54"
+    },
+    "662697573": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w x MacBook pro 13/14",
+      "last_seen": "2026-09-30 09:11:21"
+    },
+    "662697222": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15”retina ssd 250/ ram 16 Mid 2014",
+      "last_seen": "2026-09-30 09:11:01"
     }
   },
   "seen_ids": [
@@ -13025,6 +13037,8 @@
     "662681177",
     "662687845",
     "662688625",
-    "662697061"
+    "662697061",
+    "662697222",
+    "662697573"
   ]
 }
