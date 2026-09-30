@@ -11023,7 +11023,7 @@
       "last_seen": "2026-09-30 11:27:15"
     },
     "662723300": {
-      "last_price": 23000.0,
+      "last_price": 230.0,
       "notified": false,
       "title": "MacBook PRO 2,2 GHz i7 - 16GB RAM - 256GB 2015",
       "last_seen": "2026-09-30 11:41:48"
@@ -11033,6 +11033,30 @@
       "notified": false,
       "title": "MacBook Pro APPLE 13 2020 8GB RAM 2TB SSD PORTATIL",
       "last_seen": "2026-09-30 11:42:15"
+    },
+    "662726541": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "iPad Pro (2024) | 11\" M4  512GB  wifi cell",
+      "last_seen": "2026-09-30 11:58:47"
+    },
+    "662728314": {
+      "last_price": 929.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 512GB | Garanzia Apple",
+      "last_seen": "2026-09-30 12:00:19"
+    },
+    "662727739": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "Macbook pro 15” 2017 i7",
+      "last_seen": "2026-09-30 11:59:45"
+    },
+    "639594811": {
+      "last_price": 649.0,
+      "notified": false,
+      "title": "Macbook PRO M1 , 8GB, 256gb, Anno 2020, in garanzi",
+      "last_seen": "2026-09-26 08:46:19"
     }
   },
   "seen_ids": [
@@ -11067,6 +11091,7 @@
     "637259755",
     "638309415",
     "639093934",
+    "639594811",
     "639655444",
     "640010286",
     "640893640",
@@ -13186,6 +13211,9 @@
     "662722780",
     "662723079",
     "662723300",
-    "662723838"
+    "662723838",
+    "662726541",
+    "662727739",
+    "662728314"
   ]
 }
