@@ -10791,7 +10791,7 @@
       "last_seen": "2026-09-29 20:54:22"
     },
     "662666936": {
-      "last_price": 45.0,
+      "last_price": 60.0,
       "notified": false,
       "title": "Apple Alimentatore MagSafe 1 60W Originale NUOVO",
       "last_seen": "2026-09-29 21:13:39"
@@ -11419,6 +11419,30 @@
       "notified": false,
       "title": "Apple MacBook Pro 13” – Modello A1989 – Intel Core",
       "last_seen": "2026-09-30 22:44:19"
+    },
+    "662810237": {
+      "last_price": 315.0,
+      "notified": false,
+      "title": "iPhone 13 128 Giga / 256 Giga con Garanzia 🔥",
+      "last_seen": "2026-09-30 22:58:28"
+    },
+    "662809815": {
+      "last_price": 829.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 256 Giga Con Garanzia 1 Anno 🔥",
+      "last_seen": "2026-09-30 22:58:08"
+    },
+    "662809715": {
+      "last_price": 1700.0,
+      "notified": false,
+      "title": "Macbook pro 14” 16 GB/512 GB nero siderale - NUOVO",
+      "last_seen": "2026-09-30 22:58:03"
+    },
+    "662809542": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "iPhone 14 Plus 128 Giga Con Garanzia",
+      "last_seen": "2026-09-30 22:57:53"
     }
   },
   "seen_ids": [
@@ -13636,6 +13660,10 @@
     "662804871",
     "662805205",
     "662805260",
-    "662808764"
+    "662808764",
+    "662809542",
+    "662809715",
+    "662809815",
+    "662810237"
   ]
 }
