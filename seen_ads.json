@@ -7813,7 +7813,7 @@
       "last_seen": "2026-09-23 10:24:54"
     },
     "661810856": {
-      "last_price": 20.0,
+      "last_price": 15.0,
       "notified": false,
       "title": "Adattatore Universale da Viaggio MOMAX 100W GaN",
       "last_seen": "2026-09-23 10:40:17"
@@ -11057,6 +11057,24 @@
       "notified": false,
       "title": "Macbook PRO M1 , 8GB, 256gb, Anno 2020, in garanzi",
       "last_seen": "2026-09-26 08:46:19"
+    },
+    "662730279": {
+      "last_price": 570.0,
+      "notified": false,
+      "title": "MacBook 16",
+      "last_seen": "2026-09-30 12:16:25"
+    },
+    "662730202": {
+      "last_price": 129.0,
+      "notified": false,
+      "title": "Logi Combo Touch iPad Pro 12.9\" 5ª/6ª gen - QWERTZ",
+      "last_seen": "2026-09-30 12:16:20"
+    },
+    "662730851": {
+      "last_price": 1779.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M5 16/ 1TB - 10 CICLI CI CARICA",
+      "last_seen": "2026-09-30 12:30:56"
     }
   },
   "seen_ids": [
@@ -13214,6 +13232,9 @@
     "662723838",
     "662726541",
     "662727739",
-    "662728314"
+    "662728314",
+    "662730202",
+    "662730279",
+    "662730851"
   ]
 }
