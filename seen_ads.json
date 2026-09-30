@@ -10961,6 +10961,30 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
       "last_seen": "2026-09-30 10:35:04"
+    },
+    "662712709": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "iPhone 14 128GB NERO | Usato | Garanzia 1 anno",
+      "last_seen": "2026-09-30 10:51:47"
+    },
+    "662711983": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "iPhone 14 128GB NERO | Usato | Garanzia 1 anno",
+      "last_seen": "2026-09-30 10:51:31"
+    },
+    "662710978": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "iPhone 14 256GB NERO | Usato | Garanzia 1 anno",
+      "last_seen": "2026-09-30 10:50:30"
+    },
+    "662712986": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Neo in garanzia",
+      "last_seen": "2026-09-30 10:51:53"
     }
   },
   "seen_ids": [
@@ -13102,6 +13126,10 @@
     "662709852",
     "662710063",
     "662710188",
-    "662710665"
+    "662710665",
+    "662710978",
+    "662711983",
+    "662712709",
+    "662712986"
   ]
 }
