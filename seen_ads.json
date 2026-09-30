@@ -11449,6 +11449,12 @@
       "notified": false,
       "title": "MacBook Pro 14 M1 Pro",
       "last_seen": "2026-09-30 23:38:09"
+    },
+    "662812765": {
+      "last_price": 545.0,
+      "notified": false,
+      "title": "Realme GT 8 pro gar.23 mesi amazon",
+      "last_seen": "2026-09-30 23:51:09"
     }
   },
   "seen_ids": [
@@ -13671,6 +13677,7 @@
     "662809715",
     "662809815",
     "662810237",
-    "662812010"
+    "662812010",
+    "662812765"
   ]
 }
