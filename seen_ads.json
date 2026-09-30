@@ -11443,6 +11443,12 @@
       "notified": false,
       "title": "iPhone 14 Plus 128 Giga Con Garanzia",
       "last_seen": "2026-09-30 22:57:53"
+    },
+    "662812010": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M1 Pro",
+      "last_seen": "2026-09-30 23:38:09"
     }
   },
   "seen_ids": [
@@ -13664,6 +13670,7 @@
     "662809542",
     "662809715",
     "662809815",
-    "662810237"
+    "662810237",
+    "662812010"
   ]
 }
