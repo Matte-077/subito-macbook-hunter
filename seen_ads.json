@@ -10919,6 +10919,18 @@
       "notified": false,
       "title": "Macbook Pro M1 13 pollici 8Gb SSD 256 Gb",
       "last_seen": "2026-09-30 09:44:35"
+    },
+    "662703624": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "MacBook pro 14\"  M3/8/512 ;  Late 2023",
+      "last_seen": "2026-09-30 10:00:44"
+    },
+    "662704553": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook Pro 2010",
+      "last_seen": "2026-09-30 10:01:31"
     }
   },
   "seen_ids": [
@@ -13053,6 +13065,8 @@
     "662697222",
     "662697573",
     "662701261",
-    "662702521"
+    "662702521",
+    "662703624",
+    "662704553"
   ]
 }
