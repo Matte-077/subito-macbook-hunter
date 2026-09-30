@@ -5417,8 +5417,10 @@
       "notified": false
     },
     "661144899": {
-      "last_price": null,
-      "notified": false
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" (M1, 2020) 1TB 16GB RAM M1",
+      "last_seen": "2026-09-30 20:47:09"
     },
     "661145523": {
       "last_price": 2499.0,
@@ -11345,6 +11347,12 @@
       "notified": false,
       "title": "macbook pro 15”",
       "last_seen": "2026-09-30 20:04:09"
+    },
+    "662795152": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "MacBook pro A1278 8gb RAM",
+      "last_seen": "2026-09-30 20:33:55"
     }
   },
   "seen_ids": [
@@ -13550,6 +13558,7 @@
     "662785078",
     "662786958",
     "662791472",
-    "662791754"
+    "662791754",
+    "662795152"
   ]
 }
