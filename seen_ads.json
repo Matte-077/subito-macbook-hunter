@@ -10985,6 +10985,12 @@
       "notified": false,
       "title": "MacBook Neo in garanzia",
       "last_seen": "2026-09-30 10:51:53"
+    },
+    "662719619": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatil",
+      "last_seen": "2026-09-30 11:10:49"
     }
   },
   "seen_ids": [
@@ -13130,6 +13136,7 @@
     "662710978",
     "662711983",
     "662712709",
-    "662712986"
+    "662712986",
+    "662719619"
   ]
 }
