@@ -11159,6 +11159,24 @@
       "notified": false,
       "title": "IPHONE 18 PRO MAX 1TB nuovo",
       "last_seen": "2026-09-30 15:07:55"
+    },
+    "662752094": {
+      "last_price": 69.0,
+      "notified": false,
+      "title": "Apple pencil 2",
+      "last_seen": "2026-09-30 15:22:31"
+    },
+    "662754014": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook PRO 2014 - 13”",
+      "last_seen": "2026-09-30 15:23:55"
+    },
+    "662753034": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Macbook pro 2014",
+      "last_seen": "2026-09-30 15:23:06"
     }
   },
   "seen_ids": [
@@ -13333,6 +13351,9 @@
     "662751298",
     "662751642",
     "662751846",
-    "662752228"
+    "662752094",
+    "662752228",
+    "662753034",
+    "662754014"
   ]
 }
