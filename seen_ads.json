@@ -11267,6 +11267,18 @@
       "notified": false,
       "title": "MacBook Pro 13 pollici 2016 con touch bar",
       "last_seen": "2026-09-30 17:28:47"
+    },
+    "662774641": {
+      "last_price": 999.0,
+      "notified": true,
+      "title": "Apple MacBook Pro 14  (2024) M4 Pro",
+      "last_seen": "2026-09-30 18:01:18"
+    },
+    "662774660": {
+      "last_price": 10.0,
+      "notified": false,
+      "title": "Cavo OTG Type C a USB 3.0 Adattatore USB C",
+      "last_seen": "2026-09-30 18:01:18"
     }
   },
   "seen_ids": [
@@ -13459,6 +13471,8 @@
     "662770297",
     "662770324",
     "662770370",
-    "662770397"
+    "662770397",
+    "662774641",
+    "662774660"
   ]
 }
