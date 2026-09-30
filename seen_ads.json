@@ -11093,6 +11093,24 @@
       "notified": false,
       "title": "MacBook Pro M5 14 \" 16GB 1TB",
       "last_seen": "2026-09-30 13:36:14"
+    },
+    "662742321": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "🟨Lenovo ThinkPad T580 - i5 8350U, PER PARTI",
+      "last_seen": "2026-09-30 13:51:12"
+    },
+    "662742084": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Chip SSD Nand 512 a2485 - Memoria SSD per Macbook",
+      "last_seen": "2026-09-30 13:50:58"
+    },
+    "662742132": {
+      "last_price": 1250.0,
+      "notified": false,
+      "title": "Vivo X300 Ultra 1 terabyte Global",
+      "last_seen": "2026-09-30 13:51:01"
     }
   },
   "seen_ids": [
@@ -13256,6 +13274,9 @@
     "662730851",
     "662730971",
     "662736854",
-    "662741018"
+    "662741018",
+    "662742084",
+    "662742132",
+    "662742321"
   ]
 }
