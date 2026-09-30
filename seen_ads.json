@@ -11311,16 +11311,28 @@
       "last_seen": "2026-09-30 19:03:19"
     },
     "662785078": {
-      "last_price": 2200.0,
+      "last_price": 2250.0,
       "notified": false,
       "title": "MacBook Pro 14\" M5 Pro - 24GB/1TB - AppleCare+",
       "last_seen": "2026-09-30 19:18:14"
     },
     "662784350": {
-      "last_price": 90.0,
+      "last_price": 79.0,
       "notified": false,
       "title": "MacBook Pro 13”",
       "last_seen": "2026-09-30 19:17:45"
+    },
+    "662778328": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Caricatore originale Apple 61 W",
+      "last_seen": "2026-09-30 19:33:52"
+    },
+    "662786958": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "Macbook Pro 16”",
+      "last_seen": "2026-09-30 19:33:42"
     }
   },
   "seen_ids": [
@@ -13516,12 +13528,14 @@
     "662770397",
     "662774641",
     "662774660",
+    "662778328",
     "662778802",
     "662780379",
     "662780413",
     "662783056",
     "662783368",
     "662784350",
-    "662785078"
+    "662785078",
+    "662786958"
   ]
 }
