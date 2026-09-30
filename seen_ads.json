@@ -11413,6 +11413,12 @@
       "notified": false,
       "title": "Macbook Pro 13” 2016 Retina",
       "last_seen": "2026-09-30 22:15:20"
+    },
+    "662808764": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” – Modello A1989 – Intel Core",
+      "last_seen": "2026-09-30 22:44:19"
     }
   },
   "seen_ids": [
@@ -13629,6 +13635,7 @@
     "662804089",
     "662804871",
     "662805205",
-    "662805260"
+    "662805260",
+    "662808764"
   ]
 }
