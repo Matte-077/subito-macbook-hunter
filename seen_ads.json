@@ -8593,7 +8593,7 @@
       "last_seen": "2026-09-24 19:13:23"
     },
     "662031422": {
-      "last_price": 659.0,
+      "last_price": 649.0,
       "notified": false,
       "title": "MacBook Pro 16\" (2019) – Intel Core i9 / 16GB RAM",
       "last_seen": "2026-09-29 21:43:00"
@@ -10991,6 +10991,36 @@
       "notified": false,
       "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatil",
       "last_seen": "2026-09-30 11:10:49"
+    },
+    "662720241": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 2019 i7 16GB 512GB SSD Radeon",
+      "last_seen": "2026-09-30 11:25:29"
+    },
+    "662722613": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "Macbook pro 2020 m1",
+      "last_seen": "2026-09-30 11:27:16"
+    },
+    "662722780": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-09-30 11:27:24"
+    },
+    "662723079": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-09-30 11:27:38"
+    },
+    "662722580": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB RADEON PRO 560 CONS.DOMIC + ADOBE",
+      "last_seen": "2026-09-30 11:27:15"
     }
   },
   "seen_ids": [
@@ -13137,6 +13167,11 @@
     "662711983",
     "662712709",
     "662712986",
-    "662719619"
+    "662719619",
+    "662720241",
+    "662722580",
+    "662722613",
+    "662722780",
+    "662723079"
   ]
 }
