@@ -6397,10 +6397,10 @@
       "last_seen": "2026-09-20 11:48:32"
     },
     "661417921": {
-      "last_price": 770.0,
+      "last_price": 699.0,
       "notified": false,
       "title": "Macbook Pro 13 M2 8GB 256GB TouchBar Batteria 93%",
-      "last_seen": "2026-09-24 21:28:39"
+      "last_seen": "2026-09-30 08:55:31"
     },
     "661418064": {
       "last_price": 40.0,
@@ -10889,6 +10889,12 @@
       "notified": false,
       "title": "iPad Pro 12.9 (4 gen.) Wi-Fi + Cel. 128 gb",
       "last_seen": "2026-09-30 06:48:26"
+    },
+    "662697061": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 16 m1 anno 2022 63 cicli nuovo complet",
+      "last_seen": "2026-09-30 08:56:54"
     }
   },
   "seen_ids": [
@@ -13018,6 +13024,7 @@
     "662680931",
     "662681177",
     "662687845",
-    "662688625"
+    "662688625",
+    "662697061"
   ]
 }
