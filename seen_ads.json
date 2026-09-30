@@ -11219,6 +11219,54 @@
       "notified": false,
       "title": "NUOVA Samsung 9100 PRO 1TB  +  5 Anni Garanzia",
       "last_seen": "2026-09-30 17:14:30"
+    },
+    "662770397": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M2 Max 64/2Tera 16”",
+      "last_seen": "2026-09-30 17:29:43"
+    },
+    "662770370": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M2 Max 64/2Tera 16”",
+      "last_seen": "2026-09-30 17:29:42"
+    },
+    "662770324": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M2 Max 64/2Tera 16”",
+      "last_seen": "2026-09-30 17:29:40"
+    },
+    "662770297": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M2 Max 64/2Tera 16”",
+      "last_seen": "2026-09-30 17:29:38"
+    },
+    "662770251": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M2 Max 64/2Tera 16”",
+      "last_seen": "2026-09-30 17:29:36"
+    },
+    "662770219": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M2 Max 64/2Tera 16”",
+      "last_seen": "2026-09-30 17:29:35"
+    },
+    "662769388": {
+      "last_price": 1849.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3 Pro  RAM 36Gb, SSD 512Gb Ex-Demo",
+      "last_seen": "2026-09-30 17:28:56"
+    },
+    "662769211": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook Pro 13 pollici 2016 con touch bar",
+      "last_seen": "2026-09-30 17:28:47"
     }
   },
   "seen_ids": [
@@ -13403,6 +13451,14 @@
     "662764168",
     "662765616",
     "662766260",
-    "662768570"
+    "662768570",
+    "662769211",
+    "662769388",
+    "662770219",
+    "662770251",
+    "662770297",
+    "662770324",
+    "662770370",
+    "662770397"
   ]
 }
