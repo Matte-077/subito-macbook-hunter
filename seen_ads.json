@@ -8529,10 +8529,10 @@
       "last_seen": "2026-09-24 17:20:44"
     },
     "662014718": {
-      "last_price": 480.0,
+      "last_price": 450.0,
       "notified": false,
       "title": "MacBook Pro 13” M1 2020 – 8GB RAM 256GB SSD",
-      "last_seen": "2026-09-29 15:12:07"
+      "last_seen": "2026-09-30 15:21:57"
     },
     "662019357": {
       "last_price": 970.0,
@@ -11349,10 +11349,22 @@
       "last_seen": "2026-09-30 20:04:09"
     },
     "662795152": {
-      "last_price": 200.0,
+      "last_price": 180.0,
       "notified": false,
       "title": "MacBook pro A1278 8gb RAM",
       "last_seen": "2026-09-30 20:33:55"
+    },
+    "662802052": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "Samsung s26 ultra  256gb",
+      "last_seen": "2026-09-30 21:32:55"
+    },
+    "662799543": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 M2 2022 8GB 256GB",
+      "last_seen": "2026-09-30 21:17:28"
     }
   },
   "seen_ids": [
@@ -13559,6 +13571,8 @@
     "662786958",
     "662791472",
     "662791754",
-    "662795152"
+    "662795152",
+    "662799543",
+    "662802052"
   ]
 }
