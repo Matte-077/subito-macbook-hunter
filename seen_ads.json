@@ -11075,6 +11075,12 @@
       "notified": false,
       "title": "Apple MacBook Pro M5 16/ 1TB - 10 CICLI CI CARICA",
       "last_seen": "2026-09-30 12:30:56"
+    },
+    "662730971": {
+      "last_price": 1299.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14 M3 16Gb Ram 512Gb",
+      "last_seen": "2026-09-30 12:31:04"
     }
   },
   "seen_ids": [
@@ -13235,6 +13241,7 @@
     "662728314",
     "662730202",
     "662730279",
-    "662730851"
+    "662730851",
+    "662730971"
   ]
 }
