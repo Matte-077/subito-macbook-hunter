@@ -11401,6 +11401,18 @@
       "notified": false,
       "title": "MacBook Pro 13,3” – Touch Bar – Batteria nuova",
       "last_seen": "2026-09-30 22:01:12"
+    },
+    "662805260": {
+      "last_price": 65.0,
+      "notified": false,
+      "title": "Zaino Porta PC Everki Flight 16 Checkpoint",
+      "last_seen": "2026-09-30 22:15:22"
+    },
+    "662805205": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "Macbook Pro 13” 2016 Retina",
+      "last_seen": "2026-09-30 22:15:20"
     }
   },
   "seen_ids": [
@@ -13615,6 +13627,8 @@
     "662803243",
     "662804055",
     "662804089",
-    "662804871"
+    "662804871",
+    "662805205",
+    "662805260"
   ]
 }
