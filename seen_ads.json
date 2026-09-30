@@ -11333,6 +11333,18 @@
       "notified": false,
       "title": "Macbook Pro 16”",
       "last_seen": "2026-09-30 19:33:42"
+    },
+    "662791472": {
+      "last_price": 2600.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M5 Pro 14” 24GB RAM 2TB SSD",
+      "last_seen": "2026-09-30 20:03:55"
+    },
+    "662791754": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "macbook pro 15”",
+      "last_seen": "2026-09-30 20:04:09"
     }
   },
   "seen_ids": [
@@ -13536,6 +13548,8 @@
     "662783368",
     "662784350",
     "662785078",
-    "662786958"
+    "662786958",
+    "662791472",
+    "662791754"
   ]
 }
