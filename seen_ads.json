@@ -6565,10 +6565,10 @@
       "last_seen": "2026-09-20 16:30:27"
     },
     "661450644": {
-      "last_price": 3500.0,
+      "last_price": 3400.0,
       "notified": false,
-      "title": "Apple MacBook pro m5pro 14pro 2tb",
-      "last_seen": "2026-09-20 16:30:26"
+      "title": "Apple MacBook pro m5pro 14pro 2tb completo scatola",
+      "last_seen": "2026-09-30 15:06:10"
     },
     "661452785": {
       "last_price": 230.0,
@@ -11117,6 +11117,48 @@
       "notified": false,
       "title": "IPhone 14 Pro silver/bianco 128 gb (apple)",
       "last_seen": "2026-09-30 14:36:08"
+    },
+    "662748798": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 - 16GB RAM",
+      "last_seen": "2026-09-30 14:51:35"
+    },
+    "662752228": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "IPHONE 16 PRO MAX 256GB sabbia",
+      "last_seen": "2026-09-30 15:08:22"
+    },
+    "662751298": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "GOOGLE PIXEL 10 PRO 5G nuovo",
+      "last_seen": "2026-09-30 15:07:53"
+    },
+    "662751248": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "Motorola signature 512gb / 16 ram",
+      "last_seen": "2026-09-30 15:07:53"
+    },
+    "662749952": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "MacBook Pro 15,4”",
+      "last_seen": "2026-09-30 14:52:46"
+    },
+    "662751846": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "Macbook pro / schermo non funzionante",
+      "last_seen": "2026-09-30 15:08:04"
+    },
+    "662751642": {
+      "last_price": 2299.0,
+      "notified": false,
+      "title": "IPHONE 18 PRO MAX 1TB nuovo",
+      "last_seen": "2026-09-30 15:07:55"
     }
   },
   "seen_ids": [
@@ -13284,6 +13326,13 @@
     "662742084",
     "662742132",
     "662742321",
-    "662746968"
+    "662746968",
+    "662748798",
+    "662749952",
+    "662751248",
+    "662751298",
+    "662751642",
+    "662751846",
+    "662752228"
   ]
 }
