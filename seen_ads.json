@@ -11297,6 +11297,18 @@
       "notified": false,
       "title": "Macbook Pro 2018 512gb",
       "last_seen": "2026-09-30 18:47:07"
+    },
+    "662783368": {
+      "last_price": 20.0,
+      "notified": false,
+      "title": "Lemorele TC93 Hub USB-C 10 in 1 -  NUOVO",
+      "last_seen": "2026-09-30 19:03:33"
+    },
+    "662783056": {
+      "last_price": 380.0,
+      "notified": false,
+      "title": "MacBook Neo 8 GB / 512 GB",
+      "last_seen": "2026-09-30 19:03:19"
     }
   },
   "seen_ids": [
@@ -13494,6 +13506,8 @@
     "662774660",
     "662778802",
     "662780379",
-    "662780413"
+    "662780413",
+    "662783056",
+    "662783368"
   ]
 }
