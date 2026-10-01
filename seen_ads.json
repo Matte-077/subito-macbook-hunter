@@ -11569,6 +11569,24 @@
       "notified": false,
       "title": "MacBook Pro 14 M3Pro/18gb/1Tb Garanzia1 Anno",
       "last_seen": "2026-10-01 12:16:29"
+    },
+    "662862126": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 13 2020",
+      "last_seen": "2026-10-01 12:49:27"
+    },
+    "662863091": {
+      "last_price": 1100.0,
+      "notified": false,
+      "title": "MacBook Pro m3",
+      "last_seen": "2026-10-01 12:50:15"
+    },
+    "662861892": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "MacBook Pro m3",
+      "last_seen": "2026-10-01 12:49:11"
     }
   },
   "seen_ids": [
@@ -13811,6 +13829,9 @@
     "662846332",
     "662846500",
     "662856528",
-    "662857172"
+    "662857172",
+    "662861892",
+    "662862126",
+    "662863091"
   ]
 }
