@@ -11821,6 +11821,18 @@
       "notified": false,
       "title": "Oppo Find N5 Fold - Come Nuovo / Perfetto - Garanz",
       "last_seen": "2026-10-01 21:41:30"
+    },
+    "662935710": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM",
+      "last_seen": "2026-10-01 21:56:10"
+    },
+    "662935718": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" (2016) - 256GB",
+      "last_seen": "2026-10-01 21:56:10"
     }
   },
   "seen_ids": [
@@ -14105,6 +14117,8 @@
     "662924336",
     "662927759",
     "662928581",
-    "662934247"
+    "662934247",
+    "662935710",
+    "662935718"
   ]
 }
