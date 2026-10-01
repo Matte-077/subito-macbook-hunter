@@ -11839,6 +11839,18 @@
       "notified": false,
       "title": "IPhone 14 nero/black 128 gb Apple Store",
       "last_seen": "2026-10-01 22:10:59"
+    },
+    "662942129": {
+      "last_price": 840.0,
+      "notified": false,
+      "title": "iPhone 17 Pro Max Blu 256GB",
+      "last_seen": "2026-10-01 23:07:31"
+    },
+    "662941686": {
+      "last_price": 1100.0,
+      "notified": false,
+      "title": "Asus rog zephyrus g16 rtx 4070",
+      "last_seen": "2026-10-01 23:07:07"
     }
   },
   "seen_ids": [
@@ -14126,6 +14138,8 @@
     "662934247",
     "662935710",
     "662935718",
-    "662937363"
+    "662937363",
+    "662941686",
+    "662942129"
   ]
 }
