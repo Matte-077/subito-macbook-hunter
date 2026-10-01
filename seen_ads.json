@@ -11743,6 +11743,18 @@
       "notified": false,
       "title": "MacBook Pro '13 Display Retina",
       "last_seen": "2026-10-01 18:07:25"
+    },
+    "662911072": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "2 MacBook Pro Unibody per Ricambi (Senza HD) - 17\"",
+      "last_seen": "2026-10-01 18:24:07"
+    },
+    "662910917": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "2 MacBook Pro Unibody per Ricambi (Senza HD) - 17\"",
+      "last_seen": "2026-10-01 18:23:58"
     }
   },
   "seen_ids": [
@@ -14014,6 +14026,8 @@
     "662907799",
     "662908256",
     "662909273",
-    "662909476"
+    "662909476",
+    "662910917",
+    "662911072"
   ]
 }
