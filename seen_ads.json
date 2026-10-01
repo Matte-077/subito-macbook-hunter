@@ -11587,6 +11587,30 @@
       "notified": false,
       "title": "MacBook Pro m3",
       "last_seen": "2026-10-01 12:49:11"
+    },
+    "662865121": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16 2023 M2 MAX 32GB/1TB",
+      "last_seen": "2026-10-01 13:06:02"
+    },
+    "662864861": {
+      "last_price": null,
+      "notified": false,
+      "title": "MacBook Pro 15″ Retina 2016 Touch Bar – i7 – 16GB",
+      "last_seen": "2026-10-01 13:05:51"
+    },
+    "662864096": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "MacBook Pro 15 Intel Core I7 16/512 Radeon Pro 4GB",
+      "last_seen": "2026-10-01 13:05:12"
+    },
+    "662863974": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro 15″ Retina 2016 Touch Bar – i7 – 16GB",
+      "last_seen": "2026-10-01 13:05:06"
     }
   },
   "seen_ids": [
@@ -13832,6 +13856,10 @@
     "662857172",
     "662861892",
     "662862126",
-    "662863091"
+    "662863091",
+    "662863974",
+    "662864096",
+    "662864861",
+    "662865121"
   ]
 }
