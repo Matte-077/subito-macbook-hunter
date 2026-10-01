@@ -11713,6 +11713,18 @@
       "notified": false,
       "title": "Macbook pro 13” 2019",
       "last_seen": "2026-10-01 17:17:56"
+    },
+    "662907799": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook pro M1 2020 16gb/1tb",
+      "last_seen": "2026-10-01 17:51:38"
+    },
+    "662907422": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "MacBook M5 pro 24gb 1tb",
+      "last_seen": "2026-10-01 17:51:17"
     }
   },
   "seen_ids": [
@@ -13979,6 +13991,8 @@
     "662899626",
     "662901868",
     "662904050",
-    "662905339"
+    "662905339",
+    "662907422",
+    "662907799"
   ]
 }
