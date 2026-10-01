@@ -5652,7 +5652,7 @@
       "last_price": null,
       "notified": false,
       "title": "Apple MacBook Pro 13” con chip M1",
-      "last_seen": "2026-09-30 16:40:37"
+      "last_seen": "2026-10-01 16:43:52"
     },
     "661216644": {
       "last_price": 900.0,
@@ -11673,10 +11673,16 @@
       "last_seen": "2026-10-01 16:12:28"
     },
     "662895371": {
-      "last_price": null,
+      "last_price": 650.0,
       "notified": false,
       "title": "MacBook Neo in garanzia con scontrino",
       "last_seen": "2026-10-01 16:29:10"
+    },
+    "662898436": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "MacBook Pro 2019 16” i7 16/512",
+      "last_seen": "2026-10-01 16:46:30"
     }
   },
   "seen_ids": [
@@ -13937,6 +13943,7 @@
     "662876463",
     "662876701",
     "662893760",
-    "662895371"
+    "662895371",
+    "662898436"
   ]
 }
