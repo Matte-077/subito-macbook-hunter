@@ -11067,7 +11067,7 @@
       "last_seen": "2026-09-30 12:16:25"
     },
     "662730202": {
-      "last_price": 129.0,
+      "last_price": 99.0,
       "notified": false,
       "title": "Logi Combo Touch iPad Pro 12.9\" 5ª/6ª gen - QWERTZ",
       "last_seen": "2026-09-30 12:16:20"
@@ -11545,6 +11545,18 @@
       "notified": false,
       "title": "MacBook Pro 15\" Touch Bar intel i7-1TB - 16Gb",
       "last_seen": "2026-10-01 10:40:48"
+    },
+    "662846332": {
+      "last_price": 1359.0,
+      "notified": false,
+      "title": "MacBook Pro M1 Pro 1TB 32GB",
+      "last_seen": "2026-10-01 10:57:42"
+    },
+    "662846500": {
+      "last_price": 46.0,
+      "notified": false,
+      "title": "UGREEN Revodok Pro 210 Hub USB C 10 in 1 Docking S",
+      "last_seen": "2026-10-01 10:57:50"
     }
   },
   "seen_ids": [
@@ -13783,6 +13795,8 @@
     "662840770",
     "662841004",
     "662843336",
-    "662843340"
+    "662843340",
+    "662846332",
+    "662846500"
   ]
 }
