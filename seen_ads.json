@@ -11857,6 +11857,12 @@
       "notified": false,
       "title": "MacBook PRO",
       "last_seen": "2026-10-01 23:33:39"
+    },
+    "662943633": {
+      "last_price": 310.0,
+      "notified": false,
+      "title": "2X NUOVE Samsung 9100 PRO 1TB  + 5 Anni Garanzia",
+      "last_seen": "2026-10-01 23:46:33"
     }
   },
   "seen_ids": [
@@ -14147,6 +14153,7 @@
     "662936488",
     "662937363",
     "662941686",
-    "662942129"
+    "662942129",
+    "662943633"
   ]
 }
