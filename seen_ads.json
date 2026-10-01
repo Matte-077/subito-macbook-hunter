@@ -11665,6 +11665,12 @@
       "notified": false,
       "title": "Macbook pro e iphone 11pro max",
       "last_seen": "2026-10-01 14:14:58"
+    },
+    "662893760": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Retina i7 – 16GB RAM – SSD 500GB",
+      "last_seen": "2026-10-01 16:12:28"
     }
   },
   "seen_ids": [
@@ -13923,6 +13929,7 @@
     "662874764",
     "662875611",
     "662876463",
-    "662876701"
+    "662876701",
+    "662893760"
   ]
 }
