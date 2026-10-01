@@ -11557,6 +11557,12 @@
       "notified": false,
       "title": "UGREEN Revodok Pro 210 Hub USB C 10 in 1 Docking S",
       "last_seen": "2026-10-01 10:57:50"
+    },
+    "662856528": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "MacBook PRO M1 16pollici POTENZIATO",
+      "last_seen": "2026-10-01 12:01:24"
     }
   },
   "seen_ids": [
@@ -13797,6 +13803,7 @@
     "662843336",
     "662843340",
     "662846332",
-    "662846500"
+    "662846500",
+    "662856528"
   ]
 }
