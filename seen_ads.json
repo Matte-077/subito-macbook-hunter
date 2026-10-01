@@ -11623,6 +11623,30 @@
       "notified": false,
       "title": "MacBook Pro 14” M5•24Ram•1TB•Nuovo ☀️😎❄️🧊🎁",
       "last_seen": "2026-10-01 13:39:19"
+    },
+    "662873036": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w con cavetto usb-c",
+      "last_seen": "2026-10-01 13:56:28"
+    },
+    "662872467": {
+      "last_price": 1300.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M2 Pro – 16GB RAM / 512GB SSD – Pa",
+      "last_seen": "2026-10-01 13:55:52"
+    },
+    "662873409": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Apple 85w magsafe 2 alimentatore x MacBook Pro 15”",
+      "last_seen": "2026-10-01 13:56:58"
+    },
+    "662874764": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-10-01 14:13:06"
     }
   },
   "seen_ids": [
@@ -13874,6 +13898,10 @@
     "662864861",
     "662865121",
     "662867746",
-    "662869387"
+    "662869387",
+    "662872467",
+    "662873036",
+    "662873409",
+    "662874764"
   ]
 }
