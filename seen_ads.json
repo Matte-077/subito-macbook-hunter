@@ -11611,6 +11611,12 @@
       "notified": false,
       "title": "MacBook Pro 15″ Retina 2016 Touch Bar – i7 – 16GB",
       "last_seen": "2026-10-01 13:05:06"
+    },
+    "662867746": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14 pollici 2021 M1 Pro 16/512",
+      "last_seen": "2026-10-01 13:23:04"
     }
   },
   "seen_ids": [
@@ -13860,6 +13866,7 @@
     "662863974",
     "662864096",
     "662864861",
-    "662865121"
+    "662865121",
+    "662867746"
   ]
 }
