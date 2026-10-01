@@ -9435,7 +9435,7 @@
       "last_seen": "2026-09-26 21:33:28"
     },
     "662284613": {
-      "last_price": 799.0,
+      "last_price": 660.0,
       "notified": false,
       "title": "MacBook Pro 16” 2020 ,i7 ,16 GB Ricondiz. da Apple",
       "last_seen": "2026-09-26 22:13:35"
@@ -11491,6 +11491,12 @@
       "notified": false,
       "title": "Macbook pro 13 M1 512GB 8GB RAM 2020",
       "last_seen": "2026-10-01 07:39:45"
+    },
+    "662832099": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "MacBook Pro 13” hdd 250 / Ram 4  tutto ok",
+      "last_seen": "2026-10-01 09:07:48"
     }
   },
   "seen_ids": [
@@ -13720,6 +13726,7 @@
     "662816244",
     "662816374",
     "662824303",
-    "662825403"
+    "662825403",
+    "662832099"
   ]
 }
