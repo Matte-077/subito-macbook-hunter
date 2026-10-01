@@ -11809,6 +11809,12 @@
       "notified": false,
       "title": "MacBook Pro 13” retina SSD 500/Ram 8 Batt. Nuova",
       "last_seen": "2026-10-01 20:29:03"
+    },
+    "662928581": {
+      "last_price": 229.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Retina (Mid 2014) - i7/16GB 256GB",
+      "last_seen": "2026-10-01 20:43:04"
     }
   },
   "seen_ids": [
@@ -14091,6 +14097,7 @@
     "662921848",
     "662922241",
     "662924336",
-    "662927759"
+    "662927759",
+    "662928581"
   ]
 }
