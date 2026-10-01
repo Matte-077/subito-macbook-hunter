@@ -11863,6 +11863,18 @@
       "notified": false,
       "title": "2X NUOVE Samsung 9100 PRO 1TB  + 5 Anni Garanzia",
       "last_seen": "2026-10-01 23:46:33"
+    },
+    "662944685": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "MacBook Pro M1 Pro 16”",
+      "last_seen": "2026-10-02 00:12:53"
+    },
+    "662944751": {
+      "last_price": 2350.0,
+      "notified": false,
+      "title": "Macbook pro m5 (2026) 24gb ram 1tb ssd -come nuovo",
+      "last_seen": "2026-10-02 00:12:56"
     }
   },
   "seen_ids": [
@@ -14154,6 +14166,8 @@
     "662937363",
     "662941686",
     "662942129",
-    "662943633"
+    "662943633",
+    "662944685",
+    "662944751"
   ]
 }
