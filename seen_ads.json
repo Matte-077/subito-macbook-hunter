@@ -11643,7 +11643,7 @@
       "last_seen": "2026-10-01 13:56:58"
     },
     "662874764": {
-      "last_price": 480.0,
+      "last_price": 400.0,
       "notified": false,
       "title": "MacBook Pro",
       "last_seen": "2026-10-01 14:13:06"
@@ -11725,6 +11725,24 @@
       "notified": false,
       "title": "MacBook M5 pro 24gb 1tb",
       "last_seen": "2026-10-01 17:51:17"
+    },
+    "662908256": {
+      "last_price": 2699.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 Pro 2Tb - NUOVO",
+      "last_seen": "2026-10-01 18:06:15"
+    },
+    "662909273": {
+      "last_price": 5100.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16 M3 Max top 128GB RAM 2TB SSD",
+      "last_seen": "2026-10-01 18:07:13"
+    },
+    "662909476": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "MacBook Pro '13 Display Retina",
+      "last_seen": "2026-10-01 18:07:25"
     }
   },
   "seen_ids": [
@@ -13993,6 +14011,9 @@
     "662904050",
     "662905339",
     "662907422",
-    "662907799"
+    "662907799",
+    "662908256",
+    "662909273",
+    "662909476"
   ]
 }
