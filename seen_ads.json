@@ -5003,7 +5003,7 @@
       "last_seen": "2026-09-16 19:07:30"
     },
     "660993157": {
-      "last_price": 24.0,
+      "last_price": 23.0,
       "notified": false,
       "title": "MacBook Pro anno 2010",
       "last_seen": "2026-09-16 19:08:07"
@@ -11671,6 +11671,12 @@
       "notified": false,
       "title": "MacBook Pro 15\" Retina i7 – 16GB RAM – SSD 500GB",
       "last_seen": "2026-10-01 16:12:28"
+    },
+    "662895371": {
+      "last_price": null,
+      "notified": false,
+      "title": "MacBook Neo in garanzia con scontrino",
+      "last_seen": "2026-10-01 16:29:10"
     }
   },
   "seen_ids": [
@@ -13930,6 +13936,7 @@
     "662875611",
     "662876463",
     "662876701",
-    "662893760"
+    "662893760",
+    "662895371"
   ]
 }
