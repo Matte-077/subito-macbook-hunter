@@ -11683,6 +11683,18 @@
       "notified": false,
       "title": "MacBook Pro 2019 16” i7 16/512",
       "last_seen": "2026-10-01 16:46:30"
+    },
+    "662898713": {
+      "last_price": 385.0,
+      "notified": false,
+      "title": "MacBook Pro 2019 13” 4Thunderbolt 16/512",
+      "last_seen": "2026-10-01 17:01:09"
+    },
+    "662899626": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "2X NUOVE Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-10-01 17:01:57"
     }
   },
   "seen_ids": [
@@ -13944,6 +13956,8 @@
     "662876701",
     "662893760",
     "662895371",
-    "662898436"
+    "662898436",
+    "662898713",
+    "662899626"
   ]
 }
