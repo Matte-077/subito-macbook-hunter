@@ -11695,6 +11695,24 @@
       "notified": false,
       "title": "2X NUOVE Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
       "last_seen": "2026-10-01 17:01:57"
+    },
+    "662905339": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "tre MacBook 2 MacBook pro e uno normale due 14",
+      "last_seen": "2026-10-01 17:35:26"
+    },
+    "662904050": {
+      "last_price": 30.0,
+      "notified": false,
+      "title": "MacBook Pro 2010",
+      "last_seen": "2026-10-01 17:34:22"
+    },
+    "662901868": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Macbook pro 13” 2019",
+      "last_seen": "2026-10-01 17:17:56"
     }
   },
   "seen_ids": [
@@ -13958,6 +13976,9 @@
     "662895371",
     "662898436",
     "662898713",
-    "662899626"
+    "662899626",
+    "662901868",
+    "662904050",
+    "662905339"
   ]
 }
