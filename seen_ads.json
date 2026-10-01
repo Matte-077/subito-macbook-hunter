@@ -11497,6 +11497,18 @@
       "notified": false,
       "title": "MacBook Pro 13” hdd 250 / Ram 4  tutto ok",
       "last_seen": "2026-10-01 09:07:48"
+    },
+    "662834567": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "Macbook Pro 13,3 2016 grigio chiaro",
+      "last_seen": "2026-10-01 09:23:45"
+    },
+    "662833511": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 pollici Mid 2009",
+      "last_seen": "2026-10-01 09:22:46"
     }
   },
   "seen_ids": [
@@ -13727,6 +13739,8 @@
     "662816374",
     "662824303",
     "662825403",
-    "662832099"
+    "662832099",
+    "662833511",
+    "662834567"
   ]
 }
