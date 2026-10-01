@@ -11833,6 +11833,12 @@
       "notified": false,
       "title": "MacBook Pro 13\" (2016) - 256GB",
       "last_seen": "2026-10-01 21:56:10"
+    },
+    "662937363": {
+      "last_price": 320.0,
+      "notified": false,
+      "title": "IPhone 14 nero/black 128 gb Apple Store",
+      "last_seen": "2026-10-01 22:10:59"
     }
   },
   "seen_ids": [
@@ -14119,6 +14125,7 @@
     "662928581",
     "662934247",
     "662935710",
-    "662935718"
+    "662935718",
+    "662937363"
   ]
 }
