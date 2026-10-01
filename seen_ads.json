@@ -8823,10 +8823,10 @@
       "last_seen": "2026-09-25 13:14:13"
     },
     "662105814": {
-      "last_price": 449.0,
+      "last_price": 399.0,
       "notified": false,
       "title": "MacBook Pro 15” 2018 i7 6-Core – 16GB RAM – 256GB",
-      "last_seen": "2026-09-25 13:35:58"
+      "last_seen": "2026-10-01 09:37:37"
     },
     "662106148": {
       "last_price": 70.0,
@@ -11509,6 +11509,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 15 pollici Mid 2009",
       "last_seen": "2026-10-01 09:22:46"
+    },
+    "662835295": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15” TouchBar 2019",
+      "last_seen": "2026-10-01 09:38:23"
     }
   },
   "seen_ids": [
@@ -13741,6 +13747,7 @@
     "662825403",
     "662832099",
     "662833511",
-    "662834567"
+    "662834567",
+    "662835295"
   ]
 }
