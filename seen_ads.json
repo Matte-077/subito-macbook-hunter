@@ -11791,6 +11791,12 @@
       "notified": false,
       "title": "MacBook Pro 13\" Early 2011",
       "last_seen": "2026-10-01 19:44:20"
+    },
+    "662924336": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "Apple MacBook air 13 M2 8GB RAM SSD 512GB",
+      "last_seen": "2026-10-01 19:59:27"
     }
   },
   "seen_ids": [
@@ -14070,6 +14076,7 @@
     "662919888",
     "662920597",
     "662921848",
-    "662922241"
+    "662922241",
+    "662924336"
   ]
 }
