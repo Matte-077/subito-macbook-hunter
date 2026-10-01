@@ -11755,6 +11755,24 @@
       "notified": false,
       "title": "2 MacBook Pro Unibody per Ricambi (Senza HD) - 17\"",
       "last_seen": "2026-10-01 18:23:58"
+    },
+    "662919888": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "iPhone 17 Pro Max 256 Giga con Garanzia",
+      "last_seen": "2026-10-01 19:14:42"
+    },
+    "662919634": {
+      "last_price": 1629.0,
+      "notified": false,
+      "title": "iPhone 18 Pro Max 256 Giga 1 Giorno di Vita",
+      "last_seen": "2026-10-01 19:14:19"
+    },
+    "662918949": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M1 Pro 16/512 - display non funzio",
+      "last_seen": "2026-10-01 19:13:43"
     }
   },
   "seen_ids": [
@@ -14028,6 +14046,9 @@
     "662909273",
     "662909476",
     "662910917",
-    "662911072"
+    "662911072",
+    "662918949",
+    "662919634",
+    "662919888"
   ]
 }
