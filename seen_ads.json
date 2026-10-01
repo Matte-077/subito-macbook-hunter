@@ -11473,6 +11473,12 @@
       "notified": false,
       "title": "MacBook Pro  16 pollici",
       "last_seen": "2026-10-01 01:45:39"
+    },
+    "662816374": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "Macbook pro 2019 intel",
+      "last_seen": "2026-10-01 01:58:15"
     }
   },
   "seen_ids": [
@@ -13699,6 +13705,7 @@
     "662812765",
     "662814256",
     "662814748",
-    "662816244"
+    "662816244",
+    "662816374"
   ]
 }
