@@ -11815,6 +11815,12 @@
       "notified": false,
       "title": "MacBook Pro 15\" Retina (Mid 2014) - i7/16GB 256GB",
       "last_seen": "2026-10-01 20:43:04"
+    },
+    "662934247": {
+      "last_price": 990.0,
+      "notified": false,
+      "title": "Oppo Find N5 Fold - Come Nuovo / Perfetto - Garanz",
+      "last_seen": "2026-10-01 21:41:30"
     }
   },
   "seen_ids": [
@@ -14098,6 +14104,7 @@
     "662922241",
     "662924336",
     "662927759",
-    "662928581"
+    "662928581",
+    "662934247"
   ]
 }
