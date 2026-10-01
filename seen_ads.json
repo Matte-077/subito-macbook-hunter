@@ -11533,6 +11533,18 @@
       "notified": false,
       "title": "Coppia batterie MacBook Pro 15\" A1286 - A1382",
       "last_seen": "2026-10-01 10:11:07"
+    },
+    "662843340": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "Macbook Pro 2020 M1 13",
+      "last_seen": "2026-10-01 10:40:48"
+    },
+    "662843336": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Touch Bar intel i7-1TB - 16Gb",
+      "last_seen": "2026-10-01 10:40:48"
     }
   },
   "seen_ids": [
@@ -13769,6 +13781,8 @@
     "662835295",
     "662839292",
     "662840770",
-    "662841004"
+    "662841004",
+    "662843336",
+    "662843340"
   ]
 }
