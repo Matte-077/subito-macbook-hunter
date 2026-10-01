@@ -11773,6 +11773,24 @@
       "notified": false,
       "title": "MacBook Pro 16\" M1 Pro 16/512 - display non funzio",
       "last_seen": "2026-10-01 19:13:43"
+    },
+    "662921848": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "Macbook pro m5 pro 24gb 1tb",
+      "last_seen": "2026-10-01 19:43:52"
+    },
+    "662920597": {
+      "last_price": 769.0,
+      "notified": false,
+      "title": "iPhone 16 Pro 256 Giga Con Garanzia 12 Mesi",
+      "last_seen": "2026-10-01 19:29:21"
+    },
+    "662922241": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" Early 2011",
+      "last_seen": "2026-10-01 19:44:20"
     }
   },
   "seen_ids": [
@@ -14049,6 +14067,9 @@
     "662911072",
     "662918949",
     "662919634",
-    "662919888"
+    "662919888",
+    "662920597",
+    "662921848",
+    "662922241"
   ]
 }
