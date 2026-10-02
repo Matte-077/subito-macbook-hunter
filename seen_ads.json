@@ -11917,6 +11917,18 @@
       "notified": false,
       "title": "MACBOOK 14\" M3 PRO 18GB/512GB - USATO GARANTITO",
       "last_seen": "2026-10-02 09:39:26"
+    },
+    "662971443": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "MacBook pro 2019  NON TRATTABILE",
+      "last_seen": "2026-10-02 10:13:24"
+    },
+    "662970756": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook pro 15” A1990 mid 2018 x ricambi",
+      "last_seen": "2026-10-02 10:12:47"
     }
   },
   "seen_ids": [
@@ -14217,6 +14229,8 @@
     "662957248",
     "662962154",
     "662962528",
-    "662966059"
+    "662966059",
+    "662970756",
+    "662971443"
   ]
 }
