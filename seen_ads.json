@@ -12277,6 +12277,18 @@
       "notified": false,
       "title": "MacBook Pro 16” 2019 Guasto per Ricambi",
       "last_seen": "2026-10-02 20:58:21"
+    },
+    "663057965": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "iPhone 16 128 Giga Pari Al nuovo Batteria al 98%",
+      "last_seen": "2026-10-02 21:12:23"
+    },
+    "663060034": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM",
+      "last_seen": "2026-10-02 21:27:42"
     }
   },
   "seen_ids": [
@@ -14636,6 +14648,8 @@
     "663044697",
     "663044725",
     "663044749",
-    "663057051"
+    "663057051",
+    "663057965",
+    "663060034"
   ]
 }
