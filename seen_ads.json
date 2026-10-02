@@ -12077,6 +12077,24 @@
       "notified": false,
       "title": "MacBook Pro 13\" SSD Apple",
       "last_seen": "2026-10-02 14:22:52"
+    },
+    "663012382": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\" i7 6-core SSD 512 gb",
+      "last_seen": "2026-10-02 14:55:52"
+    },
+    "663012897": {
+      "last_price": 590.0,
+      "notified": false,
+      "title": "MacBook Pro 13″ M1 2020 – 8GB RAM, 512GB SSD",
+      "last_seen": "2026-10-02 14:56:20"
+    },
+    "663013649": {
+      "last_price": 130.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 pollici del 2015",
+      "last_seen": "2026-10-02 14:56:51"
     }
   },
   "seen_ids": [
@@ -14403,6 +14421,9 @@
     "663002723",
     "663003390",
     "663006462",
-    "663008577"
+    "663008577",
+    "663012382",
+    "663012897",
+    "663013649"
   ]
 }
