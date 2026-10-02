@@ -11875,6 +11875,12 @@
       "notified": false,
       "title": "Macbook pro m5 (2026) 24gb ram 1tb ssd -come nuovo",
       "last_seen": "2026-10-02 00:12:56"
+    },
+    "662949693": {
+      "last_price": 130.0,
+      "notified": false,
+      "title": "Macbook Pro A1502 ,intel i5,  16gb ram,  Big Sur",
+      "last_seen": "2026-10-02 02:21:07"
     }
   },
   "seen_ids": [
@@ -14168,6 +14174,7 @@
     "662942129",
     "662943633",
     "662944685",
-    "662944751"
+    "662944751",
+    "662949693"
   ]
 }
