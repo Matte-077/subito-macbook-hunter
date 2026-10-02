@@ -11565,7 +11565,7 @@
       "last_seen": "2026-10-01 12:01:24"
     },
     "662857172": {
-      "last_price": 1250.0,
+      "last_price": 1210.0,
       "notified": false,
       "title": "MacBook Pro 14 M3Pro/18gb/1Tb Garanzia1 Anno",
       "last_seen": "2026-10-01 12:16:29"
@@ -11893,6 +11893,12 @@
       "notified": false,
       "title": "iPad Pro 12.9 (4 gen.) Wi-Fi + Cel. 128 gb",
       "last_seen": "2026-10-02 07:26:12"
+    },
+    "662957248": {
+      "last_price": 960.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M3",
+      "last_seen": "2026-10-02 07:53:38"
     }
   },
   "seen_ids": [
@@ -14189,6 +14195,7 @@
     "662944751",
     "662949693",
     "662952928",
-    "662955643"
+    "662955643",
+    "662957248"
   ]
 }
