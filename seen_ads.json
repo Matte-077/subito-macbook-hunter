@@ -12301,6 +12301,24 @@
       "notified": false,
       "title": "Macbook pro 16 M1 pro 512gb",
       "last_seen": "2026-10-02 22:09:52"
+    },
+    "663069366": {
+      "last_price": 990.0,
+      "notified": false,
+      "title": "MacBook Pro M3 14” – 8 GB RAM – SSD 512 GB",
+      "last_seen": "2026-10-03 00:11:04"
+    },
+    "663069329": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro M1 – CPU 8 Core – Touch Bar – Magic Mo",
+      "last_seen": "2026-10-03 00:11:01"
+    },
+    "663069742": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "Macbook PRO M2 2022 13” TOUCH BAR",
+      "last_seen": "2026-10-03 00:23:54"
     }
   },
   "seen_ids": [
@@ -14664,6 +14682,9 @@
     "663057965",
     "663060034",
     "663061551",
-    "663063314"
+    "663063314",
+    "663069329",
+    "663069366",
+    "663069742"
   ]
 }
