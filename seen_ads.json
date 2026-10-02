@@ -12271,6 +12271,12 @@
       "notified": false,
       "title": "MacBook Pro 16′′ M2 Pro 19Core RAM 16Gb, SSD 512Gb",
       "last_seen": "2026-10-02 18:58:49"
+    },
+    "663057051": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2019 Guasto per Ricambi",
+      "last_seen": "2026-10-02 20:58:21"
     }
   },
   "seen_ids": [
@@ -14629,6 +14635,7 @@
     "663044676",
     "663044697",
     "663044725",
-    "663044749"
+    "663044749",
+    "663057051"
   ]
 }
