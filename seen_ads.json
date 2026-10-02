@@ -81,8 +81,10 @@
       "last_seen": "2026-09-19 12:21:21"
     },
     "625557272": {
-      "last_price": null,
-      "notified": false
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Max 32GB 512GB grigio 2021",
+      "last_seen": "2026-06-23 23:08:19"
     },
     "626367393": {
       "last_price": 1000.0,
@@ -11953,6 +11955,18 @@
       "notified": false,
       "title": "Alimentatore MagSafe 2 (no apple)",
       "last_seen": "2026-10-02 11:01:54"
+    },
+    "639112493": {
+      "last_price": 1799.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M5 14''/16'' Nuovo Sigillato",
+      "last_seen": "2026-10-02 11:51:52"
+    },
+    "662982344": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" 2019 i7 16GB 512GB",
+      "last_seen": "2026-10-02 11:35:18"
     }
   },
   "seen_ids": [
@@ -11987,6 +12001,7 @@
     "637259755",
     "638309415",
     "639093934",
+    "639112493",
     "639594811",
     "639655444",
     "640010286",
@@ -14259,6 +14274,7 @@
     "662973814",
     "662973901",
     "662975320",
-    "662978273"
+    "662978273",
+    "662982344"
   ]
 }
