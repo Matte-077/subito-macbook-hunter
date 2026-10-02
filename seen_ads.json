@@ -12053,6 +12053,18 @@
       "notified": false,
       "title": "Mac book pro 16” 2019",
       "last_seen": "2026-10-02 13:17:56"
+    },
+    "663003390": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "MacBook Pro i7  15\" Late 2011 2.2 GHz 16gb RAM",
+      "last_seen": "2026-10-02 13:34:50"
+    },
+    "663002723": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "Macbook 13 Pro 2020 Intel i5 8Gb RAM 512Gb ROM",
+      "last_seen": "2026-10-02 13:34:09"
     }
   },
   "seen_ids": [
@@ -14375,6 +14387,8 @@
     "662994212",
     "662997798",
     "662999638",
-    "663001017"
+    "663001017",
+    "663002723",
+    "663003390"
   ]
 }
