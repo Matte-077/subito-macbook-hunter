@@ -12103,6 +12103,18 @@
       "notified": false,
       "title": "OWC aggiornamento MacBook Pro Aura Pro X2 SSD 1TB",
       "last_seen": "2026-10-02 15:13:18"
+    },
+    "663022095": {
+      "last_price": null,
+      "notified": false,
+      "title": "IPhone 12 128 giga green verde",
+      "last_seen": "2026-10-02 16:02:22"
+    },
+    "663020650": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 16 m1 anno 2022 63 cicli nuovo complet",
+      "last_seen": "2026-10-02 16:01:07"
     }
   },
   "seen_ids": [
@@ -14433,6 +14445,8 @@
     "663012382",
     "663012897",
     "663013649",
-    "663015512"
+    "663015512",
+    "663020650",
+    "663022095"
   ]
 }
