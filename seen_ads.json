@@ -12157,6 +12157,18 @@
       "notified": false,
       "title": "Apple MacBook Neo 8/512GB Nuovo",
       "last_seen": "2026-10-02 16:34:47"
+    },
+    "663031655": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 14” 18gb/512gb M3 PRO- usato garantito",
+      "last_seen": "2026-10-02 17:08:51"
+    },
+    "663030233": {
+      "last_price": 2299.0,
+      "notified": false,
+      "title": "IPHONE 18 PRO MAX 1TB nuovo",
+      "last_seen": "2026-10-02 17:07:41"
     }
   },
   "seen_ids": [
@@ -14496,6 +14508,8 @@
     "663025334",
     "663026683",
     "663027108",
-    "663029870"
+    "663029870",
+    "663030233",
+    "663031655"
   ]
 }
