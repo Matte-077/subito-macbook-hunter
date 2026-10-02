@@ -11947,6 +11947,12 @@
       "notified": false,
       "title": "Apple Macbook Air M2 8gb ram 256 gb ssd 15 pollici",
       "last_seen": "2026-10-02 10:45:01"
+    },
+    "662978273": {
+      "last_price": 5.0,
+      "notified": false,
+      "title": "Alimentatore MagSafe 2 (no apple)",
+      "last_seen": "2026-10-02 11:01:54"
     }
   },
   "seen_ids": [
@@ -14252,6 +14258,7 @@
     "662971443",
     "662973814",
     "662973901",
-    "662975320"
+    "662975320",
+    "662978273"
   ]
 }
