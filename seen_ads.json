@@ -11551,9 +11551,9 @@
       "last_seen": "2026-10-01 10:40:48"
     },
     "662846332": {
-      "last_price": 1359.0,
+      "last_price": 1299.0,
       "notified": false,
-      "title": "MacBook Pro M1 Pro 1TB 32GB",
+      "title": "MacBook Pro M1 Pro 1TB 32GB - Tastiera US",
       "last_seen": "2026-10-01 10:57:42"
     },
     "662846500": {
@@ -11981,6 +11981,48 @@
       "notified": false,
       "title": "MacBook Pro 13\" A1708  - 16GB RAM - SSD 128GB",
       "last_seen": "2026-10-02 11:55:54"
+    },
+    "662992527": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "iPhone 15 128 Giga Pari a Nuovo 🔥",
+      "last_seen": "2026-10-02 12:13:18"
+    },
+    "662991817": {
+      "last_price": 2949.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3 Max 40Core RAM 48Gb SSD 1Tb",
+      "last_seen": "2026-10-02 12:12:43"
+    },
+    "662991844": {
+      "last_price": 2499.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M5 pro 16core GPU 24gb ram 1tb ssd",
+      "last_seen": "2026-10-02 12:12:42"
+    },
+    "662990328": {
+      "last_price": 2369.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M4 Pro 20Core RAM 24Gb SSD Ex-Nuovo",
+      "last_seen": "2026-10-02 12:11:58"
+    },
+    "662990395": {
+      "last_price": 1949.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M4 Pro 16core GPU RAM 24Gb, SSD 512",
+      "last_seen": "2026-10-02 12:11:40"
+    },
+    "662990426": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M1 Max RAM 32Gb, SSD 1Tb Ex Demo",
+      "last_seen": "2026-10-02 12:12:30"
+    },
+    "662990497": {
+      "last_price": 1829.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M1 Max RAM 64Gb, SSD 1Tb Ex Nuovo",
+      "last_seen": "2026-10-02 12:11:54"
     }
   },
   "seen_ids": [
@@ -14291,6 +14333,13 @@
     "662978273",
     "662982344",
     "662988324",
-    "662990245"
+    "662990245",
+    "662990328",
+    "662990395",
+    "662990426",
+    "662990497",
+    "662991817",
+    "662991844",
+    "662992527"
   ]
 }
