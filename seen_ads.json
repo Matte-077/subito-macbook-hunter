@@ -12023,6 +12023,18 @@
       "notified": false,
       "title": "MacBook Pro 16″ M1 Max RAM 64Gb, SSD 1Tb Ex Nuovo",
       "last_seen": "2026-10-02 12:11:54"
+    },
+    "662993887": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MACBOOK PRO RETINA 13,3\" - i5 - 8GB - SSD 256GB!",
+      "last_seen": "2026-10-02 12:29:24"
+    },
+    "662994212": {
+      "last_price": 580.0,
+      "notified": false,
+      "title": "MacBook Pro 15 32GB RAM 1TB SSD",
+      "last_seen": "2026-10-02 12:44:45"
     }
   },
   "seen_ids": [
@@ -14340,6 +14352,8 @@
     "662990497",
     "662991817",
     "662991844",
-    "662992527"
+    "662992527",
+    "662993887",
+    "662994212"
   ]
 }
