@@ -4881,10 +4881,10 @@
       "last_seen": "2026-09-16 13:51:53"
     },
     "660954056": {
-      "last_price": 1600.0,
+      "last_price": 1400.0,
       "notified": false,
       "title": "MacBook PRO M4 14\" 1TB con display nanotexture",
-      "last_seen": "2026-09-25 14:31:31"
+      "last_seen": "2026-09-30 14:35:43"
     },
     "660954218": {
       "last_price": null,
@@ -10081,10 +10081,10 @@
       "last_seen": "2026-09-28 12:21:34"
     },
     "662446218": {
-      "last_price": 647.0,
+      "last_price": 567.0,
       "notified": false,
-      "title": "MacBook Pro 2017  i7   2,9 GHz  16GB ram  1 TB ssd",
-      "last_seen": "2026-09-28 12:45:07"
+      "title": "MacBook Pro 2017  i7   + eGPU +Sonnet box650",
+      "last_seen": "2026-10-02 13:00:38"
     },
     "662445743": {
       "last_price": 99.0,
@@ -12035,6 +12035,18 @@
       "notified": false,
       "title": "MacBook Pro 15 32GB RAM 1TB SSD",
       "last_seen": "2026-10-02 12:44:45"
+    },
+    "662997798": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "DELL PRO 14 MOD 14250",
+      "last_seen": "2026-10-02 13:02:11"
+    },
+    "662999638": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM 512GB SSD",
+      "last_seen": "2026-10-02 13:02:20"
     }
   },
   "seen_ids": [
@@ -14354,6 +14366,8 @@
     "662991844",
     "662992527",
     "662993887",
-    "662994212"
+    "662994212",
+    "662997798",
+    "662999638"
   ]
 }
