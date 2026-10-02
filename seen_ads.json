@@ -12133,6 +12133,30 @@
       "notified": false,
       "title": "macbook pro 2015",
       "last_seen": "2026-10-02 16:18:21"
+    },
+    "663027108": {
+      "last_price": 1149.0,
+      "notified": false,
+      "title": "IPAD PRO 11 2024 M4 1TB WIFI Cell",
+      "last_seen": "2026-10-02 16:36:22"
+    },
+    "663029870": {
+      "last_price": 1590.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M1 Max 32GB 1TB GPU 32 Core",
+      "last_seen": "2026-10-02 16:52:39"
+    },
+    "663026683": {
+      "last_price": 649.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13″ M2 8/256 92%",
+      "last_seen": "2026-10-02 16:36:02"
+    },
+    "663025334": {
+      "last_price": 839.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 8/512GB Nuovo",
+      "last_seen": "2026-10-02 16:34:47"
     }
   },
   "seen_ids": [
@@ -14468,6 +14492,10 @@
     "663020650",
     "663022095",
     "663023543",
-    "663024558"
+    "663024558",
+    "663025334",
+    "663026683",
+    "663027108",
+    "663029870"
   ]
 }
