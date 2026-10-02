@@ -9291,7 +9291,7 @@
       "last_seen": "2026-09-26 13:52:33"
     },
     "650586193": {
-      "last_price": 759.0,
+      "last_price": 799.0,
       "notified": false,
       "title": "apple macbook pro M1 16gb ram 512 ssd",
       "last_seen": "2026-09-26 15:03:19"
@@ -12169,6 +12169,18 @@
       "notified": false,
       "title": "IPHONE 18 PRO MAX 1TB nuovo",
       "last_seen": "2026-10-02 17:07:41"
+    },
+    "663035097": {
+      "last_price": 2400.0,
+      "notified": false,
+      "title": "Dell 16 Premium Ultra 9 285H 32GB 1TB nvidia 5070",
+      "last_seen": "2026-10-02 17:40:38"
+    },
+    "656674544": {
+      "last_price": 430.0,
+      "notified": false,
+      "title": "Apple MacBook PRO TOUCHBAR 16GB 1TB",
+      "last_seen": "2026-10-02 17:39:26"
     }
   },
   "seen_ids": [
@@ -12327,6 +12339,7 @@
     "656580387",
     "656600029",
     "656604939",
+    "656674544",
     "656803226",
     "656822463",
     "656830064",
@@ -14510,6 +14523,7 @@
     "663027108",
     "663029870",
     "663030233",
-    "663031655"
+    "663031655",
+    "663035097"
   ]
 }
