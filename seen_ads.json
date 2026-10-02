@@ -12319,6 +12319,12 @@
       "notified": false,
       "title": "Macbook PRO M2 2022 13” TOUCH BAR",
       "last_seen": "2026-10-03 00:23:54"
+    },
+    "663072673": {
+      "last_price": 250.0,
+      "notified": true,
+      "title": "Macbook Pro M1 schermo rotto",
+      "last_seen": "2026-10-03 01:16:13"
     }
   },
   "seen_ids": [
@@ -14685,6 +14691,7 @@
     "663063314",
     "663069329",
     "663069366",
-    "663069742"
+    "663069742",
+    "663072673"
   ]
 }
