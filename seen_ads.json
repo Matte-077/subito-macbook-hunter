@@ -11793,7 +11793,7 @@
       "last_seen": "2026-10-01 19:44:20"
     },
     "662924336": {
-      "last_price": 700.0,
+      "last_price": 670.0,
       "notified": false,
       "title": "Apple MacBook air 13 M2 8GB RAM SSD 512GB",
       "last_seen": "2026-10-01 19:59:27"
@@ -11881,6 +11881,12 @@
       "notified": false,
       "title": "Macbook Pro A1502 ,intel i5,  16gb ram,  Big Sur",
       "last_seen": "2026-10-02 02:21:07"
+    },
+    "662952928": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Vendersi MacBook Pro M2 256gb",
+      "last_seen": "2026-10-02 05:42:35"
     }
   },
   "seen_ids": [
@@ -14175,6 +14181,7 @@
     "662943633",
     "662944685",
     "662944751",
-    "662949693"
+    "662949693",
+    "662952928"
   ]
 }
