@@ -11929,6 +11929,24 @@
       "notified": false,
       "title": "MacBook pro 15” A1990 mid 2018 x ricambi",
       "last_seen": "2026-10-02 10:12:47"
+    },
+    "662973901": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M2 MAX 32Gb RAM",
+      "last_seen": "2026-10-02 10:43:54"
+    },
+    "662973814": {
+      "last_price": null,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-10-02 10:43:49"
+    },
+    "662975320": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "Apple Macbook Air M2 8gb ram 256 gb ssd 15 pollici",
+      "last_seen": "2026-10-02 10:45:01"
     }
   },
   "seen_ids": [
@@ -14231,6 +14249,9 @@
     "662962528",
     "662966059",
     "662970756",
-    "662971443"
+    "662971443",
+    "662973814",
+    "662973901",
+    "662975320"
   ]
 }
