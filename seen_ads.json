@@ -12065,6 +12065,12 @@
       "notified": false,
       "title": "Macbook 13 Pro 2020 Intel i5 8Gb RAM 512Gb ROM",
       "last_seen": "2026-10-02 13:34:09"
+    },
+    "663006462": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "MacBook  Pro 14\" M4  16GB RAM 512GB SSD come nuovo",
+      "last_seen": "2026-10-02 14:07:09"
     }
   },
   "seen_ids": [
@@ -14389,6 +14395,7 @@
     "662999638",
     "663001017",
     "663002723",
-    "663003390"
+    "663003390",
+    "663006462"
   ]
 }
