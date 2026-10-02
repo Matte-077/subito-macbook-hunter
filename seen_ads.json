@@ -369,8 +369,10 @@
       "last_seen": "2026-09-18 14:44:05"
     },
     "650080726": {
-      "last_price": null,
-      "notified": false
+      "last_price": 880.0,
+      "notified": false,
+      "title": "MacBook Air 13\" M3 16GB 512GB",
+      "last_seen": "2026-06-14 16:40:16"
     },
     "650403865": {
       "last_price": null,
@@ -9595,10 +9597,10 @@
       "last_seen": "2026-09-27 12:00:16"
     },
     "662324553": {
-      "last_price": 270.0,
+      "last_price": 260.0,
       "notified": false,
       "title": "MacBook Pro Retina 13” A1502 – 2016",
-      "last_seen": "2026-09-30 13:02:00"
+      "last_seen": "2026-10-02 13:00:45"
     },
     "662327688": {
       "last_price": 700.0,
