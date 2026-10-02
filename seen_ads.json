@@ -12229,6 +12229,12 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
       "last_seen": "2026-10-02 18:11:58"
+    },
+    "663043807": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2016 i5 8GB RAM SSD 256GB",
+      "last_seen": "2026-10-02 18:44:07"
     }
   },
   "seen_ids": [
@@ -14580,6 +14586,7 @@
     "663037725",
     "663038129",
     "663038843",
-    "663039057"
+    "663039057",
+    "663043807"
   ]
 }
