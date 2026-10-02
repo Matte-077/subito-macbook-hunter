@@ -333,8 +333,10 @@
       "notified": false
     },
     "649125264": {
-      "last_price": null,
-      "notified": false
+      "last_price": 3100.0,
+      "notified": false,
+      "title": "MacBook Pro M3 Max 16\" 48gb ram (Nuovo €4599)",
+      "last_seen": "2026-06-25 09:11:03"
     },
     "649236374": {
       "last_price": null,
@@ -11967,6 +11969,18 @@
       "notified": false,
       "title": "MacBook Pro 16\" 2019 i7 16GB 512GB",
       "last_seen": "2026-10-02 11:35:18"
+    },
+    "662990245": {
+      "last_price": 1599.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M2 Pro 19Core RAM 16Gb, SSD 512Gb",
+      "last_seen": "2026-10-02 11:57:06"
+    },
+    "662988324": {
+      "last_price": 195.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" A1708  - 16GB RAM - SSD 128GB",
+      "last_seen": "2026-10-02 11:55:54"
     }
   },
   "seen_ids": [
@@ -14275,6 +14289,8 @@
     "662973901",
     "662975320",
     "662978273",
-    "662982344"
+    "662982344",
+    "662988324",
+    "662990245"
   ]
 }
