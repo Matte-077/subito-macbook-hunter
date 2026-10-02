@@ -9693,7 +9693,7 @@
       "last_seen": "2026-09-27 16:19:22"
     },
     "662355351": {
-      "last_price": 160.0,
+      "last_price": 130.0,
       "notified": false,
       "title": "2X MacBook Pro A1286 Non Funzionante",
       "last_seen": "2026-09-27 16:41:33"
@@ -11887,6 +11887,12 @@
       "notified": false,
       "title": "Vendersi MacBook Pro M2 256gb",
       "last_seen": "2026-10-02 05:42:35"
+    },
+    "662955643": {
+      "last_price": 530.0,
+      "notified": false,
+      "title": "iPad Pro 12.9 (4 gen.) Wi-Fi + Cel. 128 gb",
+      "last_seen": "2026-10-02 07:26:12"
     }
   },
   "seen_ids": [
@@ -14182,6 +14188,7 @@
     "662944685",
     "662944751",
     "662949693",
-    "662952928"
+    "662952928",
+    "662955643"
   ]
 }
