@@ -12181,6 +12181,42 @@
       "notified": false,
       "title": "Apple MacBook PRO TOUCHBAR 16GB 1TB",
       "last_seen": "2026-10-02 17:39:26"
+    },
+    "663038129": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 1TB 32GB RAM 8VRAM TOP A+",
+      "last_seen": "2026-10-02 17:57:20"
+    },
+    "663036992": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 1TB 32GB RAM 8VRAM TOP A+",
+      "last_seen": "2026-10-02 17:56:18"
+    },
+    "663029743": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "PENCIL PRO",
+      "last_seen": "2026-10-02 17:55:55"
+    },
+    "663025751": {
+      "last_price": 730.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M2 8/256GB Space Gray COME NUOVO",
+      "last_seen": "2026-10-02 17:55:50"
+    },
+    "663037507": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-10-02 17:56:49"
+    },
+    "663037725": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-10-02 17:57:00"
     }
   },
   "seen_ids": [
@@ -14519,11 +14555,17 @@
     "663023543",
     "663024558",
     "663025334",
+    "663025751",
     "663026683",
     "663027108",
+    "663029743",
     "663029870",
     "663030233",
     "663031655",
-    "663035097"
+    "663035097",
+    "663036992",
+    "663037507",
+    "663037725",
+    "663038129"
   ]
 }
