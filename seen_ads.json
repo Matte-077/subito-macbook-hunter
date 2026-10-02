@@ -11899,6 +11899,18 @@
       "notified": false,
       "title": "Apple MacBook Pro 14\" M3",
       "last_seen": "2026-10-02 07:53:38"
+    },
+    "662962528": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w x MacBook Pro 13/14",
+      "last_seen": "2026-10-02 09:07:53"
+    },
+    "662962154": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15” retina SSD 250 / RAM 16 Mid 2014",
+      "last_seen": "2026-10-02 09:07:29"
     }
   },
   "seen_ids": [
@@ -14196,6 +14208,8 @@
     "662949693",
     "662952928",
     "662955643",
-    "662957248"
+    "662957248",
+    "662962154",
+    "662962528"
   ]
 }
