@@ -12071,6 +12071,12 @@
       "notified": false,
       "title": "MacBook  Pro 14\" M4  16GB RAM 512GB SSD come nuovo",
       "last_seen": "2026-10-02 14:07:09"
+    },
+    "663008577": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" SSD Apple",
+      "last_seen": "2026-10-02 14:22:52"
     }
   },
   "seen_ids": [
@@ -14396,6 +14402,7 @@
     "663001017",
     "663002723",
     "663003390",
-    "663006462"
+    "663006462",
+    "663008577"
   ]
 }
