@@ -11911,6 +11911,12 @@
       "notified": false,
       "title": "MacBook Pro 15” retina SSD 250 / RAM 16 Mid 2014",
       "last_seen": "2026-10-02 09:07:29"
+    },
+    "662966059": {
+      "last_price": 1549.0,
+      "notified": false,
+      "title": "MACBOOK 14\" M3 PRO 18GB/512GB - USATO GARANTITO",
+      "last_seen": "2026-10-02 09:39:26"
     }
   },
   "seen_ids": [
@@ -14210,6 +14216,7 @@
     "662955643",
     "662957248",
     "662962154",
-    "662962528"
+    "662962528",
+    "662966059"
   ]
 }
