@@ -12411,7 +12411,7 @@
       "last_seen": "2026-10-03 11:34:30"
     },
     "663109570": {
-      "last_price": 680.0,
+      "last_price": 650.0,
       "notified": false,
       "title": "Macbook Pro 13 2022 processore M2",
       "last_seen": "2026-10-03 11:35:35"
@@ -12421,6 +12421,54 @@
       "notified": false,
       "title": "Macbook Pro 13 2022 processore M2",
       "last_seen": "2026-10-03 11:34:38"
+    },
+    "663112065": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" i9 16GB RAM/512GB SSD CON GARANZIA",
+      "last_seen": "2026-10-03 11:51:42"
+    },
+    "663111821": {
+      "last_price": 439.0,
+      "notified": false,
+      "title": "iPhone 14 256GB NERO| Garanzia 1 anno",
+      "last_seen": "2026-10-03 11:51:31"
+    },
+    "663111476": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "iPhone 14pro 256GB NERO| Garanzia 1 anno",
+      "last_seen": "2026-10-03 11:51:14"
+    },
+    "663111318": {
+      "last_price": 1749.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" M3 PRO 1TB 2023",
+      "last_seen": "2026-10-03 11:51:07"
+    },
+    "663111157": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MacBook Pro 16” i9 2019 16GB/1TB - GARANTITO",
+      "last_seen": "2026-10-03 11:51:00"
+    },
+    "663111744": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM 512GB SSD",
+      "last_seen": "2026-10-03 11:51:28"
+    },
+    "663112099": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook pro 2017",
+      "last_seen": "2026-10-03 11:51:43"
+    },
+    "663112073": {
+      "last_price": 280.0,
+      "notified": false,
+      "title": "Lotto apple vintage imac macbook pro air con scato",
+      "last_seen": "2026-10-03 11:51:42"
     }
   },
   "seen_ids": [
@@ -14804,6 +14852,14 @@
     "663108366",
     "663108536",
     "663109495",
-    "663109570"
+    "663109570",
+    "663111157",
+    "663111318",
+    "663111476",
+    "663111744",
+    "663111821",
+    "663112065",
+    "663112073",
+    "663112099"
   ]
 }
