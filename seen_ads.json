@@ -9755,10 +9755,10 @@
       "last_seen": "2026-09-27 18:19:40"
     },
     "662367518": {
-      "last_price": 840.0,
+      "last_price": 790.0,
       "notified": false,
       "title": "Macbook M1 Pro 16 512GB Come Nuovo + Accessori",
-      "last_seen": "2026-10-02 12:44:57"
+      "last_seen": "2026-10-03 12:39:18"
     },
     "662371376": {
       "last_price": 2000.0,
@@ -12513,6 +12513,102 @@
       "notified": false,
       "title": "MacBook Pro 13” TouchBar 2017 16/1TB",
       "last_seen": "2026-10-03 12:56:39"
+    },
+    "663148346": {
+      "last_price": 25.0,
+      "notified": false,
+      "title": "1 MacBook pro 14  modello a1278 2009",
+      "last_seen": "2026-10-03 15:01:09"
+    },
+    "663126248": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "Macbook pro m5 14”",
+      "last_seen": "2026-10-03 13:29:00"
+    },
+    "663122899": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "MacBook Pro M3",
+      "last_seen": "2026-10-03 13:12:09"
+    },
+    "663151804": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" 2018 - i7 / 16GB / SSD 512GB",
+      "last_seen": "2026-10-03 15:17:58"
+    },
+    "663151707": {
+      "last_price": 140.0,
+      "notified": false,
+      "title": "MC BOOK PRO 2012",
+      "last_seen": "2026-10-03 15:17:57"
+    },
+    "663147313": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "IPHONE 16 PRO 256GB",
+      "last_seen": "2026-10-03 15:01:36"
+    },
+    "663133849": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "GOOGLE PIXEL 10 PRO 5G nuovo",
+      "last_seen": "2026-10-03 14:27:02"
+    },
+    "663140727": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "MacBook Pro M1 - batteria nuova 1 cilo di ricarica",
+      "last_seen": "2026-10-03 14:26:40"
+    },
+    "663149650": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "iPad Pro + apple pencil + tastiera originale Apple",
+      "last_seen": "2026-10-03 15:02:18"
+    },
+    "663129679": {
+      "last_price": 19.0,
+      "notified": false,
+      "title": "MacBook Pro A1286 SCOCCA E CONNETTORI",
+      "last_seen": "2026-10-03 14:04:55"
+    },
+    "663150896": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "Apple macbook 13 pro 2012",
+      "last_seen": "2026-10-03 15:17:20"
+    },
+    "663150004": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "Apple MacBook pro 13 - 2016 - Ssd",
+      "last_seen": "2026-10-03 15:16:36"
+    },
+    "663122693": {
+      "last_price": 25.0,
+      "notified": false,
+      "title": "MacBook pro 15,9 modello A1286 2010",
+      "last_seen": "2026-10-03 13:11:58"
+    },
+    "663142913": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "HUAWEI WATCH 4 PRO space edition",
+      "last_seen": "2026-10-03 15:01:36"
+    },
+    "663139663": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "Xiaomi ultra e tanto altro",
+      "last_seen": "2026-10-03 14:27:09"
+    },
+    "663133515": {
+      "last_price": 2299.0,
+      "notified": false,
+      "title": "IPHONE 18 PRO MAX 1TB nuovo",
+      "last_seen": "2026-10-03 14:07:37"
     }
   },
   "seen_ids": [
@@ -14911,6 +15007,22 @@
     "663115781",
     "663118122",
     "663120955",
-    "663121206"
+    "663121206",
+    "663122693",
+    "663122899",
+    "663126248",
+    "663129679",
+    "663133515",
+    "663133849",
+    "663139663",
+    "663140727",
+    "663142913",
+    "663147313",
+    "663148346",
+    "663149650",
+    "663150004",
+    "663150896",
+    "663151707",
+    "663151804"
   ]
 }
