@@ -11697,7 +11697,7 @@
       "last_seen": "2026-10-01 17:01:09"
     },
     "662899626": {
-      "last_price": 550.0,
+      "last_price": 500.0,
       "notified": false,
       "title": "2X NUOVE Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
       "last_seen": "2026-10-01 17:01:57"
@@ -12391,6 +12391,12 @@
       "notified": false,
       "title": "Apple Macbook Pro 15\" 2015-schermo non funzionante",
       "last_seen": "2026-10-03 10:44:44"
+    },
+    "662942616": {
+      "last_price": 2390.0,
+      "notified": false,
+      "title": "Mac book pro NUOVO",
+      "last_seen": "2026-10-03 11:01:49"
     }
   },
   "seen_ids": [
@@ -14684,6 +14690,7 @@
     "662937363",
     "662941686",
     "662942129",
+    "662942616",
     "662943633",
     "662944685",
     "662944751",
