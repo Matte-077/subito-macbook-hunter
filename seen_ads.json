@@ -9255,7 +9255,7 @@
       "last_seen": "2026-09-26 12:43:32"
     },
     "662222169": {
-      "last_price": 200.0,
+      "last_price": 180.0,
       "notified": false,
       "title": "Macbook Pro 13”",
       "last_seen": "2026-09-26 12:50:39"
@@ -11949,10 +11949,10 @@
       "last_seen": "2026-10-02 10:43:49"
     },
     "662975320": {
-      "last_price": 900.0,
+      "last_price": 800.0,
       "notified": false,
       "title": "Apple Macbook Air M2 8gb ram 256 gb ssd 15 pollici",
-      "last_seen": "2026-10-02 10:45:01"
+      "last_seen": "2026-10-02 20:14:36"
     },
     "662978273": {
       "last_price": 5.0,
@@ -12367,6 +12367,12 @@
       "notified": false,
       "title": "Macbook pro 16 M3",
       "last_seen": "2026-10-03 09:40:37"
+    },
+    "663093541": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "Macbook PRO 16\" pollici 32gb",
+      "last_seen": "2026-10-03 09:55:55"
     }
   },
   "seen_ids": [
@@ -14741,6 +14747,7 @@
     "663088727",
     "663089517",
     "663090310",
-    "663092505"
+    "663092505",
+    "663093541"
   ]
 }
