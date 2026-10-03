@@ -519,8 +519,10 @@
       "last_seen": "2026-07-02 12:41:44"
     },
     "652771745": {
-      "last_price": null,
-      "notified": false
+      "last_price": 1799.0,
+      "notified": false,
+      "title": "Apple Mcbook Pro M5 14\"  1TB    (Garanzia 2 anni)",
+      "last_seen": "2026-10-03 12:05:38"
     },
     "652815909": {
       "last_price": 200.0,
@@ -12459,7 +12461,7 @@
       "last_seen": "2026-10-03 11:51:28"
     },
     "663112099": {
-      "last_price": 450.0,
+      "last_price": 300.0,
       "notified": false,
       "title": "Macbook pro 2017",
       "last_seen": "2026-10-03 11:51:43"
@@ -12469,6 +12471,24 @@
       "notified": false,
       "title": "Lotto apple vintage imac macbook pro air con scato",
       "last_seen": "2026-10-03 11:51:42"
+    },
+    "663113736": {
+      "last_price": 2190.0,
+      "notified": false,
+      "title": "MacBook Pro M5 Pro 2026",
+      "last_seen": "2026-10-03 12:07:42"
+    },
+    "663112536": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Neo color  indaco",
+      "last_seen": "2026-10-03 12:06:33"
+    },
+    "663113088": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook PRO",
+      "last_seen": "2026-10-03 12:07:01"
     }
   },
   "seen_ids": [
@@ -14860,6 +14880,9 @@
     "663111821",
     "663112065",
     "663112073",
-    "663112099"
+    "663112099",
+    "663112536",
+    "663113088",
+    "663113736"
   ]
 }
