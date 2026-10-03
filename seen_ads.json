@@ -11853,7 +11853,7 @@
       "last_seen": "2026-10-01 23:07:31"
     },
     "662941686": {
-      "last_price": 1100.0,
+      "last_price": 1000.0,
       "notified": false,
       "title": "Asus rog zephyrus g16 rtx 4070",
       "last_seen": "2026-10-01 23:07:07"
@@ -12331,6 +12331,12 @@
       "notified": false,
       "title": "MacBook Pro 13” hdd 250/ram 4 funzionante",
       "last_seen": "2026-10-03 08:08:19"
+    },
+    "663086503": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 2015 i5 GB BATERÍA RAM 8 GB",
+      "last_seen": "2026-10-03 08:53:15"
     }
   },
   "seen_ids": [
@@ -14699,6 +14705,7 @@
     "663069366",
     "663069742",
     "663072673",
-    "663083358"
+    "663083358",
+    "663086503"
   ]
 }
