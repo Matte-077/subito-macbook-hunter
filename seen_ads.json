@@ -12373,6 +12373,18 @@
       "notified": false,
       "title": "Macbook PRO 16\" pollici 32gb",
       "last_seen": "2026-10-03 09:55:55"
+    },
+    "663097638": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "iPhone 16  128GB | Garanzia Apple",
+      "last_seen": "2026-10-03 10:28:07"
+    },
+    "663097305": {
+      "last_price": 929.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 512GB | Garanzia Apple",
+      "last_seen": "2026-10-03 10:13:41"
     }
   },
   "seen_ids": [
@@ -14748,6 +14760,8 @@
     "663089517",
     "663090310",
     "663092505",
-    "663093541"
+    "663093541",
+    "663097305",
+    "663097638"
   ]
 }
