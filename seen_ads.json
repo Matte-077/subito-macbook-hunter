@@ -12385,6 +12385,12 @@
       "notified": false,
       "title": "iPhone 16 Pro Max 512GB | Garanzia Apple",
       "last_seen": "2026-10-03 10:13:41"
+    },
+    "663100148": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Apple Macbook Pro 15\" 2015-schermo non funzionante",
+      "last_seen": "2026-10-03 10:44:44"
     }
   },
   "seen_ids": [
@@ -14762,6 +14768,7 @@
     "663092505",
     "663093541",
     "663097305",
-    "663097638"
+    "663097638",
+    "663100148"
   ]
 }
