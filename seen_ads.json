@@ -9753,10 +9753,10 @@
       "last_seen": "2026-09-27 18:19:40"
     },
     "662367518": {
-      "last_price": 930.0,
+      "last_price": 840.0,
       "notified": false,
-      "title": "Macbook Pro 16 512GB Come Nuovo + Accessori",
-      "last_seen": "2026-09-27 18:19:15"
+      "title": "Macbook M1 Pro 16 512GB Come Nuovo + Accessori",
+      "last_seen": "2026-10-02 12:44:57"
     },
     "662371376": {
       "last_price": 2000.0,
@@ -12337,6 +12337,18 @@
       "notified": false,
       "title": "Apple MacBook Pro 13 2015 i5 GB BATERÍA RAM 8 GB",
       "last_seen": "2026-10-03 08:53:15"
+    },
+    "663088727": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatile",
+      "last_seen": "2026-10-03 09:08:19"
+    },
+    "663087046": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "Macbook Pro 15 i9 32GB 1TB",
+      "last_seen": "2026-10-03 09:07:20"
     }
   },
   "seen_ids": [
@@ -14706,6 +14718,8 @@
     "663069742",
     "663072673",
     "663083358",
-    "663086503"
+    "663086503",
+    "663087046",
+    "663088727"
   ]
 }
