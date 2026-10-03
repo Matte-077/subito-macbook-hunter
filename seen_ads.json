@@ -12397,6 +12397,30 @@
       "notified": false,
       "title": "Mac book pro NUOVO",
       "last_seen": "2026-10-03 11:01:49"
+    },
+    "663109495": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "iPhone 14 Pro Max 128GB viola scuro| Usato | Garan",
+      "last_seen": "2026-10-03 11:35:32"
+    },
+    "663108366": {
+      "last_price": 2690.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M3 Max, 36 GB RAM, SSD 1 TB",
+      "last_seen": "2026-10-03 11:34:30"
+    },
+    "663109570": {
+      "last_price": 680.0,
+      "notified": false,
+      "title": "Macbook Pro 13 2022 processore M2",
+      "last_seen": "2026-10-03 11:35:35"
+    },
+    "663108536": {
+      "last_price": 680.0,
+      "notified": false,
+      "title": "Macbook Pro 13 2022 processore M2",
+      "last_seen": "2026-10-03 11:34:38"
     }
   },
   "seen_ids": [
@@ -14776,6 +14800,10 @@
     "663093541",
     "663097305",
     "663097638",
-    "663100148"
+    "663100148",
+    "663108366",
+    "663108536",
+    "663109495",
+    "663109570"
   ]
 }
