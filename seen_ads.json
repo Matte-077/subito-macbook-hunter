@@ -12325,6 +12325,12 @@
       "notified": true,
       "title": "Macbook Pro M1 schermo rotto",
       "last_seen": "2026-10-03 01:16:13"
+    },
+    "663083358": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "MacBook Pro 13” hdd 250/ram 4 funzionante",
+      "last_seen": "2026-10-03 08:08:19"
     }
   },
   "seen_ids": [
@@ -14692,6 +14698,7 @@
     "663069329",
     "663069366",
     "663069742",
-    "663072673"
+    "663072673",
+    "663083358"
   ]
 }
