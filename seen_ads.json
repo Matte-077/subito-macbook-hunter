@@ -12349,6 +12349,18 @@
       "notified": false,
       "title": "Macbook Pro 15 i9 32GB 1TB",
       "last_seen": "2026-10-03 09:07:20"
+    },
+    "663089517": {
+      "last_price": 439.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 2019 i7 16GB 512GB SSD Radeon",
+      "last_seen": "2026-10-03 09:23:48"
+    },
+    "663090310": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" Retina Mid 2014 - i5 2.6GHz / 8GB",
+      "last_seen": "2026-10-03 09:24:29"
     }
   },
   "seen_ids": [
@@ -14720,6 +14732,8 @@
     "663083358",
     "663086503",
     "663087046",
-    "663088727"
+    "663088727",
+    "663089517",
+    "663090310"
   ]
 }
