@@ -11795,10 +11795,10 @@
       "last_seen": "2026-10-01 19:29:21"
     },
     "662922241": {
-      "last_price": 220.0,
+      "last_price": 180.0,
       "notified": false,
-      "title": "MacBook Pro 13\" Early 2011",
-      "last_seen": "2026-10-01 19:44:20"
+      "title": "MacBook Pro 13\" Early 2011 potenziato",
+      "last_seen": "2026-10-04 19:55:18"
     },
     "662924336": {
       "last_price": 670.0,
@@ -13119,6 +13119,18 @@
       "notified": false,
       "title": "MacBook Pro 13 512GB 2015",
       "last_seen": "2026-10-04 20:09:43"
+    },
+    "663309863": {
+      "last_price": 80.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2010 – SSD 120GB – macOS Monterey",
+      "last_seen": "2026-10-04 23:29:48"
+    },
+    "663310393": {
+      "last_price": 790.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 13 A18 512 gb NUOVO",
+      "last_seen": "2026-10-04 23:42:12"
     }
   },
   "seen_ids": [
@@ -15618,6 +15630,8 @@
     "663304617",
     "663305101",
     "663306830",
-    "663307181"
+    "663307181",
+    "663309863",
+    "663310393"
   ]
 }
