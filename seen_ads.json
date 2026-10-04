@@ -10061,9 +10061,9 @@
       "last_seen": "2026-09-28 12:20:33"
     },
     "662439763": {
-      "last_price": 1100.0,
+      "last_price": 1000.0,
       "notified": false,
-      "title": "iPad Pro M5 256GB Wi-Fi + Garanzia Danni/Furto",
+      "title": "iPad Pro 11” M5 256GB Wi-Fi + Garanzia Danni/Furto",
       "last_seen": "2026-09-28 12:18:55"
     },
     "662442744": {
@@ -13053,6 +13053,72 @@
       "notified": false,
       "title": "MacBook pro 13\" 2017    8 GB RAM /  512  SSD",
       "last_seen": "2026-10-04 18:01:31"
+    },
+    "663307181": {
+      "last_price": 1470.0,
+      "notified": false,
+      "title": "MacBook Pro 14’’ M4, 16GB/512GB SSD",
+      "last_seen": "2026-10-04 22:51:34"
+    },
+    "663304293": {
+      "last_price": 1900.0,
+      "notified": false,
+      "title": "MacBook Pro 14 pollici M5 | 16GB RAM, 1TB SSD",
+      "last_seen": "2026-10-04 22:12:20"
+    },
+    "663299027": {
+      "last_price": 700.0,
+      "notified": true,
+      "title": "Macbook Pro 14 M1 Pro 16/512",
+      "last_seen": "2026-10-04 21:17:01"
+    },
+    "663305101": {
+      "last_price": 280.0,
+      "notified": false,
+      "title": "Macbook pro 15” 2016",
+      "last_seen": "2026-10-04 22:25:30"
+    },
+    "663304549": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "Macbook air m4 512",
+      "last_seen": "2026-10-04 22:12:34"
+    },
+    "663296236": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 16” TouchBar 512GB 2019 Grigio",
+      "last_seen": "2026-10-04 20:50:07"
+    },
+    "663300201": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook pro m2 8 gb 256 memoria",
+      "last_seen": "2026-10-04 21:30:25"
+    },
+    "663299814": {
+      "last_price": 780.0,
+      "notified": false,
+      "title": "Macbook air M2",
+      "last_seen": "2026-10-04 21:30:03"
+    },
+    "663304617": {
+      "last_price": 820.0,
+      "notified": false,
+      "title": "iPhone 17 Pro Max Blu Notte 256gb",
+      "last_seen": "2026-10-04 22:12:37"
+    },
+    "663306830": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "🍎 MacBook Pro 13\" – metà 2009 – SSD 240 GB – 4 GB",
+      "last_seen": "2026-10-04 22:39:22"
+    },
+    "663292404": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "MacBook Pro 13 512GB 2015",
+      "last_seen": "2026-10-04 20:09:43"
     }
   },
   "seen_ids": [
@@ -15541,6 +15607,17 @@
     "663270173",
     "663271372",
     "663271374",
-    "663275225"
+    "663275225",
+    "663292404",
+    "663296236",
+    "663299027",
+    "663299814",
+    "663300201",
+    "663304293",
+    "663304549",
+    "663304617",
+    "663305101",
+    "663306830",
+    "663307181"
   ]
 }
