@@ -8225,10 +8225,10 @@
       "last_seen": "2026-09-24 09:30:08"
     },
     "661951500": {
-      "last_price": 850.0,
-      "notified": false,
+      "last_price": 800.0,
+      "notified": true,
       "title": "MacBook Pro M1 Pro 16\" 16Gb 512Gb",
-      "last_seen": "2026-09-29 10:00:33"
+      "last_seen": "2026-10-04 09:53:09"
     },
     "661951029": {
       "last_price": 1.0,
@@ -10523,10 +10523,10 @@
       "last_seen": "2026-09-29 12:38:40"
     },
     "662574379": {
-      "last_price": 1300.0,
+      "last_price": 1150.0,
       "notified": false,
       "title": "MacBook Pro 16\" (2021) – Apple M1 Pro / 16 GB RAM",
-      "last_seen": "2026-09-29 12:38:12"
+      "last_seen": "2026-10-04 11:04:28"
     },
     "662598203": {
       "last_price": 240.0,
@@ -12413,10 +12413,10 @@
       "last_seen": "2026-10-03 11:34:30"
     },
     "663109570": {
-      "last_price": 650.0,
+      "last_price": 590.0,
       "notified": false,
       "title": "Macbook Pro 13 2022 processore M2",
-      "last_seen": "2026-10-03 11:35:35"
+      "last_seen": "2026-10-03 12:22:06"
     },
     "663108536": {
       "last_price": 680.0,
@@ -12849,6 +12849,96 @@
       "notified": false,
       "title": "Mecbook 2019 toucbar",
       "last_seen": "2026-10-04 07:27:40"
+    },
+    "663241329": {
+      "last_price": null,
+      "notified": false,
+      "title": "IPhone 12 128 gb green verde",
+      "last_seen": "2026-10-04 13:03:49"
+    },
+    "663241228": {
+      "last_price": 319.0,
+      "notified": false,
+      "title": "IPhone 14 nero/black 128 gb Apple Store",
+      "last_seen": "2026-10-04 13:03:43"
+    },
+    "663224764": {
+      "last_price": 32.0,
+      "notified": false,
+      "title": "AirPods Pro 1 MagSafe originali, destro gracchia",
+      "last_seen": "2026-10-04 11:34:53"
+    },
+    "663224132": {
+      "last_price": 1950.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M4 Pro 14/20 - 24GB - 1TB",
+      "last_seen": "2026-10-04 10:51:38"
+    },
+    "663223198": {
+      "last_price": 1100.0,
+      "notified": false,
+      "title": "Mac Book Pro M4",
+      "last_seen": "2026-10-04 10:50:53"
+    },
+    "663215114": {
+      "last_price": 1949.0,
+      "notified": false,
+      "title": "Macbook pro 14” M5 1T space black",
+      "last_seen": "2026-10-04 09:25:52"
+    },
+    "663232888": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2019 i7 16GB RAM SSD 512GB",
+      "last_seen": "2026-10-04 12:32:43"
+    },
+    "663233468": {
+      "last_price": 14.0,
+      "notified": false,
+      "title": "Cavo Apple USB-C 60W Intrecciato Originale (1m)",
+      "last_seen": "2026-10-04 12:04:48"
+    },
+    "663226446": {
+      "last_price": 540.0,
+      "notified": false,
+      "title": "MacBook Pro 13” Apple M1 - Anno 2020 Perfetto",
+      "last_seen": "2026-10-04 11:19:48"
+    },
+    "663235659": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "MacBook PRO M2 13” TOUCH BAR",
+      "last_seen": "2026-10-04 12:19:58"
+    },
+    "663219171": {
+      "last_price": 35.0,
+      "notified": false,
+      "title": "Alimentatore Originale Apple MagSafe 60W con scato",
+      "last_seen": "2026-10-04 10:08:12"
+    },
+    "663216542": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "Macbook Pro A1707 i7 16GB RAM",
+      "last_seen": "2026-10-04 09:40:20"
+    },
+    "663227466": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Apple MacBook Pro Retina 15 i7 / 8Gb / 256+256",
+      "last_seen": "2026-10-04 11:20:32"
+    },
+    "663222388": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "Macbook pro 13 retina completo",
+      "last_seen": "2026-10-04 10:37:16"
+    },
+    "663210369": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "MacBook Pro 13” retina SSD 500/ Ram 8 Batt. Nuova",
+      "last_seen": "2026-10-04 08:19:22"
     }
   },
   "seen_ids": [
@@ -15303,6 +15393,21 @@
     "663197682",
     "663206049",
     "663206806",
-    "663206937"
+    "663206937",
+    "663210369",
+    "663215114",
+    "663216542",
+    "663219171",
+    "663222388",
+    "663223198",
+    "663224132",
+    "663224764",
+    "663226446",
+    "663227466",
+    "663232888",
+    "663233468",
+    "663235659",
+    "663241228",
+    "663241329"
   ]
 }
