@@ -12831,6 +12831,18 @@
       "notified": false,
       "title": "Display LCD MacBook Pro  – ricambio usato",
       "last_seen": "2026-10-03 22:39:56"
+    },
+    "663206937": {
+      "last_price": 919.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Pro 2021 1TB/16GB Silver - Come",
+      "last_seen": "2026-10-04 04:44:05"
+    },
+    "663206806": {
+      "last_price": 2499.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M5 Pro - 24GB RAM - 2TB SSD - Gara",
+      "last_seen": "2026-10-04 04:20:51"
     }
   },
   "seen_ids": [
@@ -15282,6 +15294,8 @@
     "663191615",
     "663193827",
     "663197373",
-    "663197682"
+    "663197682",
+    "663206806",
+    "663206937"
   ]
 }
