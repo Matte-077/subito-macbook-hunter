@@ -12843,6 +12843,12 @@
       "notified": false,
       "title": "MacBook Pro 14” M5 Pro - 24GB RAM - 2TB SSD - Gara",
       "last_seen": "2026-10-04 04:20:51"
+    },
+    "663206049": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "Mecbook 2019 toucbar",
+      "last_seen": "2026-10-04 07:27:40"
     }
   },
   "seen_ids": [
@@ -15295,6 +15301,7 @@
     "663193827",
     "663197373",
     "663197682",
+    "663206049",
     "663206806",
     "663206937"
   ]
