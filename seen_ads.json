@@ -6863,7 +6863,7 @@
       "last_seen": "2026-09-21 11:23:03"
     },
     "661527245": {
-      "last_price": 1000.0,
+      "last_price": 950.0,
       "notified": false,
       "title": "MACBOOK PRO  MODEL A2442",
       "last_seen": "2026-09-21 11:24:04"
@@ -12083,7 +12083,7 @@
       "last_seen": "2026-10-02 14:22:52"
     },
     "663012382": {
-      "last_price": 599.0,
+      "last_price": 549.0,
       "notified": false,
       "title": "Apple MacBook Pro 16\" i7 6-core SSD 512 gb",
       "last_seen": "2026-10-02 14:55:52"
@@ -12765,6 +12765,72 @@
       "notified": false,
       "title": "Cover Posteriore - MacBook Pro 15'' 2010 2011 2012",
       "last_seen": "2026-10-03 16:22:34"
+    },
+    "663190479": {
+      "last_price": null,
+      "notified": false,
+      "title": "MacBook Pro M5 14\" 24GB ram, 1TB ssd",
+      "last_seen": "2026-10-03 21:34:06"
+    },
+    "663175319": {
+      "last_price": 2300.0,
+      "notified": false,
+      "title": "MacBook Pro M5 Pro 14\" 24GB ram, 1TB ssd",
+      "last_seen": "2026-10-03 20:53:46"
+    },
+    "663106428": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "Macbook supporto cuffie monitor casse in noce",
+      "last_seen": "2026-10-03 14:42:51"
+    },
+    "663197373": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "MacBook Pro 2017",
+      "last_seen": "2026-10-03 22:52:29"
+    },
+    "663193827": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "MacBook pro 16 2020 M1 16gb 512gb mini led",
+      "last_seen": "2026-10-03 21:34:49"
+    },
+    "663184867": {
+      "last_price": 16.0,
+      "notified": false,
+      "title": "Cavi USB-C 100W E-Marker nylon 1m NUOVI - da 3 pz",
+      "last_seen": "2026-10-03 21:20:53"
+    },
+    "663191615": {
+      "last_price": 193.0,
+      "notified": false,
+      "title": "MacBook Pro 15 “ 2 TB  16 GB Doppia scheda video",
+      "last_seen": "2026-10-03 21:07:44"
+    },
+    "663183409": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" (2019) i9 8-Core / 16GB / 1TB SSD",
+      "last_seen": "2026-10-03 20:27:40"
+    },
+    "663179742": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" (2019) i9 8-Core / 16GB / 1TB SSD",
+      "last_seen": "2026-10-03 20:27:39"
+    },
+    "663176678": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" (2019) i9 8-Core / 16GB / 1TB SSD",
+      "last_seen": "2026-10-03 20:27:38"
+    },
+    "663197682": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Display LCD MacBook Pro  – ricambio usato",
+      "last_seen": "2026-10-03 22:39:56"
     }
   },
   "seen_ids": [
@@ -15145,6 +15211,7 @@
     "663097305",
     "663097638",
     "663100148",
+    "663106428",
     "663108366",
     "663108536",
     "663109495",
@@ -15199,12 +15266,22 @@
     "663167594",
     "663170455",
     "663170897",
+    "663175319",
     "663176532",
     "663176643",
+    "663176678",
+    "663179742",
     "663180786",
+    "663183409",
+    "663184867",
     "663184954",
     "663185367",
     "663186173",
-    "663187725"
+    "663187725",
+    "663190479",
+    "663191615",
+    "663193827",
+    "663197373",
+    "663197682"
   ]
 }
