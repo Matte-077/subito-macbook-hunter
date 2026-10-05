@@ -11585,10 +11585,10 @@
       "last_seen": "2026-10-01 12:49:27"
     },
     "662863091": {
-      "last_price": 1100.0,
+      "last_price": 1000.0,
       "notified": false,
       "title": "MacBook Pro m3",
-      "last_seen": "2026-10-01 12:50:15"
+      "last_seen": "2026-10-04 13:02:00"
     },
     "662861892": {
       "last_price": 1000.0,
@@ -13173,6 +13173,12 @@
       "notified": false,
       "title": "MacBook Pro 13” M1 2020 – 8GB RAM 256GB SSD",
       "last_seen": "2026-10-05 09:11:23"
+    },
+    "663326048": {
+      "last_price": 1750.0,
+      "notified": false,
+      "title": "Macbook Pro m5 14 pollici- 1 mese di vita",
+      "last_seen": "2026-10-05 09:26:37"
     }
   },
   "seen_ids": [
@@ -15681,6 +15687,7 @@
     "663314524",
     "663315589",
     "663319899",
-    "663323160"
+    "663323160",
+    "663326048"
   ]
 }
