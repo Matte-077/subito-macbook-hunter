@@ -13425,6 +13425,48 @@
       "notified": false,
       "title": "Apple MacBook pro 15",
       "last_seen": "2026-10-05 17:08:51"
+    },
+    "663394970": {
+      "last_price": 1050.0,
+      "notified": false,
+      "title": "Macbook Pro 14\" M2 Pro 16Gb 512Gb",
+      "last_seen": "2026-10-05 17:51:18"
+    },
+    "663395885": {
+      "last_price": 1825.0,
+      "notified": false,
+      "title": "Macbook pro M5 16 gb e 1tb ssd",
+      "last_seen": "2026-10-05 17:38:36"
+    },
+    "663394904": {
+      "last_price": 1649.0,
+      "notified": false,
+      "title": "MacBook Pro 14″ M4 10Core RAM 16Gb, SSD 1Tb Ex-Nuo",
+      "last_seen": "2026-10-05 17:37:53"
+    },
+    "663394883": {
+      "last_price": 1649.0,
+      "notified": false,
+      "title": "MacBook Pro 14″ M4 10Core RAM 16Gb, SSD 1Tb Ex-Nuo",
+      "last_seen": "2026-10-05 17:37:51"
+    },
+    "663394262": {
+      "last_price": 2699.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 Pro 2Tb - NUOVO",
+      "last_seen": "2026-10-05 17:37:18"
+    },
+    "663396499": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "Macbook pro M5Pro 16\"",
+      "last_seen": "2026-10-05 17:52:07"
+    },
+    "663397717": {
+      "last_price": 459.0,
+      "notified": false,
+      "title": "Ipad pro 12.9’’ m1 128gb wifi+cellular+smart folio",
+      "last_seen": "2026-10-05 17:53:06"
     }
   },
   "seen_ids": [
@@ -15975,6 +16017,13 @@
     "663390818",
     "663391687",
     "663392791",
-    "663393903"
+    "663393903",
+    "663394262",
+    "663394883",
+    "663394904",
+    "663394970",
+    "663395885",
+    "663396499",
+    "663397717"
   ]
 }
