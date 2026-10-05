@@ -13467,6 +13467,18 @@
       "notified": false,
       "title": "Ipad pro 12.9’’ m1 128gb wifi+cellular+smart folio",
       "last_seen": "2026-10-05 17:53:06"
+    },
+    "663401014": {
+      "last_price": 1550.0,
+      "notified": false,
+      "title": "Apple Macbook Pro 14” M2 Max 1TB 32GB RAM Usato",
+      "last_seen": "2026-10-05 18:22:29"
+    },
+    "663401286": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro i9 32GB/512 - 15 pollici - 2018",
+      "last_seen": "2026-10-05 18:22:43"
     }
   },
   "seen_ids": [
@@ -16024,6 +16036,8 @@
     "663394970",
     "663395885",
     "663396499",
-    "663397717"
+    "663397717",
+    "663401014",
+    "663401286"
   ]
 }
