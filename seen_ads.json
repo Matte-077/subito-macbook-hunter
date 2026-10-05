@@ -11543,7 +11543,7 @@
       "last_seen": "2026-10-01 10:11:07"
     },
     "662843340": {
-      "last_price": 500.0,
+      "last_price": 580.0,
       "notified": false,
       "title": "Macbook Pro 2020 M1 13",
       "last_seen": "2026-10-03 18:27:57"
@@ -13221,6 +13221,12 @@
       "notified": false,
       "title": "iPhone 16 Pro Max 512GB | Garanzia Apple",
       "last_seen": "2026-10-05 11:12:31"
+    },
+    "663343988": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "IPHONE 14 256GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-10-05 11:42:30"
     }
   },
   "seen_ids": [
@@ -15737,6 +15743,7 @@
     "663339318",
     "663341118",
     "663343483",
-    "663343769"
+    "663343769",
+    "663343988"
   ]
 }
