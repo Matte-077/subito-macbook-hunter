@@ -4247,10 +4247,10 @@
       "notified": false
     },
     "660768664": {
-      "last_price": 1650.0,
+      "last_price": 1450.0,
       "notified": false,
       "title": "MacBook pro 14 18GB 1TB M3 batteria 100%",
-      "last_seen": "2026-09-19 09:17:36"
+      "last_seen": "2026-10-03 09:22:48"
     },
     "660768783": {
       "last_price": null,
@@ -13161,6 +13161,12 @@
       "notified": false,
       "title": "iPad Pro 12.9 (4 gen.) Wi-Fi + Cel. 128 gb",
       "last_seen": "2026-10-05 06:51:21"
+    },
+    "663319899": {
+      "last_price": 2699.0,
+      "notified": false,
+      "title": "Apple Macbook 14 Pro chip M5 Pro 24/2TB Nuovo",
+      "last_seen": "2026-10-05 08:31:41"
     }
   },
   "seen_ids": [
@@ -15667,6 +15673,7 @@
     "663313408",
     "663313528",
     "663314524",
-    "663315589"
+    "663315589",
+    "663319899"
   ]
 }
