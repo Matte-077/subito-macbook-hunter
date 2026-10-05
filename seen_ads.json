@@ -13401,6 +13401,30 @@
       "notified": false,
       "title": "Apple caricabatterie usb-c 67w x MacBook Pro 13/14",
       "last_seen": "2026-10-05 16:54:00"
+    },
+    "663392791": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Macbook pro 13” 2011",
+      "last_seen": "2026-10-05 17:23:04"
+    },
+    "663390818": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" (2019) i9|16GB RAM|1TB SSD - LEGGI",
+      "last_seen": "2026-10-05 17:08:03"
+    },
+    "663393903": {
+      "last_price": 580.0,
+      "notified": false,
+      "title": "MacBook Pro M1 2020 13’",
+      "last_seen": "2026-10-05 17:23:59"
+    },
+    "663391687": {
+      "last_price": 30.0,
+      "notified": false,
+      "title": "Apple MacBook pro 15",
+      "last_seen": "2026-10-05 17:08:51"
     }
   },
   "seen_ids": [
@@ -15947,6 +15971,10 @@
     "663384428",
     "663384683",
     "663386482",
-    "663389694"
+    "663389694",
+    "663390818",
+    "663391687",
+    "663392791",
+    "663393903"
   ]
 }
