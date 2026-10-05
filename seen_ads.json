@@ -13515,6 +13515,12 @@
       "notified": false,
       "title": "MacBook Pro 14\" M3 Pro (18Gb RAM / 512Gb)",
       "last_seen": "2026-10-05 19:35:14"
+    },
+    "663413596": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "Mac Book PRO 2019 I9 32GB RAM SSD 1TB",
+      "last_seen": "2026-10-05 19:48:54"
     }
   },
   "seen_ids": [
@@ -16080,6 +16086,7 @@
     "663406716",
     "663406753",
     "663409499",
-    "663412194"
+    "663412194",
+    "663413596"
   ]
 }
