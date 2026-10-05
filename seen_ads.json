@@ -11825,7 +11825,7 @@
       "last_seen": "2026-10-01 20:43:04"
     },
     "662934247": {
-      "last_price": 990.0,
+      "last_price": 979.0,
       "notified": false,
       "title": "Oppo Find N5 Fold - Come Nuovo / Perfetto - Garanz",
       "last_seen": "2026-10-01 21:41:30"
@@ -13329,6 +13329,18 @@
       "notified": false,
       "title": "Lenovo ThinkPad X1 Carbon g12 ultra5 garanzia 2028",
       "last_seen": "2026-10-05 10:11:03"
+    },
+    "663377536": {
+      "last_price": 800.0,
+      "notified": true,
+      "title": "MacBook Pro 16.2\" (Fine 2021) M1 Pro/16GB/1TB SSD",
+      "last_seen": "2026-10-05 15:36:28"
+    },
+    "653889973": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "MacBook Pro M1- 8 GB ram - 256 GB ssd",
+      "last_seen": "2026-10-05 15:35:33"
     }
   },
   "seen_ids": [
@@ -13445,6 +13457,7 @@
     "653434846",
     "653569553",
     "653876015",
+    "653889973",
     "653933063",
     "653935768",
     "654094403",
@@ -15863,6 +15876,7 @@
     "663366861",
     "663369100",
     "663369401",
-    "663369554"
+    "663369554",
+    "663377536"
   ]
 }
