@@ -13131,6 +13131,18 @@
       "notified": false,
       "title": "Apple MacBook Neo 13 A18 512 gb NUOVO",
       "last_seen": "2026-10-04 23:42:12"
+    },
+    "663313408": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "Macbook Pro M4  Praticamente Nuovo (info in desc).",
+      "last_seen": "2026-10-05 02:03:39"
+    },
+    "663313365": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Macbook pro 14” M4 -16gb RAM -512gb SSD -perfetto",
+      "last_seen": "2026-10-05 02:03:37"
     }
   },
   "seen_ids": [
@@ -15632,6 +15644,8 @@
     "663306830",
     "663307181",
     "663309863",
-    "663310393"
+    "663310393",
+    "663313365",
+    "663313408"
   ]
 }
