@@ -9011,10 +9011,10 @@
       "last_seen": "2026-09-25 19:27:54"
     },
     "662151769": {
-      "last_price": 1800.0,
+      "last_price": 1200.0,
       "notified": false,
       "title": "MACBOOK PRO 16’’ - M1 PRO - SILVER",
-      "last_seen": "2026-09-25 19:27:37"
+      "last_seen": "2026-10-04 19:41:33"
     },
     "662153307": {
       "last_price": 2250.0,
@@ -13191,6 +13191,12 @@
       "notified": false,
       "title": "MacBook Pro 13",
       "last_seen": "2026-10-05 10:42:09"
+    },
+    "663337970": {
+      "last_price": 770.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14 M1 Pro 10/16 - 16GB / 1TB",
+      "last_seen": "2026-10-05 10:57:42"
     }
   },
   "seen_ids": [
@@ -15702,6 +15708,7 @@
     "663323160",
     "663326048",
     "663334905",
-    "663335941"
+    "663335941",
+    "663337970"
   ]
 }
