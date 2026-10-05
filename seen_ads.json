@@ -13509,6 +13509,12 @@
       "notified": true,
       "title": "Macbook pro m1 14\" LEGGERE!!!",
       "last_seen": "2026-10-05 19:20:19"
+    },
+    "663412194": {
+      "last_price": 1850.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M3 Pro (18Gb RAM / 512Gb)",
+      "last_seen": "2026-10-05 19:35:14"
     }
   },
   "seen_ids": [
@@ -16073,6 +16079,7 @@
     "663405325",
     "663406716",
     "663406753",
-    "663409499"
+    "663409499",
+    "663412194"
   ]
 }
