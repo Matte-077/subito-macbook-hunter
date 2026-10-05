@@ -12533,10 +12533,10 @@
       "last_seen": "2026-10-03 13:12:09"
     },
     "663151804": {
-      "last_price": 400.0,
+      "last_price": 350.0,
       "notified": false,
       "title": "MacBook Pro 15\" 2018 - i7 / 16GB / SSD 512GB",
-      "last_seen": "2026-10-04 14:16:05"
+      "last_seen": "2026-10-05 14:19:35"
     },
     "663151707": {
       "last_price": 140.0,
@@ -13353,6 +13353,42 @@
       "notified": false,
       "title": "MacBook Pro 13\" (2017) 128 GB con batteria nuova (",
       "last_seen": "2026-10-05 15:51:18"
+    },
+    "663383126": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Macbook pro 9.2",
+      "last_seen": "2026-10-05 16:07:46"
+    },
+    "663378028": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" (2019) i9 8-Core /16GB/1TB SSD",
+      "last_seen": "2026-10-05 16:06:13"
+    },
+    "663384428": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "Oppo Find N5 Fold - Come Nuovo / Perfetto - Garanz",
+      "last_seen": "2026-10-05 16:23:07"
+    },
+    "663384683": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 2015 i5 GB BATERÍA RAM 8 GB",
+      "last_seen": "2026-10-05 16:23:21"
+    },
+    "663382942": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatile",
+      "last_seen": "2026-10-05 16:07:36"
+    },
+    "663381710": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatile",
+      "last_seen": "2026-10-05 16:06:32"
     }
   },
   "seen_ids": [
@@ -15891,6 +15927,12 @@
     "663369401",
     "663369554",
     "663377536",
-    "663380577"
+    "663378028",
+    "663380577",
+    "663381710",
+    "663382942",
+    "663383126",
+    "663384428",
+    "663384683"
   ]
 }
