@@ -13389,6 +13389,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatile",
       "last_seen": "2026-10-05 16:06:32"
+    },
+    "663386482": {
+      "last_price": 259.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2016 | Intel i5 2,0 GHz | 8GB RAM",
+      "last_seen": "2026-10-05 16:38:01"
     }
   },
   "seen_ids": [
@@ -15933,6 +15939,7 @@
     "663382942",
     "663383126",
     "663384428",
-    "663384683"
+    "663384683",
+    "663386482"
   ]
 }
