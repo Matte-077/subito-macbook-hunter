@@ -13197,6 +13197,30 @@
       "notified": false,
       "title": "Apple MacBook Pro 14 M1 Pro 10/16 - 16GB / 1TB",
       "last_seen": "2026-10-05 10:57:42"
+    },
+    "663343769": {
+      "last_price": 349.0,
+      "notified": false,
+      "title": "IPHONE 14 128GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-10-05 11:29:11"
+    },
+    "663343483": {
+      "last_price": 419.0,
+      "notified": false,
+      "title": "IPHONE 14 256GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-10-05 11:28:59"
+    },
+    "663341118": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "IPHONE 14 PLUS 128GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-10-05 11:14:07"
+    },
+    "663339318": {
+      "last_price": 929.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 512GB | Garanzia Apple",
+      "last_seen": "2026-10-05 11:12:31"
     }
   },
   "seen_ids": [
@@ -15709,6 +15733,10 @@
     "663326048",
     "663334905",
     "663335941",
-    "663337970"
+    "663337970",
+    "663339318",
+    "663341118",
+    "663343483",
+    "663343769"
   ]
 }
