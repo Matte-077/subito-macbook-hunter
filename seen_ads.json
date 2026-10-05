@@ -13155,6 +13155,12 @@
       "notified": false,
       "title": "Macbook Apple M4 Pro (24 GB RAM - SSD 1TB)",
       "last_seen": "2026-10-05 05:07:33"
+    },
+    "663315589": {
+      "last_price": 530.0,
+      "notified": false,
+      "title": "iPad Pro 12.9 (4 gen.) Wi-Fi + Cel. 128 gb",
+      "last_seen": "2026-10-05 06:51:21"
     }
   },
   "seen_ids": [
@@ -15660,6 +15666,7 @@
     "663313365",
     "663313408",
     "663313528",
-    "663314524"
+    "663314524",
+    "663315589"
   ]
 }
