@@ -13179,6 +13179,18 @@
       "notified": false,
       "title": "Macbook Pro m5 14 pollici- 1 mese di vita",
       "last_seen": "2026-10-05 09:26:37"
+    },
+    "663334905": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 16 Space grey 1TB Intel I9",
+      "last_seen": "2026-10-05 10:41:17"
+    },
+    "663335941": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro 13",
+      "last_seen": "2026-10-05 10:42:09"
     }
   },
   "seen_ids": [
@@ -15688,6 +15700,8 @@
     "663315589",
     "663319899",
     "663323160",
-    "663326048"
+    "663326048",
+    "663334905",
+    "663335941"
   ]
 }
