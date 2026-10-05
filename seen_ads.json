@@ -13227,6 +13227,24 @@
       "notified": false,
       "title": "IPHONE 14 256GB USATO Garanzia: 1 ANNO",
       "last_seen": "2026-10-05 11:42:30"
+    },
+    "663348619": {
+      "last_price": 1299.0,
+      "notified": false,
+      "title": "Macbook pro 14 m3 1TB",
+      "last_seen": "2026-10-05 11:59:32"
+    },
+    "663349741": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "MacBook Pro M4, 16 GB RAM, 1TB SSD",
+      "last_seen": "2026-10-05 12:14:00"
+    },
+    "663349708": {
+      "last_price": 1300.0,
+      "notified": false,
+      "title": "MACBOOK PRO M2 16’’",
+      "last_seen": "2026-10-05 12:13:59"
     }
   },
   "seen_ids": [
@@ -15744,6 +15762,9 @@
     "663341118",
     "663343483",
     "663343769",
-    "663343988"
+    "663343988",
+    "663348619",
+    "663349708",
+    "663349741"
   ]
 }
