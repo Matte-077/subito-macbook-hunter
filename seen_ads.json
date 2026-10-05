@@ -13229,7 +13229,7 @@
       "last_seen": "2026-10-05 11:42:30"
     },
     "663348619": {
-      "last_price": 1299.0,
+      "last_price": 1149.0,
       "notified": false,
       "title": "Macbook pro 14 m3 1TB",
       "last_seen": "2026-10-05 11:59:32"
@@ -13305,6 +13305,24 @@
       "notified": false,
       "title": "MACBOOK PRO 2023 16\" COME NUOVO",
       "last_seen": "2026-10-05 14:19:23"
+    },
+    "663369100": {
+      "last_price": 820.0,
+      "notified": false,
+      "title": "Apple MacBookPro 16\" 2019 - Core i9 32GB RAM 1TB",
+      "last_seen": "2026-10-05 14:36:01"
+    },
+    "663369554": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro m1 2020 per pezzi di ricambio",
+      "last_seen": "2026-10-05 14:36:32"
+    },
+    "663369401": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "Macbook Pro 15\"",
+      "last_seen": "2026-10-05 14:36:24"
     }
   },
   "seen_ids": [
@@ -15835,6 +15853,9 @@
     "663355650",
     "663364651",
     "663364855",
-    "663366861"
+    "663366861",
+    "663369100",
+    "663369401",
+    "663369554"
   ]
 }
