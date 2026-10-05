@@ -13229,7 +13229,7 @@
       "last_seen": "2026-10-05 11:42:30"
     },
     "663348619": {
-      "last_price": 1149.0,
+      "last_price": 1099.0,
       "notified": false,
       "title": "Macbook pro 14 m3 1TB",
       "last_seen": "2026-10-05 11:59:32"
@@ -13341,6 +13341,18 @@
       "notified": false,
       "title": "MacBook Pro M1- 8 GB ram - 256 GB ssd",
       "last_seen": "2026-10-05 15:35:33"
+    },
+    "663380577": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 2019 i7 16GB 512GB SSD Radeon",
+      "last_seen": "2026-10-05 15:52:21"
+    },
+    "663369209": {
+      "last_price": 240.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" (2017) 128 GB con batteria nuova (",
+      "last_seen": "2026-10-05 15:51:18"
     }
   },
   "seen_ids": [
@@ -15875,8 +15887,10 @@
     "663364855",
     "663366861",
     "663369100",
+    "663369209",
     "663369401",
     "663369554",
-    "663377536"
+    "663377536",
+    "663380577"
   ]
 }
