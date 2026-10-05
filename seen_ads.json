@@ -13257,6 +13257,30 @@
       "notified": false,
       "title": "MacBook pro 16, M1 Max, 32 Gb Ram, 1Tb SSD",
       "last_seen": "2026-10-05 12:29:28"
+    },
+    "663354568": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "iPhone 14 128GB NERO | Garanzia 1 anno",
+      "last_seen": "2026-10-05 12:45:00"
+    },
+    "663354389": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "iPhone 14 Pro 128GB Nero| Garanzia 1 anno",
+      "last_seen": "2026-10-05 12:44:52"
+    },
+    "663354215": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "iPhone 14 Pro Max 128GB viola scuro| Garanzia 1 an",
+      "last_seen": "2026-10-05 12:44:41"
+    },
+    "663355650": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook Pro Touchbar",
+      "last_seen": "2026-10-05 12:46:00"
     }
   },
   "seen_ids": [
@@ -15779,6 +15803,10 @@
     "663349708",
     "663349741",
     "663351639",
-    "663353206"
+    "663353206",
+    "663354215",
+    "663354389",
+    "663354568",
+    "663355650"
   ]
 }
