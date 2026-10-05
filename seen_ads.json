@@ -13133,7 +13133,7 @@
       "last_seen": "2026-10-04 23:42:12"
     },
     "663313408": {
-      "last_price": 1600.0,
+      "last_price": 1500.0,
       "notified": false,
       "title": "Macbook Pro M4  Praticamente Nuovo (info in desc).",
       "last_seen": "2026-10-05 02:03:39"
@@ -13143,6 +13143,12 @@
       "notified": false,
       "title": "Macbook pro 14” M4 -16gb RAM -512gb SSD -perfetto",
       "last_seen": "2026-10-05 02:03:37"
+    },
+    "663313528": {
+      "last_price": 2499.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 Pro 24GB/2TB - Garanzia 24M",
+      "last_seen": "2026-10-05 02:26:53"
     }
   },
   "seen_ids": [
@@ -15646,6 +15652,7 @@
     "663309863",
     "663310393",
     "663313365",
-    "663313408"
+    "663313408",
+    "663313528"
   ]
 }
