@@ -13167,6 +13167,12 @@
       "notified": false,
       "title": "Apple Macbook 14 Pro chip M5 Pro 24/2TB Nuovo",
       "last_seen": "2026-10-05 08:31:41"
+    },
+    "663323160": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 2020 – 8GB RAM 256GB SSD",
+      "last_seen": "2026-10-05 09:11:23"
     }
   },
   "seen_ids": [
@@ -15674,6 +15680,7 @@
     "663313528",
     "663314524",
     "663315589",
-    "663319899"
+    "663319899",
+    "663323160"
   ]
 }
