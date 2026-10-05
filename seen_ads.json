@@ -7253,7 +7253,7 @@
       "last_seen": "2026-09-22 09:42:06"
     },
     "661649327": {
-      "last_price": 800.0,
+      "last_price": 750.0,
       "notified": false,
       "title": "MacBook Pro 14” M1 Pro 16 GB – 2021 SSD 512 GB",
       "last_seen": "2026-09-22 10:16:13"
@@ -13245,6 +13245,18 @@
       "notified": false,
       "title": "MACBOOK PRO M2 16’’",
       "last_seen": "2026-10-05 12:13:59"
+    },
+    "663353206": {
+      "last_price": 1990.0,
+      "notified": false,
+      "title": "MacBook PRO 14” M5",
+      "last_seen": "2026-10-05 12:30:44"
+    },
+    "663351639": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "MacBook pro 16, M1 Max, 32 Gb Ram, 1Tb SSD",
+      "last_seen": "2026-10-05 12:29:28"
     }
   },
   "seen_ids": [
@@ -15765,6 +15777,8 @@
     "663343988",
     "663348619",
     "663349708",
-    "663349741"
+    "663349741",
+    "663351639",
+    "663353206"
   ]
 }
