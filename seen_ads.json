@@ -13479,6 +13479,30 @@
       "notified": false,
       "title": "MacBook Pro i9 32GB/512 - 15 pollici - 2018",
       "last_seen": "2026-10-05 18:22:43"
+    },
+    "663405325": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 16 m1 anno 2022 63 cicli nuovo complet",
+      "last_seen": "2026-10-05 18:51:32"
+    },
+    "663406716": {
+      "last_price": 1949.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M1 Max RAM 64Gb, SSD 1Tb Ex-Demo",
+      "last_seen": "2026-10-05 18:52:41"
+    },
+    "663406753": {
+      "last_price": 2100.0,
+      "notified": false,
+      "title": "macbook pro m5, 24 gb di ram, 1 tb ssd",
+      "last_seen": "2026-10-05 18:52:43"
+    },
+    "663404651": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook Pro Four Thunderbolt 2018",
+      "last_seen": "2026-10-05 18:38:17"
     }
   },
   "seen_ids": [
@@ -16038,6 +16062,10 @@
     "663396499",
     "663397717",
     "663401014",
-    "663401286"
+    "663401286",
+    "663404651",
+    "663405325",
+    "663406716",
+    "663406753"
   ]
 }
