@@ -13521,6 +13521,36 @@
       "notified": false,
       "title": "Mac Book PRO 2019 I9 32GB RAM SSD 1TB",
       "last_seen": "2026-10-05 19:48:54"
+    },
+    "663403002": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "MacBook Pro 16 Touch Bar 2019 i7 32-512Gb Gar. 12M",
+      "last_seen": "2026-10-05 20:31:36"
+    },
+    "663418554": {
+      "last_price": 140.0,
+      "notified": false,
+      "title": "MacBook Pro 15”A1990 Mid 2018 touch x ricambi",
+      "last_seen": "2026-10-05 20:31:06"
+    },
+    "663406097": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "IPAD AIR M2 128GB cellular 11 pollici",
+      "last_seen": "2026-10-05 20:31:37"
+    },
+    "663418321": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Apple 85w MagSafe 2 alimentatore MacBook Pro 15”",
+      "last_seen": "2026-10-05 20:30:52"
+    },
+    "663418135": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "MacBook Pro 13” hdd 250/Ram 4 funzionante",
+      "last_seen": "2026-10-05 20:30:41"
     }
   },
   "seen_ids": [
@@ -16081,12 +16111,17 @@
     "663397717",
     "663401014",
     "663401286",
+    "663403002",
     "663404651",
     "663405325",
+    "663406097",
     "663406716",
     "663406753",
     "663409499",
     "663412194",
-    "663413596"
+    "663413596",
+    "663418135",
+    "663418321",
+    "663418554"
   ]
 }
