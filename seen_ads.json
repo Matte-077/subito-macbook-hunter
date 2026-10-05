@@ -13395,6 +13395,12 @@
       "notified": false,
       "title": "MacBook Pro 13” 2016 | Intel i5 2,0 GHz | 8GB RAM",
       "last_seen": "2026-10-05 16:38:01"
+    },
+    "663389694": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w x MacBook Pro 13/14",
+      "last_seen": "2026-10-05 16:54:00"
     }
   },
   "seen_ids": [
@@ -15940,6 +15946,7 @@
     "663383126",
     "663384428",
     "663384683",
-    "663386482"
+    "663386482",
+    "663389694"
   ]
 }
