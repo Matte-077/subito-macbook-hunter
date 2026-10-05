@@ -13503,6 +13503,12 @@
       "notified": false,
       "title": "MacBook Pro Four Thunderbolt 2018",
       "last_seen": "2026-10-05 18:38:17"
+    },
+    "663409499": {
+      "last_price": 150.0,
+      "notified": true,
+      "title": "Macbook pro m1 14\" LEGGERE!!!",
+      "last_seen": "2026-10-05 19:20:19"
     }
   },
   "seen_ids": [
@@ -16066,6 +16072,7 @@
     "663404651",
     "663405325",
     "663406716",
-    "663406753"
+    "663406753",
+    "663409499"
   ]
 }
