@@ -11951,10 +11951,10 @@
       "last_seen": "2026-10-02 10:43:49"
     },
     "662975320": {
-      "last_price": 800.0,
+      "last_price": 780.0,
       "notified": false,
       "title": "Apple Macbook Air M2 8gb ram 256 gb ssd 15 pollici",
-      "last_seen": "2026-10-02 20:14:36"
+      "last_seen": "2026-10-04 20:09:01"
     },
     "662978273": {
       "last_price": 5.0,
@@ -12485,10 +12485,10 @@
       "last_seen": "2026-10-03 12:06:33"
     },
     "663113088": {
-      "last_price": 350.0,
+      "last_price": 300.0,
       "notified": false,
       "title": "MacBook PRO",
-      "last_seen": "2026-10-03 12:07:01"
+      "last_seen": "2026-10-05 14:19:36"
     },
     "663115781": {
       "last_price": 350.0,
@@ -13281,6 +13281,30 @@
       "notified": false,
       "title": "MacBook Pro Touchbar",
       "last_seen": "2026-10-05 12:46:00"
+    },
+    "663366861": {
+      "last_price": 800.0,
+      "notified": true,
+      "title": "MacBook Pro 16.2\" (Fine 2021) M1 Pro/16GB/1TB SSD",
+      "last_seen": "2026-10-05 14:20:52"
+    },
+    "652182418": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2019 i7 16GB 512GB - come nuovo",
+      "last_seen": "2026-10-05 14:19:40"
+    },
+    "663364855": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro 13,3″ Retina 2017 – i7 – 16 GB RAM – S",
+      "last_seen": "2026-10-05 14:19:26"
+    },
+    "663364651": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "MACBOOK PRO 2023 16\" COME NUOVO",
+      "last_seen": "2026-10-05 14:19:23"
     }
   },
   "seen_ids": [
@@ -13380,6 +13404,7 @@
     "652124271",
     "652134317",
     "652139949",
+    "652182418",
     "652192723",
     "652215486",
     "652231567",
@@ -15807,6 +15832,9 @@
     "663354215",
     "663354389",
     "663354568",
-    "663355650"
+    "663355650",
+    "663364651",
+    "663364855",
+    "663366861"
   ]
 }
