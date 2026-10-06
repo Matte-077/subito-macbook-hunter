@@ -13575,6 +13575,12 @@
       "notified": false,
       "title": "MSI Creator Z16 x Fragment Design | Hiroshi Fujiwa",
       "last_seen": "2026-10-06 06:41:42"
+    },
+    "663447542": {
+      "last_price": 95.0,
+      "notified": false,
+      "title": "PC MACBOOK 21.5 CPU i5 RAM 8GB HDD 1TB",
+      "last_seen": "2026-10-06 07:17:37"
     }
   },
   "seen_ids": [
@@ -16150,6 +16156,7 @@
     "663427603",
     "663431104",
     "663432755",
-    "663446445"
+    "663446445",
+    "663447542"
   ]
 }
