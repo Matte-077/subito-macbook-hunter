@@ -13599,6 +13599,18 @@
       "notified": false,
       "title": "iPad Pro M5 256GB Wi-Fi + Garanzia Danni/Furto",
       "last_seen": "2026-10-06 09:16:39"
+    },
+    "663456495": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "Macbook PRO 16\" pollici 2020",
+      "last_seen": "2026-10-06 09:30:39"
+    },
+    "663457045": {
+      "last_price": 210.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2017 | i5 | 8 GB RAM | 128 GB SSD",
+      "last_seen": "2026-10-06 09:31:04"
     }
   },
   "seen_ids": [
@@ -16178,6 +16190,8 @@
     "663446445",
     "663447542",
     "663451451",
-    "663455390"
+    "663455390",
+    "663456495",
+    "663457045"
   ]
 }
