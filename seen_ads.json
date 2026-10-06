@@ -13653,6 +13653,36 @@
       "notified": false,
       "title": "Macbook Pro 15\" intel i7, ram 16gb, ssd 512gb",
       "last_seen": "2026-10-06 11:05:13"
+    },
+    "663475561": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "iPhone 14 128GB NERO | Garanzia 1 anno",
+      "last_seen": "2026-10-06 11:37:45"
+    },
+    "663475351": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "iPhone 14 256GB Nero| Garanzia 1 anno",
+      "last_seen": "2026-10-06 11:37:33"
+    },
+    "663475044": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "iPhone 14 pro 128GB Nero| Garanzia 1 anno",
+      "last_seen": "2026-10-06 11:37:10"
+    },
+    "663474220": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "iPhone 14 Pro Max 128GB viola scuro| Garanzia 1 an",
+      "last_seen": "2026-10-06 11:36:18"
+    },
+    "645036201": {
+      "last_price": 289.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" Retina (2015)- 16GB RAM -512GB SSD",
+      "last_seen": "2026-10-06 11:34:53"
     }
   },
   "seen_ids": [
@@ -13704,6 +13734,7 @@
     "644191308",
     "644544305",
     "644865663",
+    "645036201",
     "645169733",
     "645190929",
     "645320185",
@@ -16241,6 +16272,10 @@
     "663461227",
     "663464586",
     "663468609",
-    "663469313"
+    "663469313",
+    "663474220",
+    "663475044",
+    "663475351",
+    "663475561"
   ]
 }
