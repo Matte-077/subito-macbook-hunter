@@ -7253,7 +7253,7 @@
       "last_seen": "2026-09-22 09:42:06"
     },
     "661649327": {
-      "last_price": 750.0,
+      "last_price": 720.0,
       "notified": false,
       "title": "MacBook Pro 14” M1 Pro 16 GB – 2021 SSD 512 GB",
       "last_seen": "2026-09-22 10:16:13"
@@ -11951,10 +11951,10 @@
       "last_seen": "2026-10-02 10:43:49"
     },
     "662975320": {
-      "last_price": 780.0,
+      "last_price": 750.0,
       "notified": false,
       "title": "Apple Macbook Air M2 8gb ram 256 gb ssd 15 pollici",
-      "last_seen": "2026-10-04 20:09:01"
+      "last_seen": "2026-10-05 20:16:22"
     },
     "662978273": {
       "last_price": 5.0,
@@ -13845,6 +13845,12 @@
       "notified": false,
       "title": "Macbook Pro i7 16Gb GUASTO GPU",
       "last_seen": "2026-10-06 17:11:28"
+    },
+    "663523470": {
+      "last_price": 790.0,
+      "notified": false,
+      "title": "Macbook Air M2 13,6” 16Gb / 256Gb",
+      "last_seen": "2026-10-06 17:10:39"
     }
   },
   "seen_ids": [
@@ -16465,6 +16471,7 @@
     "663522391",
     "663522616",
     "663523066",
+    "663523470",
     "663524408"
   ]
 }
