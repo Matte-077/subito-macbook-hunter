@@ -12779,10 +12779,10 @@
       "last_seen": "2026-10-03 20:53:46"
     },
     "663106428": {
-      "last_price": 180.0,
+      "last_price": 150.0,
       "notified": false,
       "title": "Macbook supporto cuffie monitor casse in noce",
-      "last_seen": "2026-10-04 14:45:46"
+      "last_seen": "2026-10-05 14:35:12"
     },
     "663197373": {
       "last_price": 200.0,
@@ -13647,6 +13647,12 @@
       "notified": false,
       "title": "Apple watch Ultra 3 in Garanzia",
       "last_seen": "2026-10-06 10:50:44"
+    },
+    "663469313": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Macbook Pro 15\" intel i7, ram 16gb, ssd 512gb",
+      "last_seen": "2026-10-06 11:05:13"
     }
   },
   "seen_ids": [
@@ -16234,6 +16240,7 @@
     "663459058",
     "663461227",
     "663464586",
-    "663468609"
+    "663468609",
+    "663469313"
   ]
 }
