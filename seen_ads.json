@@ -13587,6 +13587,12 @@
       "notified": false,
       "title": "Macbook Pro, mid 2010, 15 pollici",
       "last_seen": "2026-10-06 07:42:08"
+    },
+    "663451451": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Apple Imac 27’ + Macbook Pro",
+      "last_seen": "2026-10-06 08:35:06"
     }
   },
   "seen_ids": [
@@ -16164,6 +16170,7 @@
     "663432755",
     "663434284",
     "663446445",
-    "663447542"
+    "663447542",
+    "663451451"
   ]
 }
