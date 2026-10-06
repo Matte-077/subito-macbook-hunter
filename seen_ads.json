@@ -961,7 +961,7 @@
       "last_seen": "2026-08-25 10:28:17"
     },
     "658250146": {
-      "last_price": 300.0,
+      "last_price": 250.0,
       "notified": false,
       "title": "SanDisk Extreme SSD 2TB Portatile Nuovo Sigillato",
       "last_seen": "2026-09-16 21:14:08"
@@ -13637,10 +13637,16 @@
       "last_seen": "2026-10-04 17:00:30"
     },
     "663464586": {
-      "last_price": 929.0,
+      "last_price": 899.0,
       "notified": false,
       "title": "iPhone 16 Pro Max 512GB | Garanzia Apple",
       "last_seen": "2026-10-06 10:33:10"
+    },
+    "663468609": {
+      "last_price": 790.0,
+      "notified": false,
+      "title": "Apple watch Ultra 3 in Garanzia",
+      "last_seen": "2026-10-06 10:50:44"
     }
   },
   "seen_ids": [
@@ -16227,6 +16233,7 @@
     "663458380",
     "663459058",
     "663461227",
-    "663464586"
+    "663464586",
+    "663468609"
   ]
 }
