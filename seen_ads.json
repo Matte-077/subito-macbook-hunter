@@ -13923,6 +13923,24 @@
       "notified": false,
       "title": "MacBook pro 2019 processore i7",
       "last_seen": "2026-10-06 21:16:51"
+    },
+    "663559256": {
+      "last_price": 569.0,
+      "notified": false,
+      "title": "iPhone 16 128 Giga Con Garanzia 1 Anno 🔥",
+      "last_seen": "2026-10-06 21:45:21"
+    },
+    "663558826": {
+      "last_price": 489.0,
+      "notified": false,
+      "title": "iPhone 13 Pro Max 128 Giga Con Garanzia",
+      "last_seen": "2026-10-06 21:32:19"
+    },
+    "663558395": {
+      "last_price": 589.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 128 Giga Con Garanzia",
+      "last_seen": "2026-10-06 21:31:53"
     }
   },
   "seen_ids": [
@@ -16556,6 +16574,9 @@
     "663553271",
     "663554085",
     "663554893",
-    "663555974"
+    "663555974",
+    "663558395",
+    "663558826",
+    "663559256"
   ]
 }
