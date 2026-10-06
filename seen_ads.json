@@ -961,7 +961,7 @@
       "last_seen": "2026-08-25 10:28:17"
     },
     "658250146": {
-      "last_price": 250.0,
+      "last_price": 300.0,
       "notified": false,
       "title": "SanDisk Extreme SSD 2TB Portatile Nuovo Sigillato",
       "last_seen": "2026-09-16 21:14:08"
@@ -13785,6 +13785,42 @@
       "notified": false,
       "title": "Apple Thunderbolt Display 27\" LCD 2560x1440 16:9",
       "last_seen": "2026-10-06 16:11:09"
+    },
+    "663519209": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM 512GB SSD",
+      "last_seen": "2026-10-06 16:40:55"
+    },
+    "663518607": {
+      "last_price": 2099.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\" – M4 Pro – 24 GB RAM – 512 G",
+      "last_seen": "2026-10-06 16:27:29"
+    },
+    "663517401": {
+      "last_price": 1149.0,
+      "notified": false,
+      "title": "Apple iPad pro 13” M4 + m. keyboard + pen + garanz",
+      "last_seen": "2026-10-06 16:26:22"
+    },
+    "663517231": {
+      "last_price": 1790.0,
+      "notified": false,
+      "title": "MacBook pro M3 pro 18Gb ram",
+      "last_seen": "2026-10-06 16:26:18"
+    },
+    "663520879": {
+      "last_price": 70.0,
+      "notified": false,
+      "title": "MacBook Pro 13 (mid 2012)",
+      "last_seen": "2026-10-06 16:42:23"
+    },
+    "663519957": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 2019",
+      "last_seen": "2026-10-06 16:41:36"
     }
   },
   "seen_ids": [
@@ -16395,6 +16431,12 @@
     "663511164",
     "663513495",
     "663513691",
-    "663515784"
+    "663515784",
+    "663517231",
+    "663517401",
+    "663518607",
+    "663519209",
+    "663519957",
+    "663520879"
   ]
 }
