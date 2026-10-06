@@ -13569,6 +13569,12 @@
       "notified": false,
       "title": "💻 MacBook Pro 15” 2017 – i7 – 16GB RAM",
       "last_seen": "2026-10-05 21:54:08"
+    },
+    "663446445": {
+      "last_price": 1799.0,
+      "notified": false,
+      "title": "MSI Creator Z16 x Fragment Design | Hiroshi Fujiwa",
+      "last_seen": "2026-10-06 06:41:42"
     }
   },
   "seen_ids": [
@@ -16143,6 +16149,7 @@
     "663418554",
     "663427603",
     "663431104",
-    "663432755"
+    "663432755",
+    "663446445"
   ]
 }
