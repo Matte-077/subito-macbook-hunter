@@ -12641,10 +12641,10 @@
       "last_seen": "2026-10-03 16:37:30"
     },
     "663160804": {
-      "last_price": 1250.0,
+      "last_price": 1190.0,
       "notified": false,
       "title": "MacBook Pro 14” 2023 M2 Pro – 16GB RAM – 1TB SSD –",
-      "last_seen": "2026-10-03 16:36:25"
+      "last_seen": "2026-10-05 16:36:42"
     },
     "663155326": {
       "last_price": 2999.0,
@@ -13463,7 +13463,7 @@
       "last_seen": "2026-10-05 17:52:07"
     },
     "663397717": {
-      "last_price": 459.0,
+      "last_price": 445.0,
       "notified": false,
       "title": "Ipad pro 12.9’’ m1 128gb wifi+cellular+smart folio",
       "last_seen": "2026-10-05 17:53:06"
@@ -13689,6 +13689,18 @@
       "notified": false,
       "title": "iPad Pro (2024) | 11\" M4  512GB  wifi cell",
       "last_seen": "2026-10-06 11:51:25"
+    },
+    "663478762": {
+      "last_price": 690.0,
+      "notified": false,
+      "title": "MacBook Pro 16 Pollici 2019",
+      "last_seen": "2026-10-06 12:06:55"
+    },
+    "663476773": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "IPAD PRO 12.9  5 GENERAZIONE 128GB cellular",
+      "last_seen": "2026-10-06 12:08:05"
     }
   },
   "seen_ids": [
@@ -16283,6 +16295,8 @@
     "663475044",
     "663475351",
     "663475561",
-    "663476061"
+    "663476061",
+    "663476773",
+    "663478762"
   ]
 }
