@@ -13911,6 +13911,12 @@
       "notified": false,
       "title": "MacBook Pro 13” retina SSD 500 / Ram 8 bat. Nuova",
       "last_seen": "2026-10-06 20:49:01"
+    },
+    "663554893": {
+      "last_price": 1590.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14” 512GB",
+      "last_seen": "2026-10-06 21:03:10"
     }
   },
   "seen_ids": [
@@ -16542,6 +16548,7 @@
     "663549183",
     "663550306",
     "663553271",
-    "663554085"
+    "663554085",
+    "663554893"
   ]
 }
