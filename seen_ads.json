@@ -13635,6 +13635,12 @@
       "notified": false,
       "title": "MacBook Air m4 13”",
       "last_seen": "2026-10-04 17:00:30"
+    },
+    "663464586": {
+      "last_price": 929.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 512GB | Garanzia Apple",
+      "last_seen": "2026-10-06 10:33:10"
     }
   },
   "seen_ids": [
@@ -16220,6 +16226,7 @@
     "663457045",
     "663458380",
     "663459058",
-    "663461227"
+    "663461227",
+    "663464586"
   ]
 }
