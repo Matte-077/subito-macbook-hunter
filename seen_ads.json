@@ -13941,6 +13941,36 @@
       "notified": false,
       "title": "iPhone 15 Pro 128 Giga Con Garanzia",
       "last_seen": "2026-10-06 21:31:53"
+    },
+    "663560749": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro 14\"",
+      "last_seen": "2026-10-06 21:59:14"
+    },
+    "663560366": {
+      "last_price": 729.0,
+      "notified": false,
+      "title": "iPhone 15 Pro Max 256 Giga Con Garanzia 1 Anno 🔥",
+      "last_seen": "2026-10-06 21:58:48"
+    },
+    "663560044": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 128 Giga Con Garanzia 1 Anno 🔥",
+      "last_seen": "2026-10-06 21:46:08"
+    },
+    "663559496": {
+      "last_price": 1249.0,
+      "notified": false,
+      "title": "iPhone 17 Pro Max 256 Giga Nuovi Sigilati",
+      "last_seen": "2026-10-06 21:45:36"
+    },
+    "663560764": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Neo 13\" 8/256 GB – Come nuovo, in garanzia",
+      "last_seen": "2026-10-06 21:59:15"
     }
   },
   "seen_ids": [
@@ -16577,6 +16607,11 @@
     "663555974",
     "663558395",
     "663558826",
-    "663559256"
+    "663559256",
+    "663559496",
+    "663560044",
+    "663560366",
+    "663560749",
+    "663560764"
   ]
 }
