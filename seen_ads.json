@@ -13625,7 +13625,7 @@
       "last_seen": "2026-10-06 09:45:57"
     },
     "663461227": {
-      "last_price": 2700.0,
+      "last_price": 2850.0,
       "notified": false,
       "title": "Macbook pro max m4  14\" 1tb 36gb ram garanzia",
       "last_seen": "2026-10-06 10:15:33"
@@ -13701,6 +13701,30 @@
       "notified": false,
       "title": "IPAD PRO 12.9  5 GENERAZIONE 128GB cellular",
       "last_seen": "2026-10-06 12:08:05"
+    },
+    "663485648": {
+      "last_price": 2600.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M5 24GB 2TB",
+      "last_seen": "2026-10-06 12:52:32"
+    },
+    "663485116": {
+      "last_price": null,
+      "notified": false,
+      "title": "MacBook Pro M1 da 256gb",
+      "last_seen": "2026-10-06 12:38:48"
+    },
+    "663484046": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "iPad Pro 10.9\" M1 5a Gen WiFi + Cell",
+      "last_seen": "2026-10-06 12:37:51"
+    },
+    "663483189": {
+      "last_price": 729.0,
+      "notified": false,
+      "title": "iPad Pro 12.9\" M2 6th Gen WiFi + Cell",
+      "last_seen": "2026-10-06 12:37:01"
     }
   },
   "seen_ids": [
@@ -16297,6 +16321,10 @@
     "663475561",
     "663476061",
     "663476773",
-    "663478762"
+    "663478762",
+    "663483189",
+    "663484046",
+    "663485116",
+    "663485648"
   ]
 }
