@@ -13731,6 +13731,24 @@
       "notified": false,
       "title": "MacBook Pro m1 2020 13”",
       "last_seen": "2026-10-06 13:09:12"
+    },
+    "663498605": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "GOOGLE PIXEL 10 PRO 5G nuovo",
+      "last_seen": "2026-10-06 14:10:54"
+    },
+    "663498867": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M1",
+      "last_seen": "2026-10-06 14:10:48"
+    },
+    "663498789": {
+      "last_price": 2299.0,
+      "notified": false,
+      "title": "IPHONE 18 PRO MAX 1TB nuovo",
+      "last_seen": "2026-10-06 14:10:44"
     }
   },
   "seen_ids": [
@@ -16332,6 +16350,9 @@
     "663484046",
     "663485116",
     "663485648",
-    "663490024"
+    "663490024",
+    "663498605",
+    "663498789",
+    "663498867"
   ]
 }
