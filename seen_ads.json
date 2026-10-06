@@ -14013,6 +14013,18 @@
       "notified": false,
       "title": "MacBook Pro 16” 2019 A2141 – i7 512 gb- No display",
       "last_seen": "2026-10-07 00:08:56"
+    },
+    "663570744": {
+      "last_price": 589.0,
+      "notified": false,
+      "title": "iPhone 14 Pro Max 128 Giga Con Garanzia 1 Anno 🔥",
+      "last_seen": "2026-10-07 00:08:50"
+    },
+    "663570858": {
+      "last_price": 2400.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16 pollici M4 Pro 24GB",
+      "last_seen": "2026-10-07 00:08:55"
     }
   },
   "seen_ids": [
@@ -16661,6 +16673,8 @@
     "663568405",
     "663570131",
     "663570583",
+    "663570744",
+    "663570858",
     "663570881"
   ]
 }
