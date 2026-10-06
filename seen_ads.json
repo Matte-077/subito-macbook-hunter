@@ -13869,6 +13869,18 @@
       "notified": false,
       "title": "Apple MacBook M2 Pro - 2022 13”",
       "last_seen": "2026-10-06 18:12:18"
+    },
+    "663534523": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M2 Pro 16 512",
+      "last_seen": "2026-10-06 18:25:38"
+    },
+    "663534704": {
+      "last_price": 80.0,
+      "notified": false,
+      "title": "Macbook Pro 13 2017 display non funzionante",
+      "last_seen": "2026-10-06 18:25:47"
     }
   },
   "seen_ids": [
@@ -16493,6 +16505,8 @@
     "663524408",
     "663531588",
     "663533631",
-    "663533852"
+    "663533852",
+    "663534523",
+    "663534704"
   ]
 }
