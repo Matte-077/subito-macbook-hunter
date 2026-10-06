@@ -13115,7 +13115,7 @@
       "last_seen": "2026-10-04 22:39:22"
     },
     "663292404": {
-      "last_price": 200.0,
+      "last_price": 190.0,
       "notified": false,
       "title": "MacBook Pro 13 512GB 2015",
       "last_seen": "2026-10-04 20:09:43"
@@ -13593,6 +13593,12 @@
       "notified": false,
       "title": "Apple Imac 27’ + Macbook Pro",
       "last_seen": "2026-10-06 08:35:06"
+    },
+    "663455390": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "iPad Pro M5 256GB Wi-Fi + Garanzia Danni/Furto",
+      "last_seen": "2026-10-06 09:16:39"
     }
   },
   "seen_ids": [
@@ -16171,6 +16177,7 @@
     "663434284",
     "663446445",
     "663447542",
-    "663451451"
+    "663451451",
+    "663455390"
   ]
 }
