@@ -13581,6 +13581,12 @@
       "notified": false,
       "title": "PC MACBOOK 21.5 CPU i5 RAM 8GB HDD 1TB",
       "last_seen": "2026-10-06 07:17:37"
+    },
+    "663434284": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Macbook Pro, mid 2010, 15 pollici",
+      "last_seen": "2026-10-06 07:42:08"
     }
   },
   "seen_ids": [
@@ -16156,6 +16162,7 @@
     "663427603",
     "663431104",
     "663432755",
+    "663434284",
     "663446445",
     "663447542"
   ]
