@@ -13899,6 +13899,18 @@
       "notified": false,
       "title": "Mac Book Pro 13\"",
       "last_seen": "2026-10-06 20:21:03"
+    },
+    "663554085": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Neo 13 A18 Pro 8Gb/512Gb Touch ID Indaco",
+      "last_seen": "2026-10-06 20:49:43"
+    },
+    "663553271": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "MacBook Pro 13” retina SSD 500 / Ram 8 bat. Nuova",
+      "last_seen": "2026-10-06 20:49:01"
     }
   },
   "seen_ids": [
@@ -16528,6 +16540,8 @@
     "663534704",
     "663549034",
     "663549183",
-    "663550306"
+    "663550306",
+    "663553271",
+    "663554085"
   ]
 }
