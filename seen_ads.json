@@ -13995,6 +13995,12 @@
       "notified": false,
       "title": "Apple MacBook Pro M5 Pro 14” 24GB RAM 2TB SSD",
       "last_seen": "2026-10-06 23:19:43"
+    },
+    "663570131": {
+      "last_price": 530.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" 2019 A2141 i9 32GB 512GB Radeon 4g",
+      "last_seen": "2026-10-06 23:44:45"
     }
   },
   "seen_ids": [
@@ -16640,6 +16646,7 @@
     "663564836",
     "663567519",
     "663567637",
-    "663568405"
+    "663568405",
+    "663570131"
   ]
 }
