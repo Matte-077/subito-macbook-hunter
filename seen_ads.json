@@ -13779,6 +13779,12 @@
       "notified": false,
       "title": "IPAD PRO 11 4TH GEN M2 128GB POLLICI:11 WIFI+CELL",
       "last_seen": "2026-10-06 15:55:54"
+    },
+    "663515784": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "Apple Thunderbolt Display 27\" LCD 2560x1440 16:9",
+      "last_seen": "2026-10-06 16:11:09"
     }
   },
   "seen_ids": [
@@ -16388,6 +16394,7 @@
     "663508812",
     "663511164",
     "663513495",
-    "663513691"
+    "663513691",
+    "663515784"
   ]
 }
