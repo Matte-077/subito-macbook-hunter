@@ -13611,6 +13611,18 @@
       "notified": false,
       "title": "MacBook Pro 13\" 2017 | i5 | 8 GB RAM | 128 GB SSD",
       "last_seen": "2026-10-06 09:31:04"
+    },
+    "663458380": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook pro 14 con 8gb ram  e touchbar",
+      "last_seen": "2026-10-06 09:45:17"
+    },
+    "663459058": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-10-06 09:45:57"
     }
   },
   "seen_ids": [
@@ -16192,6 +16204,8 @@
     "663451451",
     "663455390",
     "663456495",
-    "663457045"
+    "663457045",
+    "663458380",
+    "663459058"
   ]
 }
