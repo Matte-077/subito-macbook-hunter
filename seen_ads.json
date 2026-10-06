@@ -13767,6 +13767,18 @@
       "notified": false,
       "title": "MacBook Pro 2021 14”",
       "last_seen": "2026-10-06 15:40:54"
+    },
+    "663513691": {
+      "last_price": 779.0,
+      "notified": false,
+      "title": "IPAD PRO 12.9 6TH GEN M2 512GB WIFI+CELL",
+      "last_seen": "2026-10-06 15:56:03"
+    },
+    "663513495": {
+      "last_price": 649.0,
+      "notified": false,
+      "title": "IPAD PRO 11 4TH GEN M2 128GB POLLICI:11 WIFI+CELL",
+      "last_seen": "2026-10-06 15:55:54"
     }
   },
   "seen_ids": [
@@ -16374,6 +16386,8 @@
     "663498867",
     "663505604",
     "663508812",
-    "663511164"
+    "663511164",
+    "663513495",
+    "663513691"
   ]
 }
