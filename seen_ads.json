@@ -11747,10 +11747,10 @@
       "last_seen": "2026-10-01 18:07:13"
     },
     "662909476": {
-      "last_price": 200.0,
+      "last_price": 150.0,
       "notified": false,
       "title": "MacBook Pro '13 Display Retina",
-      "last_seen": "2026-10-01 18:07:25"
+      "last_seen": "2026-10-07 00:08:37"
     },
     "662911072": {
       "last_price": 50.0,
@@ -13925,7 +13925,7 @@
       "last_seen": "2026-10-06 21:16:51"
     },
     "663559256": {
-      "last_price": 569.0,
+      "last_price": 549.0,
       "notified": false,
       "title": "iPhone 16 128 Giga Con Garanzia 1 Anno 🔥",
       "last_seen": "2026-10-06 21:45:21"
@@ -14001,6 +14001,18 @@
       "notified": false,
       "title": "MacBook Pro 16\" 2019 A2141 i9 32GB 512GB Radeon 4g",
       "last_seen": "2026-10-06 23:44:45"
+    },
+    "663570583": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "iPhone 16 Pro 128 Giga Con Garanzia 🔥🔥",
+      "last_seen": "2026-10-06 23:56:55"
+    },
+    "663570881": {
+      "last_price": 345.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2019 A2141 – i7 512 gb- No display",
+      "last_seen": "2026-10-07 00:08:56"
     }
   },
   "seen_ids": [
@@ -16647,6 +16659,8 @@
     "663567519",
     "663567637",
     "663568405",
-    "663570131"
+    "663570131",
+    "663570583",
+    "663570881"
   ]
 }
