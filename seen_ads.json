@@ -13971,6 +13971,12 @@
       "notified": false,
       "title": "MacBook Neo 13\" 8/256 GB – Come nuovo, in garanzia",
       "last_seen": "2026-10-06 21:59:15"
+    },
+    "663564836": {
+      "last_price": 790.0,
+      "notified": false,
+      "title": "Apple Macbook Air 15\" M2 512GB 8GB",
+      "last_seen": "2026-10-06 22:27:51"
     }
   },
   "seen_ids": [
@@ -16612,6 +16618,7 @@
     "663560044",
     "663560366",
     "663560749",
-    "663560764"
+    "663560764",
+    "663564836"
   ]
 }
