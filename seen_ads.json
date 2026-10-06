@@ -13881,6 +13881,18 @@
       "notified": false,
       "title": "Macbook Pro 13 2017 display non funzionante",
       "last_seen": "2026-10-06 18:25:47"
+    },
+    "663549183": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "IPhone 14 nero/black 128 giga Apple Store",
+      "last_seen": "2026-10-06 20:07:04"
+    },
+    "663549034": {
+      "last_price": 160.0,
+      "notified": false,
+      "title": "IPhone 12 128 giga green verde",
+      "last_seen": "2026-10-06 20:06:58"
     }
   },
   "seen_ids": [
@@ -16507,6 +16519,8 @@
     "663533631",
     "663533852",
     "663534523",
-    "663534704"
+    "663534704",
+    "663549034",
+    "663549183"
   ]
 }
