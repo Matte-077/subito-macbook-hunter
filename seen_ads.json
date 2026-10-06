@@ -8657,10 +8657,10 @@
       "last_seen": "2026-09-24 23:48:27"
     },
     "662061923": {
-      "last_price": 260.0,
+      "last_price": 249.0,
       "notified": false,
       "title": "Scheda Madre MSI Z890 EDGE TI WIFI Intel 1851",
-      "last_seen": "2026-09-25 06:57:23"
+      "last_seen": "2026-10-06 18:10:10"
     },
     "662066535": {
       "last_price": 25.0,
@@ -13857,6 +13857,18 @@
       "notified": false,
       "title": "MACBOOK PRO 13” 2016 ARGENTO – PERFETTO – €350",
       "last_seen": "2026-10-06 17:57:31"
+    },
+    "663533852": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16’’ 2019 i7 512GB/16GB",
+      "last_seen": "2026-10-06 18:12:27"
+    },
+    "663533631": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "Apple MacBook M2 Pro - 2022 13”",
+      "last_seen": "2026-10-06 18:12:18"
     }
   },
   "seen_ids": [
@@ -16479,6 +16491,8 @@
     "663523066",
     "663523470",
     "663524408",
-    "663531588"
+    "663531588",
+    "663533631",
+    "663533852"
   ]
 }
