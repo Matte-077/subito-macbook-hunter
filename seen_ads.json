@@ -14493,6 +14493,12 @@
       "notified": false,
       "title": "Macbook Pro M2 A2338",
       "last_seen": "2026-10-07 22:28:05"
+    },
+    "663698310": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 15 2018 i7 16GB 256GB - guasto ricambi",
+      "last_seen": "2026-10-07 22:42:21"
     }
   },
   "seen_ids": [
@@ -17221,6 +17227,7 @@
     "663691643",
     "663692804",
     "663696758",
-    "663697226"
+    "663697226",
+    "663698310"
   ]
 }
