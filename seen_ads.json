@@ -14109,6 +14109,18 @@
       "notified": false,
       "title": "Xiaomi ultra e tanto altro",
       "last_seen": "2026-10-07 11:08:23"
+    },
+    "663607512": {
+      "last_price": 750.0,
+      "notified": true,
+      "title": "MacBook Pro M1 Pro 16",
+      "last_seen": "2026-10-07 11:23:41"
+    },
+    "663607691": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Macbook Pro late 2012 SSD 512",
+      "last_seen": "2026-10-07 11:23:50"
     }
   },
   "seen_ids": [
@@ -16773,6 +16785,8 @@
     "663599309",
     "663601324",
     "663606103",
-    "663606622"
+    "663606622",
+    "663607512",
+    "663607691"
   ]
 }
