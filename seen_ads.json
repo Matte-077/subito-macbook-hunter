@@ -13763,10 +13763,10 @@
       "last_seen": "2026-10-06 14:56:47"
     },
     "663511164": {
-      "last_price": 750.0,
-      "notified": false,
-      "title": "MacBook Pro 2021 14”",
-      "last_seen": "2026-10-06 15:40:54"
+      "last_price": 700.0,
+      "notified": true,
+      "title": "MacBook Pro 2021 14” M1",
+      "last_seen": "2026-10-07 08:24:02"
     },
     "663513691": {
       "last_price": 779.0,
@@ -14073,6 +14073,12 @@
       "notified": true,
       "title": "Macbook m1 pro, 16’’, 1 TB",
       "last_seen": "2026-10-07 10:22:49"
+    },
+    "663601324": {
+      "last_price": 1699.0,
+      "notified": false,
+      "title": "MacBook Pro 14 2024 M4 16-512GB usato",
+      "last_seen": "2026-10-07 10:38:08"
     }
   },
   "seen_ids": [
@@ -16731,6 +16737,7 @@
     "663593903",
     "663594868",
     "663598866",
-    "663599309"
+    "663599309",
+    "663601324"
   ]
 }
