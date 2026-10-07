@@ -14043,6 +14043,24 @@
       "notified": false,
       "title": "COPPIA MACBOOK PRO A1502 E A1425",
       "last_seen": "2026-10-07 08:24:47"
+    },
+    "663594868": {
+      "last_price": 2100.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\" M2 Max 64GB 2TB SSD 38-Core",
+      "last_seen": "2026-10-07 09:53:02"
+    },
+    "663593903": {
+      "last_price": 16.0,
+      "notified": false,
+      "title": "Apple scatole macbook pro",
+      "last_seen": "2026-10-07 09:52:15"
+    },
+    "663593575": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro M1",
+      "last_seen": "2026-10-07 09:38:28"
     }
   },
   "seen_ids": [
@@ -16696,6 +16714,9 @@
     "663570881",
     "663574186",
     "663579310",
-    "663585679"
+    "663585679",
+    "663593575",
+    "663593903",
+    "663594868"
   ]
 }
