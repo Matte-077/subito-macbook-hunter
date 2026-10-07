@@ -14463,6 +14463,24 @@
       "notified": false,
       "title": "MacBook Pro 16\"",
       "last_seen": "2026-10-07 20:39:36"
+    },
+    "663691643": {
+      "last_price": 1100.0,
+      "notified": false,
+      "title": "Macbook pro 14” novembre 2023",
+      "last_seen": "2026-10-07 21:30:45"
+    },
+    "663692804": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro M2 8/256 Grigio Siderale",
+      "last_seen": "2026-10-07 21:38:28"
+    },
+    "663690367": {
+      "last_price": 179.0,
+      "notified": false,
+      "title": "MacBook Pro Retina 15” Mid 2012 i7 8GB SSD 256GB",
+      "last_seen": "2026-10-07 21:23:12"
     }
   },
   "seen_ids": [
@@ -17186,6 +17204,9 @@
     "663685071",
     "663685250",
     "663685909",
-    "663686387"
+    "663686387",
+    "663690367",
+    "663691643",
+    "663692804"
   ]
 }
