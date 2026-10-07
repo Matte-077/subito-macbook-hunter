@@ -14481,6 +14481,18 @@
       "notified": false,
       "title": "MacBook Pro Retina 15” Mid 2012 i7 8GB SSD 256GB",
       "last_seen": "2026-10-07 21:23:12"
+    },
+    "663696758": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "Lenovo V14 - 256 gb SSD",
+      "last_seen": "2026-10-07 22:21:15"
+    },
+    "663697226": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook Pro M2 A2338",
+      "last_seen": "2026-10-07 22:28:05"
     }
   },
   "seen_ids": [
@@ -17207,6 +17219,8 @@
     "663686387",
     "663690367",
     "663691643",
-    "663692804"
+    "663692804",
+    "663696758",
+    "663697226"
   ]
 }
