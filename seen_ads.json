@@ -14169,6 +14169,24 @@
       "notified": false,
       "title": "POCO X6 PRO 5G 512GB (12 ram)",
       "last_seen": "2026-10-07 13:10:11"
+    },
+    "663625587": {
+      "last_price": 360.0,
+      "notified": false,
+      "title": "Macbook pro 2019",
+      "last_seen": "2026-10-07 13:24:35"
+    },
+    "663625210": {
+      "last_price": 360.0,
+      "notified": false,
+      "title": "Macbook pro 2019",
+      "last_seen": "2026-10-07 13:24:10"
+    },
+    "663624725": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "macbook pro processore i7 16gb di ram, 1 tb di hd",
+      "last_seen": "2026-10-07 13:23:43"
     }
   },
   "seen_ids": [
@@ -16843,6 +16861,9 @@
     "663619254",
     "663621556",
     "663621871",
-    "663624244"
+    "663624244",
+    "663624725",
+    "663625210",
+    "663625587"
   ]
 }
