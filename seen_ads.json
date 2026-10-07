@@ -13973,7 +13973,7 @@
       "last_seen": "2026-10-06 21:59:15"
     },
     "663564836": {
-      "last_price": 790.0,
+      "last_price": 750.0,
       "notified": false,
       "title": "Apple Macbook Air 15\" M2 512GB 8GB",
       "last_seen": "2026-10-06 22:27:51"
@@ -14385,6 +14385,18 @@
       "notified": false,
       "title": "Oppo Find N5 Fold - Come Nuovo / Perfetto - Garanz",
       "last_seen": "2026-10-07 17:32:30"
+    },
+    "663674079": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 16 m1 anno 2022 63 cicli nuovo complet",
+      "last_seen": "2026-10-07 18:56:58"
+    },
+    "663672496": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" 2021 M1 Pro 16GB 1TB SSD | Ottime",
+      "last_seen": "2026-10-07 18:42:22"
     }
   },
   "seen_ids": [
@@ -17095,6 +17107,8 @@
     "663659507",
     "663659773",
     "663661196",
-    "663662524"
+    "663662524",
+    "663672496",
+    "663674079"
   ]
 }
