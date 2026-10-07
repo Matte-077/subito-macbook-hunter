@@ -14037,6 +14037,12 @@
       "notified": false,
       "title": "Macbook  pro 14  chip M4  256 GB",
       "last_seen": "2026-10-07 04:44:18"
+    },
+    "663585679": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "COPPIA MACBOOK PRO A1502 E A1425",
+      "last_seen": "2026-10-07 08:24:47"
     }
   },
   "seen_ids": [
@@ -16689,6 +16695,7 @@
     "663570858",
     "663570881",
     "663574186",
-    "663579310"
+    "663579310",
+    "663585679"
   ]
 }
