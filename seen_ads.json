@@ -14151,6 +14151,24 @@
       "notified": false,
       "title": "NUOVA Samsung 9100 PRO 2Tera  + GARANZIA 5 Anni",
       "last_seen": "2026-10-07 12:54:19"
+    },
+    "663624244": {
+      "last_price": 1150.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M3 8/512, AppleCare+ 04/28",
+      "last_seen": "2026-10-07 13:10:01"
+    },
+    "663621871": {
+      "last_price": 179.0,
+      "notified": false,
+      "title": "POCO X6 PRO 5G  512 gb",
+      "last_seen": "2026-10-07 13:10:12"
+    },
+    "663614124": {
+      "last_price": 179.0,
+      "notified": false,
+      "title": "POCO X6 PRO 5G 512GB (12 ram)",
+      "last_seen": "2026-10-07 13:10:11"
     }
   },
   "seen_ids": [
@@ -16821,7 +16839,10 @@
     "663610653",
     "663613409",
     "663613884",
+    "663614124",
     "663619254",
-    "663621556"
+    "663621556",
+    "663621871",
+    "663624244"
   ]
 }
