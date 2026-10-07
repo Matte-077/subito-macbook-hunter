@@ -14031,6 +14031,12 @@
       "notified": false,
       "title": "Macbook pro 14” M3 8gb Ram 512gb Ssd",
       "last_seen": "2026-10-07 02:08:19"
+    },
+    "663579310": {
+      "last_price": 1399.0,
+      "notified": false,
+      "title": "Macbook  pro 14  chip M4  256 GB",
+      "last_seen": "2026-10-07 04:44:18"
     }
   },
   "seen_ids": [
@@ -16682,6 +16688,7 @@
     "663570744",
     "663570858",
     "663570881",
-    "663574186"
+    "663574186",
+    "663579310"
   ]
 }
