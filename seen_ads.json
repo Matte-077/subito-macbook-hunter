@@ -14265,6 +14265,24 @@
       "notified": false,
       "title": "MacBook Pro 13” 2016 | i5 2.0 GHz | 8GB RAM |Apple",
       "last_seen": "2026-10-07 15:43:47"
+    },
+    "663647709": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2019 | Intel Core i9 | 32 GB RAM",
+      "last_seen": "2026-10-07 16:00:18"
+    },
+    "663647619": {
+      "last_price": 379.0,
+      "notified": false,
+      "title": "APPLE MacBook Pro 2019 i7 16 GB SSD 512 GB Radeon",
+      "last_seen": "2026-10-07 16:00:15"
+    },
+    "663646616": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2019 | Intel Core i9 | 32 GB RAM",
+      "last_seen": "2026-10-07 15:59:41"
     }
   },
   "seen_ids": [
@@ -16955,6 +16973,9 @@
     "663642491",
     "663643751",
     "663644731",
-    "663645254"
+    "663645254",
+    "663646616",
+    "663647619",
+    "663647709"
   ]
 }
