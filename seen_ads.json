@@ -14193,6 +14193,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 16\" M3 Max",
       "last_seen": "2026-10-07 13:36:06"
+    },
+    "663631078": {
+      "last_price": 439.0,
+      "notified": false,
+      "title": "MacBook Pro 15” Touch Bar i7 -16/512GB- Batt. 90%",
+      "last_seen": "2026-10-07 14:05:37"
     }
   },
   "seen_ids": [
@@ -16871,6 +16877,7 @@
     "663624725",
     "663625210",
     "663625587",
-    "663627809"
+    "663627809",
+    "663631078"
   ]
 }
