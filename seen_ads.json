@@ -14373,6 +14373,18 @@
       "notified": false,
       "title": "Macbook Pro 15 Retina 2013 i7 - schermo rotto",
       "last_seen": "2026-10-07 17:03:09"
+    },
+    "663662524": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M4 Pro 48GB 1TB",
+      "last_seen": "2026-10-07 17:40:25"
+    },
+    "663661196": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "Oppo Find N5 Fold - Come Nuovo / Perfetto - Garanz",
+      "last_seen": "2026-10-07 17:32:30"
     }
   },
   "seen_ids": [
@@ -17081,6 +17093,8 @@
     "663657635",
     "663658632",
     "663659507",
-    "663659773"
+    "663659773",
+    "663661196",
+    "663662524"
   ]
 }
