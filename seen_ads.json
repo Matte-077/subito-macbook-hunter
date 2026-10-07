@@ -14499,6 +14499,18 @@
       "notified": false,
       "title": "MacBook Pro 15 2018 i7 16GB 256GB - guasto ricambi",
       "last_seen": "2026-10-07 22:42:21"
+    },
+    "663699872": {
+      "last_price": 30.0,
+      "notified": false,
+      "title": "macbook pro 15 pollici 2010 leggere bene",
+      "last_seen": "2026-10-07 23:03:51"
+    },
+    "663697490": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 13",
+      "last_seen": "2026-10-07 22:28:18"
     }
   },
   "seen_ids": [
@@ -17228,6 +17240,8 @@
     "663692804",
     "663696758",
     "663697226",
-    "663698310"
+    "663697490",
+    "663698310",
+    "663699872"
   ]
 }
