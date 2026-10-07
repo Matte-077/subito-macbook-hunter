@@ -14061,6 +14061,18 @@
       "notified": false,
       "title": "MacBook Pro M1",
       "last_seen": "2026-10-07 09:38:28"
+    },
+    "663599309": {
+      "last_price": 1549.0,
+      "notified": false,
+      "title": "MACBOOK 14\" M3 PRO 18GB/512GB - USATO GARANTITO",
+      "last_seen": "2026-10-07 10:23:12"
+    },
+    "663598866": {
+      "last_price": 740.0,
+      "notified": true,
+      "title": "Macbook m1 pro, 16’’, 1 TB",
+      "last_seen": "2026-10-07 10:22:49"
     }
   },
   "seen_ids": [
@@ -16717,6 +16729,8 @@
     "663585679",
     "663593575",
     "663593903",
-    "663594868"
+    "663594868",
+    "663598866",
+    "663599309"
   ]
 }
