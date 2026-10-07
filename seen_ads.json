@@ -14415,6 +14415,24 @@
       "notified": false,
       "title": "MacBook Pro 13 M2 2022 8GB 256GB Touch Bar",
       "last_seen": "2026-10-07 19:26:31"
+    },
+    "663681250": {
+      "last_price": 160.0,
+      "notified": false,
+      "title": "IPhone 12 128 gb green verde",
+      "last_seen": "2026-10-07 19:55:38"
+    },
+    "663681184": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "IPhone 14 black 128 gb Ricevuta Apple Store",
+      "last_seen": "2026-10-07 19:55:36"
+    },
+    "663680411": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 2020 – 8GB RAM / 512GB SSD – Co",
+      "last_seen": "2026-10-07 19:48:01"
     }
   },
   "seen_ids": [
@@ -17130,6 +17148,9 @@
     "663674079",
     "663676210",
     "663676609",
-    "663678425"
+    "663678425",
+    "663680411",
+    "663681184",
+    "663681250"
   ]
 }
