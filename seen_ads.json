@@ -14079,6 +14079,36 @@
       "notified": false,
       "title": "MacBook Pro 14 2024 M4 16-512GB usato",
       "last_seen": "2026-10-07 10:38:08"
+    },
+    "663598855": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "Dell pro 14 mod 14250",
+      "last_seen": "2026-10-07 11:08:24"
+    },
+    "663606103": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "Macbook Pro 15” i7 6-Core 16 GB RAM",
+      "last_seen": "2026-10-07 11:09:01"
+    },
+    "663598657": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "Pencil pro",
+      "last_seen": "2026-10-07 11:08:24"
+    },
+    "663606622": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "MacBook Pro 15’’ A1286 per ricambi",
+      "last_seen": "2026-10-07 11:09:25"
+    },
+    "663597888": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "Xiaomi ultra e tanto altro",
+      "last_seen": "2026-10-07 11:08:23"
     }
   },
   "seen_ids": [
@@ -16736,8 +16766,13 @@
     "663593575",
     "663593903",
     "663594868",
+    "663597888",
+    "663598657",
+    "663598855",
     "663598866",
     "663599309",
-    "663601324"
+    "663601324",
+    "663606103",
+    "663606622"
   ]
 }
