@@ -14283,6 +14283,36 @@
       "notified": false,
       "title": "MacBook Pro 16” 2019 | Intel Core i9 | 32 GB RAM",
       "last_seen": "2026-10-07 15:59:41"
+    },
+    "663653412": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M2 MAX 32Gb RAM",
+      "last_seen": "2026-10-07 16:32:56"
+    },
+    "663651413": {
+      "last_price": 1000.0,
+      "notified": true,
+      "title": "Macbook M3 pro 18GB 1TB",
+      "last_seen": "2026-10-07 16:17:02"
+    },
+    "663654392": {
+      "last_price": 370.0,
+      "notified": false,
+      "title": "MacBook Pro 16” touchbar",
+      "last_seen": "2026-10-07 16:40:26"
+    },
+    "663652467": {
+      "last_price": 1450.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M2 Pro 12/19 core - 16GB/512GB",
+      "last_seen": "2026-10-07 16:32:15"
+    },
+    "663654634": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "Macbook Pro 13” Intel Core i5, 16GB Ram, 1TB Ssd",
+      "last_seen": "2026-10-07 16:40:35"
     }
   },
   "seen_ids": [
@@ -16976,6 +17006,11 @@
     "663645254",
     "663646616",
     "663647619",
-    "663647709"
+    "663647709",
+    "663651413",
+    "663652467",
+    "663653412",
+    "663654392",
+    "663654634"
   ]
 }
