@@ -14187,6 +14187,12 @@
       "notified": false,
       "title": "macbook pro processore i7 16gb di ram, 1 tb di hd",
       "last_seen": "2026-10-07 13:23:43"
+    },
+    "663627809": {
+      "last_price": 4300.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\" M3 Max",
+      "last_seen": "2026-10-07 13:36:06"
     }
   },
   "seen_ids": [
@@ -16864,6 +16870,7 @@
     "663624244",
     "663624725",
     "663625210",
-    "663625587"
+    "663625587",
+    "663627809"
   ]
 }
