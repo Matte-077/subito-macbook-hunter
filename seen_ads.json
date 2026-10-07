@@ -14199,6 +14199,24 @@
       "notified": false,
       "title": "MacBook Pro 15” Touch Bar i7 -16/512GB- Batt. 90%",
       "last_seen": "2026-10-07 14:05:37"
+    },
+    "663632892": {
+      "last_price": 380.0,
+      "notified": false,
+      "title": "MacBook Pro 2020 16ram",
+      "last_seen": "2026-10-07 14:21:23"
+    },
+    "663632797": {
+      "last_price": 470.0,
+      "notified": false,
+      "title": "MacBook Pro 16”",
+      "last_seen": "2026-10-07 14:16:13"
+    },
+    "663635039": {
+      "last_price": 320.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2019 i5 - 8GB - 128GB",
+      "last_seen": "2026-10-07 14:39:33"
     }
   },
   "seen_ids": [
@@ -16878,6 +16896,9 @@
     "663625210",
     "663625587",
     "663627809",
-    "663631078"
+    "663631078",
+    "663632797",
+    "663632892",
+    "663635039"
   ]
 }
