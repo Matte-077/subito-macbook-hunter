@@ -14393,9 +14393,9 @@
       "last_seen": "2026-10-07 18:56:58"
     },
     "663672496": {
-      "last_price": 950.0,
+      "last_price": 900.0,
       "notified": false,
-      "title": "MacBook Pro 16\" 2021 M1 Pro 16GB 1TB SSD | Ottime",
+      "title": "MacBook Pro 14\" 2021 M1 Pro 16GB 1TB SSD | Ottime",
       "last_seen": "2026-10-07 18:42:22"
     },
     "663676210": {
@@ -14433,6 +14433,24 @@
       "notified": false,
       "title": "MacBook Pro 13” M1 2020 – 8GB RAM / 512GB SSD – Co",
       "last_seen": "2026-10-07 19:48:01"
+    },
+    "663685071": {
+      "last_price": 530.0,
+      "notified": false,
+      "title": "MacBook Pro 13” Apple M1 - Anno 2020 Perfetto",
+      "last_seen": "2026-10-07 20:32:24"
+    },
+    "663685250": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Neo 13'' A18  8Gb/512Gb TouchID Giallo",
+      "last_seen": "2026-10-07 20:32:34"
+    },
+    "663683580": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook Apple pro",
+      "last_seen": "2026-10-07 20:17:51"
     }
   },
   "seen_ids": [
@@ -17151,6 +17169,9 @@
     "663678425",
     "663680411",
     "663681184",
-    "663681250"
+    "663681250",
+    "663683580",
+    "663685071",
+    "663685250"
   ]
 }
