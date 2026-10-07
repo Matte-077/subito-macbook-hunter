@@ -14139,6 +14139,18 @@
       "notified": false,
       "title": "MacBook Pro 13” 2019 touchbar-i5-4 thunderbolt",
       "last_seen": "2026-10-07 11:39:30"
+    },
+    "663619254": {
+      "last_price": 1699.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2023 M2 Pro 16-1TB usato",
+      "last_seen": "2026-10-07 12:39:54"
+    },
+    "663621556": {
+      "last_price": 255.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 2Tera  + GARANZIA 5 Anni",
+      "last_seen": "2026-10-07 12:54:19"
     }
   },
   "seen_ids": [
@@ -16808,6 +16820,8 @@
     "663607691",
     "663610653",
     "663613409",
-    "663613884"
+    "663613884",
+    "663619254",
+    "663621556"
   ]
 }
