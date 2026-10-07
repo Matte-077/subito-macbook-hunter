@@ -14241,6 +14241,30 @@
       "notified": true,
       "title": "MacBook Pro 2021 14”",
       "last_seen": "2026-10-07 15:04:15"
+    },
+    "663642491": {
+      "last_price": 2569.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M4 Pro RAM 24Gb, SSD 512GB Ex-Nuov",
+      "last_seen": "2026-10-07 15:35:45"
+    },
+    "663645254": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatile",
+      "last_seen": "2026-10-07 15:51:52"
+    },
+    "663644731": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 2015 i5 GB BATTERIA RAM 8 GB",
+      "last_seen": "2026-10-07 15:51:35"
+    },
+    "663643751": {
+      "last_price": 259.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2016 | i5 2.0 GHz | 8GB RAM |Apple",
+      "last_seen": "2026-10-07 15:43:47"
     }
   },
   "seen_ids": [
@@ -16927,6 +16951,10 @@
     "663635401",
     "663636193",
     "663637624",
-    "663638066"
+    "663638066",
+    "663642491",
+    "663643751",
+    "663644731",
+    "663645254"
   ]
 }
