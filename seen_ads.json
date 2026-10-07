@@ -14511,6 +14511,12 @@
       "notified": false,
       "title": "Apple MacBook Neo 13",
       "last_seen": "2026-10-07 22:28:18"
+    },
+    "663700877": {
+      "last_price": 135.0,
+      "notified": false,
+      "title": "Macbook Pro 13,3 pollici modello A2338",
+      "last_seen": "2026-10-07 23:18:00"
     }
   },
   "seen_ids": [
@@ -17242,6 +17248,7 @@
     "663697226",
     "663697490",
     "663698310",
-    "663699872"
+    "663699872",
+    "663700877"
   ]
 }
