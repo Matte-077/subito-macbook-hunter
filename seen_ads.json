@@ -14217,6 +14217,30 @@
       "notified": false,
       "title": "MacBook Pro 13\" 2019 i5 - 8GB - 128GB",
       "last_seen": "2026-10-07 14:39:33"
+    },
+    "663636193": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M1 2020 – 16GB RAM – 256GB SSD",
+      "last_seen": "2026-10-07 14:54:19"
+    },
+    "663635401": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "Macbook PRO 2019 16” A2141",
+      "last_seen": "2026-10-07 14:46:42"
+    },
+    "663637624": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook pro 2011 i7",
+      "last_seen": "2026-10-07 15:03:56"
+    },
+    "663638066": {
+      "last_price": 700.0,
+      "notified": true,
+      "title": "MacBook Pro 2021 14”",
+      "last_seen": "2026-10-07 15:04:15"
     }
   },
   "seen_ids": [
@@ -16899,6 +16923,10 @@
     "663631078",
     "663632797",
     "663632892",
-    "663635039"
+    "663635039",
+    "663635401",
+    "663636193",
+    "663637624",
+    "663638066"
   ]
 }
