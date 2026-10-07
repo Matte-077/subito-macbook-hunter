@@ -11567,10 +11567,10 @@
       "last_seen": "2026-10-01 10:57:50"
     },
     "662856528": {
-      "last_price": 1800.0,
+      "last_price": 1700.0,
       "notified": false,
       "title": "MacBook PRO M1 16pollici POTENZIATO",
-      "last_seen": "2026-10-01 12:01:24"
+      "last_seen": "2026-10-06 12:21:02"
     },
     "662857172": {
       "last_price": 1210.0,
@@ -14121,6 +14121,24 @@
       "notified": false,
       "title": "Macbook Pro late 2012 SSD 512",
       "last_seen": "2026-10-07 11:23:50"
+    },
+    "663613884": {
+      "last_price": 799.0,
+      "notified": false,
+      "title": "Apple iPhone 16 pro max 256 titanium natural",
+      "last_seen": "2026-10-07 11:55:44"
+    },
+    "663613409": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "MacBook Pro 13\"",
+      "last_seen": "2026-10-07 11:55:19"
+    },
+    "663610653": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2019 touchbar-i5-4 thunderbolt",
+      "last_seen": "2026-10-07 11:39:30"
     }
   },
   "seen_ids": [
@@ -16787,6 +16805,9 @@
     "663606103",
     "663606622",
     "663607512",
-    "663607691"
+    "663607691",
+    "663610653",
+    "663613409",
+    "663613884"
   ]
 }
