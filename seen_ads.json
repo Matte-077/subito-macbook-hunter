@@ -13553,10 +13553,10 @@
       "last_seen": "2026-10-05 20:30:41"
     },
     "663432755": {
-      "last_price": 1400.0,
+      "last_price": 1300.0,
       "notified": false,
       "title": "MacBook Pro 16\" (2021) – M1 Max / 32GB / 1TB",
-      "last_seen": "2026-10-05 22:48:03"
+      "last_seen": "2026-10-07 07:56:57"
     },
     "663431104": {
       "last_price": 500.0,
@@ -14451,6 +14451,18 @@
       "notified": false,
       "title": "MacBook Apple pro",
       "last_seen": "2026-10-07 20:17:51"
+    },
+    "663686387": {
+      "last_price": 559.0,
+      "notified": false,
+      "title": "iPhone 16 128 Pari al Nuovo 🔥",
+      "last_seen": "2026-10-07 20:46:56"
+    },
+    "663685909": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook Pro 16\"",
+      "last_seen": "2026-10-07 20:39:36"
     }
   },
   "seen_ids": [
@@ -17172,6 +17184,8 @@
     "663681250",
     "663683580",
     "663685071",
-    "663685250"
+    "663685250",
+    "663685909",
+    "663686387"
   ]
 }
