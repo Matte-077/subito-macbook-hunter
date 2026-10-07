@@ -14025,6 +14025,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 16 pollici M4 Pro 24GB",
       "last_seen": "2026-10-07 00:08:55"
+    },
+    "663574186": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "Macbook pro 14” M3 8gb Ram 512gb Ssd",
+      "last_seen": "2026-10-07 02:08:19"
     }
   },
   "seen_ids": [
@@ -16675,6 +16681,7 @@
     "663570583",
     "663570744",
     "663570858",
-    "663570881"
+    "663570881",
+    "663574186"
   ]
 }
