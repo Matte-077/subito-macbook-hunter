@@ -14397,6 +14397,24 @@
       "notified": false,
       "title": "MacBook Pro 16\" 2021 M1 Pro 16GB 1TB SSD | Ottime",
       "last_seen": "2026-10-07 18:42:22"
+    },
+    "663676210": {
+      "last_price": 25.0,
+      "notified": false,
+      "title": "Borsa PC Tucano Dritta Slim Bag 14\" - NUOVA",
+      "last_seen": "2026-10-07 19:11:50"
+    },
+    "663676609": {
+      "last_price": 889.0,
+      "notified": false,
+      "title": "IPHONE 16 PRO MAX 256GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-10-07 19:12:07"
+    },
+    "663678425": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 13 M2 2022 8GB 256GB Touch Bar",
+      "last_seen": "2026-10-07 19:26:31"
     }
   },
   "seen_ids": [
@@ -17109,6 +17127,9 @@
     "663661196",
     "663662524",
     "663672496",
-    "663674079"
+    "663674079",
+    "663676210",
+    "663676609",
+    "663678425"
   ]
 }
