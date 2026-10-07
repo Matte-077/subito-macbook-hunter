@@ -14313,6 +14313,36 @@
       "notified": false,
       "title": "Macbook Pro 13” Intel Core i5, 16GB Ram, 1TB Ssd",
       "last_seen": "2026-10-07 16:40:35"
+    },
+    "663656390": {
+      "last_price": 1700.0,
+      "notified": false,
+      "title": "MacBook Pro 14 m4",
+      "last_seen": "2026-10-07 16:55:24"
+    },
+    "663655500": {
+      "last_price": 2199.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M3 Pro RAM 36Gb, SSD 1Tb Ex-Demo",
+      "last_seen": "2026-10-07 16:47:57"
+    },
+    "663656577": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "Macbook pro 2022 m2 16gb/512gb",
+      "last_seen": "2026-10-07 16:55:32"
+    },
+    "663656144": {
+      "last_price": 280.0,
+      "notified": false,
+      "title": "Macbook Pro 15 2013 Quad Core i7 2.3GHz 512GB 16GB",
+      "last_seen": "2026-10-07 16:55:15"
+    },
+    "663655912": {
+      "last_price": 160.0,
+      "notified": false,
+      "title": "Macbook pro 13 inizio 2015",
+      "last_seen": "2026-10-07 16:48:13"
     }
   },
   "seen_ids": [
@@ -17011,6 +17041,11 @@
     "663652467",
     "663653412",
     "663654392",
-    "663654634"
+    "663654634",
+    "663655500",
+    "663655912",
+    "663656144",
+    "663656390",
+    "663656577"
   ]
 }
