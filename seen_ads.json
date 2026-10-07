@@ -14343,6 +14343,36 @@
       "notified": false,
       "title": "Macbook pro 13 inizio 2015",
       "last_seen": "2026-10-07 16:48:13"
+    },
+    "663658632": {
+      "last_price": 2199.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 16/ 1TB - NUOVO SIGILLATO",
+      "last_seen": "2026-10-07 17:10:47"
+    },
+    "663657247": {
+      "last_price": 980.0,
+      "notified": false,
+      "title": "Macbook Pro M3 14”",
+      "last_seen": "2026-10-07 17:02:46"
+    },
+    "663659773": {
+      "last_price": 255.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-10-07 17:17:58"
+    },
+    "663659507": {
+      "last_price": 155.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 1TB  + 5 Anni Garanzia",
+      "last_seen": "2026-10-07 17:17:47"
+    },
+    "663657635": {
+      "last_price": 109.0,
+      "notified": false,
+      "title": "Macbook Pro 15 Retina 2013 i7 - schermo rotto",
+      "last_seen": "2026-10-07 17:03:09"
     }
   },
   "seen_ids": [
@@ -17046,6 +17076,11 @@
     "663655912",
     "663656144",
     "663656390",
-    "663656577"
+    "663656577",
+    "663657247",
+    "663657635",
+    "663658632",
+    "663659507",
+    "663659773"
   ]
 }
