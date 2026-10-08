@@ -14757,6 +14757,12 @@
       "notified": false,
       "title": "USB Upgrade a macOS Monterey",
       "last_seen": "2026-10-08 14:49:11"
+    },
+    "663769581": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Pro M1 2020",
+      "last_seen": "2026-10-08 15:28:52"
     }
   },
   "seen_ids": [
@@ -17529,6 +17535,7 @@
     "663765192",
     "663765298",
     "663765691",
-    "663766399"
+    "663766399",
+    "663769581"
   ]
 }
