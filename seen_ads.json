@@ -11951,10 +11951,10 @@
       "last_seen": "2026-10-02 10:43:49"
     },
     "662975320": {
-      "last_price": 750.0,
+      "last_price": 700.0,
       "notified": false,
-      "title": "Apple Macbook Air M2 8gb ram 256 gb ssd 15 pollici",
-      "last_seen": "2026-10-05 20:16:22"
+      "title": "Apple Macbook Air M2  15” 8gb ram 256 gb ssd",
+      "last_seen": "2026-10-07 20:10:05"
     },
     "662978273": {
       "last_price": 5.0,
@@ -14627,7 +14627,7 @@
       "last_seen": "2026-10-08 10:49:47"
     },
     "663734598": {
-      "last_price": 1850.0,
+      "last_price": 1950.0,
       "notified": false,
       "title": "Apple MacBook Pro 16” M1 Max 10/32 64GB 1TB",
       "last_seen": "2026-10-08 11:12:16"
@@ -14817,6 +14817,90 @@
       "notified": true,
       "title": "Apple MacBook pro m1 pro 16gb RAM, 512gb disco",
       "last_seen": "2026-10-08 16:08:40"
+    },
+    "663786248": {
+      "last_price": 2600.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M5 Pro 14” 24GB RAM 2TB SSD",
+      "last_seen": "2026-10-08 17:07:50"
+    },
+    "663808074": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" (2019) – i9 / 32GB RAM / 1TB S",
+      "last_seen": "2026-10-08 21:01:00"
+    },
+    "663812114": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15” rètina SSD 250/ram 16 Mid 2014",
+      "last_seen": "2026-10-08 20:49:55"
+    },
+    "663808664": {
+      "last_price": 1990.0,
+      "notified": false,
+      "title": "MacBook Pro M5 Pro - RAM 24, SSD 1, CPU 15, GPU 16",
+      "last_seen": "2026-10-08 20:06:08"
+    },
+    "663807864": {
+      "last_price": 1579.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M1 Max 32GB 1TB • Pari al Nuovo",
+      "last_seen": "2026-10-08 19:59:54"
+    },
+    "663806456": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "MacBook Pro Retina 15\" i7 16GB SSD 500GB",
+      "last_seen": "2026-10-08 19:45:41"
+    },
+    "663799875": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 15” 2016 – i7 – 16 GB RAM – SSD 1 TB",
+      "last_seen": "2026-10-08 18:54:44"
+    },
+    "663793019": {
+      "last_price": 1450.0,
+      "notified": false,
+      "title": "MacBook Pro M4 16/512",
+      "last_seen": "2026-10-08 17:50:48"
+    },
+    "663792880": {
+      "last_price": 2200.0,
+      "notified": false,
+      "title": "Macbook pro m4 Pro 16” 24gb ram 512ssd",
+      "last_seen": "2026-10-08 17:50:43"
+    },
+    "663779995": {
+      "last_price": 1699.0,
+      "notified": false,
+      "title": "MSI Stealth A16 AI+ RTX 4070",
+      "last_seen": "2026-10-08 16:29:05"
+    },
+    "663796818": {
+      "last_price": 430.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 8GB/256GB",
+      "last_seen": "2026-10-08 18:22:35"
+    },
+    "663785285": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "Apple macbook Pro M1",
+      "last_seen": "2026-10-08 16:57:07"
+    },
+    "663799017": {
+      "last_price": 299.0,
+      "notified": false,
+      "title": "Macbook Pro 15\" intel i7, ram 16gb, ssd 512gb",
+      "last_seen": "2026-10-08 18:42:26"
+    },
+    "663808460": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Apple Macbook Pro Intel 13\" 2020",
+      "last_seen": "2026-10-08 20:02:37"
     }
   },
   "seen_ids": [
@@ -17599,6 +17683,20 @@
     "663774337",
     "663774529",
     "663777578",
-    "663778044"
+    "663778044",
+    "663779995",
+    "663785285",
+    "663786248",
+    "663792880",
+    "663793019",
+    "663796818",
+    "663799017",
+    "663799875",
+    "663806456",
+    "663807864",
+    "663808074",
+    "663808460",
+    "663808664",
+    "663812114"
   ]
 }
