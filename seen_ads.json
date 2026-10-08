@@ -14501,7 +14501,7 @@
       "last_seen": "2026-10-07 22:42:21"
     },
     "663699872": {
-      "last_price": 25.0,
+      "last_price": 20.0,
       "notified": false,
       "title": "macbook pro 15 pollici 2010 leggere bene",
       "last_seen": "2026-10-07 23:03:51"
@@ -14763,6 +14763,48 @@
       "notified": false,
       "title": "MacBook Pro M1 2020",
       "last_seen": "2026-10-08 15:28:52"
+    },
+    "663774104": {
+      "last_price": 6699.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3 Max 128GB Ram 8TB Ssd 40Core GPU",
+      "last_seen": "2026-10-08 15:52:14"
+    },
+    "663773320": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "MacBook Pro 15 Intel Core I7 16/512 Radeon Pro 4GB",
+      "last_seen": "2026-10-08 15:51:20"
+    },
+    "663772915": {
+      "last_price": 750.0,
+      "notified": true,
+      "title": "MacBook Pro M1 Pro 16 pollici",
+      "last_seen": "2026-10-08 15:50:53"
+    },
+    "663774337": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2017 | 256GB SSD",
+      "last_seen": "2026-10-08 15:52:34"
+    },
+    "663773137": {
+      "last_price": 240.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" (2017) 128gb con batteria nuova",
+      "last_seen": "2026-10-08 15:51:07"
+    },
+    "663772704": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” 2017 | 256GB SSD | 8GB RAM",
+      "last_seen": "2026-10-08 15:50:41"
+    },
+    "663774529": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Macbook Pro 13”",
+      "last_seen": "2026-10-08 15:52:47"
     }
   },
   "seen_ids": [
@@ -17536,6 +17578,13 @@
     "663765298",
     "663765691",
     "663766399",
-    "663769581"
+    "663769581",
+    "663772704",
+    "663772915",
+    "663773137",
+    "663773320",
+    "663774104",
+    "663774337",
+    "663774529"
   ]
 }
