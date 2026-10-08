@@ -14613,6 +14613,18 @@
       "notified": false,
       "title": "NUOVA Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
       "last_seen": "2026-10-08 10:28:30"
+    },
+    "663731494": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Power Bank, Piccolo 20000mAh Alta Capacità USB-C P",
+      "last_seen": "2026-10-08 10:50:13"
+    },
+    "663731051": {
+      "last_price": 270.0,
+      "notified": false,
+      "title": "Macbook Pro 15. 2015",
+      "last_seen": "2026-10-08 10:49:47"
     }
   },
   "seen_ids": [
@@ -17361,6 +17373,8 @@
     "663727768",
     "663727905",
     "663728010",
-    "663728043"
+    "663728043",
+    "663731051",
+    "663731494"
   ]
 }
