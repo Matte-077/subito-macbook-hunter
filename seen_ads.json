@@ -14529,6 +14529,30 @@
       "notified": false,
       "title": "Macbook Pro",
       "last_seen": "2026-10-08 06:43:00"
+    },
+    "663717533": {
+      "last_price": 2390.0,
+      "notified": false,
+      "title": "Macbook Pro M3 Max 16\" 2023",
+      "last_seen": "2026-10-08 08:45:59"
+    },
+    "663715757": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M2 2022, 8 gb, 512 gb",
+      "last_seen": "2026-10-08 08:27:10"
+    },
+    "663717126": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "MacBook Pro 17” (2011) - Intel i7",
+      "last_seen": "2026-10-08 08:45:37"
+    },
+    "663716791": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "Macbook pro 13 256gb 2020",
+      "last_seen": "2026-10-08 08:45:15"
     }
   },
   "seen_ids": [
@@ -17263,6 +17287,10 @@
     "663699872",
     "663700877",
     "663710564",
-    "663711002"
+    "663711002",
+    "663715757",
+    "663716791",
+    "663717126",
+    "663717533"
   ]
 }
