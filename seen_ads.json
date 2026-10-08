@@ -14517,6 +14517,12 @@
       "notified": false,
       "title": "Macbook Pro 13,3 pollici modello A2338",
       "last_seen": "2026-10-07 23:18:00"
+    },
+    "663710564": {
+      "last_price": 2150.0,
+      "notified": false,
+      "title": "MacBook Pro con chip M4 Pro 16 pollici!come nuovo!",
+      "last_seen": "2026-10-08 06:26:36"
     }
   },
   "seen_ids": [
@@ -17249,6 +17255,7 @@
     "663697490",
     "663698310",
     "663699872",
-    "663700877"
+    "663700877",
+    "663710564"
   ]
 }
