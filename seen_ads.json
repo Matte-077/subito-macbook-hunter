@@ -14703,6 +14703,12 @@
       "notified": false,
       "title": "SSD 512GB Originale per MacBook Pro 13\" A1708",
       "last_seen": "2026-10-08 13:23:04"
+    },
+    "663755956": {
+      "last_price": 1450.0,
+      "notified": false,
+      "title": "MacBook Pro 14” con chip M5",
+      "last_seen": "2026-10-08 13:45:54"
     }
   },
   "seen_ids": [
@@ -17466,6 +17472,7 @@
     "663745885",
     "663746132",
     "663746463",
-    "663754898"
+    "663754898",
+    "663755956"
   ]
 }
