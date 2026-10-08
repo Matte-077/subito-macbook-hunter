@@ -14679,6 +14679,24 @@
       "notified": false,
       "title": "MACBOOK PRO 16\" APPLE M5MAX 18C.40G 64GB 2TBSSD SI",
       "last_seen": "2026-10-08 12:16:33"
+    },
+    "663746463": {
+      "last_price": 4499.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M5 Max 18-core CPU 32-core G",
+      "last_seen": "2026-10-08 12:36:48"
+    },
+    "663746132": {
+      "last_price": 4699.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14\" APPLE M5PRO 18C.20G 64GB 2TBSSD SI",
+      "last_seen": "2026-10-08 12:36:29"
+    },
+    "663745885": {
+      "last_price": 4799.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\" M5 Max 18-core CPU 32-core G",
+      "last_seen": "2026-10-08 12:17:04"
     }
   },
   "seen_ids": [
@@ -17438,6 +17456,9 @@
     "663742032",
     "663745357",
     "663745496",
-    "663745510"
+    "663745510",
+    "663745885",
+    "663746132",
+    "663746463"
   ]
 }
