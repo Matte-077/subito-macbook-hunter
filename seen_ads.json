@@ -14625,6 +14625,24 @@
       "notified": false,
       "title": "Macbook Pro 15. 2015",
       "last_seen": "2026-10-08 10:49:47"
+    },
+    "663734598": {
+      "last_price": 1850.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16” M1 Max 10/32 64GB 1TB",
+      "last_seen": "2026-10-08 11:12:16"
+    },
+    "663734046": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2011 – 8 Gb RAM – SSD 240 GB",
+      "last_seen": "2026-10-08 11:11:46"
+    },
+    "663732334": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2020 Intel i7 – 32GB RAM – 5",
+      "last_seen": "2026-10-08 11:10:27"
     }
   },
   "seen_ids": [
@@ -17375,6 +17393,9 @@
     "663728010",
     "663728043",
     "663731051",
-    "663731494"
+    "663731494",
+    "663732334",
+    "663734046",
+    "663734598"
   ]
 }
