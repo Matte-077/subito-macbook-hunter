@@ -13133,7 +13133,7 @@
       "last_seen": "2026-10-04 23:42:12"
     },
     "663313408": {
-      "last_price": 1500.0,
+      "last_price": 1400.0,
       "notified": false,
       "title": "Macbook Pro M4  Praticamente Nuovo (info in desc).",
       "last_seen": "2026-10-05 02:03:39"
@@ -14501,7 +14501,7 @@
       "last_seen": "2026-10-07 22:42:21"
     },
     "663699872": {
-      "last_price": 30.0,
+      "last_price": 25.0,
       "notified": false,
       "title": "macbook pro 15 pollici 2010 leggere bene",
       "last_seen": "2026-10-07 23:03:51"
@@ -14583,6 +14583,12 @@
       "notified": false,
       "title": "Macbook pro 15” 2018 touchbar",
       "last_seen": "2026-10-08 09:24:56"
+    },
+    "663723356": {
+      "last_price": 589.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 128 Giga Con Garanzia 🔥",
+      "last_seen": "2026-10-08 09:46:53"
     }
   },
   "seen_ids": [
@@ -17326,6 +17332,7 @@
     "663718997",
     "663720301",
     "663720358",
-    "663721281"
+    "663721281",
+    "663723356"
   ]
 }
