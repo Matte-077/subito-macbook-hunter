@@ -14709,6 +14709,12 @@
       "notified": false,
       "title": "MacBook Pro 14” con chip M5",
       "last_seen": "2026-10-08 13:45:54"
+    },
+    "663760001": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM 512GB SSD",
+      "last_seen": "2026-10-08 14:04:00"
     }
   },
   "seen_ids": [
@@ -17473,6 +17479,7 @@
     "663746132",
     "663746463",
     "663754898",
-    "663755956"
+    "663755956",
+    "663760001"
   ]
 }
