@@ -14661,6 +14661,24 @@
       "notified": false,
       "title": "Samsung Galaxy S23 ultra  Smartphone Perfetto",
       "last_seen": "2026-10-08 11:54:33"
+    },
+    "663745510": {
+      "last_price": 1450.0,
+      "notified": false,
+      "title": "MacBook PRO 16\" 32Gb RAM",
+      "last_seen": "2026-10-08 12:16:42"
+    },
+    "663745496": {
+      "last_price": 4799.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\" M5 Max chip 18-core CPU 32-c",
+      "last_seen": "2026-10-08 12:16:41"
+    },
+    "663745357": {
+      "last_price": 5999.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" APPLE M5MAX 18C.40G 64GB 2TBSSD SI",
+      "last_seen": "2026-10-08 12:16:33"
     }
   },
   "seen_ids": [
@@ -17417,6 +17435,9 @@
     "663734598",
     "663739949",
     "663741872",
-    "663742032"
+    "663742032",
+    "663745357",
+    "663745496",
+    "663745510"
   ]
 }
