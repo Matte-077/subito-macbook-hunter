@@ -14805,6 +14805,18 @@
       "notified": false,
       "title": "Macbook Pro 13”",
       "last_seen": "2026-10-08 15:52:47"
+    },
+    "663778044": {
+      "last_price": 6399.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M3 Max,128GB,8TB, 40Core GPU",
+      "last_seen": "2026-10-08 16:10:07"
+    },
+    "663777578": {
+      "last_price": 450.0,
+      "notified": true,
+      "title": "Apple MacBook pro m1 pro 16gb RAM, 512gb disco",
+      "last_seen": "2026-10-08 16:08:40"
     }
   },
   "seen_ids": [
@@ -17585,6 +17597,8 @@
     "663773320",
     "663774104",
     "663774337",
-    "663774529"
+    "663774529",
+    "663777578",
+    "663778044"
   ]
 }
