@@ -13433,7 +13433,7 @@
       "last_seen": "2026-10-05 17:51:18"
     },
     "663395885": {
-      "last_price": 1825.0,
+      "last_price": 1600.0,
       "notified": false,
       "title": "Macbook pro M5 16 gb e 1tb ssd",
       "last_seen": "2026-10-05 17:38:36"
@@ -14697,6 +14697,12 @@
       "notified": false,
       "title": "Apple MacBook Pro 16\" M5 Max 18-core CPU 32-core G",
       "last_seen": "2026-10-08 12:17:04"
+    },
+    "663754898": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "SSD 512GB Originale per MacBook Pro 13\" A1708",
+      "last_seen": "2026-10-08 13:23:04"
     }
   },
   "seen_ids": [
@@ -17459,6 +17465,7 @@
     "663745510",
     "663745885",
     "663746132",
-    "663746463"
+    "663746463",
+    "663754898"
   ]
 }
