@@ -14523,6 +14523,12 @@
       "notified": false,
       "title": "MacBook Pro con chip M4 Pro 16 pollici!come nuovo!",
       "last_seen": "2026-10-08 06:26:36"
+    },
+    "663711002": {
+      "last_price": 1700.0,
+      "notified": false,
+      "title": "Macbook Pro",
+      "last_seen": "2026-10-08 06:43:00"
     }
   },
   "seen_ids": [
@@ -17256,6 +17262,7 @@
     "663698310",
     "663699872",
     "663700877",
-    "663710564"
+    "663710564",
+    "663711002"
   ]
 }
