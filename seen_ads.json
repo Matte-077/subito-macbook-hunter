@@ -14715,6 +14715,48 @@
       "notified": false,
       "title": "Macbook Pro 16” i7 6-Core 16GB RAM 512GB SSD",
       "last_seen": "2026-10-08 14:04:00"
+    },
+    "663764725": {
+      "last_price": 2850.0,
+      "notified": false,
+      "title": "Macbook Pro M4 MAX 36gb RAM 16 pollici",
+      "last_seen": "2026-10-08 14:47:07"
+    },
+    "663764250": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14″ M4 Pro 24GB 512GB",
+      "last_seen": "2026-10-08 14:46:33"
+    },
+    "663765691": {
+      "last_price": 379.0,
+      "notified": false,
+      "title": "APPLE MacBook Pro 2019 i7 16 GB SSD 512 GB Radeon",
+      "last_seen": "2026-10-08 14:48:20"
+    },
+    "663765298": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatile",
+      "last_seen": "2026-10-08 14:47:59"
+    },
+    "663765192": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 2015 i5 GB BATTERIA RAM 8 GB",
+      "last_seen": "2026-10-08 14:47:52"
+    },
+    "663764950": {
+      "last_price": 259.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2016 | i5 2.0 GHz | 8GB RAM |Apple",
+      "last_seen": "2026-10-08 14:47:28"
+    },
+    "663766399": {
+      "last_price": 30.0,
+      "notified": false,
+      "title": "USB Upgrade a macOS Monterey",
+      "last_seen": "2026-10-08 14:49:11"
     }
   },
   "seen_ids": [
@@ -17480,6 +17522,13 @@
     "663746463",
     "663754898",
     "663755956",
-    "663760001"
+    "663760001",
+    "663764250",
+    "663764725",
+    "663764950",
+    "663765192",
+    "663765298",
+    "663765691",
+    "663766399"
   ]
 }
