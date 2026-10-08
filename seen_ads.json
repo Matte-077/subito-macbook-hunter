@@ -14513,9 +14513,9 @@
       "last_seen": "2026-10-07 22:28:18"
     },
     "663700877": {
-      "last_price": 120.0,
+      "last_price": 110.0,
       "notified": true,
-      "title": "Macbook Pro M1 13,3\" modello A2338- fine 2020",
+      "title": "Macbook Pro M1 13,3\" modello A2338 - fine 2020",
       "last_seen": "2026-10-07 23:18:00"
     },
     "663710564": {
@@ -14589,6 +14589,30 @@
       "notified": false,
       "title": "iPhone 15 Pro 128 Giga Con Garanzia 🔥",
       "last_seen": "2026-10-08 09:46:53"
+    },
+    "663728043": {
+      "last_price": 2800.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M5 Pro 16 Pollici",
+      "last_seen": "2026-10-08 10:28:46"
+    },
+    "663728010": {
+      "last_price": 185.0,
+      "notified": false,
+      "title": "Macbook Pro 15\"  come nuovo",
+      "last_seen": "2026-10-08 10:28:44"
+    },
+    "663727905": {
+      "last_price": 255.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-10-08 10:28:38"
+    },
+    "663727768": {
+      "last_price": 155.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-10-08 10:28:30"
     }
   },
   "seen_ids": [
@@ -17333,6 +17357,10 @@
     "663720301",
     "663720358",
     "663721281",
-    "663723356"
+    "663723356",
+    "663727768",
+    "663727905",
+    "663728010",
+    "663728043"
   ]
 }
