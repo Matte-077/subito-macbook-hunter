@@ -14023,9 +14023,9 @@
       "last_seen": "2026-10-07 00:08:50"
     },
     "663570858": {
-      "last_price": 2400.0,
+      "last_price": 2350.0,
       "notified": false,
-      "title": "Apple MacBook Pro 16 pollici M4 Pro 24GB",
+      "title": "Apple MacBook Pro 16\" M4 Pro 24GB RAM 1TB SSD",
       "last_seen": "2026-10-07 00:08:55"
     },
     "663574186": {
@@ -15245,6 +15245,42 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
       "last_seen": "2026-10-09 17:41:39"
+    },
+    "663954693": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Apple MacBook Pro",
+      "last_seen": "2026-10-09 22:18:43"
+    },
+    "663953043": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "Apple macbook pro 16” M2 pro (2023)- SSD da 1 TB-",
+      "last_seen": "2026-10-09 21:56:56"
+    },
+    "663952019": {
+      "last_price": 170.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” Mid 2012 – SSD 1 TB",
+      "last_seen": "2026-10-09 21:38:50"
+    },
+    "663961850": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2018 A1989 i5 8GB Non Funzionante",
+      "last_seen": "2026-10-10 00:40:15"
+    },
+    "663954327": {
+      "last_price": 239.0,
+      "notified": false,
+      "title": "MacBook Pro Retina 13” Early 2015 i5, 8GB/256gb",
+      "last_seen": "2026-10-09 22:07:49"
+    },
+    "663948955": {
+      "last_price": 240.0,
+      "notified": false,
+      "title": "Macbook pro 13” retina display",
+      "last_seen": "2026-10-09 21:03:08"
     }
   },
   "seen_ids": [
@@ -18098,6 +18134,12 @@
     "663943032",
     "663944850",
     "663945726",
-    "663945926"
+    "663945926",
+    "663948955",
+    "663952019",
+    "663953043",
+    "663954327",
+    "663954693",
+    "663961850"
   ]
 }
