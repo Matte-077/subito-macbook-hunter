@@ -12305,10 +12305,10 @@
       "last_seen": "2026-10-02 22:09:52"
     },
     "663069366": {
-      "last_price": 990.0,
+      "last_price": 950.0,
       "notified": false,
       "title": "MacBook Pro M3 14” – 8 GB RAM – SSD 512 GB",
-      "last_seen": "2026-10-03 00:11:04"
+      "last_seen": "2026-10-08 23:35:11"
     },
     "663069329": {
       "last_price": 650.0,
@@ -14489,7 +14489,7 @@
       "last_seen": "2026-10-07 22:21:15"
     },
     "663697226": {
-      "last_price": 750.0,
+      "last_price": 690.0,
       "notified": false,
       "title": "Macbook Pro M2 A2338",
       "last_seen": "2026-10-07 22:28:05"
@@ -14513,7 +14513,7 @@
       "last_seen": "2026-10-07 22:28:18"
     },
     "663700877": {
-      "last_price": 100.0,
+      "last_price": 80.0,
       "notified": true,
       "title": "Macbook Pro M1 13,3\" modello A2338 - fine 2020",
       "last_seen": "2026-10-07 23:18:00"
@@ -14901,6 +14901,30 @@
       "notified": false,
       "title": "Apple Macbook Pro Intel 13\" 2020",
       "last_seen": "2026-10-08 20:02:37"
+    },
+    "663821595": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "Apple MacBook PRO 14\"  512GB anno 2023",
+      "last_seen": "2026-10-08 22:23:07"
+    },
+    "663827470": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook pro 2020 m1 8gb ram 500gb ssd",
+      "last_seen": "2026-10-09 00:01:38"
+    },
+    "663822721": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook Pro 2022 M2 512GB APPLE Fattura Apple",
+      "last_seen": "2026-10-08 22:40:27"
+    },
+    "663824567": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "MacBook Pro Retina 15” mid 2012 256gb 8gb ram",
+      "last_seen": "2026-10-08 23:15:42"
     }
   },
   "seen_ids": [
@@ -17697,6 +17721,10 @@
     "663808074",
     "663808460",
     "663808664",
-    "663812114"
+    "663812114",
+    "663821595",
+    "663822721",
+    "663824567",
+    "663827470"
   ]
 }
