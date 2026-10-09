@@ -695,8 +695,10 @@
       "last_seen": "2026-07-29 02:03:58"
     },
     "655860366": {
-      "last_price": null,
-      "notified": false
+      "last_price": 2199.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M5 14''/16'' Nuovo Sigillato",
+      "last_seen": "2026-10-09 18:19:32"
     },
     "655924067": {
       "last_price": null,
@@ -6869,7 +6871,7 @@
       "last_seen": "2026-09-21 11:24:04"
     },
     "661524567": {
-      "last_price": 369.0,
+      "last_price": 399.0,
       "notified": false,
       "title": "Macbook Pro A2289 Anno 2020 molto bello",
       "last_seen": "2026-10-09 12:52:39"
@@ -14987,7 +14989,7 @@
       "last_seen": "2026-10-09 11:33:17"
     },
     "663871511": {
-      "last_price": 1799.0,
+      "last_price": 1899.0,
       "notified": false,
       "title": "MACBOOK PRO 16(2021)M1 MAX 32GB/2TB inglese",
       "last_seen": "2026-10-09 11:11:29"
@@ -15083,7 +15085,7 @@
       "last_seen": "2026-10-09 12:35:01"
     },
     "663860018": {
-      "last_price": 1450.0,
+      "last_price": 1400.0,
       "notified": false,
       "title": "Macbook Pro M4 16GB RAM, 512GB",
       "last_seen": "2026-10-09 09:46:27"
@@ -15117,6 +15119,132 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
       "last_seen": "2026-10-09 09:45:08"
+    },
+    "663943032": {
+      "last_price": 160.0,
+      "notified": false,
+      "title": "IPhone 12 128 giga green verde",
+      "last_seen": "2026-10-09 19:59:48"
+    },
+    "663942867": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "IPhone 14 black 128 giga Ricevuta Apple Store",
+      "last_seen": "2026-10-09 19:59:37"
+    },
+    "658040952": {
+      "last_price": 3100.0,
+      "notified": false,
+      "title": "MacBook Pro M4 Max – 14\" – 36 GB RAM – 1TB SSD",
+      "last_seen": "2026-10-09 18:59:30"
+    },
+    "663929300": {
+      "last_price": 1790.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14 M3 Pro 36GB 1TB Perfetto",
+      "last_seen": "2026-10-09 18:38:34"
+    },
+    "663945726": {
+      "last_price": 1450.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M3 Pro 18GB/512GB - display rotto",
+      "last_seen": "2026-10-09 20:35:45"
+    },
+    "663942853": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM 512GB SSD",
+      "last_seen": "2026-10-09 19:59:35"
+    },
+    "663940683": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "Macbook pro 15” TOUCHBAR i7 16gb 512gb ssd",
+      "last_seen": "2026-10-09 19:41:03"
+    },
+    "663928658": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "GOOGLE PIXEL 10 PRO 5G 256GB",
+      "last_seen": "2026-10-09 19:02:53"
+    },
+    "663911856": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Apple MacBook Pro",
+      "last_seen": "2026-10-09 16:16:47"
+    },
+    "663911627": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15\" 2017",
+      "last_seen": "2026-10-09 16:16:32"
+    },
+    "663911615": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15\" 2017",
+      "last_seen": "2026-10-09 16:16:31"
+    },
+    "663945926": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "Colorimetro Calibrite Display Plus HL NUOVO Garanz",
+      "last_seen": "2026-10-09 20:36:01"
+    },
+    "663942975": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Macbook pro m1 8gb ssd 256 retina",
+      "last_seen": "2026-10-09 19:59:44"
+    },
+    "663923949": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" M2 / 16GB / 512GB",
+      "last_seen": "2026-10-09 17:40:59"
+    },
+    "663944850": {
+      "last_price": 170.0,
+      "notified": false,
+      "title": "Macbook Pro 13 2017 2.3 Ghz 8/256 GB",
+      "last_seen": "2026-10-09 20:18:33"
+    },
+    "663934574": {
+      "last_price": 259.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2016 | i5 2.0 GHz | 8GB RAM |Apple",
+      "last_seen": "2026-10-09 19:00:41"
+    },
+    "663934550": {
+      "last_price": 109.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 2015 i5 GB BATTERIA RAM 8 GB",
+      "last_seen": "2026-10-09 19:00:39"
+    },
+    "663934539": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatile",
+      "last_seen": "2026-10-09 19:00:39"
+    },
+    "663924889": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-10-09 17:41:52"
+    },
+    "663933716": {
+      "last_price": 140.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” A1278 2009 – Ricondizionato",
+      "last_seen": "2026-10-09 18:42:20"
+    },
+    "663924686": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-10-09 17:41:39"
     }
   },
   "seen_ids": [
@@ -15307,6 +15435,7 @@
     "657936996",
     "658029670",
     "658038207",
+    "658040952",
     "658054715",
     "658083721",
     "658121930",
@@ -17949,6 +18078,26 @@
     "663896618",
     "663901072",
     "663904563",
-    "663907317"
+    "663907317",
+    "663911615",
+    "663911627",
+    "663911856",
+    "663923949",
+    "663924686",
+    "663924889",
+    "663928658",
+    "663929300",
+    "663933716",
+    "663934539",
+    "663934550",
+    "663934574",
+    "663940683",
+    "663942853",
+    "663942867",
+    "663942975",
+    "663943032",
+    "663944850",
+    "663945726",
+    "663945926"
   ]
 }
