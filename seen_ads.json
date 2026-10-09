@@ -11213,10 +11213,10 @@
       "last_seen": "2026-09-30 16:58:12"
     },
     "662764168": {
-      "last_price": 850.0,
+      "last_price": 800.0,
       "notified": false,
       "title": "Macbook pro M1 pro 14",
-      "last_seen": "2026-10-02 16:34:00"
+      "last_seen": "2026-10-08 17:21:16"
     },
     "662766260": {
       "last_price": 400.0,
@@ -14861,7 +14861,7 @@
       "last_seen": "2026-10-08 18:54:44"
     },
     "663793019": {
-      "last_price": 1450.0,
+      "last_price": 1400.0,
       "notified": false,
       "title": "MacBook Pro M4 16/512",
       "last_seen": "2026-10-08 17:50:48"
@@ -14925,6 +14925,18 @@
       "notified": false,
       "title": "MacBook Pro Retina 15” mid 2012 256gb 8gb ram",
       "last_seen": "2026-10-08 23:15:42"
+    },
+    "663841866": {
+      "last_price": null,
+      "notified": false,
+      "title": "MacBook Pro M3 8GB/512GB",
+      "last_seen": "2026-10-09 04:25:05"
+    },
+    "663846384": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "MacBook Pro 13 Touch Bar i7 16GB 1TB SSD",
+      "last_seen": "2026-10-09 06:45:35"
     }
   },
   "seen_ids": [
@@ -17725,6 +17737,8 @@
     "663821595",
     "663822721",
     "663824567",
-    "663827470"
+    "663827470",
+    "663841866",
+    "663846384"
   ]
 }
