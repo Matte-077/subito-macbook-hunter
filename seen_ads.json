@@ -14487,7 +14487,7 @@
       "last_seen": "2026-10-07 21:23:12"
     },
     "663696758": {
-      "last_price": 290.0,
+      "last_price": 320.0,
       "notified": false,
       "title": "Lenovo V14 - 256 gb SSD",
       "last_seen": "2026-10-07 22:21:15"
@@ -15811,6 +15811,24 @@
       "notified": false,
       "title": "APPLE MACBOOK PRO 15 2018 i7 2,6 GHz 32GB RAM 1TB",
       "last_seen": "2026-10-10 19:32:18"
+    },
+    "664081261": {
+      "last_price": 1599.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M2",
+      "last_seen": "2026-10-11 00:34:37"
+    },
+    "664074096": {
+      "last_price": 2000.0,
+      "notified": false,
+      "title": "apple MacBook Pro M2  14\"",
+      "last_seen": "2026-10-10 22:09:58"
+    },
+    "664079006": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "MacBook M3",
+      "last_seen": "2026-10-10 23:23:15"
     }
   },
   "seen_ids": [
@@ -18758,6 +18776,9 @@
     "664062895",
     "664063782",
     "664068714",
-    "664068932"
+    "664068932",
+    "664074096",
+    "664079006",
+    "664081261"
   ]
 }
