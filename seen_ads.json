@@ -12681,10 +12681,10 @@
       "last_seen": "2026-10-03 19:02:51"
     },
     "663160957": {
-      "last_price": 1590.0,
+      "last_price": 1450.0,
       "notified": false,
       "title": "MacBook Pro 16\" M2 Pro 2023 – 16GB 1TB",
-      "last_seen": "2026-10-03 18:12:22"
+      "last_seen": "2026-10-10 18:34:59"
     },
     "663170897": {
       "last_price": 34.0,
@@ -15709,6 +15709,108 @@
       "notified": false,
       "title": "IPHONE 18 PRO MAX 1TB nuovo",
       "last_seen": "2026-10-10 11:30:05"
+    },
+    "664060925": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "MacBook Pro 14″, M5, RAM 16 GB e SSD 512 GB.",
+      "last_seen": "2026-10-10 21:00:44"
+    },
+    "664062722": {
+      "last_price": 799.0,
+      "notified": false,
+      "title": "MacBook Pro M1 14\" (16GB RAM / 512GB SSD)",
+      "last_seen": "2026-10-10 19:34:21"
+    },
+    "664040145": {
+      "last_price": 2100.0,
+      "notified": false,
+      "title": "MacBook Pro M5 Pro 14” 24GB 1TB nuovo sigillato",
+      "last_seen": "2026-10-10 18:16:28"
+    },
+    "664062895": {
+      "last_price": 139.0,
+      "notified": false,
+      "title": "MacBook Pro 13” Mid 2012 16 GB RAM SSD 1 TB",
+      "last_seen": "2026-10-10 20:08:18"
+    },
+    "664063782": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "MacBook Pro 13”",
+      "last_seen": "2026-10-10 19:51:37"
+    },
+    "664059167": {
+      "last_price": 23.0,
+      "notified": false,
+      "title": "Porta PC 15,6\"",
+      "last_seen": "2026-10-10 19:14:29"
+    },
+    "664055105": {
+      "last_price": 575.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" i7 16/512 144 Cicli Come Nuovo",
+      "last_seen": "2026-10-10 18:36:36"
+    },
+    "664050447": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M1 8GB 256GB – solo 342 cicli batt",
+      "last_seen": "2026-10-10 17:57:37"
+    },
+    "664048783": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "Macbook Pro M4 Pro 24GB Ram NUOVO",
+      "last_seen": "2026-10-10 17:38:23"
+    },
+    "664068932": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MACBOOK PRO A1278 mid 2012",
+      "last_seen": "2026-10-10 20:45:08"
+    },
+    "664068714": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Touch Bar intel i7-1TB - 16Gb",
+      "last_seen": "2026-10-10 20:44:55"
+    },
+    "664053210": {
+      "last_price": 739.0,
+      "notified": false,
+      "title": "iPhone 15 Pro Max 256GB-Naturale-Originale Apple",
+      "last_seen": "2026-10-10 18:17:36"
+    },
+    "664046632": {
+      "last_price": 729.0,
+      "notified": false,
+      "title": "iPhone 15 Pro Max 256GB-Naturale-Originale Apple",
+      "last_seen": "2026-10-10 17:36:31"
+    },
+    "664045922": {
+      "last_price": 659.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 256GB-Naturale-Garanzia 12 Mesi",
+      "last_seen": "2026-10-10 17:35:54"
+    },
+    "664045764": {
+      "last_price": 240.0,
+      "notified": false,
+      "title": "MaxBook Pro 13’’ (2017) 256 BATTERIA NUOVA",
+      "last_seen": "2026-10-10 17:35:46"
+    },
+    "664043001": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15” 2017 i7 16GB 512",
+      "last_seen": "2026-10-10 17:15:18"
+    },
+    "664060607": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "APPLE MACBOOK PRO 15 2018 i7 2,6 GHz 32GB RAM 1TB",
+      "last_seen": "2026-10-10 19:32:18"
     }
   },
   "seen_ids": [
@@ -18636,9 +18738,26 @@
     "664037701",
     "664038371",
     "664040064",
+    "664040145",
+    "664043001",
     "664043837",
     "664044148",
     "664044368",
-    "664044446"
+    "664044446",
+    "664045764",
+    "664045922",
+    "664046632",
+    "664048783",
+    "664050447",
+    "664053210",
+    "664055105",
+    "664059167",
+    "664060607",
+    "664060925",
+    "664062722",
+    "664062895",
+    "664063782",
+    "664068714",
+    "664068932"
   ]
 }
