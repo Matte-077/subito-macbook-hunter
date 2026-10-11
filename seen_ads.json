@@ -15829,6 +15829,24 @@
       "notified": false,
       "title": "MacBook M3",
       "last_seen": "2026-10-10 23:23:15"
+    },
+    "664083817": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 13 praticamente come nuovo",
+      "last_seen": "2026-10-11 02:30:40"
+    },
+    "664082291": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "MacBook Neo 8/256 Rosa",
+      "last_seen": "2026-10-11 01:17:41"
+    },
+    "664082593": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 64 Gb RAM 1TB SSD e Touch Bar 2019",
+      "last_seen": "2026-10-11 01:24:50"
     }
   },
   "seen_ids": [
@@ -18779,6 +18797,9 @@
     "664068932",
     "664074096",
     "664079006",
-    "664081261"
+    "664081261",
+    "664082291",
+    "664082593",
+    "664083817"
   ]
 }
