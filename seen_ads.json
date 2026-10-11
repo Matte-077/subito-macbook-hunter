@@ -16033,6 +16033,78 @@
       "notified": false,
       "title": "MacBook Pro 2016 15” Apple Laptop Garanzia",
       "last_seen": "2026-10-11 15:38:17"
+    },
+    "664178235": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w con cavetto usb-c",
+      "last_seen": "2026-10-11 20:52:56"
+    },
+    "664169494": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Macbook Pro 14” 512GB come nuovo Apple",
+      "last_seen": "2026-10-11 19:41:48"
+    },
+    "664165711": {
+      "last_price": 890.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Pro",
+      "last_seen": "2026-10-11 19:11:32"
+    },
+    "664176696": {
+      "last_price": 675.0,
+      "notified": false,
+      "title": "Macbook Pro M2 13” 16/512 GB",
+      "last_seen": "2026-10-11 20:42:44"
+    },
+    "664168843": {
+      "last_price": 340.0,
+      "notified": false,
+      "title": "MacBook Pro 15 (2017)  - 16GM RAM - 256 SSD",
+      "last_seen": "2026-10-11 19:27:54"
+    },
+    "664147529": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "Macbook Pro M5",
+      "last_seen": "2026-10-11 16:56:13"
+    },
+    "664137275": {
+      "last_price": 280.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" Touch Bar 16GB RAM 256GB Argento",
+      "last_seen": "2026-10-11 16:40:38"
+    },
+    "664175568": {
+      "last_price": 405.0,
+      "notified": false,
+      "title": "Apple iPad Pro 12.9” 5th Gen, M1, 512 2021",
+      "last_seen": "2026-10-11 20:26:41"
+    },
+    "664150637": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "Macbook Pro 13” M1",
+      "last_seen": "2026-10-11 17:12:00"
+    },
+    "664147105": {
+      "last_price": 130.0,
+      "notified": false,
+      "title": "MacBook Pro 13” touch bar A2251 Mid 2021 x ricambi",
+      "last_seen": "2026-10-11 16:55:53"
+    },
+    "664178478": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "MacBook Pro 13” hdd 250 /ram 4  funzionante",
+      "last_seen": "2026-10-11 21:02:44"
+    },
+    "664174686": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook pro 15 pollici Retina touchbar",
+      "last_seen": "2026-10-11 20:19:39"
     }
   },
   "seen_ids": [
@@ -19012,11 +19084,23 @@
     "664134165",
     "664134317",
     "664135260",
+    "664137275",
     "664137834",
     "664139245",
     "664140824",
     "664140905",
     "664142341",
-    "664144878"
+    "664144878",
+    "664147105",
+    "664147529",
+    "664150637",
+    "664165711",
+    "664168843",
+    "664169494",
+    "664174686",
+    "664175568",
+    "664176696",
+    "664178235",
+    "664178478"
   ]
 }
