@@ -3757,10 +3757,10 @@
       "notified": false
     },
     "660589407": {
-      "last_price": 600.0,
+      "last_price": 549.0,
       "notified": false,
       "title": "MacBook Pro 13” M1 2020 – 8GB / 256GB – Scatola...",
-      "last_seen": "2026-09-27 21:12:45"
+      "last_seen": "2026-10-11 23:33:57"
     },
     "660589618": {
       "last_price": null,
@@ -4191,10 +4191,10 @@
       "notified": false
     },
     "660749346": {
-      "last_price": 1100.0,
+      "last_price": 1000.0,
       "notified": false,
       "title": "MacBook Pro 14” M3 1TB SSD 8GB",
-      "last_seen": "2026-09-20 19:24:07"
+      "last_seen": "2026-10-11 23:34:19"
     },
     "660749375": {
       "last_price": null,
@@ -15339,7 +15339,7 @@
       "last_seen": "2026-10-10 07:19:37"
     },
     "663976846": {
-      "last_price": 850.0,
+      "last_price": 800.0,
       "notified": false,
       "title": "Macbook air",
       "last_seen": "2026-10-10 09:05:30"
@@ -15825,7 +15825,7 @@
       "last_seen": "2026-10-10 22:09:58"
     },
     "664079006": {
-      "last_price": 950.0,
+      "last_price": 900.0,
       "notified": false,
       "title": "MacBook M3",
       "last_seen": "2026-10-10 23:23:15"
@@ -16077,7 +16077,7 @@
       "last_seen": "2026-10-11 16:40:38"
     },
     "664175568": {
-      "last_price": 405.0,
+      "last_price": 360.0,
       "notified": false,
       "title": "Apple iPad Pro 12.9” 5th Gen, M1, 512 2021",
       "last_seen": "2026-10-11 20:26:41"
@@ -16105,6 +16105,60 @@
       "notified": false,
       "title": "MacBook pro 15 pollici Retina touchbar",
       "last_seen": "2026-10-11 20:19:39"
+    },
+    "664193202": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M5 512gb 16gb Nero",
+      "last_seen": "2026-10-12 00:44:10"
+    },
+    "664179681": {
+      "last_price": 3500.0,
+      "notified": false,
+      "title": "Apple Macbook Pro 14” M5 PRO 48GB Ram 1TB",
+      "last_seen": "2026-10-11 21:14:25"
+    },
+    "664186880": {
+      "last_price": 270.0,
+      "notified": false,
+      "title": "portatile macbook pro 15 15,6 2019 i7 8850h 16/512",
+      "last_seen": "2026-10-11 22:40:40"
+    },
+    "664184723": {
+      "last_price": 85.0,
+      "notified": false,
+      "title": "NEEWER CM26 MAX Microfono Lavalier",
+      "last_seen": "2026-10-11 22:09:17"
+    },
+    "664182042": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "iMac 24” M3 / Valuto Scambi",
+      "last_seen": "2026-10-11 21:40:04"
+    },
+    "664190084": {
+      "last_price": 1080.0,
+      "notified": false,
+      "title": "Macbook Pro M3",
+      "last_seen": "2026-10-11 23:35:06"
+    },
+    "664190432": {
+      "last_price": 45.0,
+      "notified": false,
+      "title": "Stand per Macbook modello BookArc - Twelve South",
+      "last_seen": "2026-10-11 23:35:28"
+    },
+    "664184221": {
+      "last_price": 175.0,
+      "notified": false,
+      "title": "MacBook Pro 15 pollici Mid 2010 SSD 512 Gb",
+      "last_seen": "2026-10-11 22:08:45"
+    },
+    "664191860": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 15 Polici 16GB 1TB 2015",
+      "last_seen": "2026-10-11 23:53:34"
     }
   },
   "seen_ids": [
@@ -19101,6 +19155,15 @@
     "664175568",
     "664176696",
     "664178235",
-    "664178478"
+    "664178478",
+    "664179681",
+    "664182042",
+    "664184221",
+    "664184723",
+    "664186880",
+    "664190084",
+    "664190432",
+    "664191860",
+    "664193202"
   ]
 }
