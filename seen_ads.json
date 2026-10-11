@@ -13761,7 +13761,7 @@
       "last_seen": "2026-10-06 15:12:45"
     },
     "663505604": {
-      "last_price": 1100.0,
+      "last_price": 1000.0,
       "notified": false,
       "title": "MacBook Pro, 16”, 2021, M1",
       "last_seen": "2026-10-06 14:56:47"
@@ -15345,7 +15345,7 @@
       "last_seen": "2026-10-10 09:05:30"
     },
     "663975330": {
-      "last_price": null,
+      "last_price": 275.0,
       "notified": false,
       "title": "NUOVA Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
       "last_seen": "2026-10-10 08:46:46"
@@ -15819,7 +15819,7 @@
       "last_seen": "2026-10-11 00:34:37"
     },
     "664074096": {
-      "last_price": 2000.0,
+      "last_price": 1800.0,
       "notified": false,
       "title": "apple MacBook Pro M2  14\"",
       "last_seen": "2026-10-10 22:09:58"
@@ -15847,6 +15847,24 @@
       "notified": false,
       "title": "MacBook Pro 64 Gb RAM 1TB SSD e Touch Bar 2019",
       "last_seen": "2026-10-11 01:24:50"
+    },
+    "664093334": {
+      "last_price": 2600.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M5 Pro",
+      "last_seen": "2026-10-11 09:21:59"
+    },
+    "664085980": {
+      "last_price": 529.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\" Core i9 2.3GHz 16GB 1TB 2019",
+      "last_seen": "2026-10-11 05:25:13"
+    },
+    "664087647": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2019 i5 - 8GB - 128GB",
+      "last_seen": "2026-10-11 07:49:07"
     }
   },
   "seen_ids": [
@@ -18800,6 +18818,9 @@
     "664081261",
     "664082291",
     "664082593",
-    "664083817"
+    "664083817",
+    "664085980",
+    "664087647",
+    "664093334"
   ]
 }
