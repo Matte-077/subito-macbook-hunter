@@ -14865,7 +14865,7 @@
       "last_seen": "2026-10-08 18:54:44"
     },
     "663793019": {
-      "last_price": 1380.0,
+      "last_price": 1350.0,
       "notified": false,
       "title": "MacBook Pro M4 16/512",
       "last_seen": "2026-10-08 17:50:48"
@@ -15315,7 +15315,7 @@
       "last_seen": "2026-10-10 07:19:20"
     },
     "663977166": {
-      "last_price": 800.0,
+      "last_price": 700.0,
       "notified": true,
       "title": "MacBook Pro 16\" M1 Pro 16GB – 512GB (US keyboard)",
       "last_seen": "2026-10-10 09:05:54"
@@ -16183,6 +16183,84 @@
       "notified": false,
       "title": "iPhone 13 Pro Max 128 Giga Con Garanzia 1 Anno",
       "last_seen": "2026-10-12 01:33:46"
+    },
+    "664219352": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "Macbook Pro 14” 2023",
+      "last_seen": "2026-10-12 10:52:46"
+    },
+    "664216014": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w x MacBook Pro 13/14",
+      "last_seen": "2026-10-12 10:49:33"
+    },
+    "664219337": {
+      "last_price": 580.0,
+      "notified": false,
+      "title": "postazione Gaming completa",
+      "last_seen": "2026-10-12 10:52:46"
+    },
+    "664215700": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15”retina SSD 250/ ram 16 mid 2014",
+      "last_seen": "2026-10-12 10:49:12"
+    },
+    "664201817": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook Pro 16 I9 - 16 giga ram 1 tera HD",
+      "last_seen": "2026-10-12 08:34:19"
+    },
+    "664201392": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "Macbook Pro 13 - I7 16 giga ram 2 tera HD",
+      "last_seen": "2026-10-12 08:16:22"
+    },
+    "664198703": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "MacBook Pro M2   16 pollici  Ssd 1TB Ram 16 GB",
+      "last_seen": "2026-10-12 07:04:29"
+    },
+    "664202870": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "Ipad 6°gen 128GB pari al nuovo + accessori",
+      "last_seen": "2026-10-12 08:52:49"
+    },
+    "664196059": {
+      "last_price": 530.0,
+      "notified": false,
+      "title": "iPad Pro 12.9 (4 gen.) Wi-Fi + Cel. 128 gb",
+      "last_seen": "2026-10-12 05:56:50"
+    },
+    "664217859": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Macbook Pro - Apple M2 13\" 8GB RAM 512GB SSD",
+      "last_seen": "2026-10-12 10:51:27"
+    },
+    "664219801": {
+      "last_price": 25.0,
+      "notified": false,
+      "title": "Macbook pro 15 retina",
+      "last_seen": "2026-10-12 10:53:10"
+    },
+    "664209695": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "Apple Magic Trackpad Nero USB-C Nuovo Sigillato",
+      "last_seen": "2026-10-12 09:54:59"
+    },
+    "664199978": {
+      "last_price": 95.0,
+      "notified": false,
+      "title": "PC MACBOOK 21.5 CPU i5 RAM 8GB HDD 1TB",
+      "last_seen": "2026-10-12 07:56:31"
     }
   },
   "seen_ids": [
@@ -19192,6 +19270,19 @@
     "664194276",
     "664194320",
     "664194369",
-    "664194494"
+    "664194494",
+    "664196059",
+    "664198703",
+    "664199978",
+    "664201392",
+    "664201817",
+    "664202870",
+    "664209695",
+    "664215700",
+    "664216014",
+    "664217859",
+    "664219337",
+    "664219352",
+    "664219801"
   ]
 }
