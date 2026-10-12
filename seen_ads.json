@@ -16159,6 +16159,30 @@
       "notified": false,
       "title": "MacBook Pro 15 Polici 16GB 1TB 2015",
       "last_seen": "2026-10-11 23:53:34"
+    },
+    "664194494": {
+      "last_price": 579.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 128 Giga Con Garanzia 🔥",
+      "last_seen": "2026-10-12 01:50:20"
+    },
+    "664194369": {
+      "last_price": 629.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 256 Giga Con Garanzia 12 Mesi 🔥",
+      "last_seen": "2026-10-12 01:50:15"
+    },
+    "664194320": {
+      "last_price": 619.0,
+      "notified": false,
+      "title": "iPhone 16 Plus 128 Giga Con Garanzia 12 Mesi",
+      "last_seen": "2026-10-12 01:50:12"
+    },
+    "664194276": {
+      "last_price": 479.0,
+      "notified": false,
+      "title": "iPhone 13 Pro Max 128 Giga Con Garanzia 1 Anno",
+      "last_seen": "2026-10-12 01:33:46"
     }
   },
   "seen_ids": [
@@ -19164,6 +19188,10 @@
     "664190084",
     "664190432",
     "664191860",
-    "664193202"
+    "664193202",
+    "664194276",
+    "664194320",
+    "664194369",
+    "664194494"
   ]
 }
