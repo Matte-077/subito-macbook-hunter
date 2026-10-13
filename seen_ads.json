@@ -12783,10 +12783,10 @@
       "last_seen": "2026-10-03 20:53:46"
     },
     "663106428": {
-      "last_price": 150.0,
+      "last_price": 139.0,
       "notified": false,
       "title": "Macbook supporto cuffie monitor casse in noce",
-      "last_seen": "2026-10-05 14:35:12"
+      "last_seen": "2026-10-13 01:29:33"
     },
     "663197373": {
       "last_price": 200.0,
@@ -16777,6 +16777,48 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
       "last_seen": "2026-10-12 12:02:41"
+    },
+    "664314718": {
+      "last_price": 980.0,
+      "notified": false,
+      "title": "MacBook Pro 14” 2021 M1 Pro, 16 GB RAM, 512 GB SSD",
+      "last_seen": "2026-10-12 23:51:13"
+    },
+    "664319767": {
+      "last_price": 1050.0,
+      "notified": false,
+      "title": "APPLE MACBOOK PRO 14” M3 – 512 GB SSD NUOVO",
+      "last_seen": "2026-10-12 23:38:09"
+    },
+    "664311084": {
+      "last_price": 530.0,
+      "notified": false,
+      "title": "Apple iphone 15 pro max black 256gb completo",
+      "last_seen": "2026-10-12 21:58:58"
+    },
+    "646714900": {
+      "last_price": 280.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" 2017 Touch Bar",
+      "last_seen": "2026-10-13 01:52:04"
+    },
+    "664310669": {
+      "last_price": 439.0,
+      "notified": false,
+      "title": "Macbook pro 15 TOUCHBAR i7 16gb 512gb ssd",
+      "last_seen": "2026-10-12 21:42:32"
+    },
+    "664307625": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook pro 16 pollici",
+      "last_seen": "2026-10-12 21:15:49"
+    },
+    "664306583": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 Late 2021 8/512GB",
+      "last_seen": "2026-10-12 21:04:17"
     }
   },
   "seen_ids": [
@@ -16837,6 +16879,7 @@
     "645767448",
     "646101632",
     "646409553",
+    "646714900",
     "646846476",
     "646849056",
     "646920090",
@@ -19885,6 +19928,12 @@
     "664299789",
     "664300032",
     "664300337",
-    "664302763"
+    "664302763",
+    "664306583",
+    "664307625",
+    "664310669",
+    "664311084",
+    "664314718",
+    "664319767"
   ]
 }
