@@ -11,10 +11,10 @@
       "notified": false
     },
     "530400278": {
-      "last_price": 499.0,
+      "last_price": 459.0,
       "notified": false,
       "title": "Macbook Pro i5 13.3 256Gb Touchbar",
-      "last_seen": "2026-09-19 18:13:48"
+      "last_seen": "2026-10-10 10:22:51"
     },
     "554817536": {
       "last_price": null,
@@ -12309,7 +12309,7 @@
       "last_seen": "2026-10-02 22:09:52"
     },
     "663069366": {
-      "last_price": 950.0,
+      "last_price": 899.0,
       "notified": false,
       "title": "MacBook Pro M3 14” – 8 GB RAM – SSD 512 GB",
       "last_seen": "2026-10-08 23:35:11"
@@ -16113,9 +16113,9 @@
       "last_seen": "2026-10-12 00:44:10"
     },
     "664179681": {
-      "last_price": 3500.0,
+      "last_price": 3400.0,
       "notified": false,
-      "title": "Apple Macbook Pro 14” M5 PRO 48GB Ram 1TB",
+      "title": "Apple Macbook Pro 14” 2026 M5 PRO 48GB Ram 1TB",
       "last_seen": "2026-10-11 21:14:25"
     },
     "664186880": {
@@ -16365,7 +16365,7 @@
       "last_seen": "2026-10-12 16:10:18"
     },
     "664255463": {
-      "last_price": 990.0,
+      "last_price": 900.0,
       "notified": false,
       "title": "Apple MacBook Pro 14” (2021)",
       "last_seen": "2026-10-12 15:04:27"
@@ -16819,6 +16819,54 @@
       "notified": false,
       "title": "MacBook Pro 13” M1 Late 2021 8/512GB",
       "last_seen": "2026-10-12 21:04:17"
+    },
+    "664341641": {
+      "last_price": 1199.0,
+      "notified": false,
+      "title": "MacBook Pro M4, 16GB, 1TB SSD",
+      "last_seen": "2026-10-13 09:56:21"
+    },
+    "664335464": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "Macbook Pro 16” M1 Pro",
+      "last_seen": "2026-10-13 08:50:39"
+    },
+    "664333527": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "Macbook Pro M1 16” 16 gb Ram 512 gb SSD",
+      "last_seen": "2026-10-13 08:10:48"
+    },
+    "664337906": {
+      "last_price": 770.0,
+      "notified": false,
+      "title": "Apple MacBook Air M2 13,6” 512GB SSD 8GB RAM Blu M",
+      "last_seen": "2026-10-13 09:12:31"
+    },
+    "664337849": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "MacBook Pro 13” retina SSD 500/ Ram 8 batt. Nuova",
+      "last_seen": "2026-10-13 09:12:27"
+    },
+    "664332460": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Apple MacBook Pro Retina 15 i7 / 8Gb / 256+256",
+      "last_seen": "2026-10-13 07:50:17"
+    },
+    "664329464": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "APPLE MACBOOK NEO 512GB ROSA PASTELLO",
+      "last_seen": "2026-10-13 06:53:59"
+    },
+    "664343566": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "Macbook Pro i9 32Gb 1TB",
+      "last_seen": "2026-10-13 09:58:31"
     }
   },
   "seen_ids": [
@@ -19934,6 +19982,14 @@
     "664310669",
     "664311084",
     "664314718",
-    "664319767"
+    "664319767",
+    "664329464",
+    "664332460",
+    "664333527",
+    "664335464",
+    "664337849",
+    "664337906",
+    "664341641",
+    "664343566"
   ]
 }
