@@ -17107,6 +17107,138 @@
       "notified": false,
       "title": "Macbook Pro 13” Early 2015 1Tb",
       "last_seen": "2026-10-13 10:17:28"
+    },
+    "664448139": {
+      "last_price": 1399.0,
+      "notified": false,
+      "title": "iPhone 18 PRO da 256GB nero (NUOVO*)",
+      "last_seen": "2026-10-13 21:56:28"
+    },
+    "664446762": {
+      "last_price": 639.0,
+      "notified": false,
+      "title": "iPad Mini A17 PRO da 128GB Blu NUOVO 2026",
+      "last_seen": "2026-10-13 21:42:02"
+    },
+    "664443995": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M5 512gb Nero",
+      "last_seen": "2026-10-13 21:15:24"
+    },
+    "664439984": {
+      "last_price": 1799.0,
+      "notified": false,
+      "title": "MacBook Pro 14″ M5 16GB 512GB in garanzia",
+      "last_seen": "2026-10-13 20:34:35"
+    },
+    "664439124": {
+      "last_price": 2700.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M5 Pro 14” 24GB RAM 2TB SSD",
+      "last_seen": "2026-10-13 20:20:09"
+    },
+    "664436079": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "MacBook Pro 14  M1 Pro ram16mb SSD 1 Tb",
+      "last_seen": "2026-10-13 20:01:16"
+    },
+    "664430803": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Pro Silver 16Gb 512 Gb us inter",
+      "last_seen": "2026-10-13 19:25:56"
+    },
+    "664430248": {
+      "last_price": 3299.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M5 Pro 15-core CPU 16-core G",
+      "last_seen": "2026-10-13 19:25:22"
+    },
+    "664430115": {
+      "last_price": 3499.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M5 Pro 18-core CPU 20-core G",
+      "last_seen": "2026-10-13 19:25:13"
+    },
+    "664425436": {
+      "last_price": 3499.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M5 Pro chip 18-core CPU 20-c",
+      "last_seen": "2026-10-13 18:41:28"
+    },
+    "664424611": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Docking Ascrono",
+      "last_seen": "2026-10-13 18:40:43"
+    },
+    "664447969": {
+      "last_price": 2200.0,
+      "notified": false,
+      "title": "MACBOOK PRO M4 16 POLLICI",
+      "last_seen": "2026-10-13 21:56:17"
+    },
+    "664444818": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "MACbook Pro 16” 2019",
+      "last_seen": "2026-10-13 21:16:21"
+    },
+    "664438160": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "macbook pro 16",
+      "last_seen": "2026-10-13 20:13:39"
+    },
+    "664433944": {
+      "last_price": 2000.0,
+      "notified": false,
+      "title": "RAM Notebook 4GB DDR3 1333MHz Samsung 2Rx8 PC3-106",
+      "last_seen": "2026-10-13 19:47:40"
+    },
+    "664430680": {
+      "last_price": 769.0,
+      "notified": false,
+      "title": "2020 Apple MacBook Pro con Apple M1 Chip (13-Polli",
+      "last_seen": "2026-10-13 19:25:48"
+    },
+    "664430375": {
+      "last_price": 3199.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\" M5 Pro chip 18-core CPU 20-c",
+      "last_seen": "2026-10-13 19:25:30"
+    },
+    "664429558": {
+      "last_price": 1250.0,
+      "notified": false,
+      "title": "Surface Laptop Studio 2 i7 13th RTX4050",
+      "last_seen": "2026-10-13 19:05:13"
+    },
+    "664424761": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 M2 16GB Ram / 512GB SSD",
+      "last_seen": "2026-10-13 19:03:15"
+    },
+    "664436683": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook pro 2020 m1 8gb ram 500gb ssd",
+      "last_seen": "2026-10-13 20:01:52"
+    },
+    "664453709": {
+      "last_price": 149.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2018 A1989 i5 256GB NonFunzionante",
+      "last_seen": "2026-10-13 22:46:15"
+    },
+    "664447404": {
+      "last_price": 270.0,
+      "notified": false,
+      "title": "Macbook Pro 15”RETINA -Intel Core i7 16GB/SSD500GB",
+      "last_seen": "2026-10-13 21:42:45"
     }
   },
   "seen_ids": [
@@ -20270,6 +20402,28 @@
     "664413893",
     "664414663",
     "664419195",
-    "664419906"
+    "664419906",
+    "664424611",
+    "664424761",
+    "664425436",
+    "664429558",
+    "664430115",
+    "664430248",
+    "664430375",
+    "664430680",
+    "664430803",
+    "664433944",
+    "664436079",
+    "664436683",
+    "664438160",
+    "664439124",
+    "664439984",
+    "664443995",
+    "664444818",
+    "664446762",
+    "664447404",
+    "664447969",
+    "664448139",
+    "664453709"
   ]
 }
