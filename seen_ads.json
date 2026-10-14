@@ -16488,7 +16488,7 @@
       "last_price": null,
       "notified": false,
       "title": "MacBook Pro 16 M4 MAX",
-      "last_seen": "2026-10-13 13:57:50"
+      "last_seen": "2026-10-14 13:46:28"
     },
     "664236118": {
       "last_price": 879.0,
@@ -17127,7 +17127,7 @@
       "last_seen": "2026-10-13 21:15:24"
     },
     "664439984": {
-      "last_price": 1699.0,
+      "last_price": 1599.0,
       "notified": false,
       "title": "MacBook Pro 14″ M5 16GB 512GB in garanzia",
       "last_seen": "2026-10-13 20:34:35"
@@ -17389,6 +17389,108 @@
       "notified": false,
       "title": "MacBook Pro 13\" Mid 2012 i7 2.9 GHz – 8GB - 1 TB",
       "last_seen": "2026-10-14 11:04:06"
+    },
+    "664535078": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "iPhone 14 128GB Nero| Garanzia 1 anno",
+      "last_seen": "2026-10-14 16:04:25"
+    },
+    "664534508": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "iPhone 14 256GB Nero| Garanzia 1 anno",
+      "last_seen": "2026-10-14 16:04:03"
+    },
+    "664534343": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "iPhone 14 pro 128GB Nero| Garanzia 1 anno",
+      "last_seen": "2026-10-14 16:03:56"
+    },
+    "664534094": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "iPhone 14 Pro Max 128GB viola scuro",
+      "last_seen": "2026-10-14 15:56:05"
+    },
+    "664530324": {
+      "last_price": 1990.0,
+      "notified": false,
+      "title": "MacBook PRO 14” M5 1TB",
+      "last_seen": "2026-10-14 15:31:05"
+    },
+    "664519941": {
+      "last_price": 1700.0,
+      "notified": false,
+      "title": "Macbook Pro M5 16gb perfetto stato",
+      "last_seen": "2026-10-14 14:11:01"
+    },
+    "664509558": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook Pro M2",
+      "last_seen": "2026-10-14 12:42:48"
+    },
+    "664505830": {
+      "last_price": 2599.0,
+      "notified": false,
+      "title": "MacBook Pro 14″ M4 Pro RAM 48Gb, SSD 1TB Ex-Nuovo",
+      "last_seen": "2026-10-14 12:15:02"
+    },
+    "664540662": {
+      "last_price": 340.0,
+      "notified": false,
+      "title": "Macbook air 13 retina2020 16gb ram 256 hd",
+      "last_seen": "2026-10-14 16:45:04"
+    },
+    "664531091": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 512GB | Garanzia Apple",
+      "last_seen": "2026-10-14 15:39:08"
+    },
+    "664516491": {
+      "last_price": 319.0,
+      "notified": false,
+      "title": "MacBook Pro 2017 16 RAM Batteria Nuova",
+      "last_seen": "2026-10-14 13:38:34"
+    },
+    "664541033": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "iPad air10.9\" M1 5a Gen WiFi + Cell",
+      "last_seen": "2026-10-14 16:52:40"
+    },
+    "664511841": {
+      "last_price": 560.0,
+      "notified": false,
+      "title": "Macbook Pro 13” chip M1 2020",
+      "last_seen": "2026-10-14 13:45:54"
+    },
+    "664506342": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Apple MacBook Pro Serie M1 Grigio Antracite",
+      "last_seen": "2026-10-14 12:18:09"
+    },
+    "664541185": {
+      "last_price": 729.0,
+      "notified": false,
+      "title": "iPad Pro 12.9\" M2 6th Gen WiFi + Cell",
+      "last_seen": "2026-10-14 16:52:46"
+    },
+    "664530619": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "Macbook pro",
+      "last_seen": "2026-10-14 15:31:20"
+    },
+    "664519687": {
+      "last_price": 80.0,
+      "notified": false,
+      "title": "Macbook Pro 13’ late 2011",
+      "last_seen": "2026-10-14 14:10:47"
     }
   },
   "seen_ids": [
@@ -20599,6 +20701,23 @@
     "664501400",
     "664502417",
     "664504993",
-    "664505034"
+    "664505034",
+    "664505830",
+    "664506342",
+    "664509558",
+    "664511841",
+    "664516491",
+    "664519687",
+    "664519941",
+    "664530324",
+    "664530619",
+    "664531091",
+    "664534094",
+    "664534343",
+    "664534508",
+    "664535078",
+    "664540662",
+    "664541033",
+    "664541185"
   ]
 }
