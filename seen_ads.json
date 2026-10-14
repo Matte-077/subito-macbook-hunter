@@ -17019,7 +17019,7 @@
       "last_seen": "2026-10-13 10:18:52"
     },
     "664419195": {
-      "last_price": 599.0,
+      "last_price": 539.0,
       "notified": false,
       "title": "Macbook Pro M1 8gb ram 256gb",
       "last_seen": "2026-10-13 17:56:03"
@@ -17319,7 +17319,7 @@
       "last_seen": "2026-10-14 10:41:34"
     },
     "664490070": {
-      "last_price": 325.0,
+      "last_price": 300.0,
       "notified": false,
       "title": "MacBook pro 2019",
       "last_seen": "2026-10-14 10:41:03"
@@ -17491,6 +17491,108 @@
       "notified": false,
       "title": "Macbook Pro 13’ late 2011",
       "last_seen": "2026-10-14 14:10:47"
+    },
+    "664564637": {
+      "last_price": 1070.0,
+      "notified": false,
+      "title": "iPhone 17 Pro Max - SmartEconomy",
+      "last_seen": "2026-10-14 19:45:57"
+    },
+    "664544832": {
+      "last_price": 1490.0,
+      "notified": false,
+      "title": "MacBook Pro M5",
+      "last_seen": "2026-10-14 19:01:08"
+    },
+    "664556421": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M5 2026 | 16GB | 512GB | 98%",
+      "last_seen": "2026-10-14 18:44:36"
+    },
+    "664554056": {
+      "last_price": 2100.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M5 – 32 GB RAM – SSD 1 TB",
+      "last_seen": "2026-10-14 18:36:04"
+    },
+    "664547063": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "MACBOOK PRO 14 M3/8GB/512GB",
+      "last_seen": "2026-10-14 17:32:48"
+    },
+    "664569942": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "Macbook pro 16 m1 pro 16 gb ram",
+      "last_seen": "2026-10-14 20:46:25"
+    },
+    "664561756": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” M1 – Space Grau – con confez",
+      "last_seen": "2026-10-14 19:25:11"
+    },
+    "664558068": {
+      "last_price": 60.0,
+      "notified": false,
+      "title": "Zaino Porta PC Tucano Global 2",
+      "last_seen": "2026-10-14 18:53:09"
+    },
+    "664550693": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook pro da 512 e 16 g di ram",
+      "last_seen": "2026-10-14 17:56:47"
+    },
+    "664550441": {
+      "last_price": 260.0,
+      "notified": false,
+      "title": "MacBook pro 15” (2017)-i7,16GB RAM, 512 GB SSD",
+      "last_seen": "2026-10-14 17:56:34"
+    },
+    "664548438": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "Notebook Ryzen 7 77735HS 16GB DDR5 2025",
+      "last_seen": "2026-10-14 17:41:16"
+    },
+    "664546722": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "IPHONE 16 PRO MAX 256 GB BLACK",
+      "last_seen": "2026-10-14 17:32:37"
+    },
+    "664548305": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M1 (2020) – 8GB RAM / [256] GB",
+      "last_seen": "2026-10-14 17:41:11"
+    },
+    "664572505": {
+      "last_price": 890.0,
+      "notified": false,
+      "title": "MacBook Pro (M2, 2022)",
+      "last_seen": "2026-10-14 21:08:47"
+    },
+    "664561251": {
+      "last_price": 1487.0,
+      "notified": false,
+      "title": "MacBook pro M3",
+      "last_seen": "2026-10-14 19:17:36"
+    },
+    "664563749": {
+      "last_price": 280.0,
+      "notified": false,
+      "title": "Macbook Pro 13\" 2017 touchbar 512gb ssd",
+      "last_seen": "2026-10-14 19:40:54"
+    },
+    "664567207": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Touch Bar intel i7-1TB - 16Gb",
+      "last_seen": "2026-10-14 20:12:30"
     }
   },
   "seen_ids": [
@@ -20718,6 +20820,23 @@
     "664535078",
     "664540662",
     "664541033",
-    "664541185"
+    "664541185",
+    "664544832",
+    "664546722",
+    "664547063",
+    "664548305",
+    "664548438",
+    "664550441",
+    "664550693",
+    "664554056",
+    "664556421",
+    "664558068",
+    "664561251",
+    "664561756",
+    "664563749",
+    "664564637",
+    "664567207",
+    "664569942",
+    "664572505"
   ]
 }
