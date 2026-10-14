@@ -17593,6 +17593,60 @@
       "notified": false,
       "title": "MacBook Pro 15\" Touch Bar intel i7-1TB - 16Gb",
       "last_seen": "2026-10-14 20:12:30"
+    },
+    "664584182": {
+      "last_price": 599.0,
+      "notified": true,
+      "title": "Apple Macbook Pro 14\" 2021 Chip M1Pro RAM 16 GB",
+      "last_seen": "2026-10-14 23:47:08"
+    },
+    "664579934": {
+      "last_price": 1150.0,
+      "notified": false,
+      "title": "Macbook pro  14” M4 16 ram 512 ssd",
+      "last_seen": "2026-10-14 22:33:05"
+    },
+    "664584100": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Mac mini M4 16 GB RAM 256 GB SSD + Garanzia di pro",
+      "last_seen": "2026-10-14 23:47:02"
+    },
+    "664583728": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Mac mini M4 16 GB RAM 256 GB SSD + Garanzia di pro",
+      "last_seen": "2026-10-14 23:46:36"
+    },
+    "664575219": {
+      "last_price": 12.0,
+      "notified": false,
+      "title": "3 Cavi USB-C 100W iPhone 16 Samsung MacBook NUOVI",
+      "last_seen": "2026-10-14 23:33:13"
+    },
+    "664578270": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 16” TouchBar 512GB Grigio Siserale",
+      "last_seen": "2026-10-14 22:15:28"
+    },
+    "664576225": {
+      "last_price": 210.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Retina - Intel i7 / 16GB RAM",
+      "last_seen": "2026-10-14 21:59:34"
+    },
+    "664575623": {
+      "last_price": 5.0,
+      "notified": false,
+      "title": "Cavo USB-C 1m 100W iPhone 16 Samsung MacBook NUOVO",
+      "last_seen": "2026-10-14 21:46:00"
+    },
+    "664575324": {
+      "last_price": 6.0,
+      "notified": false,
+      "title": "Cavo USB-C 2m 100W iPhone 16 Samsung MacBook NUOVO",
+      "last_seen": "2026-10-14 21:45:41"
     }
   },
   "seen_ids": [
@@ -20837,6 +20891,15 @@
     "664564637",
     "664567207",
     "664569942",
-    "664572505"
+    "664572505",
+    "664575219",
+    "664575324",
+    "664575623",
+    "664576225",
+    "664578270",
+    "664579934",
+    "664583728",
+    "664584100",
+    "664584182"
   ]
 }
