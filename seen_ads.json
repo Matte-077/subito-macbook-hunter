@@ -187,7 +187,7 @@
       "notified": false
     },
     "642131103": {
-      "last_price": 339.0,
+      "last_price": 449.0,
       "notified": false,
       "title": "Apple Macbook Pro 2019 - i5 - 8 gb - 256 GB SSD",
       "last_seen": "2026-09-19 18:49:35"
@@ -7473,10 +7473,10 @@
       "last_seen": "2026-09-22 14:03:01"
     },
     "661695138": {
-      "last_price": 270.0,
+      "last_price": 250.0,
       "notified": false,
       "title": "Apple Macbook pro 15",
-      "last_seen": "2026-09-22 14:02:45"
+      "last_seen": "2026-10-15 13:02:03"
     },
     "661695307": {
       "last_price": 100.0,
@@ -9309,10 +9309,10 @@
       "last_seen": "2026-09-26 14:49:06"
     },
     "656941037": {
-      "last_price": 320.0,
+      "last_price": 300.0,
       "notified": false,
       "title": "MacBook Pro Retina 256Gb",
-      "last_seen": "2026-09-26 15:04:49"
+      "last_seen": "2026-10-15 12:46:00"
     },
     "662230322": {
       "last_price": 119.0,
@@ -13761,10 +13761,10 @@
       "last_seen": "2026-10-06 15:12:45"
     },
     "663505604": {
-      "last_price": 950.0,
+      "last_price": 900.0,
       "notified": false,
       "title": "MacBook Pro, 16”, 2021, M1",
-      "last_seen": "2026-10-06 14:56:47"
+      "last_seen": "2026-10-14 16:11:41"
     },
     "663511164": {
       "last_price": 700.0,
@@ -15147,7 +15147,7 @@
       "last_seen": "2026-10-09 18:38:34"
     },
     "663945726": {
-      "last_price": 1450.0,
+      "last_price": 1300.0,
       "notified": false,
       "title": "MacBook Pro 16\" M3 Pro 18GB/512GB - display rotto",
       "last_seen": "2026-10-09 20:35:45"
@@ -15603,7 +15603,7 @@
       "last_seen": "2026-10-10 11:48:47"
     },
     "664022641": {
-      "last_price": 200.0,
+      "last_price": 180.0,
       "notified": true,
       "title": "Lotto 2 macbook (pro 15”A1398 + macbook 12” A1534)",
       "last_seen": "2026-10-10 14:52:24"
@@ -16488,7 +16488,7 @@
       "last_price": null,
       "notified": false,
       "title": "MacBook Pro 16 M4 MAX",
-      "last_seen": "2026-10-14 13:46:28"
+      "last_seen": "2026-10-15 13:54:21"
     },
     "664236118": {
       "last_price": 879.0,
@@ -17773,6 +17773,228 @@
       "notified": false,
       "title": "MacBook Pro portatile",
       "last_seen": "2026-10-15 11:05:28"
+    },
+    "664660610": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "iPhone 14 256GB Nero| Garanzia 1 anno",
+      "last_seen": "2026-10-15 16:30:59"
+    },
+    "664660480": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "iPhone 14 pro 128GB Nero| Garanzia 1 anno",
+      "last_seen": "2026-10-15 16:30:53"
+    },
+    "664660064": {
+      "last_price": 1649.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M4 10Core RAM 16Gb SSD 1Tb Ex-Nuovo",
+      "last_seen": "2026-10-15 16:30:41"
+    },
+    "664660086": {
+      "last_price": 6399.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M3 Max,128GB,8TB, 40Core GPU",
+      "last_seen": "2026-10-15 16:30:33"
+    },
+    "664659640": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "iPhone 14 Pro Max 128GB viola scuro",
+      "last_seen": "2026-10-15 16:30:12"
+    },
+    "664659562": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 14″ M3 Pro 14Core RAM 18Gb, SSD 512Gb",
+      "last_seen": "2026-10-15 16:30:09"
+    },
+    "664659536": {
+      "last_price": 3399.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M3 Max RAM 64Gb, SSD 1Tb Ex-Nuovo",
+      "last_seen": "2026-10-15 16:30:06"
+    },
+    "664658915": {
+      "last_price": 1649.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M4 10Core RAM 16Gb SSD 1Tb Ex-Nuovo",
+      "last_seen": "2026-10-15 16:29:32"
+    },
+    "664658840": {
+      "last_price": 2499.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M5 pro 16core GPU 24gb ram 1tb ssd",
+      "last_seen": "2026-10-15 16:29:30"
+    },
+    "664658871": {
+      "last_price": 2949.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3 Max 40Core RAM 48Gb SSD 1Tb",
+      "last_seen": "2026-10-15 16:19:08"
+    },
+    "664658754": {
+      "last_price": 1780.0,
+      "notified": false,
+      "title": "Macbook pro 14 M5 1TB",
+      "last_seen": "2026-10-15 16:19:07"
+    },
+    "664646348": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M2 Pro(2023)-PER PARTI DI RICAMBIO",
+      "last_seen": "2026-10-15 16:18:46"
+    },
+    "664645730": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook Pro 14’’ M2 Pro(2023)PER PARTI DI RICAMBIO",
+      "last_seen": "2026-10-15 16:18:45"
+    },
+    "664655742": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "ACQUISTIAMO E PERMUTIAMO MACBOOK, SURFACE",
+      "last_seen": "2026-10-15 15:56:48"
+    },
+    "664653887": {
+      "last_price": 1979.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" M1 MAX -32GB 2TB -10C CPU/32C GPU",
+      "last_seen": "2026-10-15 15:37:49"
+    },
+    "664652164": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "PC MacBook Pro Con processore M4, 16GB RAM",
+      "last_seen": "2026-10-15 15:29:54"
+    },
+    "664650033": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" M1 MAX 32GB 2TB -10C CPU/32C GPU",
+      "last_seen": "2026-10-15 15:13:14"
+    },
+    "664642930": {
+      "last_price": 2850.0,
+      "notified": false,
+      "title": "macbook pro 14 m3 max 36gb 1tb",
+      "last_seen": "2026-10-15 14:47:10"
+    },
+    "664642586": {
+      "last_price": 2650.0,
+      "notified": false,
+      "title": "macbook pro 14 m3 max 36gb 1tb",
+      "last_seen": "2026-10-15 14:15:18"
+    },
+    "664659472": {
+      "last_price": 1599.0,
+      "notified": false,
+      "title": "MacBook Pro 16′′ M2 Pro 19Core RAM 16Gb, SSD 512Gb",
+      "last_seen": "2026-10-15 16:30:17"
+    },
+    "664659493": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M2 Pro 19Core RAM 16Gb, SSD 512Gb",
+      "last_seen": "2026-10-15 16:30:07"
+    },
+    "664659055": {
+      "last_price": 2569.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M4 Pro RAM 24Gb, SSD 512GB Ex-Nuovo",
+      "last_seen": "2026-10-15 16:29:48"
+    },
+    "664659067": {
+      "last_price": 6699.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3 Max 128GB Ram 8TB Ssd 40Core GPU",
+      "last_seen": "2026-10-15 16:29:34"
+    },
+    "664656427": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 512GB | Garanzia Apple",
+      "last_seen": "2026-10-15 15:57:23"
+    },
+    "664656341": {
+      "last_price": 375.0,
+      "notified": false,
+      "title": "Macbook Pro 2017 16GB 256GB",
+      "last_seen": "2026-10-15 15:57:18"
+    },
+    "664655131": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "MacBook pro touch bar 16”",
+      "last_seen": "2026-10-15 15:47:08"
+    },
+    "664639354": {
+      "last_price": 1699.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16 M3 Pro 36GB 512GB SSD",
+      "last_seen": "2026-10-15 13:55:59"
+    },
+    "664636385": {
+      "last_price": 1980.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-10-15 13:37:33"
+    },
+    "664633454": {
+      "last_price": 195.0,
+      "notified": false,
+      "title": "MacBookPro 16” A2141 2019 – i9 32 gb Non Funziona",
+      "last_seen": "2026-10-15 13:04:06"
+    },
+    "664660041": {
+      "last_price": 649.0,
+      "notified": false,
+      "title": "MACBOOK PRO 13,3” M1",
+      "last_seen": "2026-10-15 16:30:31"
+    },
+    "664649390": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook pro",
+      "last_seen": "2026-10-15 15:05:37"
+    },
+    "664633154": {
+      "last_price": 570.0,
+      "notified": false,
+      "title": "mackbook pro m1 256gb",
+      "last_seen": "2026-10-15 13:03:51"
+    },
+    "664659174": {
+      "last_price": 649.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13″ M2 8/256 92%",
+      "last_seen": "2026-10-15 16:29:51"
+    },
+    "664664091": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Macbook pro 13 2009 magsafe DVD",
+      "last_seen": "2026-10-15 16:58:49"
+    },
+    "664640453": {
+      "last_price": 280.0,
+      "notified": false,
+      "title": "MacBook Pro 17\" Early 2011",
+      "last_seen": "2026-10-15 13:57:15"
+    },
+    "664656993": {
+      "last_price": 839.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 8/512GB Nuovo",
+      "last_seen": "2026-10-15 16:06:42"
+    },
+    "664641264": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Apple MacBook Pro Touch Bar portatile notebook pc",
+      "last_seen": "2026-10-15 14:13:36"
     }
   },
   "seen_ids": [
@@ -21047,6 +21269,43 @@
     "664621679",
     "664623238",
     "664624487",
-    "664626221"
+    "664626221",
+    "664633154",
+    "664633454",
+    "664636385",
+    "664639354",
+    "664640453",
+    "664641264",
+    "664642586",
+    "664642930",
+    "664645730",
+    "664646348",
+    "664649390",
+    "664650033",
+    "664652164",
+    "664653887",
+    "664655131",
+    "664655742",
+    "664656341",
+    "664656427",
+    "664656993",
+    "664658754",
+    "664658840",
+    "664658871",
+    "664658915",
+    "664659055",
+    "664659067",
+    "664659174",
+    "664659472",
+    "664659493",
+    "664659536",
+    "664659562",
+    "664659640",
+    "664660041",
+    "664660064",
+    "664660086",
+    "664660480",
+    "664660610",
+    "664664091"
   ]
 }
