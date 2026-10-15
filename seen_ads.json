@@ -12531,7 +12531,7 @@
       "last_seen": "2026-10-03 13:29:00"
     },
     "663122899": {
-      "last_price": 1250.0,
+      "last_price": 1200.0,
       "notified": false,
       "title": "Apple MacBook Pro M3",
       "last_seen": "2026-10-03 13:12:09"
@@ -17547,7 +17547,7 @@
       "last_seen": "2026-10-14 17:56:47"
     },
     "664550441": {
-      "last_price": 260.0,
+      "last_price": 250.0,
       "notified": false,
       "title": "MacBook pro 15” (2017)-i7,16GB RAM, 512 GB SSD",
       "last_seen": "2026-10-14 17:56:34"
@@ -17995,6 +17995,102 @@
       "notified": false,
       "title": "Apple MacBook Pro Touch Bar portatile notebook pc",
       "last_seen": "2026-10-15 14:13:36"
+    },
+    "664694646": {
+      "last_price": null,
+      "notified": false,
+      "title": "Macbook Pro M5 14” 2026 + Apple Studio Display",
+      "last_seen": "2026-10-15 20:48:29"
+    },
+    "664693629": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c con cavetto usb-c",
+      "last_seen": "2026-10-15 20:31:49"
+    },
+    "664692996": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" con chip Apple M2",
+      "last_seen": "2026-10-15 20:31:04"
+    },
+    "664682550": {
+      "last_price": 1969.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 Space Black | 16GB 1TB NUOVO",
+      "last_seen": "2026-10-15 19:33:17"
+    },
+    "664686158": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Pro",
+      "last_seen": "2026-10-15 19:16:03"
+    },
+    "664681746": {
+      "last_price": 3249.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 Pro 24/2TB - NUOVO SIGILLATO",
+      "last_seen": "2026-10-15 18:50:16"
+    },
+    "664666890": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 16 m1 anno 2022 63 cicli nuovo complet",
+      "last_seen": "2026-10-15 17:29:25"
+    },
+    "664690007": {
+      "last_price": 1850.0,
+      "notified": false,
+      "title": "MacBook Pro chip M5 memoria 16GB SSD 512GB 14,2\"",
+      "last_seen": "2026-10-15 19:55:10"
+    },
+    "664687882": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "MacBook pro Chip M4 apple",
+      "last_seen": "2026-10-15 19:36:27"
+    },
+    "664684935": {
+      "last_price": 3199.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M3 Max NERO | 48GB 1TB | Garanzia",
+      "last_seen": "2026-10-15 19:34:15"
+    },
+    "664683212": {
+      "last_price": 2400.0,
+      "notified": false,
+      "title": "Dell 16 Premium Ultra 9 285H 32GB 1TB gtx 5070",
+      "last_seen": "2026-10-15 18:51:26"
+    },
+    "664669490": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Retina (Mid 2014/2015) - i7 / 16GB",
+      "last_seen": "2026-10-15 17:46:15"
+    },
+    "664688814": {
+      "last_price": 2000.0,
+      "notified": false,
+      "title": "MACBOOK M4 PRO 512GB 24GB RAM",
+      "last_seen": "2026-10-15 19:37:22"
+    },
+    "664693981": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Apple 85w magsafe 2 alimentatore x MacBook Pro 15”",
+      "last_seen": "2026-10-15 20:32:08"
+    },
+    "664693462": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "MacBook Pro 13” retina SSD 500/ Ram 8 batt. Nuova",
+      "last_seen": "2026-10-15 20:31:37"
+    },
+    "664664833": {
+      "last_price": 299.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" (2017) USATO",
+      "last_seen": "2026-10-15 17:12:53"
     }
   },
   "seen_ids": [
@@ -21306,6 +21402,22 @@
     "664660086",
     "664660480",
     "664660610",
-    "664664091"
+    "664664091",
+    "664664833",
+    "664666890",
+    "664669490",
+    "664681746",
+    "664682550",
+    "664683212",
+    "664684935",
+    "664686158",
+    "664687882",
+    "664688814",
+    "664690007",
+    "664692996",
+    "664693462",
+    "664693629",
+    "664693981",
+    "664694646"
   ]
 }
