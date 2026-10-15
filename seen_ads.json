@@ -18091,6 +18091,48 @@
       "notified": false,
       "title": "MacBook Pro 13\" (2017) USATO",
       "last_seen": "2026-10-15 17:12:53"
+    },
+    "664710535": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Macbook Pro M4 14' - 1TB -16GB RAM",
+      "last_seen": "2026-10-16 00:11:19"
+    },
+    "664698858": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Pro (2021)",
+      "last_seen": "2026-10-15 21:27:14"
+    },
+    "664708880": {
+      "last_price": 230.0,
+      "notified": false,
+      "title": "Macbook Pro 15 Pollici",
+      "last_seen": "2026-10-15 23:23:47"
+    },
+    "664704480": {
+      "last_price": 240.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2020",
+      "last_seen": "2026-10-15 23:08:19"
+    },
+    "664703746": {
+      "last_price": 2590.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M5 Pro 24GB 1TB - Nuovo Sigillato",
+      "last_seen": "2026-10-15 22:18:32"
+    },
+    "664699037": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook pro i7 2019",
+      "last_seen": "2026-10-15 21:27:24"
+    },
+    "664703272": {
+      "last_price": 281.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13.3\"",
+      "last_seen": "2026-10-15 22:03:44"
     }
   },
   "seen_ids": [
@@ -21418,6 +21460,13 @@
     "664693462",
     "664693629",
     "664693981",
-    "664694646"
+    "664694646",
+    "664698858",
+    "664699037",
+    "664703272",
+    "664703746",
+    "664704480",
+    "664708880",
+    "664710535"
   ]
 }
