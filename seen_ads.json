@@ -17647,6 +17647,18 @@
       "notified": false,
       "title": "Cavo USB-C 2m 100W iPhone 16 Samsung MacBook NUOVO",
       "last_seen": "2026-10-14 21:45:41"
+    },
+    "664586733": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "Nuovo | MacBook Pro 14 | M5, 16 GB di RAM, 1 TB",
+      "last_seen": "2026-10-15 01:08:43"
+    },
+    "664590290": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook pro m2",
+      "last_seen": "2026-10-15 02:20:51"
     }
   },
   "seen_ids": [
@@ -20900,6 +20912,8 @@
     "664579934",
     "664583728",
     "664584100",
-    "664584182"
+    "664584182",
+    "664586733",
+    "664590290"
   ]
 }
