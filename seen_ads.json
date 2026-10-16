@@ -18000,7 +18000,7 @@
       "last_price": null,
       "notified": false,
       "title": "Macbook Pro M5 14” 2026 + Apple Studio Display",
-      "last_seen": "2026-10-15 20:48:29"
+      "last_seen": "2026-10-16 20:50:06"
     },
     "664693629": {
       "last_price": 49.0,
@@ -18511,6 +18511,48 @@
       "notified": false,
       "title": "MacBook 12\" Retina + Custodia",
       "last_seen": "2026-10-16 17:11:54"
+    },
+    "664815714": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M4 Max|36gb/1tb garanzia lug 2028",
+      "last_seen": "2026-10-16 21:20:12"
+    },
+    "664802167": {
+      "last_price": 989.0,
+      "notified": false,
+      "title": "MacBook Pro 14.2\"|M1 Pro|16GB / 512GB| + Accessori",
+      "last_seen": "2026-10-16 20:33:30"
+    },
+    "664822885": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook pro",
+      "last_seen": "2026-10-16 22:36:15"
+    },
+    "664821968": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "macbook pro 16''  M1 MAX  10C/32GB/1TB",
+      "last_seen": "2026-10-16 22:22:42"
+    },
+    "664817432": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "macbook pro i9",
+      "last_seen": "2026-10-16 21:21:18"
+    },
+    "664812641": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro M2",
+      "last_seen": "2026-10-16 20:18:42"
+    },
+    "664821558": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "Samsung Z Fold 8 Ultra 256 gb",
+      "last_seen": "2026-10-16 22:50:31"
     }
   },
   "seen_ids": [
@@ -21906,8 +21948,15 @@
     "664797685",
     "664798882",
     "664801319",
+    "664802167",
     "664806600",
     "664807226",
-    "664809743"
+    "664809743",
+    "664812641",
+    "664815714",
+    "664817432",
+    "664821558",
+    "664821968",
+    "664822885"
   ]
 }
