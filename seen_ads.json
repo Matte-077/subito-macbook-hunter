@@ -187,10 +187,10 @@
       "notified": false
     },
     "642131103": {
-      "last_price": 449.0,
+      "last_price": 429.0,
       "notified": false,
-      "title": "Apple Macbook Pro 2019 - i5 - 8 gb - 256 GB SSD",
-      "last_seen": "2026-09-19 18:49:35"
+      "title": "Apple Macbook Pro 2019 - i5 - 16 gb - 500 GB SSD",
+      "last_seen": "2026-10-15 18:48:08"
     },
     "642416141": {
       "last_price": 799.0,
@@ -907,10 +907,10 @@
       "notified": false
     },
     "658038207": {
-      "last_price": 2700.0,
+      "last_price": 2650.0,
       "notified": false,
       "title": "Apple MacBook pro 14” -  M5 PRO -  24 ram 2TB SSD",
-      "last_seen": "2026-09-22 18:24:47"
+      "last_seen": "2026-10-16 07:53:01"
     },
     "658054715": {
       "last_price": null,
@@ -16947,10 +16947,10 @@
       "last_seen": "2026-10-13 11:06:04"
     },
     "664397839": {
-      "last_price": 1850.0,
+      "last_price": 1700.0,
       "notified": false,
       "title": "Macbook pro 16 M3 pro 18Gb 512Gb",
-      "last_seen": "2026-10-13 17:30:34"
+      "last_seen": "2026-10-15 19:11:02"
     },
     "664406349": {
       "last_price": 1500.0,
@@ -18145,6 +18145,102 @@
       "notified": false,
       "title": "Apple MacBook Pro  2016",
       "last_seen": "2026-10-16 06:48:28"
+    },
+    "664749374": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M1 Max 32GB/2TB ITALIANO",
+      "last_seen": "2026-10-16 11:46:40"
+    },
+    "664749013": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" M1 MAX 32GB 2TB -10C CPU/32C GPU",
+      "last_seen": "2026-10-16 11:46:22"
+    },
+    "664745189": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MacBook Po 14\" M2 Max 32Gb/1TB",
+      "last_seen": "2026-10-16 11:25:19"
+    },
+    "664742444": {
+      "last_price": 1039.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M3, 8GB, 512GB - IN GARANZIA",
+      "last_seen": "2026-10-16 11:05:40"
+    },
+    "664728251": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w  MacBook Pro 13/14”",
+      "last_seen": "2026-10-16 09:07:20"
+    },
+    "664725448": {
+      "last_price": 940.0,
+      "notified": false,
+      "title": "Appls MacBook Pro 14\" M3",
+      "last_seen": "2026-10-16 08:31:27"
+    },
+    "664748116": {
+      "last_price": 1380.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M1 Max 32GB 1TB - tenuto bene",
+      "last_seen": "2026-10-16 11:45:33"
+    },
+    "664746059": {
+      "last_price": 1050.0,
+      "notified": false,
+      "title": "MacBook Air M4 16/512",
+      "last_seen": "2026-10-16 11:26:02"
+    },
+    "664735285": {
+      "last_price": 580.0,
+      "notified": true,
+      "title": "MacBook Pro 16″ M4 Pro",
+      "last_seen": "2026-10-16 11:25:51"
+    },
+    "664745513": {
+      "last_price": 1400.0,
+      "notified": false,
+      "title": "Apple MacBook PRO 16\" M1 Max 32Gb RAM",
+      "last_seen": "2026-10-16 11:25:35"
+    },
+    "664742167": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "Macbook Pro i9 Ram 16 Gb SSD 512 Gb 2019 Touchbar",
+      "last_seen": "2026-10-16 11:05:28"
+    },
+    "664741834": {
+      "last_price": 1549.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M1 Max RAM 32Gb, SSD 1Tb Ex Demo",
+      "last_seen": "2026-10-16 11:05:02"
+    },
+    "664741680": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\" 2021 M1 Pro 16GB",
+      "last_seen": "2026-10-16 11:04:53"
+    },
+    "664740468": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 13”",
+      "last_seen": "2026-10-16 10:46:38"
+    },
+    "664746501": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" M1 – 8GB RAM / 512GB SSD – B",
+      "last_seen": "2026-10-16 11:26:20"
+    },
+    "664730769": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro (Retina, 13-inch, 2015)",
+      "last_seen": "2026-10-16 10:01:41"
     }
   },
   "seen_ids": [
@@ -21481,6 +21577,22 @@
     "664708880",
     "664710535",
     "664712250",
-    "664720589"
+    "664720589",
+    "664725448",
+    "664728251",
+    "664730769",
+    "664735285",
+    "664740468",
+    "664741680",
+    "664741834",
+    "664742167",
+    "664742444",
+    "664745189",
+    "664745513",
+    "664746059",
+    "664746501",
+    "664748116",
+    "664749013",
+    "664749374"
   ]
 }
