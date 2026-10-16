@@ -965,10 +965,10 @@
       "last_seen": "2026-08-25 10:28:17"
     },
     "658250146": {
-      "last_price": 300.0,
+      "last_price": 250.0,
       "notified": false,
-      "title": "SanDisk Extreme SSD 2TB Portatile Nuovo Sigillato",
-      "last_seen": "2026-09-16 21:14:08"
+      "title": "SSD SanDisk Extreme 2TB Esterno USB-C Sigillato",
+      "last_seen": "2026-10-16 14:40:49"
     },
     "658259119": {
       "last_price": null,
@@ -6411,10 +6411,10 @@
       "last_seen": "2026-09-20 11:48:32"
     },
     "661417921": {
-      "last_price": 699.0,
+      "last_price": 650.0,
       "notified": false,
-      "title": "Macbook Pro 13 M2 8GB 256GB TouchBar Batteria 93%",
-      "last_seen": "2026-09-30 08:55:31"
+      "title": "Macbook Pro 13 M2 256GB TouchBar Batteria 93%",
+      "last_seen": "2026-10-16 13:21:12"
     },
     "661418064": {
       "last_price": 40.0,
@@ -15747,10 +15747,10 @@
       "last_seen": "2026-10-10 19:14:29"
     },
     "664055105": {
-      "last_price": 575.0,
+      "last_price": 527.0,
       "notified": false,
       "title": "MacBook Pro 15\" i7 16/512 144 Cicli Come Nuovo",
-      "last_seen": "2026-10-10 18:36:36"
+      "last_seen": "2026-10-15 19:13:52"
     },
     "664050447": {
       "last_price": 450.0,
@@ -16488,7 +16488,7 @@
       "last_price": null,
       "notified": false,
       "title": "MacBook Pro 16 M4 MAX",
-      "last_seen": "2026-10-15 13:54:21"
+      "last_seen": "2026-10-16 14:00:45"
     },
     "664236118": {
       "last_price": 879.0,
@@ -17955,7 +17955,7 @@
       "last_seen": "2026-10-15 16:30:31"
     },
     "664649390": {
-      "last_price": 750.0,
+      "last_price": 700.0,
       "notified": false,
       "title": "Macbook pro",
       "last_seen": "2026-10-15 15:05:37"
@@ -18093,7 +18093,7 @@
       "last_seen": "2026-10-15 17:12:53"
     },
     "664710535": {
-      "last_price": 1500.0,
+      "last_price": 1469.0,
       "notified": false,
       "title": "Macbook Pro M4 14' - 1TB -16GB RAM",
       "last_seen": "2026-10-16 00:11:19"
@@ -18241,6 +18241,132 @@
       "notified": false,
       "title": "MacBook Pro (Retina, 13-inch, 2015)",
       "last_seen": "2026-10-16 10:01:41"
+    },
+    "664782112": {
+      "last_price": 380.0,
+      "notified": false,
+      "title": "Macbook Pro M1Pro 14”",
+      "last_seen": "2026-10-16 16:14:27"
+    },
+    "664780521": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Macbook Pro M1Pro 14” grigio siderale",
+      "last_seen": "2026-10-16 16:12:55"
+    },
+    "664776934": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "Apple MacBook Pro, A2442, 14\", M1 Pro, 512 GB",
+      "last_seen": "2026-10-16 15:35:33"
+    },
+    "664772563": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M5 16GB 1TB",
+      "last_seen": "2026-10-16 15:16:42"
+    },
+    "664761653": {
+      "last_price": 1990.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M5 24GB 512GB AppleCare+ 2029",
+      "last_seen": "2026-10-16 13:39:57"
+    },
+    "664757680": {
+      "last_price": 1799.0,
+      "notified": false,
+      "title": "MacBook Pro 14″ M5 10Core RAM 16Gb, SSD 1Tb Ex-Nuo",
+      "last_seen": "2026-10-16 13:02:39"
+    },
+    "664781127": {
+      "last_price": 2299.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M3 Pro RAM 36Gb, SSD 1 Tb Ex-Nuovo",
+      "last_seen": "2026-10-16 16:13:28"
+    },
+    "664779376": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 512GB | Garanzia Apple",
+      "last_seen": "2026-10-16 15:55:10"
+    },
+    "664755805": {
+      "last_price": 1599.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M1 Max RAM 32Gb, SSD 1Tb Ex-Nuovo",
+      "last_seen": "2026-10-16 12:44:20"
+    },
+    "664755050": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 15 (2017)  - 16GM RAM - 256 SSD",
+      "last_seen": "2026-10-16 12:26:55"
+    },
+    "664753900": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-10-16 12:26:00"
+    },
+    "664779163": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro M1 touch bar",
+      "last_seen": "2026-10-16 15:54:58"
+    },
+    "664773749": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" T. Bar – 8 GB / RAM 512 GB SSD -M1",
+      "last_seen": "2026-10-16 15:33:02"
+    },
+    "664770631": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "iPad Pro M2 11 256GB wifi+5g pencil&keyboard",
+      "last_seen": "2026-10-16 14:58:42"
+    },
+    "664768842": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "Macbook AIR M3 2024 13,6 256gb permuto con ipad 13",
+      "last_seen": "2026-10-16 14:41:57"
+    },
+    "664778511": {
+      "last_price": 130.0,
+      "notified": false,
+      "title": "Apple MacBook Pro - 2012 - SSD 500 GB",
+      "last_seen": "2026-10-16 15:54:26"
+    },
+    "664765749": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-10-16 14:04:00"
+    },
+    "664761239": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-10-16 13:23:29"
+    },
+    "664755323": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-10-16 12:43:54"
+    },
+    "664765319": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "MacBook pro 2012 15 pollici",
+      "last_seen": "2026-10-16 14:03:34"
+    },
+    "664760394": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-10-16 13:22:33"
     }
   },
   "seen_ids": [
@@ -21593,6 +21719,27 @@
     "664746501",
     "664748116",
     "664749013",
-    "664749374"
+    "664749374",
+    "664753900",
+    "664755050",
+    "664755323",
+    "664755805",
+    "664757680",
+    "664760394",
+    "664761239",
+    "664761653",
+    "664765319",
+    "664765749",
+    "664768842",
+    "664770631",
+    "664772563",
+    "664773749",
+    "664776934",
+    "664778511",
+    "664779163",
+    "664779376",
+    "664780521",
+    "664781127",
+    "664782112"
   ]
 }
