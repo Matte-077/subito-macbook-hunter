@@ -11799,10 +11799,10 @@
       "last_seen": "2026-10-01 19:29:21"
     },
     "662922241": {
-      "last_price": 180.0,
+      "last_price": 150.0,
       "notified": false,
       "title": "MacBook Pro 13\" Early 2011 potenziato",
-      "last_seen": "2026-10-04 19:55:18"
+      "last_seen": "2026-10-16 23:47:20"
     },
     "662924336": {
       "last_price": 670.0,
@@ -18553,6 +18553,30 @@
       "notified": false,
       "title": "Samsung Z Fold 8 Ultra 256 gb",
       "last_seen": "2026-10-16 22:50:31"
+    },
+    "664829597": {
+      "last_price": 2199.0,
+      "notified": false,
+      "title": "Macbook Pro 14 M4 Pro 1TB 24GB nero PARI AL NUOVO",
+      "last_seen": "2026-10-17 01:13:50"
+    },
+    "664827536": {
+      "last_price": 9.0,
+      "notified": false,
+      "title": "Apple Adattatore Originale da TypeC a Jack 3,5mm",
+      "last_seen": "2026-10-17 00:16:13"
+    },
+    "664828931": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook pro 13’’ M1 256gb 2020",
+      "last_seen": "2026-10-17 00:58:52"
+    },
+    "664827005": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Macbook pro 13” M2",
+      "last_seen": "2026-10-17 00:01:26"
     }
   },
   "seen_ids": [
@@ -21957,6 +21981,10 @@
     "664817432",
     "664821558",
     "664821968",
-    "664822885"
+    "664822885",
+    "664827005",
+    "664827536",
+    "664828931",
+    "664829597"
   ]
 }
