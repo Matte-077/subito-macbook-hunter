@@ -18825,6 +18825,36 @@
       "notified": false,
       "title": "MacBook 13 Pro",
       "last_seen": "2026-10-17 20:09:54"
+    },
+    "664944946": {
+      "last_price": 1799.0,
+      "notified": false,
+      "title": "MSI Creator Z16 Fujiwara Limited Edition | i7 |RTX",
+      "last_seen": "2026-10-17 23:39:47"
+    },
+    "664943261": {
+      "last_price": 1400.0,
+      "notified": false,
+      "title": "Macbook Pro 16’’ M3 Pro 36Gb Ram 512ssd",
+      "last_seen": "2026-10-17 22:59:15"
+    },
+    "664940378": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro 15” 2016-i7-16GB RAM-SSD 500GB",
+      "last_seen": "2026-10-17 22:03:45"
+    },
+    "664941230": {
+      "last_price": 380.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M1 (2020) - 8GB RAM / 256GB SSD",
+      "last_seen": "2026-10-17 22:16:23"
+    },
+    "664939345": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "Oppo Find N5 Fold - Come Nuovo / Perfetto - Garanz",
+      "last_seen": "2026-10-17 21:59:13"
     }
   },
   "seen_ids": [
@@ -22274,6 +22304,11 @@
     "664924639",
     "664930467",
     "664931573",
-    "664932855"
+    "664932855",
+    "664939345",
+    "664940378",
+    "664941230",
+    "664943261",
+    "664944946"
   ]
 }
