@@ -12569,7 +12569,7 @@
       "last_seen": "2026-10-03 14:26:40"
     },
     "663149650": {
-      "last_price": 700.0,
+      "last_price": 750.0,
       "notified": false,
       "title": "iPad Pro + apple pencil + tastiera originale Apple",
       "last_seen": "2026-10-03 15:02:18"
@@ -18461,10 +18461,10 @@
       "last_seen": "2026-10-16 17:14:13"
     },
     "664783381": {
-      "last_price": 850.0,
-      "notified": false,
+      "last_price": 799.0,
+      "notified": true,
       "title": "Macbook pro 16’ M1 pro 2021",
-      "last_seen": "2026-10-16 16:32:47"
+      "last_seen": "2026-10-17 18:37:55"
     },
     "664794851": {
       "last_price": 600.0,
@@ -18753,6 +18753,60 @@
       "notified": false,
       "title": "“MacBook Pro 13 “ con touch bar 2020/2021",
       "last_seen": "2026-10-17 16:13:26"
+    },
+    "664923948": {
+      "last_price": 800.0,
+      "notified": true,
+      "title": "MacBook Pro M2 (2023) | 14“ | 16GB | 512GB",
+      "last_seen": "2026-10-17 18:40:21"
+    },
+    "664912204": {
+      "last_price": 479.0,
+      "notified": false,
+      "title": "Apple MacBook Air M1  Space Gray 8/512 GB",
+      "last_seen": "2026-10-17 17:18:25"
+    },
+    "664910947": {
+      "last_price": 1150.0,
+      "notified": false,
+      "title": "Macbook Pro M1 14”",
+      "last_seen": "2026-10-17 17:03:03"
+    },
+    "664913279": {
+      "last_price": 12.0,
+      "notified": false,
+      "title": "Cavo USB C a HDMI JSAUX 4K 60Hz - 1 Metro - Nuovo",
+      "last_seen": "2026-10-17 17:19:17"
+    },
+    "664906925": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Macbook pro 13.3” i7 16gb",
+      "last_seen": "2026-10-17 16:30:36"
+    },
+    "664924639": {
+      "last_price": 920.0,
+      "notified": false,
+      "title": "Macbook pro m3 512gb ssd",
+      "last_seen": "2026-10-17 18:55:10"
+    },
+    "664924326": {
+      "last_price": 2699.0,
+      "notified": false,
+      "title": "Apple Mac Studio M4 Max 36Gb 512Gb",
+      "last_seen": "2026-10-17 18:54:53"
+    },
+    "664918247": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "Macbook air M4 - come nuovo",
+      "last_seen": "2026-10-17 18:06:58"
+    },
+    "664914113": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" early 2011 con batteria nuova",
+      "last_seen": "2026-10-17 17:34:18"
     }
   },
   "seen_ids": [
@@ -22190,6 +22244,15 @@
     "664889663",
     "664897784",
     "664900637",
-    "664904869"
+    "664904869",
+    "664906925",
+    "664910947",
+    "664912204",
+    "664913279",
+    "664914113",
+    "664918247",
+    "664923948",
+    "664924326",
+    "664924639"
   ]
 }
