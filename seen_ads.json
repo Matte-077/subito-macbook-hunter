@@ -12785,7 +12785,7 @@
       "last_seen": "2026-10-03 20:53:46"
     },
     "663106428": {
-      "last_price": 139.0,
+      "last_price": 169.0,
       "notified": false,
       "title": "Macbook supporto cuffie monitor casse in noce",
       "last_seen": "2026-10-13 01:29:33"
@@ -18002,7 +18002,7 @@
       "last_price": null,
       "notified": false,
       "title": "Macbook Pro M5 14” 2026 + Apple Studio Display",
-      "last_seen": "2026-10-16 20:50:06"
+      "last_seen": "2026-10-17 20:52:45"
     },
     "664693629": {
       "last_price": 49.0,
@@ -18807,6 +18807,24 @@
       "notified": false,
       "title": "MacBook Pro 13\" early 2011 con batteria nuova",
       "last_seen": "2026-10-17 17:34:18"
+    },
+    "664932855": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Mac book Pro Retina 15” - Batteria nuova",
+      "last_seen": "2026-10-17 20:25:08"
+    },
+    "664930467": {
+      "last_price": 1550.0,
+      "notified": false,
+      "title": "MacBook pro 14 M5 16 512",
+      "last_seen": "2026-10-17 19:55:50"
+    },
+    "664931573": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook 13 Pro",
+      "last_seen": "2026-10-17 20:09:54"
     }
   },
   "seen_ids": [
@@ -22253,6 +22271,9 @@
     "664918247",
     "664923948",
     "664924326",
-    "664924639"
+    "664924639",
+    "664930467",
+    "664931573",
+    "664932855"
   ]
 }
