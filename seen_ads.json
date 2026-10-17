@@ -1053,8 +1053,10 @@
       "notified": false
     },
     "658480747": {
-      "last_price": null,
-      "notified": false
+      "last_price": 2199.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M5 PRO NUOVO 24GB RAM 1T SSD",
+      "last_seen": "2026-10-17 10:03:40"
     },
     "658486187": {
       "last_price": null,
@@ -13011,7 +13013,7 @@
       "last_seen": "2026-10-04 13:32:02"
     },
     "663257507": {
-      "last_price": 140.0,
+      "last_price": 115.0,
       "notified": false,
       "title": "Docking Station UGREEN Revodok Max 313 TB4",
       "last_seen": "2026-10-04 15:31:41"
@@ -18583,6 +18585,144 @@
       "notified": false,
       "title": "MACBOOK PRO 16\" i9 16GB RAM/512GB SSD CON GARANZIA",
       "last_seen": "2026-10-17 09:00:16"
+    },
+    "664864633": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "IPHONE 14 PRO 256 GB purple ESIM",
+      "last_seen": "2026-10-17 12:16:58"
+    },
+    "664863945": {
+      "last_price": 1700.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14” con chip M5, SSD da 1TB",
+      "last_seen": "2026-10-17 11:44:28"
+    },
+    "664856248": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "IPHONE 14 PRO 128GB PURPLE",
+      "last_seen": "2026-10-17 11:10:53"
+    },
+    "664854185": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "IPHONE 14 PRO 128GB BLACK batteria 100%",
+      "last_seen": "2026-10-17 11:10:53"
+    },
+    "664855281": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "iPad Pro (2024) | 11\" M4  512GB  wifi cell",
+      "last_seen": "2026-10-17 10:39:32"
+    },
+    "664854648": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M2 MAX 32Gb RAM",
+      "last_seen": "2026-10-17 10:39:03"
+    },
+    "664871148": {
+      "last_price": 530.0,
+      "notified": false,
+      "title": "MacBook Apple",
+      "last_seen": "2026-10-17 12:34:11"
+    },
+    "664865894": {
+      "last_price": 15.0,
+      "notified": false,
+      "title": "Scatola originale Apple MacBook Pro 16”A2485 M1 Pr",
+      "last_seen": "2026-10-17 12:00:35"
+    },
+    "664852897": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "Realme 16 pro + 5g 512gb",
+      "last_seen": "2026-10-17 10:23:20"
+    },
+    "664852299": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "GOOGLE PIXEL 10 PRO 5G nuovo",
+      "last_seen": "2026-10-17 10:23:16"
+    },
+    "664866902": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Pro M1 8Gb/512Gb",
+      "last_seen": "2026-10-17 12:16:00"
+    },
+    "664865803": {
+      "last_price": 789.0,
+      "notified": false,
+      "title": "IPAD PRO 6TH GEN M2 512GB POLLICI:12.9 WIFI+CELL",
+      "last_seen": "2026-10-17 12:00:31"
+    },
+    "664864652": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "2X NUOVA Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-10-17 11:59:38"
+    },
+    "664863322": {
+      "last_price": 649.0,
+      "notified": false,
+      "title": "IPAD PRO 4TH GEN M2 128GB POLLICI:11 WIFI+CELL",
+      "last_seen": "2026-10-17 11:43:59"
+    },
+    "664862273": {
+      "last_price": 275.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-10-17 11:43:05"
+    },
+    "664854856": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "2X NUOVE Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-10-17 10:39:13"
+    },
+    "664853461": {
+      "last_price": 175.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-10-17 10:38:03"
+    },
+    "664865029": {
+      "last_price": 45.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-10-17 11:59:56"
+    },
+    "664875180": {
+      "last_price": 170.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" Retina Early 2015",
+      "last_seen": "2026-10-17 12:52:20"
+    },
+    "664863522": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-10-17 11:44:07"
+    },
+    "664846062": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-10-17 09:32:37"
+    },
+    "664870196": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" 2020 (A2289) - i5 8GB 512GB",
+      "last_seen": "2026-10-17 12:33:23"
+    },
+    "664853143": {
+      "last_price": 2299.0,
+      "notified": false,
+      "title": "IPHONE 18 PRO MAX 1TB nuovo",
+      "last_seen": "2026-10-17 10:23:13"
     }
   },
   "seen_ids": [
@@ -21992,6 +22132,29 @@
     "664827536",
     "664828931",
     "664829597",
-    "664842723"
+    "664842723",
+    "664846062",
+    "664852299",
+    "664852897",
+    "664853143",
+    "664853461",
+    "664854185",
+    "664854648",
+    "664854856",
+    "664855281",
+    "664856248",
+    "664862273",
+    "664863322",
+    "664863522",
+    "664863945",
+    "664864633",
+    "664864652",
+    "664865029",
+    "664865803",
+    "664865894",
+    "664866902",
+    "664870196",
+    "664871148",
+    "664875180"
   ]
 }
