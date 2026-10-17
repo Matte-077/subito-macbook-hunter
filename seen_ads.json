@@ -16490,7 +16490,7 @@
       "last_price": null,
       "notified": false,
       "title": "MacBook Pro 16 M4 MAX",
-      "last_seen": "2026-10-16 14:00:45"
+      "last_seen": "2026-10-17 13:56:57"
     },
     "664236118": {
       "last_price": 879.0,
@@ -18095,7 +18095,7 @@
       "last_seen": "2026-10-15 17:12:53"
     },
     "664710535": {
-      "last_price": 1469.0,
+      "last_price": 1519.0,
       "notified": false,
       "title": "Macbook Pro M4 14' - 1TB -16GB RAM",
       "last_seen": "2026-10-16 00:11:19"
@@ -18723,6 +18723,36 @@
       "notified": false,
       "title": "IPHONE 18 PRO MAX 1TB nuovo",
       "last_seen": "2026-10-17 10:23:13"
+    },
+    "664900637": {
+      "last_price": 2050.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M3 Pro, 36 Gb RAM, 512 Gb SSD",
+      "last_seen": "2026-10-17 15:39:56"
+    },
+    "664889663": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook pro M1 256 GB",
+      "last_seen": "2026-10-17 14:16:58"
+    },
+    "664886039": {
+      "last_price": 170.0,
+      "notified": false,
+      "title": "Apple Thunderbolt Display 27\" + Adattatore USB-C",
+      "last_seen": "2026-10-17 13:59:34"
+    },
+    "664897784": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "macbook pro m2",
+      "last_seen": "2026-10-17 15:22:37"
+    },
+    "664904869": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "“MacBook Pro 13 “ con touch bar 2020/2021",
+      "last_seen": "2026-10-17 16:13:26"
     }
   },
   "seen_ids": [
@@ -22155,6 +22185,11 @@
     "664866902",
     "664870196",
     "664871148",
-    "664875180"
+    "664875180",
+    "664886039",
+    "664889663",
+    "664897784",
+    "664900637",
+    "664904869"
   ]
 }
