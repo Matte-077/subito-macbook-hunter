@@ -18749,7 +18749,7 @@
       "last_seen": "2026-10-17 15:22:37"
     },
     "664904869": {
-      "last_price": 400.0,
+      "last_price": 470.0,
       "notified": false,
       "title": "“MacBook Pro 13 “ con touch bar 2020/2021",
       "last_seen": "2026-10-17 16:13:26"
@@ -18855,6 +18855,12 @@
       "notified": false,
       "title": "Oppo Find N5 Fold - Come Nuovo / Perfetto - Garanz",
       "last_seen": "2026-10-17 21:59:13"
+    },
+    "664948079": {
+      "last_price": 820.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14 pollici (Come Nuovo)",
+      "last_seen": "2026-10-18 01:10:37"
     }
   },
   "seen_ids": [
@@ -22309,6 +22315,7 @@
     "664940378",
     "664941230",
     "664943261",
-    "664944946"
+    "664944946",
+    "664948079"
   ]
 }
