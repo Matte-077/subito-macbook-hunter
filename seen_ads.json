@@ -18861,6 +18861,18 @@
       "notified": false,
       "title": "Apple MacBook Pro 14 pollici (Come Nuovo)",
       "last_seen": "2026-10-18 01:10:37"
+    },
+    "664950916": {
+      "last_price": 14.0,
+      "notified": false,
+      "title": "CAVO HDMI TO USB-C HIGH QUALITY L-2METRI",
+      "last_seen": "2026-10-18 02:55:37"
+    },
+    "664950525": {
+      "last_price": 1025.0,
+      "notified": false,
+      "title": "Ipad  Air 13 M2 + Magic Kayboard  + pencil pro",
+      "last_seen": "2026-10-18 02:42:36"
     }
   },
   "seen_ids": [
@@ -22316,6 +22328,8 @@
     "664941230",
     "664943261",
     "664944946",
-    "664948079"
+    "664948079",
+    "664950525",
+    "664950916"
   ]
 }
