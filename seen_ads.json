@@ -12785,7 +12785,7 @@
       "last_seen": "2026-10-03 20:53:46"
     },
     "663106428": {
-      "last_price": 169.0,
+      "last_price": 200.0,
       "notified": false,
       "title": "Macbook supporto cuffie monitor casse in noce",
       "last_seen": "2026-10-13 01:29:33"
@@ -15929,7 +15929,7 @@
       "last_seen": "2026-10-11 13:23:14"
     },
     "664116064": {
-      "last_price": 1050.0,
+      "last_price": 1020.0,
       "notified": false,
       "title": "MacBook Pro 16\" M1 Pro – 16GB – 1TB SSD",
       "last_seen": "2026-10-11 12:34:57"
@@ -18689,7 +18689,7 @@
       "last_seen": "2026-10-17 10:38:03"
     },
     "664865029": {
-      "last_price": 45.0,
+      "last_price": 40.0,
       "notified": false,
       "title": "MacBook Pro",
       "last_seen": "2026-10-17 11:59:56"
@@ -18701,7 +18701,7 @@
       "last_seen": "2026-10-17 12:52:20"
     },
     "664863522": {
-      "last_price": 100.0,
+      "last_price": 90.0,
       "notified": false,
       "title": "MacBook Pro",
       "last_seen": "2026-10-17 11:44:07"
@@ -18713,7 +18713,7 @@
       "last_seen": "2026-10-17 09:32:37"
     },
     "664870196": {
-      "last_price": 550.0,
+      "last_price": 450.0,
       "notified": false,
       "title": "Apple MacBook Pro 13\" 2020 (A2289) - i5 8GB 512GB",
       "last_seen": "2026-10-17 12:33:23"
@@ -18879,6 +18879,66 @@
       "notified": false,
       "title": "PC MACBOOK 21.5 CPU i5 RAM 8GB HDD 1TB",
       "last_seen": "2026-10-18 07:41:02"
+    },
+    "664977761": {
+      "last_price": 20.0,
+      "notified": false,
+      "title": "Custodia rigida PC Laptop MOSISO 13-14 pollici",
+      "last_seen": "2026-10-18 12:03:12"
+    },
+    "664988854": {
+      "last_price": 179.0,
+      "notified": false,
+      "title": "MacBook Pro APPLE 2017 i5 2.3GHz 8GB RAM TAHOE",
+      "last_seen": "2026-10-18 13:22:47"
+    },
+    "664975395": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro  15” 2018,  i7   16 gb ram  ssd  512",
+      "last_seen": "2026-10-18 11:46:33"
+    },
+    "664966714": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook pro 16 2019(Solo corpo)",
+      "last_seen": "2026-10-18 10:42:53"
+    },
+    "664973699": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook pro 13 M1 perfette condizioni",
+      "last_seen": "2026-10-18 12:51:21"
+    },
+    "664988558": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "Monitor Display MacBook Pro 13 2017 A1708 A1706",
+      "last_seen": "2026-10-18 13:22:31"
+    },
+    "664984527": {
+      "last_price": 159.0,
+      "notified": false,
+      "title": "MACBOOK PRO 13” 2016",
+      "last_seen": "2026-10-18 12:50:36"
+    },
+    "664976002": {
+      "last_price": 175.0,
+      "notified": false,
+      "title": "Apple Macbook pro 2016",
+      "last_seen": "2026-10-18 11:47:06"
+    },
+    "664963611": {
+      "last_price": 170.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" Retina inizio 2015 macOS Monterey",
+      "last_seen": "2026-10-18 10:10:20"
+    },
+    "664989023": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "apple 8gb",
+      "last_seen": "2026-10-18 13:22:55"
     }
   },
   "seen_ids": [
@@ -22337,6 +22397,16 @@
     "664948079",
     "664950525",
     "664950916",
-    "664953941"
+    "664953941",
+    "664963611",
+    "664966714",
+    "664973699",
+    "664975395",
+    "664976002",
+    "664977761",
+    "664984527",
+    "664988558",
+    "664988854",
+    "664989023"
   ]
 }
