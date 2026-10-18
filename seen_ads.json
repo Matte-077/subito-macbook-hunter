@@ -18002,7 +18002,7 @@
       "last_price": null,
       "notified": false,
       "title": "Macbook Pro M5 14” 2026 + Apple Studio Display",
-      "last_seen": "2026-10-17 20:52:45"
+      "last_seen": "2026-10-18 20:52:08"
     },
     "664693629": {
       "last_price": 49.0,
@@ -19101,6 +19101,24 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
       "last_seen": "2026-10-18 18:39:20"
+    },
+    "665043815": {
+      "last_price": 600.0,
+      "notified": true,
+      "title": "Apple Macbook Pro M4 14\" - 1T SSD - 16GB Ram - Gar",
+      "last_seen": "2026-10-18 20:52:35"
+    },
+    "665039349": {
+      "last_price": 1150.0,
+      "notified": false,
+      "title": "Macbook Pro 14” M1 Pro - Grigio Siderale",
+      "last_seen": "2026-10-18 19:54:30"
+    },
+    "665040719": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "iPhone 13 Pro e MacBook Pro",
+      "last_seen": "2026-10-18 20:09:19"
     }
   },
   "seen_ids": [
@@ -22596,6 +22614,9 @@
     "665034285",
     "665034615",
     "665035105",
-    "665037292"
+    "665037292",
+    "665039349",
+    "665040719",
+    "665043815"
   ]
 }
