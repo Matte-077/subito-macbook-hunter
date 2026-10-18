@@ -9401,10 +9401,10 @@
       "last_seen": "2026-09-26 18:30:29"
     },
     "662256447": {
-      "last_price": 2200.0,
+      "last_price": 2100.0,
       "notified": false,
       "title": "MacBook Pro 16’’ M3 Pro- 18GB RAM- BATTERIA 94%",
-      "last_seen": "2026-09-26 18:30:00"
+      "last_seen": "2026-10-10 17:35:13"
     },
     "662264678": {
       "last_price": null,
@@ -19011,6 +19011,96 @@
       "notified": false,
       "title": "Macbook pro 13” 512 ssd 16gb di ram",
       "last_seen": "2026-10-18 16:01:41"
+    },
+    "665037292": {
+      "last_price": 1780.0,
+      "notified": false,
+      "title": "Macbook pro 14 M5 1TB",
+      "last_seen": "2026-10-18 19:40:08"
+    },
+    "665033421": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 2021 M1 Pro 14” Apple Garanzia Laptop",
+      "last_seen": "2026-10-18 19:09:36"
+    },
+    "665033033": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 2021 M1 Pro Apple Laptop Garanzia",
+      "last_seen": "2026-10-18 19:09:15"
+    },
+    "665023979": {
+      "last_price": 15.0,
+      "notified": false,
+      "title": "Borsa Tucano super slim per laptop e MacBook",
+      "last_seen": "2026-10-18 17:51:43"
+    },
+    "665035105": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" (2019) i9 8-Core - 32Gb RAM - 1Tb",
+      "last_seen": "2026-10-18 19:24:57"
+    },
+    "665034615": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 2019 16” i9 32GB RAM APPLE Laptop MAC",
+      "last_seen": "2026-10-18 19:24:28"
+    },
+    "665034285": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 2019 16” 32GB RAM APPLE LAPTOP MACOS",
+      "last_seen": "2026-10-18 19:10:25"
+    },
+    "665021308": {
+      "last_price": 799.0,
+      "notified": false,
+      "title": "MacBook Pro M1 16GB 512GB Touch Bar",
+      "last_seen": "2026-10-18 17:35:51"
+    },
+    "665029979": {
+      "last_price": 530.0,
+      "notified": false,
+      "title": "MacBook Pro 13''  M1 (2020) - 8 GB RAM/ 256 GB",
+      "last_seen": "2026-10-18 18:39:22"
+    },
+    "665027621": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2022 Apple M2",
+      "last_seen": "2026-10-18 18:23:23"
+    },
+    "665019016": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "Macbook pro a2889 per pezzi di ricambio",
+      "last_seen": "2026-10-18 17:20:00"
+    },
+    "665024310": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "Apple MacBook  Pro 13'' - Tastiera, Batteria nuove",
+      "last_seen": "2026-10-18 18:06:03"
+    },
+    "665030672": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-10-18 18:40:02"
+    },
+    "665026002": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-10-18 18:07:29"
+    },
+    "665029943": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-10-18 18:39:20"
     }
   },
   "seen_ids": [
@@ -22491,6 +22581,21 @@
     "665008931",
     "665009762",
     "665010134",
-    "665015105"
+    "665015105",
+    "665019016",
+    "665021308",
+    "665023979",
+    "665024310",
+    "665026002",
+    "665027621",
+    "665029943",
+    "665029979",
+    "665030672",
+    "665033033",
+    "665033421",
+    "665034285",
+    "665034615",
+    "665035105",
+    "665037292"
   ]
 }
