@@ -18873,6 +18873,12 @@
       "notified": false,
       "title": "Ipad  Air 13 M2 + Magic Kayboard  + pencil pro",
       "last_seen": "2026-10-18 02:42:36"
+    },
+    "664953941": {
+      "last_price": 95.0,
+      "notified": false,
+      "title": "PC MACBOOK 21.5 CPU i5 RAM 8GB HDD 1TB",
+      "last_seen": "2026-10-18 07:41:02"
     }
   },
   "seen_ids": [
@@ -22330,6 +22336,7 @@
     "664944946",
     "664948079",
     "664950525",
-    "664950916"
+    "664950916",
+    "664953941"
   ]
 }
