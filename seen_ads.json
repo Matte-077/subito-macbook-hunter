@@ -19037,7 +19037,7 @@
       "last_seen": "2026-10-18 17:51:43"
     },
     "665035105": {
-      "last_price": 700.0,
+      "last_price": 600.0,
       "notified": false,
       "title": "MacBook Pro 16\" (2019) i9 8-Core - 32Gb RAM - 1Tb",
       "last_seen": "2026-10-18 19:24:57"
@@ -19119,6 +19119,36 @@
       "notified": false,
       "title": "iPhone 13 Pro e MacBook Pro",
       "last_seen": "2026-10-18 20:09:19"
+    },
+    "665058379": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "MacBook Pro 14 pollici, M3 Pro",
+      "last_seen": "2026-10-19 00:14:06"
+    },
+    "665047060": {
+      "last_price": 2000.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" - Nero siderale Settembre 2026",
+      "last_seen": "2026-10-18 22:47:59"
+    },
+    "665055291": {
+      "last_price": 389.0,
+      "notified": false,
+      "title": "MacBook PRO 15\" I7 16gb RAM - 500gb SSD hdd",
+      "last_seen": "2026-10-18 22:57:06"
+    },
+    "665054657": {
+      "last_price": 680.0,
+      "notified": false,
+      "title": "Macbook Pro 16 Pollici 2019",
+      "last_seen": "2026-10-18 22:48:12"
+    },
+    "665058042": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "Macbook pro 2017 512gb",
+      "last_seen": "2026-10-18 23:58:50"
     }
   },
   "seen_ids": [
@@ -22617,6 +22647,11 @@
     "665037292",
     "665039349",
     "665040719",
-    "665043815"
+    "665043815",
+    "665047060",
+    "665054657",
+    "665055291",
+    "665058042",
+    "665058379"
   ]
 }
