@@ -18485,7 +18485,7 @@
       "last_seen": "2026-10-16 16:52:38"
     },
     "664693339": {
-      "last_price": 600.0,
+      "last_price": 650.0,
       "notified": false,
       "title": "Mac Mini M4",
       "last_seen": "2026-10-15 20:31:29"
@@ -18791,7 +18791,7 @@
       "last_seen": "2026-10-17 18:55:10"
     },
     "664924326": {
-      "last_price": 2699.0,
+      "last_price": 2599.0,
       "notified": false,
       "title": "Apple Mac Studio M4 Max 36Gb 512Gb",
       "last_seen": "2026-10-17 18:54:53"
@@ -18809,10 +18809,10 @@
       "last_seen": "2026-10-17 17:34:18"
     },
     "664932855": {
-      "last_price": 300.0,
+      "last_price": 279.0,
       "notified": false,
       "title": "Mac book Pro Retina 15” - Batteria nuova",
-      "last_seen": "2026-10-17 20:25:08"
+      "last_seen": "2026-10-19 17:42:34"
     },
     "664930467": {
       "last_price": 1550.0,
@@ -19257,6 +19257,234 @@
       "notified": false,
       "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
       "last_seen": "2026-10-19 11:45:40"
+    },
+    "665147608": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "IPHONE 14 PRO 128GB GOLD batteria 100%",
+      "last_seen": "2026-10-19 18:19:10"
+    },
+    "665133372": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "iPhone 14 256GB Nero| Garanzia 1 anno",
+      "last_seen": "2026-10-19 16:34:10"
+    },
+    "665133072": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "iPhone 14 pro 128GB Nero| Garanzia 1 anno",
+      "last_seen": "2026-10-19 16:33:58"
+    },
+    "665130561": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "iPhone 14 Pro Max 128GB viola scuro",
+      "last_seen": "2026-10-19 16:14:18"
+    },
+    "665129752": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "MacBook Pro M4 da 14 Pollici 16GB RAM 1TB",
+      "last_seen": "2026-10-19 16:09:43"
+    },
+    "665122334": {
+      "last_price": 2100.0,
+      "notified": false,
+      "title": "Macbook pro 14’’ m5 pro 1 tera",
+      "last_seen": "2026-10-19 15:17:43"
+    },
+    "665119878": {
+      "last_price": 1519.0,
+      "notified": false,
+      "title": "Macbook Pro M4 14' - 1TB - 16GB RAM",
+      "last_seen": "2026-10-19 14:56:34"
+    },
+    "665118726": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "Macbook Pro 14 M1 PRO 16GB 1TB",
+      "last_seen": "2026-10-19 14:50:17"
+    },
+    "665113363": {
+      "last_price": 1450.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M2 Pro  32GB RAM  512GB SSD Co",
+      "last_seen": "2026-10-19 14:11:28"
+    },
+    "665112041": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "MacBook Pro 16 m1 anno 2022 63 cicli nuovo complet",
+      "last_seen": "2026-10-19 14:03:26"
+    },
+    "665106547": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "IPHONE 14 PRO 256 GB purple ESIM",
+      "last_seen": "2026-10-19 13:33:58"
+    },
+    "665108101": {
+      "last_price": 55.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb - c 96w x MacBook Pro",
+      "last_seen": "2026-10-19 13:33:37"
+    },
+    "665154565": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "REALME 16 pro + 5G 512 GB",
+      "last_seen": "2026-10-19 19:11:27"
+    },
+    "665153655": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "APPLE MacBook Pro 2019 i9 16GB 512GB Vega 20 4GB",
+      "last_seen": "2026-10-19 19:00:30"
+    },
+    "665153597": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "Samsung Galaxy Book 6 portatile NUOVO SIGILLATO",
+      "last_seen": "2026-10-19 19:00:26"
+    },
+    "665136194": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "MacBook Pro 16 GB",
+      "last_seen": "2026-10-19 16:59:06"
+    },
+    "665125949": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 512GB",
+      "last_seen": "2026-10-19 15:50:31"
+    },
+    "665110328": {
+      "last_price": 1890.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3Max/48gb/1Tb Garanzia 1 anno",
+      "last_seen": "2026-10-19 13:48:09"
+    },
+    "665106912": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "GOOGLE PIXEL 10 PRO 5G nuovo",
+      "last_seen": "2026-10-19 13:33:59"
+    },
+    "665104607": {
+      "last_price": 319.0,
+      "notified": false,
+      "title": "MacBook Pro 16 GB RAM batteria Nuova",
+      "last_seen": "2026-10-19 13:05:33"
+    },
+    "665103292": {
+      "last_price": 369.0,
+      "notified": false,
+      "title": "APPLE MacBook Pro 2019 i7 16 GB SSD 512 GB Radeon",
+      "last_seen": "2026-10-19 12:58:05"
+    },
+    "665086721": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "JSAUX FlipGo Horizon Pro 144Hz triplo schermo NEW",
+      "last_seen": "2026-10-19 12:50:52"
+    },
+    "665144610": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Lemorele Hub USB-C 9 in 1 in Alluminio, HDMI,",
+      "last_seen": "2026-10-19 17:54:54"
+    },
+    "665122732": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 2020 – 8 GB RAM – SSD 256 GB",
+      "last_seen": "2026-10-19 15:25:00"
+    },
+    "665121011": {
+      "last_price": 649.0,
+      "notified": false,
+      "title": "MACBOOK PRO M1 13,3”",
+      "last_seen": "2026-10-19 15:09:56"
+    },
+    "665095334": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "Macbook pro 13” M1 (2020) - 8 gb ram -512  ssd - A",
+      "last_seen": "2026-10-19 13:41:02"
+    },
+    "665107317": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "Macbook pro M1",
+      "last_seen": "2026-10-19 13:26:39"
+    },
+    "665123470": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" M2 8/ 256GB - PROMO",
+      "last_seen": "2026-10-19 15:32:38"
+    },
+    "665154217": {
+      "last_price": 19.0,
+      "notified": false,
+      "title": "Tastiera Bluetooth OMOTON per Mac",
+      "last_seen": "2026-10-19 19:11:05"
+    },
+    "665143953": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro Touchbar",
+      "last_seen": "2026-10-19 17:52:50"
+    },
+    "665143657": {
+      "last_price": 360.0,
+      "notified": false,
+      "title": "Macbook pro touchbar 2019",
+      "last_seen": "2026-10-19 17:52:37"
+    },
+    "665123641": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 8 GB RAM 256GB SSD TAHOE PROM",
+      "last_seen": "2026-10-19 15:32:47"
+    },
+    "665108624": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 8 GB RAM 256GB SSD TAHOE NEW",
+      "last_seen": "2026-10-19 13:33:55"
+    },
+    "665107024": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-10-19 13:26:29"
+    },
+    "665104683": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-10-19 13:05:36"
+    },
+    "665142019": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "Apple MacBook Pro i7-7920HQ 16GB RAM 1TB SSD TAHOE",
+      "last_seen": "2026-10-19 17:43:45"
+    },
+    "665107380": {
+      "last_price": 2299.0,
+      "notified": false,
+      "title": "IPHONE 18 PRO MAX 1TB nuovo",
+      "last_seen": "2026-10-19 13:26:41"
+    },
+    "665106194": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
+      "last_seen": "2026-10-19 13:19:36"
     }
   },
   "seen_ids": [
@@ -22768,16 +22996,54 @@
     "665080071",
     "665081215",
     "665085211",
+    "665086721",
     "665087147",
     "665087871",
     "665089874",
     "665093353",
+    "665095334",
     "665096460",
     "665096517",
     "665096597",
     "665098534",
     "665098595",
     "665098887",
-    "665100697"
+    "665100697",
+    "665103292",
+    "665104607",
+    "665104683",
+    "665106194",
+    "665106547",
+    "665106912",
+    "665107024",
+    "665107317",
+    "665107380",
+    "665108101",
+    "665108624",
+    "665110328",
+    "665112041",
+    "665113363",
+    "665118726",
+    "665119878",
+    "665121011",
+    "665122334",
+    "665122732",
+    "665123470",
+    "665123641",
+    "665125949",
+    "665129752",
+    "665130561",
+    "665133072",
+    "665133372",
+    "665136194",
+    "665142019",
+    "665143657",
+    "665143953",
+    "665144610",
+    "665147608",
+    "665153597",
+    "665153655",
+    "665154217",
+    "665154565"
   ]
 }
