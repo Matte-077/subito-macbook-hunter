@@ -12797,10 +12797,10 @@
       "last_seen": "2026-10-03 22:52:29"
     },
     "663193827": {
-      "last_price": 1000.0,
+      "last_price": 900.0,
       "notified": false,
       "title": "MacBook pro 16 2020 M1 16gb 512gb mini led",
-      "last_seen": "2026-10-03 21:34:49"
+      "last_seen": "2026-10-19 12:21:51"
     },
     "663184867": {
       "last_price": 16.0,
@@ -12893,10 +12893,10 @@
       "last_seen": "2026-10-04 09:25:52"
     },
     "663232888": {
-      "last_price": 449.0,
+      "last_price": 419.0,
       "notified": false,
       "title": "MacBook Pro 16” 2019 i7 16GB RAM SSD 512GB",
-      "last_seen": "2026-10-04 12:32:43"
+      "last_seen": "2026-10-10 12:28:46"
     },
     "663233468": {
       "last_price": 14.0,
@@ -16841,10 +16841,10 @@
       "last_seen": "2026-10-13 08:10:48"
     },
     "664337906": {
-      "last_price": 770.0,
+      "last_price": 740.0,
       "notified": false,
       "title": "Apple MacBook Air M2 13,6” 512GB SSD 8GB RAM Blu M",
-      "last_seen": "2026-10-13 09:12:31"
+      "last_seen": "2026-10-19 09:07:22"
     },
     "664337849": {
       "last_price": 249.0,
@@ -17177,7 +17177,7 @@
       "last_seen": "2026-10-13 18:40:43"
     },
     "664447969": {
-      "last_price": 2200.0,
+      "last_price": 1999.0,
       "notified": false,
       "title": "MACBOOK PRO M4 16 POLLICI",
       "last_seen": "2026-10-13 21:56:17"
@@ -18935,7 +18935,7 @@
       "last_seen": "2026-10-18 10:10:20"
     },
     "664989023": {
-      "last_price": 500.0,
+      "last_price": 475.0,
       "notified": false,
       "title": "apple 8gb",
       "last_seen": "2026-10-18 13:22:55"
@@ -19161,6 +19161,102 @@
       "notified": false,
       "title": "Macbook Air M2",
       "last_seen": "2026-10-19 06:37:43"
+    },
+    "665096517": {
+      "last_price": 1640.0,
+      "notified": false,
+      "title": "Apple macbook pro 14” m2 pro 16gb ram 512gb ssd",
+      "last_seen": "2026-10-19 12:07:39"
+    },
+    "665089874": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MacBook Pro 16” i9 2019 16GB/1TB - GARANTITO",
+      "last_seen": "2026-10-19 11:24:12"
+    },
+    "665087147": {
+      "last_price": 1550.0,
+      "notified": false,
+      "title": "Macbook pro m5 come nuovo 16GB/1TB con APPLECARE+",
+      "last_seen": "2026-10-19 11:16:04"
+    },
+    "665080071": {
+      "last_price": 870.0,
+      "notified": false,
+      "title": "Macbook Pro 14” M1 Pro 16/512 93% Batteria",
+      "last_seen": "2026-10-19 10:18:08"
+    },
+    "665078216": {
+      "last_price": 2999.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 Pro  pronta consegna",
+      "last_seen": "2026-10-19 10:03:55"
+    },
+    "665100697": {
+      "last_price": 25.0,
+      "notified": false,
+      "title": "Anker 7-in-2 USB-C PD Hub (A8371)",
+      "last_seen": "2026-10-19 12:36:51"
+    },
+    "665098887": {
+      "last_price": 525.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\"",
+      "last_seen": "2026-10-19 12:22:26"
+    },
+    "665098595": {
+      "last_price": 159.0,
+      "notified": false,
+      "title": "MacBook Pro APPLE 2017 i5 2.3GHz 8GB RAM TAHOE",
+      "last_seen": "2026-10-19 12:22:16"
+    },
+    "665081215": {
+      "last_price": 1049.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" M1 1 TB + alimentatore originale",
+      "last_seen": "2026-10-19 10:25:38"
+    },
+    "665079571": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15”Retina Intel i7 3,1 GHz",
+      "last_seen": "2026-10-19 10:17:51"
+    },
+    "665096597": {
+      "last_price": 490.0,
+      "notified": false,
+      "title": "MacBook Pro M1 touch bar",
+      "last_seen": "2026-10-19 12:07:41"
+    },
+    "665087871": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook M1 Pro 256gb 16gb RAM come nuovo!",
+      "last_seen": "2026-10-19 11:09:33"
+    },
+    "665098534": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Macbook pro m2",
+      "last_seen": "2026-10-19 12:22:13"
+    },
+    "665085211": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro  13\" Early 2013",
+      "last_seen": "2026-10-19 10:54:45"
+    },
+    "665096460": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatile",
+      "last_seen": "2026-10-19 12:07:37"
+    },
+    "665093353": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 256gb CONS DOMIC+OFFICE",
+      "last_seen": "2026-10-19 11:45:40"
     }
   },
   "seen_ids": [
@@ -22666,6 +22762,22 @@
     "665058042",
     "665058379",
     "665062739",
-    "665062742"
+    "665062742",
+    "665078216",
+    "665079571",
+    "665080071",
+    "665081215",
+    "665085211",
+    "665087147",
+    "665087871",
+    "665089874",
+    "665093353",
+    "665096460",
+    "665096517",
+    "665096597",
+    "665098534",
+    "665098595",
+    "665098887",
+    "665100697"
   ]
 }
