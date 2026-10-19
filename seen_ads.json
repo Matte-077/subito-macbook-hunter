@@ -18395,10 +18395,10 @@
       "last_seen": "2026-10-16 17:52:48"
     },
     "664793973": {
-      "last_price": 1990.0,
+      "last_price": 1950.0,
       "notified": false,
       "title": "Apple MacBook Pro M5 14\" 16Gb 1Tb nuovo",
-      "last_seen": "2026-10-16 17:52:20"
+      "last_seen": "2026-10-18 08:07:53"
     },
     "664792535": {
       "last_price": 399.0,
@@ -19149,6 +19149,18 @@
       "notified": false,
       "title": "Macbook pro 2017 512gb",
       "last_seen": "2026-10-18 23:58:50"
+    },
+    "665062742": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2023 M2 | 16.2 pollici",
+      "last_seen": "2026-10-19 06:37:43"
+    },
+    "665062739": {
+      "last_price": 780.0,
+      "notified": false,
+      "title": "Macbook Air M2",
+      "last_seen": "2026-10-19 06:37:43"
     }
   },
   "seen_ids": [
@@ -22652,6 +22664,8 @@
     "665054657",
     "665055291",
     "665058042",
-    "665058379"
+    "665058379",
+    "665062739",
+    "665062742"
   ]
 }
