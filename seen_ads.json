@@ -5339,8 +5339,10 @@
       "last_seen": "2026-09-19 11:26:35"
     },
     "661114062": {
-      "last_price": null,
-      "notified": false
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-10-20 08:27:07"
     },
     "661116180": {
       "last_price": null,
@@ -19295,7 +19297,7 @@
       "last_seen": "2026-10-19 15:17:43"
     },
     "665119878": {
-      "last_price": 1519.0,
+      "last_price": 1480.0,
       "notified": false,
       "title": "Macbook Pro M4 14' - 1TB - 16GB RAM",
       "last_seen": "2026-10-19 14:56:34"
@@ -19647,10 +19649,119 @@
       "notified": false,
       "title": "COPPIA MACBOOK PRO A1502 E A1425",
       "last_seen": "2026-10-20 07:01:41"
+    },
+    "665226789": {
+      "last_price": 1899.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16(2021)M1 MAX 32GB/2TB inglese",
+      "last_seen": "2026-10-20 12:13:07"
+    },
+    "665208334": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16(2021) M1 MAX 32GB/2TB CON GARANZIA",
+      "last_seen": "2026-10-20 10:30:36"
+    },
+    "665207261": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "IPAD PRO 11 2024 M4 1TB WIFI Cell",
+      "last_seen": "2026-10-20 10:22:50"
+    },
+    "665206130": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook Pro14, 2021 16GB 512GB, scatola originale",
+      "last_seen": "2026-10-20 10:14:44"
+    },
+    "665198116": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w con cavetto usb-c",
+      "last_seen": "2026-10-20 09:05:16"
+    },
+    "665226750": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "Apple MacBook Pro ( touch bar)",
+      "last_seen": "2026-10-20 12:13:06"
+    },
+    "665226760": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro 16 inch, 2019, come nuovo",
+      "last_seen": "2026-10-20 12:13:06"
+    },
+    "665222387": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "Macbook Pro 16” 16GB RAM | 1TB SSD",
+      "last_seen": "2026-10-20 11:47:26"
+    },
+    "665218476": {
+      "last_price": 990.0,
+      "notified": false,
+      "title": "Macbook Pro 16” M1 Pro 1TB SSD argento",
+      "last_seen": "2026-10-20 11:22:06"
+    },
+    "665206194": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Mac book pro retina 13 pollici",
+      "last_seen": "2026-10-20 10:14:47"
+    },
+    "348434140": {
+      "last_price": 339.0,
+      "notified": false,
+      "title": "MacBook Pro Rigenerati",
+      "last_seen": "2026-10-20 09:35:47"
+    },
+    "665199484": {
+      "last_price": 159.0,
+      "notified": false,
+      "title": "MacBook Pro APPLE 2017 SSD  2.3GHz 8GB RAM TAHOE",
+      "last_seen": "2026-10-20 09:20:43"
+    },
+    "665197451": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15” retina SSD 250/RAM 16 Mid 2014",
+      "last_seen": "2026-10-20 08:57:30"
+    },
+    "665195794": {
+      "last_price": 580.0,
+      "notified": false,
+      "title": "APPLE MC BOOK PRO M2 8 GB 256 GB",
+      "last_seen": "2026-10-20 08:42:12"
+    },
+    "665219405": {
+      "last_price": 75.0,
+      "notified": false,
+      "title": "MacBook Pro 13 (early 2015) A1502 NON parte",
+      "last_seen": "2026-10-20 11:30:01"
+    },
+    "665204779": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "Stampante laser HP Laserjet Pro 15a + toner nuovo",
+      "last_seen": "2026-10-20 10:06:39"
+    },
+    "665201151": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Touch Bar intel i7-1TB - 16Gb",
+      "last_seen": "2026-10-20 09:36:13"
+    },
+    "665218541": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "GOOGLE PIXEL 11 PRO 5G 256GB",
+      "last_seen": "2026-10-20 11:56:01"
     }
   },
   "seen_ids": [
     "321443379",
+    "348434140",
     "512709319",
     "530400278",
     "554817536",
@@ -23233,6 +23344,23 @@
     "665180484",
     "665180902",
     "665182498",
-    "665189701"
+    "665189701",
+    "665195794",
+    "665197451",
+    "665198116",
+    "665199484",
+    "665201151",
+    "665204779",
+    "665206130",
+    "665206194",
+    "665207261",
+    "665208334",
+    "665218476",
+    "665218541",
+    "665219405",
+    "665222387",
+    "665226750",
+    "665226760",
+    "665226789"
   ]
 }
