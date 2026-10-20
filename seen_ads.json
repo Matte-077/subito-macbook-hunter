@@ -19623,6 +19623,24 @@
       "notified": false,
       "title": "MacBook Pro M5",
       "last_seen": "2026-10-19 20:57:25"
+    },
+    "665182498": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "MacBook Pro 2019",
+      "last_seen": "2026-10-20 00:58:08"
+    },
+    "665180484": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” (2020) con chip Apple M1",
+      "last_seen": "2026-10-19 23:53:28"
+    },
+    "665180902": {
+      "last_price": 65.0,
+      "notified": false,
+      "title": "macbook pro unibody",
+      "last_seen": "2026-10-20 00:06:43"
     }
   },
   "seen_ids": [
@@ -23205,6 +23223,9 @@
     "665167294",
     "665168655",
     "665178392",
-    "665178783"
+    "665178783",
+    "665180484",
+    "665180902",
+    "665182498"
   ]
 }
