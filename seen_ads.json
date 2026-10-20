@@ -8611,10 +8611,10 @@
       "last_seen": "2026-09-24 19:13:23"
     },
     "662031422": {
-      "last_price": 649.0,
+      "last_price": 565.0,
       "notified": false,
       "title": "MacBook Pro 16\" (2019) – Intel Core i9 / 16GB RAM",
-      "last_seen": "2026-09-29 21:43:00"
+      "last_seen": "2026-10-20 21:44:07"
     },
     "662032628": {
       "last_price": 450.0,
@@ -18241,10 +18241,10 @@
       "last_seen": "2026-10-16 11:26:20"
     },
     "664730769": {
-      "last_price": 350.0,
+      "last_price": 310.0,
       "notified": false,
       "title": "MacBook Pro (Retina, 13-inch, 2015)",
-      "last_seen": "2026-10-16 10:01:41"
+      "last_seen": "2026-10-20 09:35:55"
     },
     "664782112": {
       "last_price": 380.0,
@@ -19975,7 +19975,7 @@
       "last_seen": "2026-10-20 20:58:06"
     },
     "665298899": {
-      "last_price": 840.0,
+      "last_price": 915.0,
       "notified": false,
       "title": "MacBook Pro 14” M1 Pro 16GB 512GB - 2021",
       "last_seen": "2026-10-20 20:25:17"
@@ -20105,6 +20105,48 @@
       "notified": false,
       "title": "iMac 21” 4K 1TB TOP A+ CONS.DOMIC + ADOBE/OFFICE",
       "last_seen": "2026-10-20 18:02:26"
+    },
+    "665306423": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M1 pro 16 gb ssd 512  gb",
+      "last_seen": "2026-10-20 21:44:17"
+    },
+    "665316195": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M1 Pro - Pari al nuovo",
+      "last_seen": "2026-10-21 00:16:50"
+    },
+    "665315101": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16” M1 Pro — 16/512",
+      "last_seen": "2026-10-20 23:45:52"
+    },
+    "665310213": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "Macbook pro 1TB",
+      "last_seen": "2026-10-20 22:23:36"
+    },
+    "665307435": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2019",
+      "last_seen": "2026-10-20 21:57:22"
+    },
+    "665311327": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2017 | i5 | 8 GB RAM | 128 GB SSD",
+      "last_seen": "2026-10-20 22:36:27"
+    },
+    "665305242": {
+      "last_price": 110.0,
+      "notified": false,
+      "title": "MacBook pro 2012 15 pollici",
+      "last_seen": "2026-10-20 21:30:59"
     }
   },
   "seen_ids": [
@@ -23767,6 +23809,13 @@
     "665298899",
     "665299135",
     "665301906",
-    "665302563"
+    "665302563",
+    "665305242",
+    "665306423",
+    "665307435",
+    "665310213",
+    "665311327",
+    "665315101",
+    "665316195"
   ]
 }
