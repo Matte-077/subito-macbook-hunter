@@ -14543,10 +14543,10 @@
       "last_seen": "2026-10-08 08:45:59"
     },
     "663715757": {
-      "last_price": 849.0,
+      "last_price": 799.0,
       "notified": false,
       "title": "MacBook Pro 13” M2 2022, 8 gb, 512 gb",
-      "last_seen": "2026-10-08 08:27:10"
+      "last_seen": "2026-10-19 17:31:34"
     },
     "663717126": {
       "last_price": 220.0,
@@ -19641,6 +19641,12 @@
       "notified": false,
       "title": "macbook pro unibody",
       "last_seen": "2026-10-20 00:06:43"
+    },
+    "665189701": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "COPPIA MACBOOK PRO A1502 E A1425",
+      "last_seen": "2026-10-20 07:01:41"
     }
   },
   "seen_ids": [
@@ -23226,6 +23232,7 @@
     "665178783",
     "665180484",
     "665180902",
-    "665182498"
+    "665182498",
+    "665189701"
   ]
 }
