@@ -2607,8 +2607,10 @@
       "notified": false
     },
     "660124382": {
-      "last_price": null,
-      "notified": false
+      "last_price": 2650.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M5 Pro, 1TB - SIGILLATO",
+      "last_seen": "2026-10-21 18:43:11"
     },
     "660124750": {
       "last_price": null,
@@ -20221,7 +20223,7 @@
       "last_seen": "2026-10-21 10:36:41"
     },
     "665337246": {
-      "last_price": 369.0,
+      "last_price": 409.0,
       "notified": false,
       "title": "Apple MacBook Pro 15 2019 i7 512GB RAM 16GB RADEON",
       "last_seen": "2026-10-21 10:08:27"
@@ -20371,7 +20373,7 @@
       "last_seen": "2026-10-21 15:20:11"
     },
     "665380798": {
-      "last_price": 820.0,
+      "last_price": 750.0,
       "notified": false,
       "title": "MacBook Pro 14\" M1 Pro",
       "last_seen": "2026-10-21 15:08:21"
@@ -20395,8 +20397,8 @@
       "last_seen": "2026-10-21 13:57:21"
     },
     "665372002": {
-      "last_price": 1150.0,
-      "notified": false,
+      "last_price": 950.0,
+      "notified": true,
       "title": "MacBook Pro 14” M4 16GB RAM 512GB – Space Black",
       "last_seen": "2026-10-21 13:56:29"
     },
@@ -20413,7 +20415,7 @@
       "last_seen": "2026-10-21 17:34:07"
     },
     "665388296": {
-      "last_price": 1450.0,
+      "last_price": 1350.0,
       "notified": false,
       "title": "MacBook pro m2 con Chip M2 PRO",
       "last_seen": "2026-10-21 16:04:19"
@@ -20465,6 +20467,48 @@
       "notified": false,
       "title": "Macbook Pro 13” Early 2015",
       "last_seen": "2026-10-21 16:50:41"
+    },
+    "665438469": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook pro 15” 2018 intel core i7",
+      "last_seen": "2026-10-21 21:53:41"
+    },
+    "665436883": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "MacBook Pro da 15 pollici, 16 GB di RAM, 256 GB",
+      "last_seen": "2026-10-21 21:38:30"
+    },
+    "665434436": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16” 2019 – i7 – 16 GB RAM",
+      "last_seen": "2026-10-21 21:08:54"
+    },
+    "665415214": {
+      "last_price": 680.0,
+      "notified": true,
+      "title": "MacBook Pro 16\" M1 Pro",
+      "last_seen": "2026-10-21 19:08:24"
+    },
+    "665428183": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "Apple Mac Studio M2 Max – 32GB RAM – SSD 512GB",
+      "last_seen": "2026-10-21 20:10:25"
+    },
+    "665437789": {
+      "last_price": 740.0,
+      "notified": false,
+      "title": "Macbook Air M3 2024 ( 256,16 )",
+      "last_seen": "2026-10-21 21:46:10"
+    },
+    "665434613": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "MacBook pro 2012 (Leggere)",
+      "last_seen": "2026-10-21 21:12:24"
     }
   },
   "seen_ids": [
@@ -24187,6 +24231,13 @@
     "665388296",
     "665395757",
     "665395858",
-    "665397240"
+    "665397240",
+    "665415214",
+    "665428183",
+    "665434436",
+    "665434613",
+    "665436883",
+    "665437789",
+    "665438469"
   ]
 }
