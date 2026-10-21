@@ -20509,6 +20509,60 @@
       "notified": false,
       "title": "MacBook pro 2012 (Leggere)",
       "last_seen": "2026-10-21 21:12:24"
+    },
+    "665440280": {
+      "last_price": 990.0,
+      "notified": true,
+      "title": "MacBook Pro 14\" M2 Pro - 2023",
+      "last_seen": "2026-10-21 22:12:33"
+    },
+    "665443167": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-10-21 22:50:31"
+    },
+    "665444274": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook Pro 16GB 1TB M1",
+      "last_seen": "2026-10-21 23:10:53"
+    },
+    "665440366": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "Mac Mini M1 8 GB 256 GB",
+      "last_seen": "2026-10-21 22:12:37"
+    },
+    "665443994": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "Apple iPad Pro 13 M4 Wi-Fi 256gb in Garanzia",
+      "last_seen": "2026-10-21 23:03:44"
+    },
+    "665441465": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "APPLE MAGIC KEYBOARD + APPLE MAGIC MOUSE 2 GREY",
+      "last_seen": "2026-10-21 22:30:31"
+    },
+    "665440128": {
+      "last_price": 35.0,
+      "notified": false,
+      "title": "Tasti di ricambio per MacBook Pro e Air",
+      "last_seen": "2026-10-21 22:08:55"
+    },
+    "665447519": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook Pro 13,3\" Retina (Mid 2014)",
+      "last_seen": "2026-10-22 00:22:06"
+    },
+    "665444444": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "Macbook pro M5",
+      "last_seen": "2026-10-21 23:11:01"
     }
   },
   "seen_ids": [
@@ -24238,6 +24292,15 @@
     "665434613",
     "665436883",
     "665437789",
-    "665438469"
+    "665438469",
+    "665440128",
+    "665440280",
+    "665440366",
+    "665441465",
+    "665443167",
+    "665443994",
+    "665444274",
+    "665444444",
+    "665447519"
   ]
 }
