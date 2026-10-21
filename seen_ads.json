@@ -12187,10 +12187,10 @@
       "last_seen": "2026-10-02 17:40:38"
     },
     "656674544": {
-      "last_price": 430.0,
+      "last_price": 380.0,
       "notified": false,
       "title": "Apple MacBook PRO TOUCHBAR 16GB 1TB",
-      "last_seen": "2026-10-02 17:39:26"
+      "last_seen": "2026-10-21 06:48:27"
     },
     "663038129": {
       "last_price": 650.0,
@@ -19981,7 +19981,7 @@
       "last_seen": "2026-10-20 20:25:17"
     },
     "665298330": {
-      "last_price": 599.0,
+      "last_price": 575.0,
       "notified": false,
       "title": "AIO LENOVO 24 poll. Intel i5 226V RAM16 SSD 512 GB",
       "last_seen": "2026-10-20 20:18:58"
@@ -20147,6 +20147,12 @@
       "notified": false,
       "title": "MacBook pro 2012 15 pollici",
       "last_seen": "2026-10-20 21:30:59"
+    },
+    "665323107": {
+      "last_price": 190.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15\" 2015",
+      "last_seen": "2026-10-21 07:25:38"
     }
   },
   "seen_ids": [
@@ -23816,6 +23822,7 @@
     "665310213",
     "665311327",
     "665315101",
-    "665316195"
+    "665316195",
+    "665323107"
   ]
 }
