@@ -7479,10 +7479,10 @@
       "last_seen": "2026-09-22 14:03:01"
     },
     "661695138": {
-      "last_price": 225.0,
+      "last_price": 210.0,
       "notified": false,
       "title": "Apple Macbook pro 15",
-      "last_seen": "2026-10-16 13:01:38"
+      "last_seen": "2026-10-21 17:31:47"
     },
     "661695307": {
       "last_price": 100.0,
@@ -9903,7 +9903,7 @@
       "last_seen": "2026-09-28 09:44:33"
     },
     "662415515": {
-      "last_price": 40.0,
+      "last_price": 25.0,
       "notified": false,
       "title": "Schermo macbook pro 13” 2017 NON FUNZIONANTE",
       "last_seen": "2026-09-28 09:44:23"
@@ -15393,8 +15393,8 @@
       "last_seen": "2026-10-10 15:55:22"
     },
     "664029246": {
-      "last_price": 1100.0,
-      "notified": false,
+      "last_price": 1000.0,
+      "notified": true,
       "title": "Macbook pro m2 (2023)",
       "last_seen": "2026-10-10 15:32:34"
     },
@@ -18795,7 +18795,7 @@
       "last_seen": "2026-10-17 18:55:10"
     },
     "664924326": {
-      "last_price": 2499.0,
+      "last_price": 1999.0,
       "notified": false,
       "title": "Apple Mac Studio M4 Max 36Gb 512Gb",
       "last_seen": "2026-10-17 18:54:53"
@@ -20199,10 +20199,10 @@
       "last_seen": "2026-10-21 10:05:09"
     },
     "665328312": {
-      "last_price": 3099.0,
+      "last_price": 2999.0,
       "notified": false,
       "title": "MacBook Pro 16\" M4 Max   1TB 36GB RAM, Garanzia",
-      "last_seen": "2026-10-21 09:09:39"
+      "last_seen": "2026-10-22 09:05:09"
     },
     "665357922": {
       "last_price": 450.0,
@@ -20581,6 +20581,180 @@
       "notified": false,
       "title": "Macbook Pro Late2018 Samsung SSD 250",
       "last_seen": "2026-10-22 06:52:44"
+    },
+    "665494551": {
+      "last_price": 1649.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M4 10Core RAM 16Gb SSD 1Tb Ex-Nuovo",
+      "last_seen": "2026-10-22 12:12:53"
+    },
+    "665494511": {
+      "last_price": 2499.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M5 pro 16core GPU 24gb ram 1tb ssd",
+      "last_seen": "2026-10-22 12:12:51"
+    },
+    "665494439": {
+      "last_price": 2949.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3 Max 40Core RAM 48Gb SSD 1Tb",
+      "last_seen": "2026-10-22 12:12:48"
+    },
+    "665494389": {
+      "last_price": 2599.0,
+      "notified": false,
+      "title": "MacBook Pro 14″ M4 Pro RAM 48Gb, SSD 1TB Ex-Nuovo",
+      "last_seen": "2026-10-22 12:12:46"
+    },
+    "665494341": {
+      "last_price": 2469.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M4 Pro 20Core RAM 24Gb SSD Ex-Nuovo",
+      "last_seen": "2026-10-22 12:12:44"
+    },
+    "665492314": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "IPHONE 14 PRO MAX 128 GB silver",
+      "last_seen": "2026-10-22 12:12:20"
+    },
+    "665487536": {
+      "last_price": null,
+      "notified": false,
+      "title": "IPHONE 14 PRO MAX 256 GB",
+      "last_seen": "2026-10-22 11:25:59"
+    },
+    "665473910": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M1 Max 32GB/2TB ITALIANO",
+      "last_seen": "2026-10-22 09:51:39"
+    },
+    "665508823": {
+      "last_price": 470.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM 512GB SSD",
+      "last_seen": "2026-10-22 14:15:22"
+    },
+    "665495121": {
+      "last_price": 2569.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M4 Pro RAM 24Gb, SSD 512GB Ex-Nuovo",
+      "last_seen": "2026-10-22 12:20:15"
+    },
+    "665494591": {
+      "last_price": 6699.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M3 Max 128GB Ram 8TB Ssd 40Core GPU",
+      "last_seen": "2026-10-22 12:12:54"
+    },
+    "665494265": {
+      "last_price": 1599.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M2 Pro 19Core RAM 16Gb, SSD 512Gb",
+      "last_seen": "2026-10-22 12:12:40"
+    },
+    "665494216": {
+      "last_price": 430.0,
+      "notified": false,
+      "title": "apple macbook pro 16 2019",
+      "last_seen": "2026-10-22 12:12:40"
+    },
+    "665493068": {
+      "last_price": 369.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 2019 i7 512GB RAM 16GB RADEON",
+      "last_seen": "2026-10-22 12:05:12"
+    },
+    "665489811": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 2020",
+      "last_seen": "2026-10-22 11:40:58"
+    },
+    "665482172": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "APPLE MacBook Pro 2019 i9 16GB 512GB Vega 20 4GB",
+      "last_seen": "2026-10-22 10:54:07"
+    },
+    "665479147": {
+      "last_price": 139.0,
+      "notified": false,
+      "title": "MacBook Pro APPLE 2017 SSD 2.3GHz 8GB RAM TAHOE",
+      "last_seen": "2026-10-22 10:30:10"
+    },
+    "665475886": {
+      "last_price": 2100.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M2 Max 32GB 1TB Grigio Siderale",
+      "last_seen": "2026-10-22 10:07:13"
+    },
+    "665479389": {
+      "last_price": 15.0,
+      "notified": false,
+      "title": "Scatola Macbook e sacchetto",
+      "last_seen": "2026-10-22 10:36:58"
+    },
+    "665376743": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Dell XPS 15 9500",
+      "last_seen": "2026-10-21 14:35:27"
+    },
+    "665508177": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "McBook Pro 13’’ 2022-512GB-8GB RAM come nuovo",
+      "last_seen": "2026-10-22 14:14:50"
+    },
+    "665466366": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "MacBook pro 13’ 2018",
+      "last_seen": "2026-10-22 08:43:41"
+    },
+    "665481012": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "Monitor Display MacBook Pro 13 2017 A1708 A1706",
+      "last_seen": "2026-10-22 10:45:07"
+    },
+    "665508055": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "MacBook Pro 13”hdd Hdd 250 / ram 4 funzionante",
+      "last_seen": "2026-10-22 14:07:12"
+    },
+    "665497672": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Macbook Pro Retina del 2017 problema schermo",
+      "last_seen": "2026-10-22 12:43:01"
+    },
+    "665470403": {
+      "last_price": 19.0,
+      "notified": false,
+      "title": "Tastiera Bluetooth OMOTON per Mac",
+      "last_seen": "2026-10-22 11:18:18"
+    },
+    "665482136": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatile",
+      "last_seen": "2026-10-22 10:54:03"
+    },
+    "665481106": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "MacBook Pro Apple 13 8 GB RAM 256GB SSD TAHOE",
+      "last_seen": "2026-10-22 10:45:12"
+    },
+    "665479485": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "Apple MacBook Pro i7-7920HQ 16GB RAM 1TB SSD TAHOE",
+      "last_seen": "2026-10-22 10:37:03"
     }
   },
   "seen_ids": [
@@ -24290,6 +24464,7 @@
     "665374454",
     "665374767",
     "665375532",
+    "665376743",
     "665376786",
     "665376948",
     "665378941",
@@ -24322,6 +24497,34 @@
     "665447519",
     "665452682",
     "665452756",
-    "665458953"
+    "665458953",
+    "665466366",
+    "665470403",
+    "665473910",
+    "665475886",
+    "665479147",
+    "665479389",
+    "665479485",
+    "665481012",
+    "665481106",
+    "665482136",
+    "665482172",
+    "665487536",
+    "665489811",
+    "665492314",
+    "665493068",
+    "665494216",
+    "665494265",
+    "665494341",
+    "665494389",
+    "665494439",
+    "665494511",
+    "665494551",
+    "665494591",
+    "665495121",
+    "665497672",
+    "665508055",
+    "665508177",
+    "665508823"
   ]
 }
