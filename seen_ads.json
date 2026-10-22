@@ -2603,8 +2603,10 @@
       "notified": false
     },
     "660122677": {
-      "last_price": null,
-      "notified": false
+      "last_price": 2650.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M5 Pro, 1TB - SIGILLATO",
+      "last_seen": "2026-10-22 22:30:56"
     },
     "660124382": {
       "last_price": 2650.0,
@@ -20163,8 +20165,8 @@
       "last_seen": "2026-10-21 12:24:54"
     },
     "665358431": {
-      "last_price": 800.0,
-      "notified": false,
+      "last_price": 600.0,
+      "notified": true,
       "title": "Macbook pro m1 pro 14 pollici",
       "last_seen": "2026-10-21 12:19:19"
     },
@@ -20925,7 +20927,7 @@
       "last_seen": "2026-10-22 17:28:36"
     },
     "665530649": {
-      "last_price": 230.0,
+      "last_price": 210.0,
       "notified": false,
       "title": "MacBook Pro 13\" Fine 2011 – 16 GB RAM – SSD  256Gb",
       "last_seen": "2026-10-22 17:05:54"
@@ -21031,6 +21033,72 @@
       "notified": false,
       "title": "Apple MacBook Pro i7-7920HQ 16GB RAM 1TB SSD TAHOE",
       "last_seen": "2026-10-22 18:43:01"
+    },
+    "665562513": {
+      "last_price": 1900.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 AppleCare+ 2029 !",
+      "last_seen": "2026-10-22 22:05:01"
+    },
+    "665553460": {
+      "last_price": 389.0,
+      "notified": false,
+      "title": "iPhone 14 128 Giga Garantito Con Batteria al 100%",
+      "last_seen": "2026-10-22 20:16:38"
+    },
+    "665550332": {
+      "last_price": 1850.0,
+      "notified": false,
+      "title": "Macbook Pro 14” M2 Max",
+      "last_seen": "2026-10-22 19:42:06"
+    },
+    "665559671": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Retina (Metà 2015)",
+      "last_seen": "2026-10-22 21:31:09"
+    },
+    "665558628": {
+      "last_price": 22.0,
+      "notified": false,
+      "title": "Borsa PC / Laptop Tucano Work_Out Expandedd",
+      "last_seen": "2026-10-22 21:17:30"
+    },
+    "665551622": {
+      "last_price": 269.0,
+      "notified": false,
+      "title": "MacBook Pro Retina 15” Late 2013",
+      "last_seen": "2026-10-22 19:56:41"
+    },
+    "665549578": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Ipad pro M1",
+      "last_seen": "2026-10-22 19:34:53"
+    },
+    "665527164": {
+      "last_price": 570.0,
+      "notified": false,
+      "title": "MacBook Air M2 Silver 8/256 NUOVO Garanzia IT 2028",
+      "last_seen": "2026-10-22 16:42:53"
+    },
+    "665556121": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook pro i7 32gb RAM 1tb",
+      "last_seen": "2026-10-22 20:49:20"
+    },
+    "665564721": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2020 - intel i5 - 8gb - 256gb",
+      "last_seen": "2026-10-22 22:37:38"
+    },
+    "665550087": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook Pro 13” Early 2015",
+      "last_seen": "2026-10-22 19:41:53"
     }
   },
   "seen_ids": [
@@ -24821,6 +24889,7 @@
     "665522241",
     "665524594",
     "665524969",
+    "665527164",
     "665527708",
     "665527841",
     "665528120",
@@ -24847,6 +24916,16 @@
     "665548510",
     "665548541",
     "665548691",
-    "665549112"
+    "665549112",
+    "665549578",
+    "665550087",
+    "665550332",
+    "665551622",
+    "665553460",
+    "665556121",
+    "665558628",
+    "665559671",
+    "665562513",
+    "665564721"
   ]
 }
