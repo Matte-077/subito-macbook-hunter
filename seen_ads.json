@@ -20199,7 +20199,7 @@
       "last_seen": "2026-10-21 10:05:09"
     },
     "665328312": {
-      "last_price": 3200.0,
+      "last_price": 3099.0,
       "notified": false,
       "title": "MacBook Pro 16\" M4 Max   1TB 36GB RAM, Garanzia",
       "last_seen": "2026-10-21 09:09:39"
@@ -20569,6 +20569,18 @@
       "notified": false,
       "title": "Macbook pro 15\" 2018  Batt. Nuova",
       "last_seen": "2026-10-22 03:17:18"
+    },
+    "665452756": {
+      "last_price": 370.0,
+      "notified": false,
+      "title": "Macbook pro 15\"   2018 A1990",
+      "last_seen": "2026-10-22 03:35:47"
+    },
+    "665458953": {
+      "last_price": 70.0,
+      "notified": false,
+      "title": "Macbook Pro Late2018 Samsung SSD 250",
+      "last_seen": "2026-10-22 06:52:44"
     }
   },
   "seen_ids": [
@@ -24308,6 +24320,8 @@
     "665444274",
     "665444444",
     "665447519",
-    "665452682"
+    "665452682",
+    "665452756",
+    "665458953"
   ]
 }
