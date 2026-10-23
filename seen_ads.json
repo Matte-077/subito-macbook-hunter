@@ -21125,7 +21125,7 @@
       "last_seen": "2026-10-23 00:53:58"
     },
     "665574853": {
-      "last_price": 790.0,
+      "last_price": 690.0,
       "notified": false,
       "title": "MacBook Pro M1 512gb",
       "last_seen": "2026-10-23 03:30:42"
@@ -21537,6 +21537,24 @@
       "notified": false,
       "title": "Macbook Pro 2017 15 pollici",
       "last_seen": "2026-10-23 19:50:15"
+    },
+    "665685956": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro 16” (2019)",
+      "last_seen": "2026-10-24 00:39:15"
+    },
+    "665683552": {
+      "last_price": 349.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 2020 – 8GB RAM / 512GB SSD",
+      "last_seen": "2026-10-23 23:19:49"
+    },
+    "665682603": {
+      "last_price": 397.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 2020 – 8GB RAM – SSD 256GB",
+      "last_seen": "2026-10-23 23:00:19"
     }
   },
   "seen_ids": [
@@ -25437,6 +25455,9 @@
     "665671843",
     "665676275",
     "665677752",
-    "665678041"
+    "665678041",
+    "665682603",
+    "665683552",
+    "665685956"
   ]
 }
