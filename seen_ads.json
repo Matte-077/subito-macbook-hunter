@@ -21123,6 +21123,18 @@
       "notified": false,
       "title": "Macbook pro 13 pollici",
       "last_seen": "2026-10-23 00:53:58"
+    },
+    "665574853": {
+      "last_price": 790.0,
+      "notified": false,
+      "title": "MacBook Pro M1 512gb",
+      "last_seen": "2026-10-23 03:30:42"
+    },
+    "665573173": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M2 16GB/512GB con scatola",
+      "last_seen": "2026-10-23 02:35:28"
     }
   },
   "seen_ids": [
@@ -24954,6 +24966,8 @@
     "665565993",
     "665566402",
     "665570255",
-    "665571008"
+    "665571008",
+    "665573173",
+    "665574853"
   ]
 }
