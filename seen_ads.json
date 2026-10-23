@@ -20711,7 +20711,7 @@
       "last_seen": "2026-10-22 14:14:50"
     },
     "665466366": {
-      "last_price": 400.0,
+      "last_price": 350.0,
       "notified": false,
       "title": "MacBook pro 13’ 2018",
       "last_seen": "2026-10-22 08:43:41"
@@ -21399,6 +21399,90 @@
       "notified": false,
       "title": "Apple MacBook Pro i7-7920HQ 16GB RAM 1TB SSD TAHOE",
       "last_seen": "2026-10-23 09:25:04"
+    },
+    "665663348": {
+      "last_price": 1569.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M3 Pro 18/512 GB",
+      "last_seen": "2026-10-23 19:00:35"
+    },
+    "665660541": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "iPhone 16 Pro 128 Giga Con Garanzia",
+      "last_seen": "2026-10-23 18:32:24"
+    },
+    "665655011": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M1",
+      "last_seen": "2026-10-23 17:54:46"
+    },
+    "665651269": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MacBook Pro 16” i9 2019 16GB/1TB - GARANTITO",
+      "last_seen": "2026-10-23 17:25:01"
+    },
+    "665648713": {
+      "last_price": 890.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M1 Pro - 16 GB RAM - 512 GB SSD",
+      "last_seen": "2026-10-23 17:10:24"
+    },
+    "665648386": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "iPhone 14pro 128gb trattabile",
+      "last_seen": "2026-10-23 17:03:12"
+    },
+    "665629927": {
+      "last_price": 1650.0,
+      "notified": false,
+      "title": "Macbook pro M5",
+      "last_seen": "2026-10-23 14:53:24"
+    },
+    "665663514": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16’’ 2019 i7 512GB/16GB",
+      "last_seen": "2026-10-23 18:54:24"
+    },
+    "665662496": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 16” Space Gray con scatola e garanzia",
+      "last_seen": "2026-10-23 18:47:01"
+    },
+    "665652237": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook Pro 13” M1 (2020) - Grigio siderale",
+      "last_seen": "2026-10-23 17:32:26"
+    },
+    "665640995": {
+      "last_price": 649.0,
+      "notified": false,
+      "title": "MacBook Pro 13” +  Magic Mouse 2",
+      "last_seen": "2026-10-23 16:09:18"
+    },
+    "665634333": {
+      "last_price": 270.0,
+      "notified": false,
+      "title": "Blackmagic eGPU - AMD Radeon Pro 580 8GB",
+      "last_seen": "2026-10-23 15:23:25"
+    },
+    "665643772": {
+      "last_price": 7.0,
+      "notified": false,
+      "title": "Adattatore USB C a HDMI 4K",
+      "last_seen": "2026-10-23 17:55:15"
+    },
+    "665634206": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "Pc fisso AMD Ryzen 5 7600 32GB RAM DDR5",
+      "last_seen": "2026-10-23 15:38:51"
     }
   },
   "seen_ids": [
@@ -25276,6 +25360,20 @@
     "665626651",
     "665628637",
     "665629098",
-    "665629392"
+    "665629392",
+    "665629927",
+    "665634206",
+    "665634333",
+    "665640995",
+    "665643772",
+    "665648386",
+    "665648713",
+    "665651269",
+    "665652237",
+    "665655011",
+    "665660541",
+    "665662496",
+    "665663348",
+    "665663514"
   ]
 }
