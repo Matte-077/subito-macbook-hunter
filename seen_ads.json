@@ -21135,6 +21135,48 @@
       "notified": false,
       "title": "MacBook Pro 13\" M2 16GB/512GB con scatola",
       "last_seen": "2026-10-23 02:35:28"
+    },
+    "665585284": {
+      "last_price": 1700.0,
+      "notified": false,
+      "title": "Macbook pro m2pro 12-19 16gb/1tb",
+      "last_seen": "2026-10-23 08:49:19"
+    },
+    "665583901": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 2019 i7 512GB  16GB NUOVA BAT",
+      "last_seen": "2026-10-23 08:35:00"
+    },
+    "665582625": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "Macbook pro 15”",
+      "last_seen": "2026-10-23 08:20:54"
+    },
+    "665582034": {
+      "last_price": 139.0,
+      "notified": false,
+      "title": "MacBook Pro APPLE 2017 SSD 2.3GHz 8GB RAM TAHOE",
+      "last_seen": "2026-10-23 08:06:32"
+    },
+    "665557163": {
+      "last_price": 1700.0,
+      "notified": false,
+      "title": "MacBook Pro M5",
+      "last_seen": "2026-10-22 21:03:36"
+    },
+    "665580950": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 2020 – 8GB RAM, 256GB SSD",
+      "last_seen": "2026-10-23 07:54:06"
+    },
+    "665576402": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” 2014",
+      "last_seen": "2026-10-23 06:06:48"
     }
   },
   "seen_ids": [
@@ -24959,6 +25001,7 @@
     "665551622",
     "665553460",
     "665556121",
+    "665557163",
     "665558628",
     "665559671",
     "665562513",
@@ -24968,6 +25011,12 @@
     "665570255",
     "665571008",
     "665573173",
-    "665574853"
+    "665574853",
+    "665576402",
+    "665580950",
+    "665582034",
+    "665582625",
+    "665583901",
+    "665585284"
   ]
 }
