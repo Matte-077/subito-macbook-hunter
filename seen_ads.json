@@ -20783,13 +20783,13 @@
       "last_seen": "2026-10-22 16:36:01"
     },
     "665505826": {
-      "last_price": 1350.0,
+      "last_price": 1600.0,
       "notified": false,
       "title": "MacBook Pro 14\" M3 Pro – 18 GB / 1 TB – Nero sider",
       "last_seen": "2026-10-22 16:36:00"
     },
     "665504893": {
-      "last_price": 1500.0,
+      "last_price": 1900.0,
       "notified": false,
       "title": "MacBook Pro 14\" M4 – 24 GB / 1 TB – Argento",
       "last_seen": "2026-10-22 16:35:58"
@@ -21083,7 +21083,7 @@
       "last_seen": "2026-10-22 16:42:53"
     },
     "665556121": {
-      "last_price": 250.0,
+      "last_price": 200.0,
       "notified": false,
       "title": "MacBook pro i7 32gb RAM 1tb",
       "last_seen": "2026-10-22 20:49:20"
@@ -21483,6 +21483,60 @@
       "notified": false,
       "title": "Pc fisso AMD Ryzen 5 7600 32GB RAM DDR5",
       "last_seen": "2026-10-23 15:38:51"
+    },
+    "665668568": {
+      "last_price": 4500.0,
+      "notified": false,
+      "title": "MacBook Pro 14’’ M5 Max CPU 18-core 36GB 2TB nero",
+      "last_seen": "2026-10-23 19:37:23"
+    },
+    "665677752": {
+      "last_price": 470.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM 512GB SSD",
+      "last_seen": "2026-10-23 21:42:41"
+    },
+    "665671843": {
+      "last_price": 720.0,
+      "notified": true,
+      "title": "Macbook Pro 16 M1 Pro 2021",
+      "last_seen": "2026-10-23 20:17:31"
+    },
+    "665671525": {
+      "last_price": 2100.0,
+      "notified": false,
+      "title": "Macbook 16 Pro m4 pro",
+      "last_seen": "2026-10-23 20:17:14"
+    },
+    "665667970": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "PENCIL PRO",
+      "last_seen": "2026-10-23 19:43:30"
+    },
+    "665678041": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Macbook pro 15 touchbar 2016 ssd 500gb ram 16gb",
+      "last_seen": "2026-10-23 21:43:08"
+    },
+    "665676275": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "MacBook Pro 13” - Intel Core i5 16GB/SSD1TB -🔋85%",
+      "last_seen": "2026-10-23 21:16:55"
+    },
+    "665671509": {
+      "last_price": 15.0,
+      "notified": false,
+      "title": "HP Elite Thunderbolt 3 Dock",
+      "last_seen": "2026-10-23 20:17:13"
+    },
+    "665669424": {
+      "last_price": 380.0,
+      "notified": false,
+      "title": "Macbook Pro 2017 15 pollici",
+      "last_seen": "2026-10-23 19:50:15"
     }
   },
   "seen_ids": [
@@ -25374,6 +25428,15 @@
     "665660541",
     "665662496",
     "665663348",
-    "665663514"
+    "665663514",
+    "665667970",
+    "665668568",
+    "665669424",
+    "665671509",
+    "665671525",
+    "665671843",
+    "665676275",
+    "665677752",
+    "665678041"
   ]
 }
