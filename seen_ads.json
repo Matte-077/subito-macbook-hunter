@@ -20117,9 +20117,9 @@
       "last_seen": "2026-10-20 21:44:17"
     },
     "665316195": {
-      "last_price": 1200.0,
+      "last_price": 1100.0,
       "notified": false,
-      "title": "MacBook Pro 16” M1 Pro - Pari al nuovo",
+      "title": "MacBook Pro 16” M1 Pro (2021)",
       "last_seen": "2026-10-21 00:16:50"
     },
     "665315101": {
@@ -21503,7 +21503,7 @@
       "last_seen": "2026-10-23 20:17:31"
     },
     "665671525": {
-      "last_price": 1900.0,
+      "last_price": 1850.0,
       "notified": false,
       "title": "Macbook 16 Pro m4 pro",
       "last_seen": "2026-10-23 20:17:14"
@@ -22101,6 +22101,30 @@
       "notified": false,
       "title": "iPhone 15 Pro Max 256GB Naturale-Garanzia 1 Anno",
       "last_seen": "2026-10-24 19:28:11"
+    },
+    "665797530": {
+      "last_price": 800.0,
+      "notified": true,
+      "title": "Apple MacBook Pro 14” M4 Pro 24GB 512GB SSD Space",
+      "last_seen": "2026-10-24 22:00:22"
+    },
+    "665795481": {
+      "last_price": 2900.0,
+      "notified": false,
+      "title": "MacBook Pro 14” CHIP M5 PRO",
+      "last_seen": "2026-10-24 21:28:04"
+    },
+    "665793916": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "Macbook Pro 16” M2 Pro (12 core CPU/19 core GPU)",
+      "last_seen": "2026-10-24 22:38:53"
+    },
+    "665792486": {
+      "last_price": null,
+      "notified": false,
+      "title": "ANDROIDAUTO PIONEER DA77DAB CARPLAY",
+      "last_seen": "2026-10-24 20:35:56"
     }
   },
   "seen_ids": [
@@ -26095,6 +26119,10 @@
     "665789366",
     "665789689",
     "665790746",
-    "665791147"
+    "665791147",
+    "665792486",
+    "665793916",
+    "665795481",
+    "665797530"
   ]
 }
