@@ -19769,7 +19769,7 @@
       "last_seen": "2026-10-20 17:13:06"
     },
     "665264399": {
-      "last_price": 990.0,
+      "last_price": 650.0,
       "notified": true,
       "title": "Apple Macbook Pro M4 14\"",
       "last_seen": "2026-10-20 15:55:24"
@@ -20399,7 +20399,7 @@
       "last_seen": "2026-10-21 13:57:21"
     },
     "665372002": {
-      "last_price": 950.0,
+      "last_price": 630.0,
       "notified": true,
       "title": "MacBook Pro 14” M4 16GB RAM 512GB – Space Black",
       "last_seen": "2026-10-21 13:56:29"
@@ -21561,6 +21561,30 @@
       "notified": false,
       "title": "MacBook Pro",
       "last_seen": "2026-10-24 02:49:33"
+    },
+    "665702881": {
+      "last_price": 55.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 96w x MacBook pro 15”",
+      "last_seen": "2026-10-24 08:24:02"
+    },
+    "665692402": {
+      "last_price": 460.0,
+      "notified": false,
+      "title": "MacBook Pro 13 CPU M1 touch bar",
+      "last_seen": "2026-10-24 05:16:09"
+    },
+    "665703726": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16” 2019 – i7 – 16 GB RAM",
+      "last_seen": "2026-10-24 08:31:24"
+    },
+    "665701353": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15” retina SSD 250 / Ram 16 Mid 2014",
+      "last_seen": "2026-10-24 08:16:39"
     }
   },
   "seen_ids": [
@@ -25465,6 +25489,10 @@
     "665682603",
     "665683552",
     "665685956",
-    "665689644"
+    "665689644",
+    "665692402",
+    "665701353",
+    "665702881",
+    "665703726"
   ]
 }
