@@ -20123,7 +20123,7 @@
       "last_seen": "2026-10-21 00:16:50"
     },
     "665315101": {
-      "last_price": 1500.0,
+      "last_price": 1350.0,
       "notified": false,
       "title": "Apple MacBook Pro 16” M1 Pro — 16/512",
       "last_seen": "2026-10-20 23:45:52"
@@ -20405,9 +20405,9 @@
       "last_seen": "2026-10-21 13:56:29"
     },
     "665367599": {
-      "last_price": 2100.0,
+      "last_price": 2040.0,
       "notified": false,
-      "title": "macbook pro m4 16\" 24 gb ram 512 gb in garanzia",
+      "title": "macbook pro \"m4 pro 16\" 24 gb ram 512 gb garanzia\"",
       "last_seen": "2026-10-21 13:18:58"
     },
     "665385718": {
@@ -21503,7 +21503,7 @@
       "last_seen": "2026-10-23 20:17:31"
     },
     "665671525": {
-      "last_price": 2000.0,
+      "last_price": 1900.0,
       "notified": false,
       "title": "Macbook 16 Pro m4 pro",
       "last_seen": "2026-10-23 20:17:14"
@@ -21855,6 +21855,102 @@
       "notified": false,
       "title": "Apple MacBook Pro i7-7920HQ 16GB RAM 1TB SSD TAHOE",
       "last_seen": "2026-10-24 10:59:35"
+    },
+    "665775332": {
+      "last_price": 1900.0,
+      "notified": false,
+      "title": "Macbook pro 14” m5 24ram",
+      "last_seen": "2026-10-24 17:45:31"
+    },
+    "665765072": {
+      "last_price": 2100.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M4 Pro, 24GB ram, Batteria 100%",
+      "last_seen": "2026-10-24 16:32:39"
+    },
+    "665764063": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "Ricambio Schermo Completo MacBook Pro 14\"",
+      "last_seen": "2026-10-24 16:24:51"
+    },
+    "665762294": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M1 PRO 16/ 512GB - PROMO",
+      "last_seen": "2026-10-24 16:09:20"
+    },
+    "665760850": {
+      "last_price": 650.0,
+      "notified": true,
+      "title": "MacBook Pro 14 M1 Pro 16GB 2021",
+      "last_seen": "2026-10-24 15:54:51"
+    },
+    "665759782": {
+      "last_price": 700.0,
+      "notified": true,
+      "title": "MacBook Pro 14” 2021",
+      "last_seen": "2026-10-24 15:47:30"
+    },
+    "665047517": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" con chip Apple M4 Pro, CPU 14 core",
+      "last_seen": "2026-10-24 15:33:01"
+    },
+    "665754518": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "iPhone 17 Pro 256 Giga Con Garanzia Apple",
+      "last_seen": "2026-10-24 15:09:21"
+    },
+    "665753847": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "iPhone 17 Pro 256 Giga Con Garanzia Apple",
+      "last_seen": "2026-10-24 15:02:03"
+    },
+    "665748263": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "Apple caricabatteria usb-c 67w MacBook Pro 13/14”",
+      "last_seen": "2026-10-24 14:24:43"
+    },
+    "665774748": {
+      "last_price": null,
+      "notified": false,
+      "title": "Samsung  S25 ULTRA 512GB",
+      "last_seen": "2026-10-24 17:38:48"
+    },
+    "665759067": {
+      "last_price": 1290.0,
+      "notified": false,
+      "title": "MacBook Pro 16 pollici M2 16GB e 512GB SSD.",
+      "last_seen": "2026-10-24 15:53:42"
+    },
+    "665749564": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M3 Pro – 18GB RAM – 512GB SSD – Ba",
+      "last_seen": "2026-10-24 14:32:20"
+    },
+    "665762284": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro M1 8Gb/512Gb",
+      "last_seen": "2026-10-24 16:09:19"
+    },
+    "635199907": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 (2020)",
+      "last_seen": "2026-10-24 15:08:39"
+    },
+    "665645858": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "Macbook pro 16’ 2019 rotto",
+      "last_seen": "2026-10-23 16:48:09"
     }
   },
   "seen_ids": [
@@ -21887,6 +21983,7 @@
     "633214543",
     "633611573",
     "634740116",
+    "635199907",
     "636517779",
     "637259755",
     "638309415",
@@ -25359,6 +25456,7 @@
     "665040719",
     "665043815",
     "665047060",
+    "665047517",
     "665054657",
     "665055291",
     "665058042",
@@ -25739,6 +25837,7 @@
     "665634333",
     "665640995",
     "665643772",
+    "665645858",
     "665648386",
     "665648713",
     "665651269",
@@ -25808,6 +25907,19 @@
     "665741734",
     "665743864",
     "665744373",
-    "665745463"
+    "665745463",
+    "665748263",
+    "665749564",
+    "665753847",
+    "665754518",
+    "665759067",
+    "665759782",
+    "665760850",
+    "665762284",
+    "665762294",
+    "665764063",
+    "665765072",
+    "665774748",
+    "665775332"
   ]
 }
