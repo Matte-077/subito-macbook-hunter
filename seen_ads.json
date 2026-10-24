@@ -22125,6 +22125,18 @@
       "notified": false,
       "title": "ANDROIDAUTO PIONEER DA77DAB CARPLAY",
       "last_seen": "2026-10-24 20:35:56"
+    },
+    "665803943": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "LEGGI BENE",
+      "last_seen": "2026-10-25 00:35:37"
+    },
+    "665801808": {
+      "last_price": 109.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" Retina 2015 A1502",
+      "last_seen": "2026-10-24 23:22:17"
     }
   },
   "seen_ids": [
@@ -26123,6 +26135,8 @@
     "665792486",
     "665793916",
     "665795481",
-    "665797530"
+    "665797530",
+    "665801808",
+    "665803943"
   ]
 }
