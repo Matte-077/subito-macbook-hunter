@@ -15611,7 +15611,7 @@
       "last_seen": "2026-10-10 11:48:47"
     },
     "664022641": {
-      "last_price": 180.0,
+      "last_price": 160.0,
       "notified": true,
       "title": "Lotto 2 macbook (pro 15”A1398 + macbook 12” A1534)",
       "last_seen": "2026-10-10 14:52:24"
@@ -21555,6 +21555,12 @@
       "notified": false,
       "title": "MacBook Pro 13” M1 2020 – 8GB RAM – SSD 256GB",
       "last_seen": "2026-10-23 23:00:19"
+    },
+    "665689644": {
+      "last_price": 3200.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-10-24 02:49:33"
     }
   },
   "seen_ids": [
@@ -25458,6 +25464,7 @@
     "665678041",
     "665682603",
     "665683552",
-    "665685956"
+    "665685956",
+    "665689644"
   ]
 }
