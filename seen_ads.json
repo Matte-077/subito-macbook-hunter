@@ -21401,10 +21401,10 @@
       "last_seen": "2026-10-23 09:25:04"
     },
     "665663348": {
-      "last_price": 1569.0,
+      "last_price": 1499.0,
       "notified": false,
       "title": "MacBook Pro 14” M3 Pro 18/512 GB",
-      "last_seen": "2026-10-23 19:00:35"
+      "last_seen": "2026-10-25 17:54:03"
     },
     "665660541": {
       "last_price": 699.0,
@@ -22467,6 +22467,18 @@
       "notified": false,
       "title": "Notebook Macbook PRO non testato",
       "last_seen": "2026-10-25 20:47:43"
+    },
+    "665916964": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook Pro 16” – Intel i9, 64 GB RAM, SSD 1 TB",
+      "last_seen": "2026-10-25 22:44:51"
+    },
+    "665916198": {
+      "last_price": 620.0,
+      "notified": false,
+      "title": "Macbook Air M2 256GB",
+      "last_seen": "2026-10-25 22:31:02"
     }
   },
   "seen_ids": [
@@ -26522,6 +26534,8 @@
     "665899733",
     "665901420",
     "665907535",
-    "665912925"
+    "665912925",
+    "665916198",
+    "665916964"
   ]
 }
