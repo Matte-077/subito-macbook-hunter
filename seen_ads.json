@@ -22109,7 +22109,7 @@
       "last_seen": "2026-10-24 22:00:22"
     },
     "665795481": {
-      "last_price": 2900.0,
+      "last_price": 2700.0,
       "notified": false,
       "title": "MacBook Pro 14” CHIP M5 PRO",
       "last_seen": "2026-10-24 21:28:04"
@@ -22137,6 +22137,12 @@
       "notified": false,
       "title": "MacBook Pro 13\" Retina 2015 A1502",
       "last_seen": "2026-10-24 23:22:17"
+    },
+    "665805129": {
+      "last_price": 90.0,
+      "notified": false,
+      "title": "MacBook Pro 13” (2009) – SSD 512 GB, RAM 8 GB",
+      "last_seen": "2026-10-25 01:24:56"
     }
   },
   "seen_ids": [
@@ -26137,6 +26143,7 @@
     "665795481",
     "665797530",
     "665801808",
-    "665803943"
+    "665803943",
+    "665805129"
   ]
 }
