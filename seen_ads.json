@@ -22109,7 +22109,7 @@
       "last_seen": "2026-10-24 22:00:22"
     },
     "665795481": {
-      "last_price": 2500.0,
+      "last_price": 2200.0,
       "notified": false,
       "title": "MacBook Pro 14” CHIP M5 PRO",
       "last_seen": "2026-10-24 21:28:04"
@@ -22299,6 +22299,72 @@
       "notified": false,
       "title": "PC MACBOOK 21.5 CPU i5 RAM 8GB HDD 1TB",
       "last_seen": "2026-10-25 07:40:03"
+    },
+    "665863174": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w con cavetto usb- c",
+      "last_seen": "2026-10-25 14:48:22"
+    },
+    "665867903": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "Notebook ACEMAGIC R7 7735HS | 16GB DDR5 2025",
+      "last_seen": "2026-10-25 15:18:23"
+    },
+    "665859125": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” 2020 16 GB RAM, SSD 500 GB",
+      "last_seen": "2026-10-25 14:10:47"
+    },
+    "665854465": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "Macbook Pro M2 (2022) 16GB RAM 1TB SSD",
+      "last_seen": "2026-10-25 13:27:17"
+    },
+    "665849450": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "MacBook Pro 16” i9 32GB 1TB Radeon 5500M",
+      "last_seen": "2026-10-25 12:43:52"
+    },
+    "665867809": {
+      "last_price": 780.0,
+      "notified": false,
+      "title": "Apple Macbook AiR M2 16gb ram - SmartEconomy",
+      "last_seen": "2026-10-25 15:18:17"
+    },
+    "665872933": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "Apple MacBook Pro retina 13\" early 2015 i5 128 GB",
+      "last_seen": "2026-10-25 15:55:23"
+    },
+    "665869676": {
+      "last_price": 675.0,
+      "notified": false,
+      "title": "APPLE MAC BOOK PRO 13\",  32gb , 500Gb",
+      "last_seen": "2026-10-25 15:26:30"
+    },
+    "665869492": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "macbook pro 2015 15\"",
+      "last_seen": "2026-10-25 15:26:21"
+    },
+    "665862641": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "MacBook pro 13”retina SSD 500 / Ram 8 batt. Nuova",
+      "last_seen": "2026-10-25 14:41:04"
+    },
+    "665851171": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Macbook Pro 2012 15’’",
+      "last_seen": "2026-10-25 12:58:01"
     }
   },
   "seen_ids": [
@@ -26326,6 +26392,17 @@
     "665840680",
     "665843030",
     "665843718",
-    "665844005"
+    "665844005",
+    "665849450",
+    "665851171",
+    "665854465",
+    "665859125",
+    "665862641",
+    "665863174",
+    "665867809",
+    "665867903",
+    "665869492",
+    "665869676",
+    "665872933"
   ]
 }
