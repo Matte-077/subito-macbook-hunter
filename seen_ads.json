@@ -21503,9 +21503,9 @@
       "last_seen": "2026-10-23 20:17:31"
     },
     "665671525": {
-      "last_price": 1850.0,
+      "last_price": 1800.0,
       "notified": false,
-      "title": "Macbook 16 Pro m4 pro",
+      "title": "Macbook PRO 16 Pro m4 pro",
       "last_seen": "2026-10-23 20:17:14"
     },
     "665667970": {
@@ -22109,7 +22109,7 @@
       "last_seen": "2026-10-24 22:00:22"
     },
     "665795481": {
-      "last_price": 2200.0,
+      "last_price": 2400.0,
       "notified": false,
       "title": "MacBook Pro 14” CHIP M5 PRO",
       "last_seen": "2026-10-24 21:28:04"
@@ -22365,6 +22365,72 @@
       "notified": false,
       "title": "Macbook Pro 2012 15’’",
       "last_seen": "2026-10-25 12:58:01"
+    },
+    "665896927": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "Apple iWatch 7 acciao cellular",
+      "last_seen": "2026-10-25 19:03:57"
+    },
+    "665875547": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "Docking Station Universale ALOGIC DX3 Triple 4K",
+      "last_seen": "2026-10-25 17:30:47"
+    },
+    "665894759": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Retina (Mid 2014) - i7 / 16GB RAM",
+      "last_seen": "2026-10-25 18:44:43"
+    },
+    "665883769": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "Macbook pro",
+      "last_seen": "2026-10-25 17:23:33"
+    },
+    "665874719": {
+      "last_price": 110.0,
+      "notified": false,
+      "title": "Caricatore UGREEN Nexode 300W GaN 5 Porte",
+      "last_seen": "2026-10-25 16:15:59"
+    },
+    "665884865": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook Pro M1 2020 - Apple",
+      "last_seen": "2026-10-25 17:31:08"
+    },
+    "665882534": {
+      "last_price": null,
+      "notified": false,
+      "title": "macbook pro 15 2012 top",
+      "last_seen": "2026-10-25 18:44:42"
+    },
+    "665875780": {
+      "last_price": 10.0,
+      "notified": false,
+      "title": "MacBook Pro 13\"",
+      "last_seen": "2026-10-25 16:24:10"
+    },
+    "665891422": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Macbook Pro 2017",
+      "last_seen": "2026-10-25 18:21:31"
+    },
+    "665888356": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Apple 85w magsafe 2 alimentatore x MacBook Pro 15”",
+      "last_seen": "2026-10-25 17:58:04"
+    },
+    "665876452": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "Apple MacBook pro 13\" touchbar",
+      "last_seen": "2026-10-25 16:25:00"
     }
   },
   "seen_ids": [
@@ -26403,6 +26469,17 @@
     "665867903",
     "665869492",
     "665869676",
-    "665872933"
+    "665872933",
+    "665874719",
+    "665875547",
+    "665875780",
+    "665876452",
+    "665882534",
+    "665883769",
+    "665884865",
+    "665888356",
+    "665891422",
+    "665894759",
+    "665896927"
   ]
 }
