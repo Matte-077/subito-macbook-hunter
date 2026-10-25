@@ -22379,7 +22379,7 @@
       "last_seen": "2026-10-25 17:30:47"
     },
     "665894759": {
-      "last_price": 250.0,
+      "last_price": 140.0,
       "notified": false,
       "title": "MacBook Pro 15\" Retina (Mid 2014) - i7 / 16GB RAM",
       "last_seen": "2026-10-25 18:44:43"
@@ -22415,7 +22415,7 @@
       "last_seen": "2026-10-25 16:24:10"
     },
     "665891422": {
-      "last_price": 150.0,
+      "last_price": 140.0,
       "notified": false,
       "title": "Macbook Pro 2017",
       "last_seen": "2026-10-25 18:21:31"
@@ -22431,6 +22431,42 @@
       "notified": false,
       "title": "Apple MacBook pro 13\" touchbar",
       "last_seen": "2026-10-25 16:25:00"
+    },
+    "665901420": {
+      "last_price": 1350.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M4 16GB RAM 1TB SSD 2025",
+      "last_seen": "2026-10-25 19:41:44"
+    },
+    "665890742": {
+      "last_price": 90.0,
+      "notified": false,
+      "title": "Ugreen Nexode 200W Caricabatterie Type C - 6 porte",
+      "last_seen": "2026-10-25 20:29:07"
+    },
+    "665899733": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" 2018, i7 6-core, 16 GB, SSD 256 GB",
+      "last_seen": "2026-10-25 19:30:38"
+    },
+    "665899610": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook Air M1 2020 8GB/256+tastiera BT",
+      "last_seen": "2026-10-25 19:27:03"
+    },
+    "665912925": {
+      "last_price": 250.0,
+      "notified": true,
+      "title": "Notebook MacBook Pro M1 2020 8gb ram 256 GB Apple",
+      "last_seen": "2026-10-25 21:52:13"
+    },
+    "665907535": {
+      "last_price": 55.0,
+      "notified": false,
+      "title": "Notebook Macbook PRO non testato",
+      "last_seen": "2026-10-25 20:47:43"
     }
   },
   "seen_ids": [
@@ -26478,8 +26514,14 @@
     "665883769",
     "665884865",
     "665888356",
+    "665890742",
     "665891422",
     "665894759",
-    "665896927"
+    "665896927",
+    "665899610",
+    "665899733",
+    "665901420",
+    "665907535",
+    "665912925"
   ]
 }
