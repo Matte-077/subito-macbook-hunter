@@ -21893,9 +21893,9 @@
       "last_seen": "2026-10-24 15:47:30"
     },
     "665047517": {
-      "last_price": 2500.0,
+      "last_price": 2300.0,
       "notified": false,
-      "title": "MacBook Pro 16\" con chip Apple M4 Pro, CPU 14 core",
+      "title": "MacBook Pro 16\" chip Apple M4 Pro, CPU 14 core24GB",
       "last_seen": "2026-10-24 15:33:01"
     },
     "665754518": {
@@ -22871,7 +22871,7 @@
       "last_seen": "2026-10-26 18:06:49"
     },
     "666003465": {
-      "last_price": 300.0,
+      "last_price": 280.0,
       "notified": false,
       "title": "MacBook Pro 13\" 2017 - parti di ricambio o ripar",
       "last_seen": "2026-10-26 17:39:03"
@@ -22953,6 +22953,66 @@
       "notified": false,
       "title": "MacBook Pro M5 32GB/1TB Nuovo Sigillato",
       "last_seen": "2026-10-26 14:58:59"
+    },
+    "666040324": {
+      "last_price": 1750.0,
+      "notified": false,
+      "title": "iPhone 18 Pro Max",
+      "last_seen": "2026-10-27 00:00:57"
+    },
+    "666038110": {
+      "last_price": 1777.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\"/16\" M5 Nuovo Sigillato",
+      "last_seen": "2026-10-26 23:06:01"
+    },
+    "666037710": {
+      "last_price": 1300.0,
+      "notified": false,
+      "title": "MacBook Pro 14” – M3 Pro",
+      "last_seen": "2026-10-26 22:59:48"
+    },
+    "666030272": {
+      "last_price": 2099.0,
+      "notified": false,
+      "title": "Macbook Pro M5 24GB RAM 1TB",
+      "last_seen": "2026-10-26 21:25:14"
+    },
+    "666029945": {
+      "last_price": 2400.0,
+      "notified": false,
+      "title": "Macbook pro m5pro 14’’ 24gb",
+      "last_seen": "2026-10-26 21:24:54"
+    },
+    "666028937": {
+      "last_price": 725.0,
+      "notified": true,
+      "title": "Macbook Pro M2 13” 16/512 2022 Apple",
+      "last_seen": "2026-10-26 21:11:05"
+    },
+    "666028275": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15” retina SSD 250 / RAM 16 mid 2014",
+      "last_seen": "2026-10-26 21:05:47"
+    },
+    "666026995": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook Pro 16” 2019 Touchbar 32GB RAM 1TB SSD",
+      "last_seen": "2026-10-26 20:51:58"
+    },
+    "666033883": {
+      "last_price": 30.0,
+      "notified": false,
+      "title": "Macbook Pro 2015",
+      "last_seen": "2026-10-26 22:06:29"
+    },
+    "666034831": {
+      "last_price": 380.0,
+      "notified": false,
+      "title": "macbook pro 2020 13 inches intel 512 gb",
+      "last_seen": "2026-10-26 22:14:00"
     }
   },
   "seen_ids": [
@@ -27089,6 +27149,16 @@
     "666016087",
     "666017468",
     "666017883",
-    "666022416"
+    "666022416",
+    "666026995",
+    "666028275",
+    "666028937",
+    "666029945",
+    "666030272",
+    "666033883",
+    "666034831",
+    "666037710",
+    "666038110",
+    "666040324"
   ]
 }
