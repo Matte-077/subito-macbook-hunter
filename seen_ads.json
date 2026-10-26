@@ -22479,6 +22479,12 @@
       "notified": false,
       "title": "Macbook Air M2 256GB",
       "last_seen": "2026-10-25 22:31:02"
+    },
+    "665921208": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro M5 14 pollici 1TB come nuovo",
+      "last_seen": "2026-10-26 01:41:43"
     }
   },
   "seen_ids": [
@@ -26536,6 +26542,7 @@
     "665907535",
     "665912925",
     "665916198",
-    "665916964"
+    "665916964",
+    "665921208"
   ]
 }
