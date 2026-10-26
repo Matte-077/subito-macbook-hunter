@@ -15935,10 +15935,10 @@
       "last_seen": "2026-10-11 13:23:14"
     },
     "664116064": {
-      "last_price": 1020.0,
+      "last_price": 1000.0,
       "notified": false,
       "title": "MacBook Pro 16\" M1 Pro – 16GB – 1TB SSD",
-      "last_seen": "2026-10-11 12:34:57"
+      "last_seen": "2026-10-26 14:13:00"
     },
     "664113894": {
       "last_price": 550.0,
@@ -20231,10 +20231,10 @@
       "last_seen": "2026-10-21 10:08:27"
     },
     "665332521": {
-      "last_price": 1300.0,
+      "last_price": 1200.0,
       "notified": false,
       "title": "Apple MacbookPro 16 pollici 2021 M1 Max",
-      "last_seen": "2026-10-21 09:38:38"
+      "last_seen": "2026-10-26 08:34:00"
     },
     "665329469": {
       "last_price": 149.0,
@@ -21323,7 +21323,7 @@
       "last_seen": "2026-10-23 10:18:15"
     },
     "665625236": {
-      "last_price": 670.0,
+      "last_price": 659.0,
       "notified": false,
       "title": "Macbook Pro 13\" M2 - Garanzia estesa",
       "last_seen": "2026-10-23 14:08:07"
@@ -21941,7 +21941,7 @@
       "last_seen": "2026-10-24 16:09:19"
     },
     "635199907": {
-      "last_price": 500.0,
+      "last_price": 450.0,
       "notified": false,
       "title": "MacBook Pro 13” M1 (2020)",
       "last_seen": "2026-10-24 15:08:39"
@@ -22457,9 +22457,9 @@
       "last_seen": "2026-10-25 19:27:03"
     },
     "665912925": {
-      "last_price": 250.0,
+      "last_price": 220.0,
       "notified": true,
-      "title": "Notebook MacBook Pro M1 2020 8gb ram 256 GB Apple",
+      "title": "Notebook MacBook Pro M1 2020 8gb 256 GB Apple Mini",
       "last_seen": "2026-10-25 21:52:13"
     },
     "665907535": {
@@ -22485,6 +22485,258 @@
       "notified": false,
       "title": "MacBook Pro M5 14 pollici 1TB come nuovo",
       "last_seen": "2026-10-26 01:41:43"
+    },
+    "665971846": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 128/256 Giga Con Garanzia",
+      "last_seen": "2026-10-26 13:45:15"
+    },
+    "665970421": {
+      "last_price": 309.0,
+      "notified": false,
+      "title": "iPhone 13 128 Giga Con Garanzia",
+      "last_seen": "2026-10-26 13:36:38"
+    },
+    "665970074": {
+      "last_price": 469.0,
+      "notified": false,
+      "title": "iPhone 14 Pro 128 Giga Ricondizionato Con Garanzia",
+      "last_seen": "2026-10-26 13:32:33"
+    },
+    "665969656": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "iPhone 16 Plus 128 Giga Con Garanzia",
+      "last_seen": "2026-10-26 13:32:19"
+    },
+    "665960931": {
+      "last_price": 600.0,
+      "notified": true,
+      "title": "MacBook Pro 14” 2021",
+      "last_seen": "2026-10-26 12:23:31"
+    },
+    "665956449": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" M1 MAX 32GB 2TB -10C CPU/32C GPU",
+      "last_seen": "2026-10-26 11:54:15"
+    },
+    "665950648": {
+      "last_price": null,
+      "notified": false,
+      "title": "MacBook PRO M1 PRO (2021)",
+      "last_seen": "2026-10-26 11:13:26"
+    },
+    "665934445": {
+      "last_price": 975.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14 Notebook",
+      "last_seen": "2026-10-26 10:32:51"
+    },
+    "665940499": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "IPHONE 14 PRO MAX 128GB nero siderale",
+      "last_seen": "2026-10-26 10:03:16"
+    },
+    "665939603": {
+      "last_price": 1799.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M1 Max 32GB/2TB",
+      "last_seen": "2026-10-26 09:55:12"
+    },
+    "665937985": {
+      "last_price": 1390.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M3 Pro 18GB / 512GB - Pari a",
+      "last_seen": "2026-10-26 09:46:27"
+    },
+    "665935187": {
+      "last_price": 1490.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 - 16GB - 512GB Argento",
+      "last_seen": "2026-10-26 09:25:40"
+    },
+    "665979326": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 2017",
+      "last_seen": "2026-10-26 14:46:33"
+    },
+    "665973598": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Macbook Pro M2  16 \"  1 TB",
+      "last_seen": "2026-10-26 14:04:52"
+    },
+    "665974020": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” 2020 intel i5 16Gb ram",
+      "last_seen": "2026-10-26 14:01:08"
+    },
+    "665970616": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M2 - 16GB - 1T SSD",
+      "last_seen": "2026-10-26 13:36:47"
+    },
+    "665954912": {
+      "last_price": 5980.0,
+      "notified": false,
+      "title": "Apple MacBook PRO 16 CTO",
+      "last_seen": "2026-10-26 11:41:59"
+    },
+    "665954711": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM",
+      "last_seen": "2026-10-26 11:41:50"
+    },
+    "665954365": {
+      "last_price": 1599.0,
+      "notified": false,
+      "title": "MSI Creator Z16 Fujiwara Limited Edition | i7 |16\"",
+      "last_seen": "2026-10-26 11:37:55"
+    },
+    "665951796": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "Samsung Galaxy Book 6 NUOVO SIGILLATO",
+      "last_seen": "2026-10-26 11:17:45"
+    },
+    "665945616": {
+      "last_price": 1799.0,
+      "notified": false,
+      "title": "MSI Ultrabook Creator Z16 x Fragment Design Élite",
+      "last_seen": "2026-10-26 10:40:59"
+    },
+    "665942824": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 16 i9 2019 32GB 2TB - leggi bene",
+      "last_seen": "2026-10-26 10:19:41"
+    },
+    "665941840": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "APPLE MacBook Pro 2019 i9 16GB 512GB Vega 20 4GB",
+      "last_seen": "2026-10-26 10:15:12"
+    },
+    "665939330": {
+      "last_price": 689.0,
+      "notified": false,
+      "title": "GOOGLE PIXEL 10 PRO 5G NUOVO 128GB -16 RAM",
+      "last_seen": "2026-10-26 09:55:07"
+    },
+    "665960221": {
+      "last_price": 379.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 2020 - 8/256 GB - 379 trattabil",
+      "last_seen": "2026-10-26 12:19:19"
+    },
+    "665946723": {
+      "last_price": 589.0,
+      "notified": false,
+      "title": "MacBook Pro 13+ Magic Mouse 2",
+      "last_seen": "2026-10-26 10:48:57"
+    },
+    "665964102": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2022 Apple M2",
+      "last_seen": "2026-10-26 12:48:02"
+    },
+    "665964067": {
+      "last_price": 710.0,
+      "notified": false,
+      "title": "Macbook Pro 13” 2022",
+      "last_seen": "2026-10-26 12:48:01"
+    },
+    "665956775": {
+      "last_price": 410.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M2",
+      "last_seen": "2026-10-26 11:54:30"
+    },
+    "665964047": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" A1706",
+      "last_seen": "2026-10-26 12:48:00"
+    },
+    "665956430": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "MacBook Pro 2011 rotto",
+      "last_seen": "2026-10-26 11:50:26"
+    },
+    "665939306": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "Macbook pro 15’’2019 A1990- per rivambi- SSD GUAST",
+      "last_seen": "2026-10-26 09:55:01"
+    },
+    "665964466": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "macbook pro i9 15\"",
+      "last_seen": "2026-10-26 12:48:16"
+    },
+    "665964116": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "macbook pro i9 15\"",
+      "last_seen": "2026-10-26 12:48:03"
+    },
+    "665954892": {
+      "last_price": 310.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2020 - i5 Quad-Core - 256GB SSD",
+      "last_seen": "2026-10-26 11:41:58"
+    },
+    "665950076": {
+      "last_price": 229.0,
+      "notified": false,
+      "title": "Apple Macbook Pro13 8 GB RAM 256GB SSD Windows 11",
+      "last_seen": "2026-10-26 11:09:13"
+    },
+    "665950038": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 - macOS Tahoe 8GB I5 SSD",
+      "last_seen": "2026-10-26 11:09:12"
+    },
+    "665941384": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 i5 2.3GHz 8GB RAM Portatile",
+      "last_seen": "2026-10-26 10:11:04"
+    },
+    "665940984": {
+      "last_price": 79.0,
+      "notified": false,
+      "title": "MacBook Air 2017 - Windows 11 Pro Apple Ssd Ram",
+      "last_seen": "2026-10-26 10:07:13"
+    },
+    "665942340": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "IPHONE 15 PRO MAX 256 GB",
+      "last_seen": "2026-10-26 10:19:28"
+    },
+    "665941953": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "Apple MacBook Pro i7-7920HQ 16GB RAM 1TB SSD TAHOE",
+      "last_seen": "2026-10-26 10:15:17"
+    },
+    "665941339": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
+      "last_seen": "2026-10-26 10:11:02"
     }
   },
   "seen_ids": [
@@ -26543,6 +26795,48 @@
     "665912925",
     "665916198",
     "665916964",
-    "665921208"
+    "665921208",
+    "665934445",
+    "665935187",
+    "665937985",
+    "665939306",
+    "665939330",
+    "665939603",
+    "665940499",
+    "665940984",
+    "665941339",
+    "665941384",
+    "665941840",
+    "665941953",
+    "665942340",
+    "665942824",
+    "665945616",
+    "665946723",
+    "665950038",
+    "665950076",
+    "665950648",
+    "665951796",
+    "665954365",
+    "665954711",
+    "665954892",
+    "665954912",
+    "665956430",
+    "665956449",
+    "665956775",
+    "665960221",
+    "665960931",
+    "665964047",
+    "665964067",
+    "665964102",
+    "665964116",
+    "665964466",
+    "665969656",
+    "665970074",
+    "665970421",
+    "665970616",
+    "665971846",
+    "665973598",
+    "665974020",
+    "665979326"
   ]
 }
