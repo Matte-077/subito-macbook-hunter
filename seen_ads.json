@@ -22511,7 +22511,7 @@
       "last_seen": "2026-10-26 13:32:19"
     },
     "665960931": {
-      "last_price": 600.0,
+      "last_price": 700.0,
       "notified": true,
       "title": "MacBook Pro 14” 2021",
       "last_seen": "2026-10-26 12:23:31"
@@ -23013,6 +23013,36 @@
       "notified": false,
       "title": "macbook pro 2020 13 inches intel 512 gb",
       "last_seen": "2026-10-26 22:14:00"
+    },
+    "666047882": {
+      "last_price": 1300.0,
+      "notified": false,
+      "title": "Apple macbook pro m2 pro 14” 16gb ram 512ssd",
+      "last_seen": "2026-10-27 05:15:48"
+    },
+    "666055946": {
+      "last_price": 540.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M1 2020",
+      "last_seen": "2026-10-27 08:33:54"
+    },
+    "666052394": {
+      "last_price": 670.0,
+      "notified": false,
+      "title": "Macbook Air M2",
+      "last_seen": "2026-10-27 07:40:05"
+    },
+    "666047922": {
+      "last_price": 55.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2019 guasto per ricambi",
+      "last_seen": "2026-10-27 05:21:24"
+    },
+    "666056993": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
+      "last_seen": "2026-10-27 08:47:26"
     }
   },
   "seen_ids": [
@@ -27159,6 +27189,11 @@
     "666034831",
     "666037710",
     "666038110",
-    "666040324"
+    "666040324",
+    "666047882",
+    "666047922",
+    "666052394",
+    "666055946",
+    "666056993"
   ]
 }
