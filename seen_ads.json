@@ -22579,7 +22579,7 @@
       "last_seen": "2026-10-26 14:01:08"
     },
     "665970616": {
-      "last_price": 1500.0,
+      "last_price": 1400.0,
       "notified": false,
       "title": "MacBook Pro 16\" M2 - 16GB - 1T SSD",
       "last_seen": "2026-10-26 13:36:47"
@@ -23429,6 +23429,114 @@
       "notified": false,
       "title": "Macbook air 13” M5 512 gb 16 gb ram",
       "last_seen": "2026-10-27 12:55:42"
+    },
+    "666171855": {
+      "last_price": 3200.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M5 Pro 24GB 2TB - Sigillato",
+      "last_seen": "2026-10-28 00:05:42"
+    },
+    "666166640": {
+      "last_price": 1650.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M4 Pro 24GB 512GB –AppleCare+ 5/28",
+      "last_seen": "2026-10-27 22:27:39"
+    },
+    "666166690": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "macbook pro 14” m4",
+      "last_seen": "2026-10-27 22:21:39"
+    },
+    "666164547": {
+      "last_price": 990.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Pro 16Gb 1Tb Batt. 100%",
+      "last_seen": "2026-10-27 22:08:17"
+    },
+    "666164753": {
+      "last_price": 1850.0,
+      "notified": false,
+      "title": "MACBOOK PRO M5 14” 1TB",
+      "last_seen": "2026-10-27 22:02:02"
+    },
+    "666159672": {
+      "last_price": 2700.0,
+      "notified": false,
+      "title": "macbook pro m4 max 36gb ram 1tb ssd layout turco",
+      "last_seen": "2026-10-27 21:02:12"
+    },
+    "666159187": {
+      "last_price": 1460.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M4 Pro · 24 GB RAM · 512 GB SSD",
+      "last_seen": "2026-10-27 20:55:35"
+    },
+    "666172107": {
+      "last_price": 440.0,
+      "notified": false,
+      "title": "MacBook Pro (16-inch, 2019) i7 SSD 500gb",
+      "last_seen": "2026-10-28 00:11:38"
+    },
+    "666167019": {
+      "last_price": 2000.0,
+      "notified": false,
+      "title": "Macbook pro 16 m4",
+      "last_seen": "2026-10-27 22:27:44"
+    },
+    "666163897": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15” 16 gb RAM 256 SSD",
+      "last_seen": "2026-10-27 21:49:01"
+    },
+    "666160912": {
+      "last_price": 870.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16' M1 Pro Chip - 16GB - 512GB",
+      "last_seen": "2026-10-27 21:21:52"
+    },
+    "666159760": {
+      "last_price": 1050.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M3 / 18 GB di RAM / 512 GB",
+      "last_seen": "2026-10-27 21:02:17"
+    },
+    "666159409": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro 15” INTEL I9 del 2019",
+      "last_seen": "2026-10-27 21:01:57"
+    },
+    "666171842": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13 M2 (2022) 8GB / 256GB",
+      "last_seen": "2026-10-28 00:00:08"
+    },
+    "666159984": {
+      "last_price": 690.0,
+      "notified": false,
+      "title": "Macbook Pro 13” M2 2022 256GB SSD/8GB RAM",
+      "last_seen": "2026-10-27 21:08:40"
+    },
+    "666168349": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "Ipad Air M3 128 gb + apple pencil pro",
+      "last_seen": "2026-10-27 22:46:48"
+    },
+    "666169674": {
+      "last_price": 1220.0,
+      "notified": false,
+      "title": "IPhone 17 Pro Max 512GB Blue APPLE CARE +",
+      "last_seen": "2026-10-27 23:12:00"
+    },
+    "666170923": {
+      "last_price": 110.0,
+      "notified": false,
+      "title": "Macbook pro  mid 2010 per ricambi",
+      "last_seen": "2026-10-27 23:36:48"
     }
   },
   "seen_ids": [
@@ -27644,6 +27752,24 @@
     "666152083",
     "666152546",
     "666156146",
-    "666156376"
+    "666156376",
+    "666159187",
+    "666159409",
+    "666159672",
+    "666159760",
+    "666159984",
+    "666160912",
+    "666163897",
+    "666164547",
+    "666164753",
+    "666166640",
+    "666166690",
+    "666167019",
+    "666168349",
+    "666169674",
+    "666170923",
+    "666171842",
+    "666171855",
+    "666172107"
   ]
 }
