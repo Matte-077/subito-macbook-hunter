@@ -23497,7 +23497,7 @@
       "last_seen": "2026-10-27 21:21:52"
     },
     "666159760": {
-      "last_price": 1050.0,
+      "last_price": 950.0,
       "notified": false,
       "title": "MacBook Pro 16″ M3 / 18 GB di RAM / 512 GB",
       "last_seen": "2026-10-27 21:02:17"
@@ -23533,7 +23533,7 @@
       "last_seen": "2026-10-27 23:12:00"
     },
     "666170923": {
-      "last_price": 110.0,
+      "last_price": 90.0,
       "notified": false,
       "title": "Macbook pro  mid 2010 per ricambi",
       "last_seen": "2026-10-27 23:36:48"
@@ -23543,6 +23543,24 @@
       "notified": false,
       "title": "Apple 2024 MacBook Pro 14-inch M4 Pro 24GB RAM 1TB",
       "last_seen": "2026-10-28 01:28:44"
+    },
+    "666192796": {
+      "last_price": 1470.0,
+      "notified": false,
+      "title": "Macbook Pro M4 14\" 1TB 16GB RAM",
+      "last_seen": "2026-10-28 09:29:10"
+    },
+    "666181768": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "COPPIA MACBOOK PRO A1502 E A1425",
+      "last_seen": "2026-10-28 07:16:14"
+    },
+    "633476027": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 17” A1286 – Schermo opaco (matte)",
+      "last_seen": "2026-10-28 08:47:15"
     }
   },
   "seen_ids": [
@@ -23574,6 +23592,7 @@
     "632688225",
     "633045610",
     "633214543",
+    "633476027",
     "633611573",
     "634740116",
     "635199907",
@@ -27777,6 +27796,8 @@
     "666171842",
     "666171855",
     "666172107",
-    "666174320"
+    "666174320",
+    "666181768",
+    "666192796"
   ]
 }
