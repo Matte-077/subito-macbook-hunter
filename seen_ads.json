@@ -19675,10 +19675,10 @@
       "last_seen": "2026-10-20 10:22:50"
     },
     "665206130": {
-      "last_price": 800.0,
-      "notified": false,
+      "last_price": 700.0,
+      "notified": true,
       "title": "MacBook Pro14, 2021 16GB 512GB, scatola originale",
-      "last_seen": "2026-10-20 10:14:44"
+      "last_seen": "2026-10-28 14:28:16"
     },
     "665198116": {
       "last_price": 49.0,
@@ -20365,7 +20365,7 @@
       "last_seen": "2026-10-21 15:48:53"
     },
     "665384236": {
-      "last_price": 1200.0,
+      "last_price": 1150.0,
       "notified": false,
       "title": "MacBook Pro 14”",
       "last_seen": "2026-10-21 15:28:55"
@@ -22165,7 +22165,7 @@
       "last_seen": "2026-10-25 10:46:45"
     },
     "665832961": {
-      "last_price": 1450.0,
+      "last_price": 1400.0,
       "notified": false,
       "title": "MacBook Pro 14\" M3 PRO 18GB 1TB nero - AppleCare+",
       "last_seen": "2026-10-25 10:39:29"
@@ -22987,7 +22987,7 @@
       "last_seen": "2026-10-26 21:24:54"
     },
     "666028937": {
-      "last_price": 725.0,
+      "last_price": 675.0,
       "notified": true,
       "title": "Macbook Pro M2 13” 16/512 2022 Apple",
       "last_seen": "2026-10-26 21:11:05"
@@ -23083,7 +23083,7 @@
       "last_seen": "2026-10-27 12:22:32"
     },
     "666092633": {
-      "last_price": 1399.0,
+      "last_price": 1350.0,
       "notified": false,
       "title": "Mac Book Pro. 14’’ 18 GB RAM SSD 512 GB NERO 2023",
       "last_seen": "2026-10-27 12:14:56"
@@ -23701,10 +23701,10 @@
       "last_seen": "2026-10-28 12:34:21"
     },
     "666215286": {
-      "last_price": 799.0,
+      "last_price": 750.0,
       "notified": false,
       "title": "MacBook Neo 13\" – Chip A18 Pro (nuovo)",
-      "last_seen": "2026-10-28 12:17:53"
+      "last_seen": "2026-10-28 19:06:27"
     },
     "666211436": {
       "last_price": 410.0,
@@ -23855,6 +23855,108 @@
       "notified": false,
       "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
       "last_seen": "2026-10-28 10:27:47"
+    },
+    "666282828": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "MacBook Pro 2021 M1 Pro 14” Apple Laptop Docente",
+      "last_seen": "2026-10-28 21:32:59"
+    },
+    "666270857": {
+      "last_price": 1699.0,
+      "notified": false,
+      "title": "Macbook pro 16’ m3 pro",
+      "last_seen": "2026-10-28 19:40:36"
+    },
+    "666264919": {
+      "last_price": 2499.0,
+      "notified": false,
+      "title": "Macbook Pro chip M5 Pro, 24GB RAM, 1TB SSD",
+      "last_seen": "2026-10-28 18:45:51"
+    },
+    "666263234": {
+      "last_price": 349.0,
+      "notified": false,
+      "title": "IPHONE 14 128GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-10-28 18:31:27"
+    },
+    "666263132": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "IPHONE 14 256GB USATO",
+      "last_seen": "2026-10-28 18:31:21"
+    },
+    "666263036": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "IPHONE 14 256GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-10-28 18:31:17"
+    },
+    "666263882": {
+      "last_price": 380.0,
+      "notified": false,
+      "title": "MacBook Pro Retina (Mid 2015) 16/1Tb",
+      "last_seen": "2026-10-28 18:45:04"
+    },
+    "666262751": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "IPHONE 16 128GB USATO Garanzia: 1 ANNO",
+      "last_seen": "2026-10-28 18:31:03"
+    },
+    "666259518": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" (Mid 2012) – 16 GB RAM",
+      "last_seen": "2026-10-28 18:03:58"
+    },
+    "666252418": {
+      "last_price": 2990.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M5 Pro 48GB 1TB - Garanzia 2027",
+      "last_seen": "2026-10-28 17:14:28"
+    },
+    "666256929": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "MacBook pro M1 | 13 8RAM/256SSD | 2020",
+      "last_seen": "2026-10-28 17:49:29"
+    },
+    "666256747": {
+      "last_price": 949.0,
+      "notified": false,
+      "title": "MacBook pro M2 | 13 16RAM/512SSD | 2022",
+      "last_seen": "2026-10-28 17:43:12"
+    },
+    "666241092": {
+      "last_price": 900.0,
+      "notified": true,
+      "title": "MacBook pro M2 2023 con touch bar",
+      "last_seen": "2026-10-28 17:42:54"
+    },
+    "666271292": {
+      "last_price": 45.0,
+      "notified": false,
+      "title": "Alimentatore Apple 70W USB-C",
+      "last_seen": "2026-10-28 19:41:02"
+    },
+    "666270142": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "MacBook pro",
+      "last_seen": "2026-10-28 19:33:51"
+    },
+    "666280723": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 i7 | 16gb | 512gb SSD | amd",
+      "last_seen": "2026-10-28 21:12:33"
+    },
+    "666250550": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "macbook pro 2017 13 touchbar",
+      "last_seen": "2026-10-28 16:59:55"
     }
   },
   "seen_ids": [
@@ -28134,6 +28236,7 @@
     "666237289",
     "666239036",
     "666240432",
+    "666241092",
     "666242289",
     "666242916",
     "666243145",
@@ -28141,6 +28244,22 @@
     "666247037",
     "666247135",
     "666247672",
-    "666247889"
+    "666247889",
+    "666250550",
+    "666252418",
+    "666256747",
+    "666256929",
+    "666259518",
+    "666262751",
+    "666263036",
+    "666263132",
+    "666263234",
+    "666263882",
+    "666264919",
+    "666270142",
+    "666270857",
+    "666271292",
+    "666280723",
+    "666282828"
   ]
 }
