@@ -7087,10 +7087,10 @@
       "last_seen": "2026-09-21 19:19:47"
     },
     "661595486": {
-      "last_price": 380.0,
+      "last_price": 340.0,
       "notified": false,
       "title": "MacBook Pro 13\" (2019) - i5 2.4 GHz - SSD256",
-      "last_seen": "2026-09-21 19:35:16"
+      "last_seen": "2026-10-29 21:12:01"
     },
     "661596993": {
       "last_price": 3500.0,
@@ -22057,7 +22057,7 @@
       "last_seen": "2026-10-24 18:15:08"
     },
     "665751492": {
-      "last_price": 750.0,
+      "last_price": 900.0,
       "notified": false,
       "title": "iPad Pro M4 11” senza difetti",
       "last_seen": "2026-10-24 19:14:31"
@@ -24397,7 +24397,7 @@
       "last_seen": "2026-10-29 18:14:59"
     },
     "666365085": {
-      "last_price": 2399.0,
+      "last_price": 2299.0,
       "notified": false,
       "title": "MacBook Pro M5 Pro 1TB 24gb Ram",
       "last_seen": "2026-10-29 15:17:44"
@@ -24407,6 +24407,42 @@
       "notified": false,
       "title": "MacBook Pro 16 m3Max/48gb/1Tb Garanzia 1 anno",
       "last_seen": "2026-10-29 14:20:59"
+    },
+    "666410195": {
+      "last_price": 1300.0,
+      "notified": false,
+      "title": "MacBook Pro M4 14” 16GB RAM 512GB SSD",
+      "last_seen": "2026-10-29 21:12:20"
+    },
+    "666405638": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w con cavetto usb-c",
+      "last_seen": "2026-10-29 20:19:49"
+    },
+    "666418215": {
+      "last_price": 99.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2019 A2141 per ricambi, no display",
+      "last_seen": "2026-10-29 22:48:54"
+    },
+    "666410600": {
+      "last_price": 630.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” M1 2020 – 8GB RAM – 512GB",
+      "last_seen": "2026-10-29 21:18:53"
+    },
+    "666406602": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" M2 24GB 1TB",
+      "last_seen": "2026-10-29 20:26:40"
+    },
+    "666404023": {
+      "last_price": 30.0,
+      "notified": false,
+      "title": "Ugreen Revodok Pro 308 Hub USB C 8 in 1 - Nuovo",
+      "last_seen": "2026-10-29 19:59:56"
     }
   },
   "seen_ids": [
@@ -28785,6 +28821,12 @@
     "666398085",
     "666400134",
     "666401282",
-    "666403559"
+    "666403559",
+    "666404023",
+    "666405638",
+    "666406602",
+    "666410195",
+    "666410600",
+    "666418215"
   ]
 }
