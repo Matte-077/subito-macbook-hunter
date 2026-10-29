@@ -5871,10 +5871,10 @@
       "last_seen": "2026-09-19 07:10:50"
     },
     "661276795": {
-      "last_price": 700.0,
+      "last_price": 600.0,
       "notified": false,
       "title": "Macbook pro 15 late 2016",
-      "last_seen": "2026-09-19 08:12:36"
+      "last_seen": "2026-10-29 06:02:17"
     },
     "661279565": {
       "last_price": 1400.0,
@@ -24029,6 +24029,12 @@
       "notified": false,
       "title": "IPhone 17 Pro Max 512GB Blue APPLE CARE +",
       "last_seen": "2026-10-28 22:11:52"
+    },
+    "666296918": {
+      "last_price": 1970.0,
+      "notified": false,
+      "title": "Macbook Pro 14 M4 Pro 1TB 24GB nero PARI AL NUOVO",
+      "last_seen": "2026-10-29 02:35:46"
     }
   },
   "seen_ids": [
@@ -28344,6 +28350,7 @@
     "666290485",
     "666292051",
     "666292134",
-    "666293038"
+    "666293038",
+    "666296918"
   ]
 }
