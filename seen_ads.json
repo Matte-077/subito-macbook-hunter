@@ -15937,10 +15937,10 @@
       "last_seen": "2026-10-11 13:23:14"
     },
     "664116064": {
-      "last_price": 1000.0,
+      "last_price": 950.0,
       "notified": false,
       "title": "MacBook Pro 16\" M1 Pro – 16GB – 1TB SSD",
-      "last_seen": "2026-10-26 14:13:00"
+      "last_seen": "2026-10-28 14:13:11"
     },
     "664113894": {
       "last_price": 550.0,
@@ -22579,7 +22579,7 @@
       "last_seen": "2026-10-26 14:01:08"
     },
     "665970616": {
-      "last_price": 1400.0,
+      "last_price": 1450.0,
       "notified": false,
       "title": "MacBook Pro 16\" M2 - 16GB - 1T SSD",
       "last_seen": "2026-10-26 13:36:47"
@@ -23689,7 +23689,7 @@
       "last_seen": "2026-10-28 13:09:39"
     },
     "666218891": {
-      "last_price": 299.0,
+      "last_price": 290.0,
       "notified": false,
       "title": "Apple MacBook Pro 15” Retina 2017 – i7 16Gb Ram",
       "last_seen": "2026-10-28 12:41:00"
@@ -23957,6 +23957,78 @@
       "notified": false,
       "title": "macbook pro 2017 13 touchbar",
       "last_seen": "2026-10-28 16:59:55"
+    },
+    "666292134": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "iPhone 15 Mix Colori 128 Giga Con Garanzia",
+      "last_seen": "2026-10-28 23:59:29"
+    },
+    "666292051": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "iPhone 15 128 Giga Pari al Nuovo Con Garanzia",
+      "last_seen": "2026-10-28 23:59:25"
+    },
+    "666290485": {
+      "last_price": 1100.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M2 Pro 14 16/512GB - Pari al nuo",
+      "last_seen": "2026-10-28 23:12:56"
+    },
+    "666286606": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M4 MAX PERFETTO",
+      "last_seen": "2026-10-28 22:11:32"
+    },
+    "666289765": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook pro 2019 i9 16” 1 Tb SSD",
+      "last_seen": "2026-10-28 23:01:00"
+    },
+    "666266897": {
+      "last_price": 2600.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M5 Pro",
+      "last_seen": "2026-10-28 19:06:46"
+    },
+    "666293038": {
+      "last_price": 490.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” M1 (2020) – Touch Bar",
+      "last_seen": "2026-10-29 00:29:16"
+    },
+    "666286146": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 2020 Apple MacBook Laptop macOS",
+      "last_seen": "2026-10-28 22:05:16"
+    },
+    "666285865": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 2020 M1 Apple Laptop macOS Garanzia",
+      "last_seen": "2026-10-28 21:59:24"
+    },
+    "666285500": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 2020 M1 Apple Laptop PC Computer macOS",
+      "last_seen": "2026-10-28 21:59:04"
+    },
+    "666283310": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 2020 M1 Apple Laptop Docente Portatile",
+      "last_seen": "2026-10-28 21:39:11"
+    },
+    "666287092": {
+      "last_price": 1220.0,
+      "notified": false,
+      "title": "IPhone 17 Pro Max 512GB Blue APPLE CARE +",
+      "last_seen": "2026-10-28 22:11:52"
     }
   },
   "seen_ids": [
@@ -28256,10 +28328,22 @@
     "666263234",
     "666263882",
     "666264919",
+    "666266897",
     "666270142",
     "666270857",
     "666271292",
     "666280723",
-    "666282828"
+    "666282828",
+    "666283310",
+    "666285500",
+    "666285865",
+    "666286146",
+    "666286606",
+    "666287092",
+    "666289765",
+    "666290485",
+    "666292051",
+    "666292134",
+    "666293038"
   ]
 }
