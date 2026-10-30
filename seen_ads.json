@@ -23521,7 +23521,7 @@
       "last_seen": "2026-10-27 21:08:40"
     },
     "666168349": {
-      "last_price": 700.0,
+      "last_price": 650.0,
       "notified": false,
       "title": "Ipad Air M3 128 gb + apple pencil pro",
       "last_seen": "2026-10-27 22:46:48"
@@ -24025,7 +24025,7 @@
       "last_seen": "2026-10-28 21:39:11"
     },
     "666287092": {
-      "last_price": 1220.0,
+      "last_price": 1199.0,
       "notified": false,
       "title": "IPhone 17 Pro Max 512GB Blue APPLE CARE +",
       "last_seen": "2026-10-28 22:11:52"
@@ -24445,7 +24445,7 @@
       "last_seen": "2026-10-29 19:59:56"
     },
     "666422467": {
-      "last_price": 1470.0,
+      "last_price": 1490.0,
       "notified": false,
       "title": "Macbook Pro M4 14\" 1TB 16GB RAM",
       "last_seen": "2026-10-30 00:51:40"
@@ -24619,7 +24619,7 @@
       "last_seen": "2026-10-30 10:29:50"
     },
     "666491791": {
-      "last_price": 200.0,
+      "last_price": 230.0,
       "notified": false,
       "title": "Apple Airpods Max Lightning + calotte Monocarbon",
       "last_seen": "2026-10-30 16:41:30"
@@ -24863,6 +24863,96 @@
       "notified": false,
       "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
       "last_seen": "2026-10-30 10:01:06"
+    },
+    "666525771": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "Dell Latitude 5420 - PC portatile usato",
+      "last_seen": "2026-10-30 20:23:55"
+    },
+    "666523827": {
+      "last_price": 2100.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M4 Pro, 1Tb SSD, 24gb Ram",
+      "last_seen": "2026-10-30 19:52:35"
+    },
+    "666516201": {
+      "last_price": 2250.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M3 Max AppleCare+",
+      "last_seen": "2026-10-30 18:43:32"
+    },
+    "666513599": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w x MacBook Pro 13/14",
+      "last_seen": "2026-10-30 18:22:14"
+    },
+    "666529909": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook pro",
+      "last_seen": "2026-10-30 21:17:12"
+    },
+    "666525751": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 32GB RAM 512GB SSD",
+      "last_seen": "2026-10-30 20:17:56"
+    },
+    "666511587": {
+      "last_price": 4000.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M5 Pro 48GB 1TB Nano-texture",
+      "last_seen": "2026-10-30 19:18:02"
+    },
+    "666502963": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15” retina con touch bar",
+      "last_seen": "2026-10-30 17:03:53"
+    },
+    "666508746": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M1 2020 13 pollici 8gb 256gb",
+      "last_seen": "2026-10-30 17:46:47"
+    },
+    "666528521": {
+      "last_price": 60.0,
+      "notified": false,
+      "title": "macbook pro 13 pollici leggi",
+      "last_seen": "2026-10-30 20:55:58"
+    },
+    "666513327": {
+      "last_price": 90.0,
+      "notified": false,
+      "title": "MacBook Pro 13” hdd 250 / ram 4 funzionante",
+      "last_seen": "2026-10-30 18:15:31"
+    },
+    "666506859": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "macbook pro processore i7 16gb di ram, 1",
+      "last_seen": "2026-10-30 17:32:30"
+    },
+    "666459346": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook Pro 13” TouchBar 2018 256GB 8GB",
+      "last_seen": "2026-10-30 11:22:37"
+    },
+    "666525409": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook Neo 512gb",
+      "last_seen": "2026-10-30 20:17:36"
+    },
+    "666505347": {
+      "last_price": 839.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 8/512GB Nuovo",
+      "last_seen": "2026-10-30 17:18:33"
     }
   },
   "seen_ids": [
@@ -29276,6 +29366,7 @@
     "666457474",
     "666457490",
     "666457532",
+    "666459346",
     "666462872",
     "666463161",
     "666463561",
@@ -29317,6 +29408,20 @@
     "666495151",
     "666496503",
     "666497365",
-    "666497630"
+    "666497630",
+    "666502963",
+    "666505347",
+    "666506859",
+    "666508746",
+    "666511587",
+    "666513327",
+    "666513599",
+    "666516201",
+    "666523827",
+    "666525409",
+    "666525751",
+    "666525771",
+    "666528521",
+    "666529909"
   ]
 }
