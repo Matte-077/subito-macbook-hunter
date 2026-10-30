@@ -22873,7 +22873,7 @@
       "last_seen": "2026-10-26 18:06:49"
     },
     "666003465": {
-      "last_price": 270.0,
+      "last_price": 250.0,
       "notified": false,
       "title": "MacBook Pro 13\" 2017 - parti di ricambio o ripar",
       "last_seen": "2026-10-26 17:39:03"
@@ -24467,6 +24467,48 @@
       "notified": false,
       "title": "Tastiera Mac Perixx Periboard-210 italiana USB-C",
       "last_seen": "2026-10-30 02:07:18"
+    },
+    "666445629": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "iPad Pro  11\" M4  512GB  wifi cell",
+      "last_seen": "2026-10-30 09:47:17"
+    },
+    "666434770": {
+      "last_price": 2200.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M4 Pro 24GB, 512GB",
+      "last_seen": "2026-10-30 07:56:37"
+    },
+    "666444132": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "Macbook pro 16’ I9-16GB-1TB",
+      "last_seen": "2026-10-30 09:33:02"
+    },
+    "666442776": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "APPLE MACBOOK PRO 16 m2 max 2T",
+      "last_seen": "2026-10-30 09:19:07"
+    },
+    "666441539": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "Macbook Pro 16 M1 PRO 512gb/16gb",
+      "last_seen": "2026-10-30 09:11:36"
+    },
+    "666443526": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook Air 15 M3",
+      "last_seen": "2026-10-30 09:25:57"
+    },
+    "666431137": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Vivo X300 Pro 512 gb colore nero",
+      "last_seen": "2026-10-30 06:14:50"
     }
   },
   "seen_ids": [
@@ -28855,6 +28897,13 @@
     "666422246",
     "666422467",
     "666425377",
-    "666428975"
+    "666428975",
+    "666431137",
+    "666434770",
+    "666441539",
+    "666442776",
+    "666443526",
+    "666444132",
+    "666445629"
   ]
 }
