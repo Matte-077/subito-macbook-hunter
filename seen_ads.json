@@ -24953,6 +24953,36 @@
       "notified": false,
       "title": "Apple MacBook Neo 8/512GB Nuovo",
       "last_seen": "2026-10-30 17:18:33"
+    },
+    "666534904": {
+      "last_price": 25.0,
+      "notified": false,
+      "title": "tomtoc Custodia MacBook Pro 16” – 360°",
+      "last_seen": "2026-10-30 22:30:45"
+    },
+    "666534402": {
+      "last_price": 800.0,
+      "notified": true,
+      "title": "Macbook apple M1 pro (10core 8+2) 16” 1tb 16GB ram",
+      "last_seen": "2026-10-30 22:22:58"
+    },
+    "666532095": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "MacBook pro 15,6” 2018  intelcore i7 6 core",
+      "last_seen": "2026-10-30 21:50:17"
+    },
+    "666534573": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Apple MacBook pro 13” 2022 M1 mod. A2338 - EMC3578",
+      "last_seen": "2026-10-30 22:30:18"
+    },
+    "666532519": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "Macbook pro 2013 retina 15 pollici",
+      "last_seen": "2026-10-30 21:50:45"
     }
   },
   "seen_ids": [
@@ -29422,6 +29452,11 @@
     "666525751",
     "666525771",
     "666528521",
-    "666529909"
+    "666529909",
+    "666532095",
+    "666532519",
+    "666534402",
+    "666534573",
+    "666534904"
   ]
 }
