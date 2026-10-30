@@ -24443,6 +24443,30 @@
       "notified": false,
       "title": "Ugreen Revodok Pro 308 Hub USB C 8 in 1 - Nuovo",
       "last_seen": "2026-10-29 19:59:56"
+    },
+    "666422467": {
+      "last_price": 1490.0,
+      "notified": false,
+      "title": "Macbook Pro M4 14\" 1TB 16GB RAM",
+      "last_seen": "2026-10-30 00:51:40"
+    },
+    "666422246": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "4 cerchi + gomme invernali hankook 165/60 r14 nuov",
+      "last_seen": "2026-10-30 00:40:31"
+    },
+    "666428975": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M1 (Late 2020) - 8GB - 256GB",
+      "last_seen": "2026-10-30 03:29:38"
+    },
+    "666425377": {
+      "last_price": 30.0,
+      "notified": false,
+      "title": "Tastiera Mac Perixx Periboard-210 italiana USB-C",
+      "last_seen": "2026-10-30 02:07:18"
     }
   },
   "seen_ids": [
@@ -28827,6 +28851,10 @@
     "666406602",
     "666410195",
     "666410600",
-    "666418215"
+    "666418215",
+    "666422246",
+    "666422467",
+    "666425377",
+    "666428975"
   ]
 }
