@@ -22453,7 +22453,7 @@
       "last_seen": "2026-10-25 19:30:38"
     },
     "665899610": {
-      "last_price": 300.0,
+      "last_price": 290.0,
       "notified": false,
       "title": "MacBook Air M1 2020 8GB/256+tastiera BT",
       "last_seen": "2026-10-25 19:27:03"
@@ -24913,7 +24913,7 @@
       "last_seen": "2026-10-30 17:03:53"
     },
     "666508746": {
-      "last_price": 449.0,
+      "last_price": 499.0,
       "notified": false,
       "title": "Apple MacBook Pro M1 2020 13 pollici 8gb 256gb",
       "last_seen": "2026-10-30 17:46:47"
@@ -25117,8 +25117,8 @@
       "last_seen": "2026-10-31 15:51:47"
     },
     "666607464": {
-      "last_price": 1100.0,
-      "notified": false,
+      "last_price": 1000.0,
+      "notified": true,
       "title": "Apple MacBook Pro 14 ” M2 Max",
       "last_seen": "2026-10-31 15:05:37"
     },
@@ -25307,6 +25307,102 @@
       "notified": false,
       "title": "Apple MacBook Pro i7-7920HQ 16GB RAM 1TB SSD TAHOE",
       "last_seen": "2026-10-31 11:33:49"
+    },
+    "666636380": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "Macbook Pro M3",
+      "last_seen": "2026-10-31 19:30:46"
+    },
+    "666629726": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Pro 16GB 512GB – con scatola",
+      "last_seen": "2026-10-31 18:20:45"
+    },
+    "666629125": {
+      "last_price": 1180.0,
+      "notified": false,
+      "title": "Apple iPhone 17 Pro Max 512gb nuovo",
+      "last_seen": "2026-10-31 18:20:12"
+    },
+    "666627627": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M1 Pro – 16GB RAM  512GB SSD",
+      "last_seen": "2026-10-31 18:02:29"
+    },
+    "666615251": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M3Pro (in garanzia pari al nuovo)",
+      "last_seen": "2026-10-31 17:53:28"
+    },
+    "666622139": {
+      "last_price": 649.0,
+      "notified": false,
+      "title": "iPhone 16 Pro 128 Giga Con Garanzia",
+      "last_seen": "2026-10-31 17:08:40"
+    },
+    "666629620": {
+      "last_price": 149.0,
+      "notified": false,
+      "title": "Scheda Madre Motherboard MacBook Pro 15 2018 i7 16",
+      "last_seen": "2026-10-31 18:20:39"
+    },
+    "666622811": {
+      "last_price": 380.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15” 2017 – i7 2,9 GHz – 16GB RAM",
+      "last_seen": "2026-10-31 17:17:29"
+    },
+    "666639296": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook Pro 13” M1 2020 8GB - Come Nuovo",
+      "last_seen": "2026-10-31 20:12:27"
+    },
+    "666630060": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Air 13 M2 512GB",
+      "last_seen": "2026-10-31 19:46:46"
+    },
+    "666627912": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Apple MacBook Air M3",
+      "last_seen": "2026-10-31 18:02:45"
+    },
+    "666624686": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "Macbook Pro A1502 parti di ricambio",
+      "last_seen": "2026-10-31 17:35:15"
+    },
+    "666620589": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "Macbook pro 13\" 2019 Schermo difettoso ma visibile",
+      "last_seen": "2026-10-31 17:07:12"
+    },
+    "666637252": {
+      "last_price": 25.0,
+      "notified": false,
+      "title": "Caricatori Apple MagSafe 60W 85W MacBook Pro",
+      "last_seen": "2026-10-31 19:47:01"
+    },
+    "666635209": {
+      "last_price": 370.0,
+      "notified": false,
+      "title": "MacBook Pro (13 pollici, 2018, 4 porte)",
+      "last_seen": "2026-10-31 19:22:09"
+    },
+    "666620319": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "Macbook Pro A1286 NON FUNZIONANTE",
+      "last_seen": "2026-10-31 16:58:51"
     }
   },
   "seen_ids": [
@@ -29835,6 +29931,22 @@
     "666606359",
     "666607464",
     "666613399",
-    "666619263"
+    "666615251",
+    "666619263",
+    "666620319",
+    "666620589",
+    "666622139",
+    "666622811",
+    "666624686",
+    "666627627",
+    "666627912",
+    "666629125",
+    "666629620",
+    "666629726",
+    "666630060",
+    "666635209",
+    "666636380",
+    "666637252",
+    "666639296"
   ]
 }
