@@ -24961,8 +24961,8 @@
       "last_seen": "2026-10-30 22:30:45"
     },
     "666534402": {
-      "last_price": 800.0,
-      "notified": true,
+      "last_price": 750.0,
+      "notified": false,
       "title": "Macbook apple M1 pro (10core 8+2) 16” 1tb 16GB ram",
       "last_seen": "2026-10-30 22:22:58"
     },
@@ -24983,6 +24983,30 @@
       "notified": false,
       "title": "Macbook pro 2013 retina 15 pollici",
       "last_seen": "2026-10-30 21:50:45"
+    },
+    "666544539": {
+      "last_price": 880.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M1 Pro (2021)",
+      "last_seen": "2026-10-31 03:42:00"
+    },
+    "666544282": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "iPhone 14 pro garanzia un anno batteria 100%",
+      "last_seen": "2026-10-31 03:19:51"
+    },
+    "666540959": {
+      "last_price": 777.0,
+      "notified": false,
+      "title": "MacBook Pro 16 i9 32GB SSD 1TB Windows Boot Camp",
+      "last_seen": "2026-10-31 01:25:40"
+    },
+    "666539819": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” M1 2020 – 8GB/256GB  98% bat",
+      "last_seen": "2026-10-31 01:03:32"
     }
   },
   "seen_ids": [
@@ -29457,6 +29481,10 @@
     "666532519",
     "666534402",
     "666534573",
-    "666534904"
+    "666534904",
+    "666539819",
+    "666540959",
+    "666544282",
+    "666544539"
   ]
 }
