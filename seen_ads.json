@@ -21733,7 +21733,7 @@
       "last_seen": "2026-10-24 09:44:09"
     },
     "665444845": {
-      "last_price": 900.0,
+      "last_price": 850.0,
       "notified": false,
       "title": "IPad Air 13\" M3 + Combo Touch + Pencil Pro",
       "last_seen": "2026-10-21 23:17:28"
@@ -24025,7 +24025,7 @@
       "last_seen": "2026-10-28 21:39:11"
     },
     "666287092": {
-      "last_price": 1199.0,
+      "last_price": 1180.0,
       "notified": false,
       "title": "IPhone 17 Pro Max 512GB Blue APPLE CARE +",
       "last_seen": "2026-10-28 22:11:52"
@@ -24907,7 +24907,7 @@
       "last_seen": "2026-10-30 19:18:02"
     },
     "666502963": {
-      "last_price": 650.0,
+      "last_price": 450.0,
       "notified": false,
       "title": "Apple MacBook Pro 15” retina con touch bar",
       "last_seen": "2026-10-30 17:03:53"
@@ -25007,6 +25007,102 @@
       "notified": false,
       "title": "Apple MacBook Pro 13” M1 2020 – 8GB/256GB  98% bat",
       "last_seen": "2026-10-31 01:03:32"
+    },
+    "666571260": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "LENOVO AIO 24\" ULTRA 5 226V RAM 16 GB SSD 512 GB",
+      "last_seen": "2026-10-31 11:04:53"
+    },
+    "666567421": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" 16GB RAM/ 1TB SSD i9 CON GARANZIA",
+      "last_seen": "2026-10-31 10:36:33"
+    },
+    "666566717": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" i9 16GB RAM/512GB SSD CON GARANZIA",
+      "last_seen": "2026-10-31 10:27:51"
+    },
+    "666564713": {
+      "last_price": 1999.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M1 Max 32GB/2TB ITALIANO",
+      "last_seen": "2026-10-31 10:17:57"
+    },
+    "666551848": {
+      "last_price": 1599.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" M4 (16GB / 512GB) Silver",
+      "last_seen": "2026-10-31 08:10:53"
+    },
+    "666573323": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "MacBook Pro 13″ M1 – 16 GB RAM – SSD 1 TB",
+      "last_seen": "2026-10-31 11:23:25"
+    },
+    "666565362": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "Macbook Pro 16” 2019 i9 16/1tb perfetto",
+      "last_seen": "2026-10-31 10:18:31"
+    },
+    "666565096": {
+      "last_price": 34.0,
+      "notified": false,
+      "title": "3 ZAINI NUOVI: a)TUCANO + b)LEXON + c)SLEDSTORE",
+      "last_seen": "2026-10-31 10:18:18"
+    },
+    "666564796": {
+      "last_price": 299.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15” retina",
+      "last_seen": "2026-10-31 10:18:01"
+    },
+    "666556073": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" 2017 - 512GB SSD - 16GB RAM",
+      "last_seen": "2026-10-31 08:54:35"
+    },
+    "666552000": {
+      "last_price": 1900.0,
+      "notified": false,
+      "title": "Macbook pro 16 M2 Max",
+      "last_seen": "2026-10-31 08:19:17"
+    },
+    "666549095": {
+      "last_price": 3200.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M5 Pro – 48GB RAM 1TB  – NUOVO",
+      "last_seen": "2026-10-31 07:44:05"
+    },
+    "666569746": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Macbook Pro M1 2020 - schermo rotto",
+      "last_seen": "2026-10-31 10:55:13"
+    },
+    "666555979": {
+      "last_price": 1100.0,
+      "notified": false,
+      "title": "Macbook air M3 15” 16gb 512 SSD",
+      "last_seen": "2026-10-31 08:54:28"
+    },
+    "666561664": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "Apple Macbook pro M4 pro 24gb/1tb",
+      "last_seen": "2026-10-31 09:50:06"
+    },
+    "666556743": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "Apple MacBook pro",
+      "last_seen": "2026-10-31 09:03:42"
     }
   },
   "seen_ids": [
@@ -29485,6 +29581,22 @@
     "666539819",
     "666540959",
     "666544282",
-    "666544539"
+    "666544539",
+    "666549095",
+    "666551848",
+    "666552000",
+    "666555979",
+    "666556073",
+    "666556743",
+    "666561664",
+    "666564713",
+    "666564796",
+    "666565096",
+    "666565362",
+    "666566717",
+    "666567421",
+    "666569746",
+    "666571260",
+    "666573323"
   ]
 }
