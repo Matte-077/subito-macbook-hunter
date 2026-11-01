@@ -24709,7 +24709,7 @@
       "last_seen": "2026-10-30 16:04:17"
     },
     "666455055": {
-      "last_price": 639.0,
+      "last_price": 549.0,
       "notified": false,
       "title": "Macbook Pro 13\" M2 con garanzia estesa",
       "last_seen": "2026-10-30 10:59:42"
@@ -25003,7 +25003,7 @@
       "last_seen": "2026-10-31 01:25:40"
     },
     "666539819": {
-      "last_price": 700.0,
+      "last_price": 620.0,
       "notified": false,
       "title": "Apple MacBook Pro 13” M1 2020 – 8GB/256GB  98% bat",
       "last_seen": "2026-10-31 01:03:32"
@@ -25433,6 +25433,18 @@
       "notified": false,
       "title": "MacBook Pro Retina 13 2014 i5 8/256 + 2 caricatori",
       "last_seen": "2026-10-31 23:44:35"
+    },
+    "666653844": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Zbook laptop 64GB DDR5 RTX3000ADA ULTRA 7",
+      "last_seen": "2026-11-01 01:52:48"
+    },
+    "666651124": {
+      "last_price": null,
+      "notified": false,
+      "title": "iPhone 17 pro Max  256",
+      "last_seen": "2026-11-01 00:13:56"
     }
   },
   "seen_ids": [
@@ -29982,6 +29994,8 @@
     "666646836",
     "666649900",
     "666650406",
-    "666650415"
+    "666650415",
+    "666651124",
+    "666653844"
   ]
 }
