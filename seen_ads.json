@@ -10213,7 +10213,7 @@
       "last_seen": "2026-09-28 16:48:20"
     },
     "662484257": {
-      "last_price": 80.0,
+      "last_price": 70.0,
       "notified": false,
       "title": "Macbook pro a1708 schermo rotto",
       "last_seen": "2026-09-28 16:46:50"
@@ -25715,6 +25715,120 @@
       "notified": false,
       "title": "Apple MacBook Pro i7-7920HQ 16GB RAM 1TB SSD TAHOE",
       "last_seen": "2026-11-01 09:42:59"
+    },
+    "666748164": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w con cavetto usb-c",
+      "last_seen": "2026-11-01 20:17:18"
+    },
+    "666737920": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "Macbook Pro 14’’",
+      "last_seen": "2026-11-01 18:57:27"
+    },
+    "666736333": {
+      "last_price": 550.0,
+      "notified": true,
+      "title": "MacBook Pro 14\" M1 Pro 16GB 512GB grigio siderale",
+      "last_seen": "2026-11-01 18:42:52"
+    },
+    "666730881": {
+      "last_price": 650.0,
+      "notified": true,
+      "title": "MacBook Pro 14” 2021",
+      "last_seen": "2026-11-01 18:03:45"
+    },
+    "666725219": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Max, 32 GB RAM, 1 TB SSD",
+      "last_seen": "2026-11-01 17:30:51"
+    },
+    "666725235": {
+      "last_price": 2390.0,
+      "notified": false,
+      "title": "MacBook Pro 14’’ M3 2TB",
+      "last_seen": "2026-11-01 17:24:26"
+    },
+    "666724213": {
+      "last_price": 370.0,
+      "notified": false,
+      "title": "Apple Iphone 14 Pro",
+      "last_seen": "2026-11-01 17:16:44"
+    },
+    "666719619": {
+      "last_price": 700.0,
+      "notified": true,
+      "title": "MacBook pro 2021 M1pro 512GB",
+      "last_seen": "2026-11-01 16:47:55"
+    },
+    "666748382": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15” retina SSD 250 / RAM 16 mid 2014",
+      "last_seen": "2026-11-01 20:17:30"
+    },
+    "666747116": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Apple 16\" Macbook Pro 3.50GHz 512GB SSD 32GB",
+      "last_seen": "2026-11-01 20:04:03"
+    },
+    "666723558": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” M2 (2022)",
+      "last_seen": "2026-11-01 17:16:14"
+    },
+    "666722652": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "MacBook Pro 13” | 16 GB RAM | 512 GB SSD",
+      "last_seen": "2026-11-01 17:06:35"
+    },
+    "666719245": {
+      "last_price": 490.0,
+      "notified": false,
+      "title": "MacBook Pro 2019 16\"",
+      "last_seen": "2026-11-01 16:41:39"
+    },
+    "666746818": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MACBOOK PRO M1",
+      "last_seen": "2026-11-01 20:03:51"
+    },
+    "666724676": {
+      "last_price": 149.0,
+      "notified": false,
+      "title": "Smart Keyboard Folio per iPad Pro 12.9\"",
+      "last_seen": "2026-11-01 17:23:59"
+    },
+    "666721400": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "PC R7 9800x3d/ RTX5070TI/ 32GB CL36 6000/ 1.5TB",
+      "last_seen": "2026-11-01 17:03:01"
+    },
+    "666730800": {
+      "last_price": 490.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” – Intel Core i7 – 32 GB RAM",
+      "last_seen": "2026-11-01 18:03:41"
+    },
+    "666716772": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook Pro 2015",
+      "last_seen": "2026-11-01 16:28:01"
+    },
+    "666751840": {
+      "last_price": 1550.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 16GB 512GB Nero, come nuovo",
+      "last_seen": "2026-11-01 20:51:59"
     }
   },
   "seen_ids": [
@@ -30311,6 +30425,25 @@
     "666703590",
     "666708521",
     "666712330",
-    "666713563"
+    "666713563",
+    "666716772",
+    "666719245",
+    "666719619",
+    "666721400",
+    "666722652",
+    "666723558",
+    "666724213",
+    "666724676",
+    "666725219",
+    "666725235",
+    "666730800",
+    "666730881",
+    "666736333",
+    "666737920",
+    "666746818",
+    "666747116",
+    "666748164",
+    "666748382",
+    "666751840"
   ]
 }
