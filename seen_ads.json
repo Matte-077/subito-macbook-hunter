@@ -4701,8 +4701,10 @@
       "notified": false
     },
     "660866333": {
-      "last_price": null,
-      "notified": false
+      "last_price": 1555.0,
+      "notified": false,
+      "title": "2026 Macbook Pro 14\" M5 1TB. Schermo nuovo.",
+      "last_seen": "2026-11-01 23:37:55"
     },
     "660870901": {
       "last_price": 550.0,
@@ -25829,6 +25831,30 @@
       "notified": false,
       "title": "MacBook Pro 14\" M5 16GB 512GB Nero, come nuovo",
       "last_seen": "2026-11-01 20:51:59"
+    },
+    "666752652": {
+      "last_price": 390.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 pollici (2017)",
+      "last_seen": "2026-11-01 21:05:09"
+    },
+    "666756779": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "Apple Macbook M1 Pro",
+      "last_seen": "2026-11-01 21:52:53"
+    },
+    "666706947": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "Ipad Pro M4 11” + Apple Pencil Pro",
+      "last_seen": "2026-11-01 15:09:28"
+    },
+    "666756144": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" (2019) Intel Core i5",
+      "last_seen": "2026-11-01 21:45:44"
     }
   },
   "seen_ids": [
@@ -30423,6 +30449,7 @@
     "666703295",
     "666703488",
     "666703590",
+    "666706947",
     "666708521",
     "666712330",
     "666713563",
@@ -30444,6 +30471,9 @@
     "666747116",
     "666748164",
     "666748382",
-    "666751840"
+    "666751840",
+    "666752652",
+    "666756144",
+    "666756779"
   ]
 }
