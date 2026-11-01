@@ -19675,7 +19675,7 @@
       "last_seen": "2026-10-20 10:22:50"
     },
     "665206130": {
-      "last_price": 700.0,
+      "last_price": 800.0,
       "notified": true,
       "title": "MacBook Pro14, 2021 16GB 512GB, scatola originale",
       "last_seen": "2026-10-28 14:28:16"
@@ -25445,6 +25445,36 @@
       "notified": false,
       "title": "iPhone 17 pro Max  256",
       "last_seen": "2026-11-01 00:13:56"
+    },
+    "666660282": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "PC ALL IN ONE LENOVO 24\" ULTRA 5 NUOVO  E GARANZIA",
+      "last_seen": "2026-11-01 08:13:28"
+    },
+    "666665758": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 32GB RAM",
+      "last_seen": "2026-11-01 09:24:27"
+    },
+    "666657883": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 2018 13'' TOUCH BAR | i5 256 16Gb",
+      "last_seen": "2026-11-01 07:05:59"
+    },
+    "666665963": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook Pro 13 mid 2012",
+      "last_seen": "2026-11-01 09:33:17"
+    },
+    "666658590": {
+      "last_price": 95.0,
+      "notified": false,
+      "title": "PC MACBOOK 21.5 CPU i5 RAM 8GB HDD 1TB",
+      "last_seen": "2026-11-01 07:37:41"
     }
   },
   "seen_ids": [
@@ -29996,6 +30026,11 @@
     "666650406",
     "666650415",
     "666651124",
-    "666653844"
+    "666653844",
+    "666657883",
+    "666658590",
+    "666660282",
+    "666665758",
+    "666665963"
   ]
 }
