@@ -25855,6 +25855,18 @@
       "notified": false,
       "title": "MacBook Pro 13\" (2019) Intel Core i5",
       "last_seen": "2026-11-01 21:45:44"
+    },
+    "666766458": {
+      "last_price": 299.0,
+      "notified": false,
+      "title": "Macbook Pro M1 2020",
+      "last_seen": "2026-11-02 02:24:29"
+    },
+    "666765378": {
+      "last_price": 890.0,
+      "notified": false,
+      "title": "Macbook Pro M3",
+      "last_seen": "2026-11-02 01:05:40"
     }
   },
   "seen_ids": [
@@ -30474,6 +30486,8 @@
     "666751840",
     "666752652",
     "666756144",
-    "666756779"
+    "666756779",
+    "666765378",
+    "666766458"
   ]
 }
