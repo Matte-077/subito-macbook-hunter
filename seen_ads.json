@@ -4701,10 +4701,10 @@
       "notified": false
     },
     "660866333": {
-      "last_price": 1555.0,
+      "last_price": 1545.0,
       "notified": false,
       "title": "2026 Macbook Pro 14\" M5 1TB. Schermo nuovo.",
-      "last_seen": "2026-11-01 23:37:55"
+      "last_seen": "2026-11-02 23:33:15"
     },
     "660870901": {
       "last_price": 550.0,
@@ -23085,7 +23085,7 @@
       "last_seen": "2026-10-27 12:22:32"
     },
     "666092633": {
-      "last_price": 1300.0,
+      "last_price": 1250.0,
       "notified": false,
       "title": "Mac Book Pro. 14’’ 18 GB RAM SSD 512 GB NERO 2023",
       "last_seen": "2026-10-27 12:14:56"
@@ -24873,7 +24873,7 @@
       "last_seen": "2026-10-30 20:23:55"
     },
     "666523827": {
-      "last_price": 2100.0,
+      "last_price": 1995.0,
       "notified": false,
       "title": "MacBook Pro 14\" M4 Pro, 1Tb SSD, 24gb Ram",
       "last_seen": "2026-10-30 19:52:35"
@@ -25479,7 +25479,7 @@
       "last_seen": "2026-11-01 07:37:41"
     },
     "666703295": {
-      "last_price": 1250.0,
+      "last_price": 1220.0,
       "notified": false,
       "title": "Macbook pro 2023 14\" 18/500gb",
       "last_seen": "2026-11-03 16:24:23"
@@ -26761,6 +26761,84 @@
       "notified": false,
       "title": "Apple MacBook Pro 16\" M5 Pro 18cpu 20gpu 48GB 1TB",
       "last_seen": "2026-11-03 12:51:51"
+    },
+    "667031561": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "Apple Macbook Pro M3 8/512gb",
+      "last_seen": "2026-11-03 21:29:04"
+    },
+    "667019968": {
+      "last_price": 1300.0,
+      "notified": false,
+      "title": "Apple MacBook Pro m4 Max",
+      "last_seen": "2026-11-03 19:33:48"
+    },
+    "667033684": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15\" (2018)",
+      "last_seen": "2026-11-03 21:51:47"
+    },
+    "667020670": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Zaino da Cabina Tucano Tugò 3M NUOVO - in Garanzia",
+      "last_seen": "2026-11-03 19:39:47"
+    },
+    "667012705": {
+      "last_price": 2100.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M2 Max 12-Core CPU and 38-Core GPU",
+      "last_seen": "2026-11-03 18:41:22"
+    },
+    "667001056": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook Pro 16” 2019 i7 32 GB RAM 1TB SSD A2141",
+      "last_seen": "2026-11-03 18:32:15"
+    },
+    "667023154": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Macbook Pro 13” Apple M2 8GB RAM 256GB",
+      "last_seen": "2026-11-03 20:03:40"
+    },
+    "667035803": {
+      "last_price": 14.0,
+      "notified": false,
+      "title": "Alimentatore Mac 60W MagSafe 2 (Nuovo)",
+      "last_seen": "2026-11-03 22:15:29"
+    },
+    "667039891": {
+      "last_price": 20.0,
+      "notified": false,
+      "title": "Apple cavo USB-C MagSafe 3 Perfette Condizioni",
+      "last_seen": "2026-11-03 23:19:48"
+    },
+    "667030056": {
+      "last_price": 135.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" 2012 i7 NVIDIA GT650 8GB 256GB SSD",
+      "last_seen": "2026-11-03 21:14:18"
+    },
+    "667025564": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" Touch Bar intel i7-1TB - 16Gb",
+      "last_seen": "2026-11-03 20:30:08"
+    },
+    "667023761": {
+      "last_price": 30.0,
+      "notified": false,
+      "title": "Inverter Auto 12V-230V Belkin AC Anywhere 300W",
+      "last_seen": "2026-11-03 20:12:17"
+    },
+    "667019802": {
+      "last_price": 60.0,
+      "notified": false,
+      "title": "macbook pro a1286 anno 2010",
+      "last_seen": "2026-11-03 19:30:54"
     }
   },
   "seen_ids": [
@@ -31524,6 +31602,7 @@
     "666998396",
     "666998397",
     "666998467",
+    "667001056",
     "667001062",
     "667001460",
     "667001582",
@@ -31531,6 +31610,18 @@
     "667005183",
     "667007098",
     "667007239",
-    "667008654"
+    "667008654",
+    "667012705",
+    "667019802",
+    "667019968",
+    "667020670",
+    "667023154",
+    "667023761",
+    "667025564",
+    "667030056",
+    "667031561",
+    "667033684",
+    "667035803",
+    "667039891"
   ]
 }
