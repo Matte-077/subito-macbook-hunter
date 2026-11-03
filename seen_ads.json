@@ -437,7 +437,7 @@
       "last_seen": "2026-09-18 17:03:49"
     },
     "651715208": {
-      "last_price": 1650.0,
+      "last_price": 1600.0,
       "notified": false,
       "title": "MacBook Pro 14” Apple M4 | 1TB SSD|Pari al Nuovo!🔥",
       "last_seen": "2026-10-31 16:31:14"
@@ -18543,7 +18543,7 @@
       "last_seen": "2026-10-16 22:36:15"
     },
     "664821968": {
-      "last_price": 1500.0,
+      "last_price": 1300.0,
       "notified": false,
       "title": "macbook pro 16''  M1 MAX  10C/32GB/1TB",
       "last_seen": "2026-10-16 22:22:42"
@@ -26329,6 +26329,48 @@
       "notified": false,
       "title": "Macbook Pro 13” i5 Quad-Core 16GB RAM 1TB SSD",
       "last_seen": "2026-11-02 17:39:38"
+    },
+    "666906122": {
+      "last_price": 1749.0,
+      "notified": false,
+      "title": "Macbook Pro 14” M2 Max – 32 GB RAM – 1 TB SSD",
+      "last_seen": "2026-11-02 23:11:34"
+    },
+    "666895142": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M4 Pro, 24 GB di RAM e 512 GB",
+      "last_seen": "2026-11-02 23:00:47"
+    },
+    "666894785": {
+      "last_price": 1600.0,
+      "notified": false,
+      "title": "Macbook m4 pro 14 24gb 512bg , come nuovo!",
+      "last_seen": "2026-11-02 22:43:33"
+    },
+    "666901832": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "Macbook Pro 14\" M1 Pro 16/512",
+      "last_seen": "2026-11-02 22:14:37"
+    },
+    "666897916": {
+      "last_price": 720.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16” (2019) - SSD 1 TB",
+      "last_seen": "2026-11-02 23:00:46"
+    },
+    "666904972": {
+      "last_price": 3999.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M5 Max 64GB 2TB Apple Care+",
+      "last_seen": "2026-11-02 22:54:48"
+    },
+    "666897366": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "Macbook pro 16 pollici",
+      "last_seen": "2026-11-02 21:26:25"
     }
   },
   "seen_ids": [
@@ -31027,6 +31069,13 @@
     "666888690",
     "666889010",
     "666889248",
-    "666890372"
+    "666890372",
+    "666894785",
+    "666895142",
+    "666897366",
+    "666897916",
+    "666901832",
+    "666904972",
+    "666906122"
   ]
 }
