@@ -26839,6 +26839,36 @@
       "notified": false,
       "title": "macbook pro a1286 anno 2010",
       "last_seen": "2026-11-03 19:30:54"
+    },
+    "667041830": {
+      "last_price": 700.0,
+      "notified": true,
+      "title": "Macbook Pro M1 Pro",
+      "last_seen": "2026-11-04 00:13:32"
+    },
+    "667042315": {
+      "last_price": 1299.0,
+      "notified": false,
+      "title": "MacBook Pro 16\"",
+      "last_seen": "2026-11-04 00:29:39"
+    },
+    "667044037": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-11-04 01:20:38"
+    },
+    "667044389": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "MacBook Pro M2 8-Core CPU and 10-Core GPU 13\"",
+      "last_seen": "2026-11-04 01:47:40"
+    },
+    "667043356": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "Ipad Pro 11 - M4 - wifi e Cellular",
+      "last_seen": "2026-11-04 01:06:56"
     }
   },
   "seen_ids": [
@@ -31622,6 +31652,11 @@
     "667031561",
     "667033684",
     "667035803",
-    "667039891"
+    "667039891",
+    "667041830",
+    "667042315",
+    "667043356",
+    "667044037",
+    "667044389"
   ]
 }
