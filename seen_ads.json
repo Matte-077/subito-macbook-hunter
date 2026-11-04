@@ -5441,10 +5441,10 @@
       "notified": false
     },
     "661144899": {
-      "last_price": 1200.0,
+      "last_price": 999.0,
       "notified": false,
       "title": "Apple MacBook Pro 13\" (M1, 2020) 1TB 16GB RAM M1",
-      "last_seen": "2026-09-30 20:47:09"
+      "last_seen": "2026-11-04 19:21:11"
     },
     "661145523": {
       "last_price": 2499.0,
@@ -24585,10 +24585,10 @@
       "last_seen": "2026-10-30 12:48:04"
     },
     "666470361": {
-      "last_price": 2300.0,
+      "last_price": 2250.0,
       "notified": false,
       "title": "Macbook pro m5 pro 24gb ram",
-      "last_seen": "2026-11-03 12:42:34"
+      "last_seen": "2026-11-04 12:42:45"
     },
     "666467169": {
       "last_price": 920.0,
@@ -24735,7 +24735,7 @@
       "last_seen": "2026-10-30 12:26:40"
     },
     "666463561": {
-      "last_price": 1600.0,
+      "last_price": 1500.0,
       "notified": false,
       "title": "Macbook Pro 16 M3 Pro - 18GB di RAM",
       "last_seen": "2026-10-30 11:51:43"
@@ -27193,6 +27193,114 @@
       "notified": false,
       "title": "IPHONE 18 PRO MAX 1TB nuovo",
       "last_seen": "2026-11-04 13:58:13"
+    },
+    "667157632": {
+      "last_price": 2900.0,
+      "notified": false,
+      "title": "Macbook Pro 16 M3 MAX 48gb ram 16core 40core",
+      "last_seen": "2026-11-04 21:44:51"
+    },
+    "667149198": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w con cavetto usb-c",
+      "last_seen": "2026-11-04 20:25:44"
+    },
+    "667146573": {
+      "last_price": 700.0,
+      "notified": true,
+      "title": "MacBook Pro 14 M1Pro",
+      "last_seen": "2026-11-04 20:04:40"
+    },
+    "667140540": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14\" 2024 M4 24GB RAM 1TB SSD",
+      "last_seen": "2026-11-04 19:03:20"
+    },
+    "667163589": {
+      "last_price": 896.0,
+      "notified": false,
+      "title": "MacBook Neo 8/512GB Indaco - Nuovo con fattura",
+      "last_seen": "2026-11-04 22:58:46"
+    },
+    "667149648": {
+      "last_price": 1570.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" 2021 M1 Pro 10-core 16GB 4TB",
+      "last_seen": "2026-11-04 20:31:30"
+    },
+    "667149433": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15” retina SSD 250/RAM 16 mid 2014",
+      "last_seen": "2026-11-04 20:28:30"
+    },
+    "667146917": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "MacBook pro 16”",
+      "last_seen": "2026-11-04 20:04:52"
+    },
+    "667141023": {
+      "last_price": 1550.0,
+      "notified": false,
+      "title": "MacBook Pro M5 16/512",
+      "last_seen": "2026-11-04 19:09:18"
+    },
+    "667163631": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "BenQ Creative Pro PD2500Q Monitor Designer",
+      "last_seen": "2026-11-04 22:58:49"
+    },
+    "667164935": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MACBOOK PRO 2022 M2 8gb RAM",
+      "last_seen": "2026-11-04 23:23:30"
+    },
+    "667163364": {
+      "last_price": 1350.0,
+      "notified": false,
+      "title": "Mac Mini M4 Pro 24/512",
+      "last_seen": "2026-11-04 22:56:00"
+    },
+    "667164470": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Apple Macbook Pro A1286",
+      "last_seen": "2026-11-04 23:15:20"
+    },
+    "667164424": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "macbook pro 15\" - 2018",
+      "last_seen": "2026-11-04 23:12:51"
+    },
+    "667160651": {
+      "last_price": 470.0,
+      "notified": false,
+      "title": "Macbook pro 2020 I5 13” Touchbar",
+      "last_seen": "2026-11-04 22:19:13"
+    },
+    "667149024": {
+      "last_price": 149.0,
+      "notified": false,
+      "title": "MacBook pro 13” core i 7 Hdd 320 Ram 8/  2011",
+      "last_seen": "2026-11-04 20:25:37"
+    },
+    "667143016": {
+      "last_price": 1639.0,
+      "notified": false,
+      "title": "IPHONE 18 PRO MAX 256 GB BURGUNDY nuovo",
+      "last_seen": "2026-11-04 19:26:57"
+    },
+    "667144479": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
+      "last_seen": "2026-11-04 19:41:33"
     }
   },
   "seen_ids": [
@@ -32035,6 +32143,24 @@
     "667121517",
     "667122930",
     "667125270",
-    "667129218"
+    "667129218",
+    "667140540",
+    "667141023",
+    "667143016",
+    "667144479",
+    "667146573",
+    "667146917",
+    "667149024",
+    "667149198",
+    "667149433",
+    "667149648",
+    "667157632",
+    "667160651",
+    "667163364",
+    "667163589",
+    "667163631",
+    "667164424",
+    "667164470",
+    "667164935"
   ]
 }
