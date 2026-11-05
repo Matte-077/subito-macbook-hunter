@@ -643,8 +643,10 @@
       "last_seen": "2026-09-22 11:10:22"
     },
     "655120251": {
-      "last_price": null,
-      "notified": false
+      "last_price": 100.0,
+      "notified": false,
+      "title": "SSD 1TB PER MACBOOK PRO, MACBOOK AIR, ECC.",
+      "last_seen": "2026-11-05 18:49:19"
     },
     "655135298": {
       "last_price": 190.0,
@@ -15759,7 +15761,7 @@
       "last_seen": "2026-10-10 19:14:29"
     },
     "664055105": {
-      "last_price": 527.0,
+      "last_price": 570.0,
       "notified": false,
       "title": "MacBook Pro 15\" i7 16/512 144 Cicli Come Nuovo",
       "last_seen": "2026-10-15 19:13:52"
@@ -24753,9 +24755,9 @@
       "last_seen": "2026-10-30 10:37:20"
     },
     "666452000": {
-      "last_price": 200.0,
+      "last_price": 160.0,
       "notified": false,
-      "title": "macbook pro 2021 con win 10 e macos catalina",
+      "title": "macbook pro con 2 sist.operativi win 10 e apple",
       "last_seen": "2026-10-30 10:37:29"
     },
     "666490976": {
@@ -26889,7 +26891,7 @@
       "last_seen": "2026-11-04 08:15:03"
     },
     "667055566": {
-      "last_price": 499.0,
+      "last_price": 515.0,
       "notified": false,
       "title": "LENOVO AIO NUOVO CON GARANZIA 24\" ULTRA 5 16/512",
       "last_seen": "2026-11-04 08:12:08"
@@ -27255,10 +27257,10 @@
       "last_seen": "2026-11-04 22:58:49"
     },
     "667164935": {
-      "last_price": 700.0,
+      "last_price": 650.0,
       "notified": false,
       "title": "MACBOOK PRO 2022 M2 8gb RAM",
-      "last_seen": "2026-11-04 23:23:30"
+      "last_seen": "2026-11-05 15:36:41"
     },
     "667163364": {
       "last_price": 1350.0,
@@ -27463,6 +27465,282 @@
       "notified": false,
       "title": "MacBook Pro 13\" 2017 – 2 porte Thunderbolt 3",
       "last_seen": "2026-11-05 09:42:32"
+    },
+    "667268677": {
+      "last_price": 1350.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" (2021) - Apple M1 Pro",
+      "last_seen": "2026-11-05 19:28:34"
+    },
+    "667253105": {
+      "last_price": 299.0,
+      "notified": false,
+      "title": "iPhone 13 128 Giga Con Garanzia 12 Mesi",
+      "last_seen": "2026-11-05 17:33:04"
+    },
+    "667252030": {
+      "last_price": 589.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 128 Giga Con Garanzia 12 Mesi",
+      "last_seen": "2026-11-05 17:28:03"
+    },
+    "667250950": {
+      "last_price": 729.0,
+      "notified": false,
+      "title": "iPhone 15 Pro Max 256 Giga Con Garanzia",
+      "last_seen": "2026-11-05 17:17:11"
+    },
+    "667249387": {
+      "last_price": 589.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 128 Giga Con Garanzia 12 Mesi",
+      "last_seen": "2026-11-05 17:03:50"
+    },
+    "667248907": {
+      "last_price": 589.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 128 Giga Con Garanzia",
+      "last_seen": "2026-11-05 17:01:09"
+    },
+    "667235146": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "Apple Magic Trackpad USB-C Bianco Nuovo Sigillato",
+      "last_seen": "2026-11-05 15:22:15"
+    },
+    "667234859": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "Apple Magic Trackpad USB-C Nero Nuovo Sigillato",
+      "last_seen": "2026-11-05 15:15:08"
+    },
+    "667233918": {
+      "last_price": 515.0,
+      "notified": false,
+      "title": "ThinkCentre Neo 50a gen 6 LNL SIGILLATO + GARANZIA",
+      "last_seen": "2026-11-05 15:07:15"
+    },
+    "667222872": {
+      "last_price": 939.0,
+      "notified": false,
+      "title": "iPhone 17 Pro 256 Giga Con Garanzia Apple Care 🔥",
+      "last_seen": "2026-11-05 13:40:01"
+    },
+    "667222590": {
+      "last_price": 939.0,
+      "notified": false,
+      "title": "iPhone 17 Pro 256 Giga Con Garanzia Apple Care + 🔥",
+      "last_seen": "2026-11-05 13:39:36"
+    },
+    "667213937": {
+      "last_price": 1300.0,
+      "notified": false,
+      "title": "Macbook Pro 14’’ M2 Pro",
+      "last_seen": "2026-11-05 12:32:02"
+    },
+    "667212107": {
+      "last_price": 1300.0,
+      "notified": false,
+      "title": "Macbook pro 14 32gb ram",
+      "last_seen": "2026-11-05 12:17:49"
+    },
+    "667209676": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "Macbook Pro M5 1TB 14''",
+      "last_seen": "2026-11-05 11:56:14"
+    },
+    "667268322": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "🟩DELL Latitude 5420 - i5 1145G7, 16GB RAM, FACEID",
+      "last_seen": "2026-11-05 19:24:14"
+    },
+    "667267346": {
+      "last_price": 14.0,
+      "notified": false,
+      "title": "CAVO HDMI DA USB-C 3.0 A HDMI 2.1 L 2 METRI",
+      "last_seen": "2026-11-05 19:14:52"
+    },
+    "667253294": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16’’ 2019 i7 512GB/16GB",
+      "last_seen": "2026-11-05 17:33:13"
+    },
+    "667251750": {
+      "last_price": 2899.0,
+      "notified": false,
+      "title": "Macbook Pro 16 M2 Max",
+      "last_seen": "2026-11-05 17:22:55"
+    },
+    "667247833": {
+      "last_price": 1950.0,
+      "notified": false,
+      "title": "Apple Macbook Pro 16 M2 max",
+      "last_seen": "2026-11-05 17:12:10"
+    },
+    "667247970": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM 512GB SSD",
+      "last_seen": "2026-11-05 16:58:44"
+    },
+    "667245497": {
+      "last_price": 1179.0,
+      "notified": false,
+      "title": "Macbook air m5 16 gb ram 512 gb ssd 13”",
+      "last_seen": "2026-11-05 16:37:07"
+    },
+    "667236702": {
+      "last_price": 580.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2019 i7 – 16GB RAM",
+      "last_seen": "2026-11-05 15:30:13"
+    },
+    "667233701": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2019 i7 16GB 512GB + accessori",
+      "last_seen": "2026-11-05 15:07:06"
+    },
+    "667226899": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "macbook pro 16’’",
+      "last_seen": "2026-11-05 14:15:33"
+    },
+    "667268804": {
+      "last_price": 460.0,
+      "notified": false,
+      "title": "Macbook Pro 13 M1 | batteria 96%",
+      "last_seen": "2026-11-05 19:28:39"
+    },
+    "667259621": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Macboock Air",
+      "last_seen": "2026-11-05 18:21:22"
+    },
+    "667252796": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” M1 Touchbar Batteria 92%",
+      "last_seen": "2026-11-05 17:28:32"
+    },
+    "667243636": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "Macbook pro M1",
+      "last_seen": "2026-11-05 16:21:48"
+    },
+    "667225426": {
+      "last_price": 730.0,
+      "notified": false,
+      "title": "MacBook Pro M1 256go 8Gb",
+      "last_seen": "2026-11-05 14:01:25"
+    },
+    "667215585": {
+      "last_price": 1299.0,
+      "notified": false,
+      "title": "Macbook pro 16” m1 pro",
+      "last_seen": "2026-11-05 12:39:39"
+    },
+    "667214196": {
+      "last_price": 410.0,
+      "notified": false,
+      "title": "MacBook pro M1 touchbar",
+      "last_seen": "2026-11-05 12:32:11"
+    },
+    "667261328": {
+      "last_price": 275.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 2TB  +GARANZIA 5 Anni",
+      "last_seen": "2026-11-05 18:35:57"
+    },
+    "667208883": {
+      "last_price": 1400.0,
+      "notified": false,
+      "title": "MacBook Pro 16 2023 M2 Pro 16 - 1TB",
+      "last_seen": "2026-11-05 11:55:37"
+    },
+    "667220261": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBookPro 13” 2020 mod A2289 rotto/per ricambi",
+      "last_seen": "2026-11-05 13:24:56"
+    },
+    "667267187": {
+      "last_price": 130.0,
+      "notified": false,
+      "title": "MacBook pro i7 32gb RAM e 1tb",
+      "last_seen": "2026-11-05 19:14:47"
+    },
+    "667265895": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook Pro 13 (2011)",
+      "last_seen": "2026-11-05 19:05:08"
+    },
+    "667240767": {
+      "last_price": 7.0,
+      "notified": false,
+      "title": "Display Port (DP) to VGA adapter adattatore",
+      "last_seen": "2026-11-05 16:06:09"
+    },
+    "667238673": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "macbook pro retina 2013 (linux mint)",
+      "last_seen": "2026-11-05 15:44:58"
+    },
+    "667226733": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "macbook pro 13’’",
+      "last_seen": "2026-11-05 14:15:22"
+    },
+    "665984534": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 2020 Apple Garanzia Laptop Docente",
+      "last_seen": "2026-11-05 13:46:23"
+    },
+    "667218537": {
+      "last_price": 2500.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16” M5 Pro – 24 GB RAM",
+      "last_seen": "2026-11-05 13:05:32"
+    },
+    "664135703": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro 2016 15” i7 Apple Laptop Garanzia MAC",
+      "last_seen": "2026-11-05 11:55:05"
+    },
+    "667252866": {
+      "last_price": 469.0,
+      "notified": false,
+      "title": "Samsung S23 Ultra 1TB Con Garanzia",
+      "last_seen": "2026-11-05 17:32:53"
+    },
+    "667235929": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
+      "last_seen": "2026-11-05 15:22:54"
+    },
+    "667232316": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
+      "last_seen": "2026-11-05 14:59:36"
+    },
+    "667227104": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro 15” i9 32GB RAM 1TB SSD APPLE LAPTOP",
+      "last_seen": "2026-11-05 14:15:44"
     }
   },
   "seen_ids": [
@@ -30458,6 +30736,7 @@
     "664134165",
     "664134317",
     "664135260",
+    "664135703",
     "664137275",
     "664137834",
     "664139245",
@@ -31572,6 +31851,7 @@
     "665979326",
     "665980733",
     "665983997",
+    "665984534",
     "665984572",
     "665984701",
     "665986060",
@@ -32350,6 +32630,50 @@
     "667204380",
     "667204414",
     "667204437",
-    "667204467"
+    "667204467",
+    "667208883",
+    "667209676",
+    "667212107",
+    "667213937",
+    "667214196",
+    "667215585",
+    "667218537",
+    "667220261",
+    "667222590",
+    "667222872",
+    "667225426",
+    "667226733",
+    "667226899",
+    "667227104",
+    "667232316",
+    "667233701",
+    "667233918",
+    "667234859",
+    "667235146",
+    "667235929",
+    "667236702",
+    "667238673",
+    "667240767",
+    "667243636",
+    "667245497",
+    "667247833",
+    "667247970",
+    "667248907",
+    "667249387",
+    "667250950",
+    "667251750",
+    "667252030",
+    "667252796",
+    "667252866",
+    "667253105",
+    "667253294",
+    "667259621",
+    "667261328",
+    "667265895",
+    "667267187",
+    "667267346",
+    "667268322",
+    "667268677",
+    "667268804"
   ]
 }
