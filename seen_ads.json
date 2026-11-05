@@ -27197,7 +27197,7 @@
       "last_seen": "2026-11-04 13:58:13"
     },
     "667157632": {
-      "last_price": 2900.0,
+      "last_price": 2800.0,
       "notified": false,
       "title": "Macbook Pro 16 M3 MAX 48gb ram 16core 40core",
       "last_seen": "2026-11-04 21:44:51"
@@ -27741,6 +27741,120 @@
       "notified": false,
       "title": "MacBook Pro 15” i9 32GB RAM 1TB SSD APPLE LAPTOP",
       "last_seen": "2026-11-05 14:15:44"
+    },
+    "667290334": {
+      "last_price": 3499.0,
+      "notified": false,
+      "title": "MacBook Pro 14” Nero M5Pro CPU18 GPU20, 24GB,  2TB",
+      "last_seen": "2026-11-06 00:09:50"
+    },
+    "667282263": {
+      "last_price": 379.0,
+      "notified": false,
+      "title": "iPhone 14 128 Giga Con Garanzia 12 Mesi",
+      "last_seen": "2026-11-05 21:57:09"
+    },
+    "667282191": {
+      "last_price": 650.0,
+      "notified": true,
+      "title": "Macbook Pro M1 Pro 2021",
+      "last_seen": "2026-11-05 21:57:06"
+    },
+    "667281946": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "iPhone 11 Pro 256 Giga Garantito",
+      "last_seen": "2026-11-05 21:56:56"
+    },
+    "667281807": {
+      "last_price": 879.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 256 Giga Garanzia Apple Care 🔥",
+      "last_seen": "2026-11-05 21:52:18"
+    },
+    "667257226": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "Macbook PRO 14'' M1 - 2021",
+      "last_seen": "2026-11-05 19:42:25"
+    },
+    "667287289": {
+      "last_price": 539.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\"  16GB 4 porte Grigio",
+      "last_seen": "2026-11-05 23:05:11"
+    },
+    "667285196": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 32GB RAM",
+      "last_seen": "2026-11-05 22:35:04"
+    },
+    "667283980": {
+      "last_price": 2990.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M4 Max | 36GB RAM | 1TB SSD",
+      "last_seen": "2026-11-05 22:20:55"
+    },
+    "667283413": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "RAM 16 GB 2x8 ddr3L 1600",
+      "last_seen": "2026-11-05 22:11:28"
+    },
+    "667279346": {
+      "last_price": 780.0,
+      "notified": false,
+      "title": "Ipad Air 11” 128gb m4 + Apple pencil pro",
+      "last_seen": "2026-11-05 21:21:34"
+    },
+    "667274489": {
+      "last_price": 130.0,
+      "notified": false,
+      "title": "MacBook pro mid 2012",
+      "last_seen": "2026-11-05 20:36:17"
+    },
+    "667273485": {
+      "last_price": 20.0,
+      "notified": false,
+      "title": "adesivi Apple MacBook pro",
+      "last_seen": "2026-11-05 20:22:49"
+    },
+    "667285220": {
+      "last_price": 1900.0,
+      "notified": false,
+      "title": "MacBook pro m4",
+      "last_seen": "2026-11-05 23:29:40"
+    },
+    "667285060": {
+      "last_price": 1900.0,
+      "notified": false,
+      "title": "MacBook pro",
+      "last_seen": "2026-11-05 23:25:59"
+    },
+    "667272559": {
+      "last_price": 85.0,
+      "notified": false,
+      "title": "Alimentatore apple",
+      "last_seen": "2026-11-05 20:13:49"
+    },
+    "667281908": {
+      "last_price": 299.0,
+      "notified": false,
+      "title": "MacBook Pro 13 pollici, 2019 - argento",
+      "last_seen": "2026-11-05 21:56:55"
+    },
+    "667254445": {
+      "last_price": 20.0,
+      "notified": false,
+      "title": "Coppia DVD Originali Apple MacBook Pro 13\" 2009 -",
+      "last_seen": "2026-11-05 19:37:44"
+    },
+    "667269384": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook pro anno 2019",
+      "last_seen": "2026-11-05 19:33:16"
     }
   },
   "seen_ids": [
@@ -32667,6 +32781,8 @@
     "667252866",
     "667253105",
     "667253294",
+    "667254445",
+    "667257226",
     "667259621",
     "667261328",
     "667265895",
@@ -32674,6 +32790,23 @@
     "667267346",
     "667268322",
     "667268677",
-    "667268804"
+    "667268804",
+    "667269384",
+    "667272559",
+    "667273485",
+    "667274489",
+    "667279346",
+    "667281807",
+    "667281908",
+    "667281946",
+    "667282191",
+    "667282263",
+    "667283413",
+    "667283980",
+    "667285060",
+    "667285196",
+    "667285220",
+    "667287289",
+    "667290334"
   ]
 }
