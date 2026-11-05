@@ -27301,6 +27301,24 @@
       "notified": false,
       "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
       "last_seen": "2026-11-04 19:41:33"
+    },
+    "667167104": {
+      "last_price": 275.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 2TB +GARANZIA 5 Anni",
+      "last_seen": "2026-11-05 00:11:59"
+    },
+    "667167674": {
+      "last_price": 140.0,
+      "notified": false,
+      "title": "Macbook Pro 13” A1708 2017 leggi",
+      "last_seen": "2026-11-05 00:37:35"
+    },
+    "667167433": {
+      "last_price": 420.0,
+      "notified": false,
+      "title": "MacBook pro 2020",
+      "last_seen": "2026-11-05 00:27:03"
     }
   },
   "seen_ids": [
@@ -32161,6 +32179,9 @@
     "667163631",
     "667164424",
     "667164470",
-    "667164935"
+    "667164935",
+    "667167104",
+    "667167433",
+    "667167674"
   ]
 }
