@@ -27855,6 +27855,12 @@
       "notified": false,
       "title": "MacBook pro anno 2019",
       "last_seen": "2026-11-05 19:33:16"
+    },
+    "667293821": {
+      "last_price": 1400.0,
+      "notified": false,
+      "title": "MacBook Pro 14 argento (inizio 2023)",
+      "last_seen": "2026-11-06 02:09:56"
     }
   },
   "seen_ids": [
@@ -32807,6 +32813,7 @@
     "667285196",
     "667285220",
     "667287289",
-    "667290334"
+    "667290334",
+    "667293821"
   ]
 }
