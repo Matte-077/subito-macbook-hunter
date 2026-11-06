@@ -28263,6 +28263,42 @@
       "notified": false,
       "title": "MacBook Pro 2018 15inch 32GB 1TB prezzo trattabile",
       "last_seen": "2026-11-06 20:23:32"
+    },
+    "667404841": {
+      "last_price": 2150.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M5, CPU 15 24 GB RAM, 1 TB SSD new",
+      "last_seen": "2026-11-06 22:40:16"
+    },
+    "667403362": {
+      "last_price": 1700.0,
+      "notified": false,
+      "title": "MacBook pro 14 M1 Max 64gb 1tb",
+      "last_seen": "2026-11-06 22:11:55"
+    },
+    "667402384": {
+      "last_price": 970.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 2019 – i9 - 32G - 2Tb - Batt nuova",
+      "last_seen": "2026-11-06 22:00:09"
+    },
+    "667400722": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "Asus ROG Strix G513QM -Ryzen 9, 32GB RAM,1.4 TBssd",
+      "last_seen": "2026-11-06 21:41:47"
+    },
+    "667404740": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "MacBook Pro 13",
+      "last_seen": "2026-11-06 22:34:42"
+    },
+    "667399321": {
+      "last_price": 590.0,
+      "notified": false,
+      "title": "MacBook Pro 2018 15inch 32GB 1TB",
+      "last_seen": "2026-11-06 21:29:42"
     }
   },
   "seen_ids": [
@@ -33283,6 +33319,12 @@
     "667386733",
     "667386875",
     "667388965",
-    "667393976"
+    "667393976",
+    "667399321",
+    "667400722",
+    "667402384",
+    "667403362",
+    "667404740",
+    "667404841"
   ]
 }
