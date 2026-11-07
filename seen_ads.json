@@ -20309,10 +20309,10 @@
       "last_seen": "2026-10-21 10:05:16"
     },
     "661883586": {
-      "last_price": 180.0,
+      "last_price": 170.0,
       "notified": false,
       "title": "Macbook pro A1708",
-      "last_seen": "2026-10-21 09:17:09"
+      "last_seen": "2026-11-07 19:02:05"
     },
     "665324183": {
       "last_price": 199.0,
@@ -28433,9 +28433,9 @@
       "last_seen": "2026-11-07 11:47:12"
     },
     "667445785": {
-      "last_price": 1850.0,
+      "last_price": 1750.0,
       "notified": false,
-      "title": "MacBook Pro M4Pro 512gb",
+      "title": "MacBook Pro M4Pro 512gb 14”",
       "last_seen": "2026-11-07 11:46:19"
     },
     "667446702": {
@@ -28785,6 +28785,78 @@
       "notified": false,
       "title": "iMac 2019 4k 16GB Garanzia 12 Mesi Fattura Apple",
       "last_seen": "2026-11-07 15:39:47"
+    },
+    "667513120": {
+      "last_price": 490.0,
+      "notified": false,
+      "title": "MacBook Pro 16” 512GB TouchBar Space Grey",
+      "last_seen": "2026-11-07 20:06:53"
+    },
+    "667498711": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M1 Pro",
+      "last_seen": "2026-11-07 19:55:39"
+    },
+    "667499351": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 15 2018 i7 16GB 512GB (Da riparare)",
+      "last_seen": "2026-11-07 19:20:04"
+    },
+    "667508558": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "Macbook Pro M1 Pro 32GB 16\"",
+      "last_seen": "2026-11-07 19:14:17"
+    },
+    "667501165": {
+      "last_price": 190.0,
+      "notified": false,
+      "title": "MacBook Pro 13 Mid 2012 i5 16GB SSD 500GB",
+      "last_seen": "2026-11-07 18:13:28"
+    },
+    "667500471": {
+      "last_price": 1090.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M1 Pro (10-CPU/16-GPU) 16GB/512GB",
+      "last_seen": "2026-11-07 18:10:19"
+    },
+    "667431382": {
+      "last_price": 20.0,
+      "notified": false,
+      "title": "NUOVO Apple Cavo Originale Type-C 240W 2 Metri",
+      "last_seen": "2026-11-07 20:04:20"
+    },
+    "667499171": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Pro 2020",
+      "last_seen": "2026-11-07 18:03:56"
+    },
+    "667498294": {
+      "last_price": null,
+      "notified": false,
+      "title": "Lotto Apple Vintage – 2 MacBook Pro, iPad, iPhone",
+      "last_seen": "2026-11-07 17:57:31"
+    },
+    "667517856": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 13” Mid 2012",
+      "last_seen": "2026-11-07 21:10:40"
+    },
+    "667512826": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 13 128GB Grigio Siderale",
+      "last_seen": "2026-11-07 20:04:13"
+    },
+    "667506921": {
+      "last_price": 240.0,
+      "notified": false,
+      "title": "Macbook Pro Retina 13,3'' -i5, 2.7GHz, 8GB RAM, 25",
+      "last_seen": "2026-11-07 18:59:17"
     }
   },
   "seen_ids": [
@@ -33824,6 +33896,7 @@
     "667427015",
     "667428507",
     "667429215",
+    "667431382",
     "667432167",
     "667432688",
     "667432777",
@@ -33892,6 +33965,17 @@
     "667484320",
     "667492658",
     "667492781",
-    "667495917"
+    "667495917",
+    "667498294",
+    "667498711",
+    "667499171",
+    "667499351",
+    "667500471",
+    "667501165",
+    "667506921",
+    "667508558",
+    "667512826",
+    "667513120",
+    "667517856"
   ]
 }
