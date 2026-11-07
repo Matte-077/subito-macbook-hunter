@@ -28857,6 +28857,18 @@
       "notified": false,
       "title": "Macbook Pro Retina 13,3'' -i5, 2.7GHz, 8GB RAM, 25",
       "last_seen": "2026-11-07 18:59:17"
+    },
+    "667524729": {
+      "last_price": 1250.0,
+      "notified": false,
+      "title": "MacBook Pro M2 16” 1 T 16 Gb",
+      "last_seen": "2026-11-07 23:12:37"
+    },
+    "667520598": {
+      "last_price": 490.0,
+      "notified": false,
+      "title": "MacBook PRO 2020 M1",
+      "last_seen": "2026-11-07 21:50:59"
     }
   },
   "seen_ids": [
@@ -33976,6 +33988,8 @@
     "667508558",
     "667512826",
     "667513120",
-    "667517856"
+    "667517856",
+    "667520598",
+    "667524729"
   ]
 }
