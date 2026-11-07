@@ -22457,7 +22457,7 @@
       "last_seen": "2026-10-25 19:30:38"
     },
     "665899610": {
-      "last_price": 290.0,
+      "last_price": 280.0,
       "notified": false,
       "title": "MacBook Air M1 2020 8GB/256+tastiera BT",
       "last_seen": "2026-10-25 19:27:03"
@@ -23897,10 +23897,10 @@
       "last_seen": "2026-10-28 18:31:17"
     },
     "666263882": {
-      "last_price": 380.0,
+      "last_price": 350.0,
       "notified": false,
       "title": "MacBook Pro Retina (Mid 2015) 16/1Tb",
-      "last_seen": "2026-10-28 18:45:04"
+      "last_seen": "2026-11-06 18:36:12"
     },
     "666262751": {
       "last_price": 599.0,
@@ -25499,10 +25499,10 @@
       "last_seen": "2026-11-01 12:40:40"
     },
     "666688278": {
-      "last_price": 180.0,
+      "last_price": 149.0,
       "notified": false,
       "title": "Kensington SD5700T Thunderbolt 4 Dock Station",
-      "last_seen": "2026-11-01 12:31:16"
+      "last_seen": "2026-11-07 00:40:21"
     },
     "666681568": {
       "last_price": 800.0,
@@ -26069,7 +26069,7 @@
       "last_seen": "2026-11-02 13:09:10"
     },
     "666822131": {
-      "last_price": 900.0,
+      "last_price": 850.0,
       "notified": false,
       "title": "MacBook pro 14\" M1, SSD 512 GB, 16 GB RAM",
       "last_seen": "2026-11-02 13:01:37"
@@ -26561,10 +26561,10 @@
       "last_seen": "2026-11-03 11:29:26"
     },
     "666995813": {
-      "last_price": 420.0,
+      "last_price": 399.0,
       "notified": false,
       "title": "MacBook Pro 15\" 2016 – i7 2,7 GHz, 16GB RAM, SSD 5",
-      "last_seen": "2026-11-03 17:58:50"
+      "last_seen": "2026-11-07 12:27:15"
     },
     "667001062": {
       "last_price": 599.0,
@@ -27371,7 +27371,7 @@
       "last_seen": "2026-11-05 09:27:54"
     },
     "667183697": {
-      "last_price": 1600.0,
+      "last_price": 1500.0,
       "notified": false,
       "title": "Apple MacBook Pro M3 14 (2023) MRX43T/A",
       "last_seen": "2026-11-05 08:35:26"
@@ -28581,6 +28581,210 @@
       "notified": false,
       "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
       "last_seen": "2026-11-07 09:18:11"
+    },
+    "667495917": {
+      "last_price": 890.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M1 Pro (8-CPU/14-GPU)16GB/512GB SSD",
+      "last_seen": "2026-11-07 17:36:15"
+    },
+    "667492781": {
+      "last_price": 1000.0,
+      "notified": true,
+      "title": "Apple MacBook Pro 14“ M4 16GB 512GB",
+      "last_seen": "2026-11-07 17:09:25"
+    },
+    "667477883": {
+      "last_price": 899.0,
+      "notified": false,
+      "title": "MacBook Pro 16” i9 2019 16GB/1TB - GARANTITO",
+      "last_seen": "2026-11-07 15:12:30"
+    },
+    "667476703": {
+      "last_price": 1590.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14″ M5, 16 gb ram, ssd 1 tb",
+      "last_seen": "2026-11-07 15:05:58"
+    },
+    "667476636": {
+      "last_price": 2370.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M4 Pro 24GB 512GB | Batteria 100%",
+      "last_seen": "2026-11-07 15:05:56"
+    },
+    "667472363": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook pro m1 pro 14” 512gb 16gb",
+      "last_seen": "2026-11-07 14:40:43"
+    },
+    "667462940": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "Dell pro 14 mod 14250",
+      "last_seen": "2026-11-07 13:43:54"
+    },
+    "667463925": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "Samsung Galaxy Book3 Pro 14\" AMOLED 3K 120Hz i5",
+      "last_seen": "2026-11-07 13:38:17"
+    },
+    "667458584": {
+      "last_price": 570.0,
+      "notified": false,
+      "title": "Apple iPad 13\" M1 128gb 5gen SmartEconomy",
+      "last_seen": "2026-11-07 13:02:24"
+    },
+    "667453318": {
+      "last_price": 1150.0,
+      "notified": false,
+      "title": "Apple iPhone 17 Pro Max 512gb Nuovo SmartEconomy",
+      "last_seen": "2026-11-07 12:27:35"
+    },
+    "667481849": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "MacBook Pro 17 (i7 2020)",
+      "last_seen": "2026-11-07 15:43:14"
+    },
+    "667481679": {
+      "last_price": 490.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 32GB RAM",
+      "last_seen": "2026-11-07 15:43:08"
+    },
+    "667477745": {
+      "last_price": 1390.0,
+      "notified": false,
+      "title": "Macbook Pro 16“ - M1 Max - 2021 - 1Tb SSD - 32 GB",
+      "last_seen": "2026-11-07 15:15:08"
+    },
+    "667473380": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Macbook Pro 16\" 2019 - i7 16GB RAM RADEON",
+      "last_seen": "2026-11-07 14:44:04"
+    },
+    "667470381": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Postazione Guida Gaming Next Level pari al nuovo",
+      "last_seen": "2026-11-07 14:22:04"
+    },
+    "667469638": {
+      "last_price": 130.0,
+      "notified": false,
+      "title": "MacBook pro mid 2012",
+      "last_seen": "2026-11-07 14:15:39"
+    },
+    "667465428": {
+      "last_price": null,
+      "notified": false,
+      "title": "bici MTB ORBEA  telaio L ,  29\"",
+      "last_seen": "2026-11-07 13:50:22"
+    },
+    "667463626": {
+      "last_price": 799.0,
+      "notified": false,
+      "title": "Iphone 16 pro max 256 gb",
+      "last_seen": "2026-11-07 13:43:56"
+    },
+    "667462741": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "Macbook pro 16 pollici m1 pro",
+      "last_seen": "2026-11-07 13:31:47"
+    },
+    "667462195": {
+      "last_price": null,
+      "notified": false,
+      "title": "Samsung Galaxy S26 Ultra  512GB",
+      "last_seen": "2026-11-07 13:28:45"
+    },
+    "667457591": {
+      "last_price": 570.0,
+      "notified": false,
+      "title": "MacBook air m2 13 pollici",
+      "last_seen": "2026-11-07 13:00:23"
+    },
+    "667457056": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook pro 2018 16 gb ram 1tb ssd -pc1",
+      "last_seen": "2026-11-07 12:50:47"
+    },
+    "667457025": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "Macbook pro 2015 16 gb ram 512 gb ssd -pc3",
+      "last_seen": "2026-11-07 12:50:45"
+    },
+    "667455600": {
+      "last_price": 110.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" Early 2011 – i5 / 16GB RAM / 256gb",
+      "last_seen": "2026-11-07 12:42:38"
+    },
+    "667492658": {
+      "last_price": 579.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” M1 – 512 GB –",
+      "last_seen": "2026-11-07 17:09:21"
+    },
+    "667462944": {
+      "last_price": 95.0,
+      "notified": false,
+      "title": "Display LCD Apple Macbook Pro 13.3\" A2338 M1",
+      "last_seen": "2026-11-07 13:34:46"
+    },
+    "667460566": {
+      "last_price": 649.0,
+      "notified": false,
+      "title": "MACBOOK PRO M1 13,3”",
+      "last_seen": "2026-11-07 13:16:11"
+    },
+    "667460255": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-11-07 13:13:05"
+    },
+    "667461710": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "Set Completo da gaming con MSI aegis 3 8th",
+      "last_seen": "2026-11-07 13:25:24"
+    },
+    "667482173": {
+      "last_price": 45.0,
+      "notified": false,
+      "title": "MacBook Pro 13 i5 A1278 2012 500 GB Uso Desktop",
+      "last_seen": "2026-11-07 15:46:22"
+    },
+    "667478224": {
+      "last_price": 85.0,
+      "notified": false,
+      "title": "Macbook prp A1286",
+      "last_seen": "2026-11-07 15:15:21"
+    },
+    "664133558": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro 2016 15” i7 Garanzia Apple Laptop MAC",
+      "last_seen": "2026-11-07 16:19:08"
+    },
+    "667484320": {
+      "last_price": 320.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” 2018 – Intel i5 – 8GB RAM",
+      "last_seen": "2026-11-07 16:01:28"
+    },
+    "643582485": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "iMac 2019 4k 16GB Garanzia 12 Mesi Fattura Apple",
+      "last_seen": "2026-11-07 15:39:47"
     }
   },
   "seen_ids": [
@@ -28637,6 +28841,7 @@
     "643007982",
     "643345272",
     "643405659",
+    "643582485",
     "644036203",
     "644191308",
     "644544305",
@@ -31576,6 +31781,7 @@
     "664131528",
     "664131722",
     "664131914",
+    "664133558",
     "664134165",
     "664134317",
     "664135260",
@@ -33654,6 +33860,38 @@
     "667450215",
     "667450336",
     "667450499",
-    "667450641"
+    "667450641",
+    "667453318",
+    "667455600",
+    "667457025",
+    "667457056",
+    "667457591",
+    "667458584",
+    "667460255",
+    "667460566",
+    "667461710",
+    "667462195",
+    "667462741",
+    "667462940",
+    "667462944",
+    "667463626",
+    "667463925",
+    "667465428",
+    "667469638",
+    "667470381",
+    "667472363",
+    "667473380",
+    "667476636",
+    "667476703",
+    "667477745",
+    "667477883",
+    "667478224",
+    "667481679",
+    "667481849",
+    "667482173",
+    "667484320",
+    "667492658",
+    "667492781",
+    "667495917"
   ]
 }
