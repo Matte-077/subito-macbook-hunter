@@ -3633,8 +3633,10 @@
       "notified": false
     },
     "660525065": {
-      "last_price": null,
-      "notified": false
+      "last_price": 520.0,
+      "notified": false,
+      "title": "MacBook Pro 16’’ 2019-Intel i7-32GB RAM - 512GB-UK",
+      "last_seen": "2026-11-08 11:57:59"
     },
     "660527897": {
       "last_price": 20.0,
@@ -26183,10 +26185,10 @@
       "last_seen": "2026-11-02 14:09:03"
     },
     "666834596": {
-      "last_price": 2400.0,
+      "last_price": 2200.0,
       "notified": false,
       "title": "Mac Pro M5 16 Pollici",
-      "last_seen": "2026-11-04 08:05:24"
+      "last_seen": "2026-11-08 08:04:47"
     },
     "666874610": {
       "last_price": 749.0,
@@ -28559,7 +28561,7 @@
       "last_seen": "2026-11-07 11:47:12"
     },
     "667422622": {
-      "last_price": 500.0,
+      "last_price": 450.0,
       "notified": false,
       "title": "MacBook Pro 13",
       "last_seen": "2026-11-07 08:28:53"
@@ -28881,6 +28883,132 @@
       "notified": false,
       "title": "Macbook pro m4",
       "last_seen": "2026-11-08 01:03:42"
+    },
+    "667537102": {
+      "last_price": 790.0,
+      "notified": false,
+      "title": "Lenovo ThinkPad E14 Gen 7 Ultra 7 16GB 512GB",
+      "last_seen": "2026-11-08 08:39:00"
+    },
+    "667561200": {
+      "last_price": 149.0,
+      "notified": false,
+      "title": "Scheda Madre Motherboard MacBook Pro 15 2018 i7 16",
+      "last_seen": "2026-11-08 12:22:52"
+    },
+    "667560790": {
+      "last_price": 630.0,
+      "notified": false,
+      "title": "MacBook pro 16 inch",
+      "last_seen": "2026-11-08 12:19:46"
+    },
+    "667559104": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "APPLE MacBook Pro 2018 i9 16GB 512GB Vega 20 4GB",
+      "last_seen": "2026-11-08 12:07:35"
+    },
+    "667558945": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Apple MacBook Pro",
+      "last_seen": "2026-11-08 12:04:47"
+    },
+    "667555023": {
+      "last_price": 20.0,
+      "notified": false,
+      "title": "Tucano Nido Hard Shell MacBook Pro 16\"(2021) Nuovo",
+      "last_seen": "2026-11-08 11:36:23"
+    },
+    "667554860": {
+      "last_price": 2650.0,
+      "notified": false,
+      "title": "MacBook Pro Chip M5 PRO, 1TB, 24GB Ram - Sigillato",
+      "last_seen": "2026-11-08 11:36:16"
+    },
+    "667554869": {
+      "last_price": 2700.0,
+      "notified": false,
+      "title": "Macbook PRO 16 M3 MAX 48gb ram 40c gpu 16c cpu",
+      "last_seen": "2026-11-08 11:33:32"
+    },
+    "667547244": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M1 Pro 2021 – 16GB RAM, 512GB SSD",
+      "last_seen": "2026-11-08 10:32:34"
+    },
+    "667542773": {
+      "last_price": null,
+      "notified": false,
+      "title": "SAMSUNG TV QLED 4K 55\"S 95 OneConect",
+      "last_seen": "2026-11-08 09:48:59"
+    },
+    "667560545": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Pro M1",
+      "last_seen": "2026-11-08 12:19:35"
+    },
+    "667560351": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook pro M1 512gb 13”",
+      "last_seen": "2026-11-08 12:16:46"
+    },
+    "667148304": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Ipad Air 11 M3 (2025) + Apple Pencil Pro",
+      "last_seen": "2026-11-04 20:16:26"
+    },
+    "667550329": {
+      "last_price": 1.0,
+      "notified": false,
+      "title": "MacBook Pro 2017 no touchbar (a1708)",
+      "last_seen": "2026-11-08 10:59:59"
+    },
+    "667533003": {
+      "last_price": 120.0,
+      "notified": false,
+      "title": "COPPIA MACBOOK PRO A1502 E A1425",
+      "last_seen": "2026-11-08 07:08:54"
+    },
+    "664585112": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 256GB SSD Apple Laptop Portatile PC",
+      "last_seen": "2026-11-08 12:13:25"
+    },
+    "667559428": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "Apple Macbook Pro13 8 GB RAM 256GB SSD Windows 11",
+      "last_seen": "2026-11-08 12:10:31"
+    },
+    "667559143": {
+      "last_price": 79.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017 - macOS Tahoe 8GB I5 SSD",
+      "last_seen": "2026-11-08 12:07:36"
+    },
+    "667549754": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook pro 13 Retina",
+      "last_seen": "2026-11-08 10:53:52"
+    },
+    "664137229": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "iMac 2020 27” 5k Apple PC Garanzia Garanzia",
+      "last_seen": "2026-11-08 09:13:17"
+    },
+    "667535985": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "MacBook Pro 2020 - 16gb Ram 1Tb SSD",
+      "last_seen": "2026-11-08 08:16:37"
     }
   },
   "seen_ids": [
@@ -31882,6 +32010,7 @@
     "664134317",
     "664135260",
     "664135703",
+    "664137229",
     "664137275",
     "664137834",
     "664139245",
@@ -32153,6 +32282,7 @@
     "664583728",
     "664584100",
     "664584182",
+    "664585112",
     "664586733",
     "664590290",
     "664593734",
@@ -33738,6 +33868,7 @@
     "667144479",
     "667146573",
     "667146917",
+    "667148304",
     "667149024",
     "667149198",
     "667149433",
@@ -34004,6 +34135,24 @@
     "667520598",
     "667524729",
     "667528118",
-    "667528485"
+    "667528485",
+    "667533003",
+    "667535985",
+    "667537102",
+    "667542773",
+    "667547244",
+    "667549754",
+    "667550329",
+    "667554860",
+    "667554869",
+    "667555023",
+    "667558945",
+    "667559104",
+    "667559143",
+    "667559428",
+    "667560351",
+    "667560545",
+    "667560790",
+    "667561200"
   ]
 }
