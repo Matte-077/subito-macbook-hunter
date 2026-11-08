@@ -24665,10 +24665,10 @@
       "last_seen": "2026-10-30 14:33:12"
     },
     "666476044": {
-      "last_price": 1050.0,
+      "last_price": 950.0,
       "notified": false,
       "title": "MacBook Pro 16\" M1 Pro 32 GB RAM 512 GB, perfetto",
-      "last_seen": "2026-10-30 13:30:27"
+      "last_seen": "2026-11-08 01:28:09"
     },
     "666475547": {
       "last_price": 550.0,
@@ -28869,6 +28869,18 @@
       "notified": false,
       "title": "MacBook PRO 2020 M1",
       "last_seen": "2026-11-07 21:50:59"
+    },
+    "667528485": {
+      "last_price": 1699.0,
+      "notified": false,
+      "title": "iPhone 18 Pro Max",
+      "last_seen": "2026-11-08 01:17:52"
+    },
+    "667528118": {
+      "last_price": 1750.0,
+      "notified": false,
+      "title": "Macbook pro m4",
+      "last_seen": "2026-11-08 01:03:42"
     }
   },
   "seen_ids": [
@@ -33990,6 +34002,8 @@
     "667513120",
     "667517856",
     "667520598",
-    "667524729"
+    "667524729",
+    "667528118",
+    "667528485"
   ]
 }
