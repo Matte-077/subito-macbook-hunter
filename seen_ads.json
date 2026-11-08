@@ -28279,10 +28279,10 @@
       "last_seen": "2026-11-06 22:11:55"
     },
     "667402384": {
-      "last_price": 970.0,
+      "last_price": 890.0,
       "notified": false,
-      "title": "MacBook Pro 16” 2019 – i9 - 32G - 2Tb - Batt nuova",
-      "last_seen": "2026-11-06 22:00:09"
+      "title": "MacBook Pro 16” 2019 i9 32G 2Tb 5500M Batt nuova",
+      "last_seen": "2026-11-08 15:30:09"
     },
     "667400722": {
       "last_price": 650.0,
@@ -29123,6 +29123,102 @@
       "notified": false,
       "title": "MacBook Pro 15” i7 256GB SSD 16GB RAM Laptop macOS",
       "last_seen": "2026-11-08 13:09:02"
+    },
+    "667632031": {
+      "last_price": 800.0,
+      "notified": true,
+      "title": "MacBook Pro 14\" M2 Max 3.68Ghz 32GB RAM 1TB SSD",
+      "last_seen": "2026-11-08 22:20:34"
+    },
+    "667621514": {
+      "last_price": 319.0,
+      "notified": false,
+      "title": "iPhone 12 Pro Max 128 Giga Con Garanzia",
+      "last_seen": "2026-11-08 20:33:45"
+    },
+    "667621331": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "iPhone 15 Pro Max 256 Giga Con Garanzia",
+      "last_seen": "2026-11-08 20:33:36"
+    },
+    "667630511": {
+      "last_price": 220.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” 16GB  1TB",
+      "last_seen": "2026-11-08 22:04:40"
+    },
+    "667622048": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Macbook Pro 2017 16GB RAM 512 SSD touch bar I7 3.5",
+      "last_seen": "2026-11-08 20:41:20"
+    },
+    "667620592": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" i9 64GB RAM 2TB batteria nuova",
+      "last_seen": "2026-11-08 20:33:08"
+    },
+    "667620438": {
+      "last_price": 140.0,
+      "notified": false,
+      "title": "Apple Macbook Pro 15 retina late 2013",
+      "last_seen": "2026-11-08 20:25:28"
+    },
+    "667613052": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "MacBook Pro 16 pollici chip Apple M3 Pro, 18 GB",
+      "last_seen": "2026-11-08 19:17:33"
+    },
+    "667612754": {
+      "last_price": 38.0,
+      "notified": false,
+      "title": "Tucano Rilievo con Trama Cactus, Custodia Neoprene",
+      "last_seen": "2026-11-08 19:17:14"
+    },
+    "667610497": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" 2019 i9 8 core, 32 GB RAM, 512 GB",
+      "last_seen": "2026-11-08 18:58:42"
+    },
+    "667624836": {
+      "last_price": 1830.0,
+      "notified": false,
+      "title": "MacBook Pro 2021 M1 Max, 32 GB, 1 TB, color argent",
+      "last_seen": "2026-11-08 21:06:44"
+    },
+    "667621313": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook air M1",
+      "last_seen": "2026-11-08 20:33:35"
+    },
+    "667613657": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook pro m1 con touchpad",
+      "last_seen": "2026-11-08 19:25:48"
+    },
+    "667617837": {
+      "last_price": 149.0,
+      "notified": false,
+      "title": "MacBook Pro 13”core  i7 hdd 320/ram 8/ 2011",
+      "last_seen": "2026-11-08 20:00:09"
+    },
+    "667626564": {
+      "last_price": 720.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 13”",
+      "last_seen": "2026-11-08 22:12:45"
+    },
+    "667612382": {
+      "last_price": 800.0,
+      "notified": false,
+      "title": "MacBook Neo 13\" 512GB Touch ID Giallo Agrume",
+      "last_seen": "2026-11-08 19:08:51"
     }
   },
   "seen_ids": [
@@ -34286,6 +34382,22 @@
     "667592641",
     "667592699",
     "667601721",
-    "667608979"
+    "667608979",
+    "667610497",
+    "667612382",
+    "667612754",
+    "667613052",
+    "667613657",
+    "667617837",
+    "667620438",
+    "667620592",
+    "667621313",
+    "667621331",
+    "667621514",
+    "667622048",
+    "667624836",
+    "667626564",
+    "667630511",
+    "667632031"
   ]
 }
