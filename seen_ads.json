@@ -29303,6 +29303,36 @@
       "notified": false,
       "title": "Apple MacBook Neo 13”",
       "last_seen": "2026-11-08 23:14:43"
+    },
+    "667650651": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w con cavetto usb-c",
+      "last_seen": "2026-11-09 08:52:48"
+    },
+    "667650673": {
+      "last_price": 400.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13” 2020 – 16 GB RAM",
+      "last_seen": "2026-11-09 08:52:49"
+    },
+    "667649422": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15” retina core i7 ssd 250/ram 16/2014",
+      "last_seen": "2026-11-09 08:38:15"
+    },
+    "667643910": {
+      "last_price": 800.0,
+      "notified": true,
+      "title": "MacBook Pro 16\" M1 Pro 2021 - 16GB RAM, 512GB SSD",
+      "last_seen": "2026-11-09 06:47:53"
+    },
+    "667646606": {
+      "last_price": 1500.0,
+      "notified": false,
+      "title": "Apple Macbook pro M5 da attivare",
+      "last_seen": "2026-11-09 07:48:07"
     }
   },
   "seen_ids": [
@@ -34496,6 +34526,11 @@
     "667638316",
     "667639133",
     "667639141",
-    "667639470"
+    "667639470",
+    "667643910",
+    "667646606",
+    "667649422",
+    "667650651",
+    "667650673"
   ]
 }
