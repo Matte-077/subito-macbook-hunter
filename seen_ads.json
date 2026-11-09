@@ -29219,6 +29219,90 @@
       "notified": false,
       "title": "MacBook Neo 13\" 512GB Touch ID Giallo Agrume",
       "last_seen": "2026-11-08 19:08:51"
+    },
+    "667639141": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "Macbook pro M1 pro 16 gb ram 512 chip M1pro",
+      "last_seen": "2026-11-09 00:57:38"
+    },
+    "667638316": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook pro 16 ram 32gb ssd 1 tera core i9 2021",
+      "last_seen": "2026-11-09 00:21:22"
+    },
+    "667636391": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 14 (2021) M1 Pro, 32 GB 1TB SSD",
+      "last_seen": "2026-11-08 23:30:02"
+    },
+    "667636212": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1, 32 GB di RAM e SSD da 1 TB.",
+      "last_seen": "2026-11-08 23:29:50"
+    },
+    "667635128": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "MacBook Pro M5 24GB 1TB SSD",
+      "last_seen": "2026-11-08 23:07:16"
+    },
+    "667639470": {
+      "last_price": 380.0,
+      "notified": false,
+      "title": "macbook pro 2018 16/256",
+      "last_seen": "2026-11-09 01:20:04"
+    },
+    "667639133": {
+      "last_price": 380.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15\" 2018 16GB / 256Gb TouchBar",
+      "last_seen": "2026-11-09 00:57:37"
+    },
+    "667637977": {
+      "last_price": 700.0,
+      "notified": true,
+      "title": "Macbook pro M1 16 pollici, RAM 16GB, Arch. 512GB",
+      "last_seen": "2026-11-09 00:14:04"
+    },
+    "667637910": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook Pro 2018 - 1 TB",
+      "last_seen": "2026-11-09 00:07:11"
+    },
+    "667637824": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook Pro M1",
+      "last_seen": "2026-11-09 00:07:07"
+    },
+    "667634730": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "Macbook Pro M1 - 256GB ssd - 8GB ram",
+      "last_seen": "2026-11-08 22:59:26"
+    },
+    "667634916": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "IPAD PRO 13' M2 128GB WIFI + CELLULAR",
+      "last_seen": "2026-11-08 23:07:06"
+    },
+    "667634408": {
+      "last_price": 130.0,
+      "notified": false,
+      "title": "Apple Macbook Pro Retina 13” - 256gb",
+      "last_seen": "2026-11-08 22:59:07"
+    },
+    "667626763": {
+      "last_price": 720.0,
+      "notified": false,
+      "title": "Apple MacBook Neo 13”",
+      "last_seen": "2026-11-08 23:14:43"
     }
   },
   "seen_ids": [
@@ -34397,7 +34481,21 @@
     "667622048",
     "667624836",
     "667626564",
+    "667626763",
     "667630511",
-    "667632031"
+    "667632031",
+    "667634408",
+    "667634730",
+    "667634916",
+    "667635128",
+    "667636212",
+    "667636391",
+    "667637824",
+    "667637910",
+    "667637977",
+    "667638316",
+    "667639133",
+    "667639141",
+    "667639470"
   ]
 }
