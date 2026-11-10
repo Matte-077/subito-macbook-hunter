@@ -15103,7 +15103,7 @@
       "last_seen": "2026-10-09 12:35:01"
     },
     "663860018": {
-      "last_price": 1350.0,
+      "last_price": 1300.0,
       "notified": false,
       "title": "Macbook Pro M4 16GB RAM, 512GB",
       "last_seen": "2026-11-07 08:56:01"
@@ -20053,10 +20053,10 @@
       "last_seen": "2026-10-20 19:39:49"
     },
     "658369035": {
-      "last_price": 449.0,
+      "last_price": 429.0,
       "notified": false,
       "title": "MacBook Pro 16” 2019 – i9 – 16GB RAM – 1TB SSD",
-      "last_seen": "2026-10-24 17:23:35"
+      "last_seen": "2026-11-10 07:56:47"
     },
     "665298108": {
       "last_price": 810.0,
@@ -23761,7 +23761,7 @@
       "last_seen": "2026-10-28 15:12:07"
     },
     "666225678": {
-      "last_price": 25.0,
+      "last_price": 19.0,
       "notified": false,
       "title": "MacBook Pro 15 A1226 Late 2007 per Ricambi",
       "last_seen": "2026-10-28 13:45:19"
@@ -23779,7 +23779,7 @@
       "last_seen": "2026-10-28 11:49:34"
     },
     "666209668": {
-      "last_price": 39.0,
+      "last_price": 30.0,
       "notified": false,
       "title": "MacBook Pro 17 A1229 Late 2007  Ricambi Segnale OK",
       "last_seen": "2026-10-28 11:35:20"
@@ -28225,7 +28225,7 @@
       "last_seen": "2026-11-06 17:01:21"
     },
     "667351336": {
-      "last_price": 35.0,
+      "last_price": 29.0,
       "notified": false,
       "title": "Lotto 3 MacBook Pro + Display per Ricambi",
       "last_seen": "2026-11-06 14:45:42"
@@ -29365,7 +29365,7 @@
       "last_seen": "2026-11-09 17:56:39"
     },
     "667715055": {
-      "last_price": 1350.0,
+      "last_price": 1100.0,
       "notified": false,
       "title": "MacBook Pro M3 - 14’’ - nero siderale",
       "last_seen": "2026-11-09 17:48:04"
@@ -29545,8 +29545,8 @@
       "last_seen": "2026-11-09 13:01:18"
     },
     "667678803": {
-      "last_price": 380.0,
-      "notified": false,
+      "last_price": 250.0,
+      "notified": true,
       "title": "MacBook Pro 13\"- anno 2020 - 264GB",
       "last_seen": "2026-11-09 12:12:39"
     },
@@ -29741,6 +29741,78 @@
       "notified": false,
       "title": "MacBook Pro late 2015 core i5 8/256gb sequoia os",
       "last_seen": "2026-11-09 21:21:42"
+    },
+    "667794268": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "iPad Pro  11\" M4  512GB  wifi cell",
+      "last_seen": "2026-11-10 09:52:13"
+    },
+    "667793490": {
+      "last_price": 419.0,
+      "notified": false,
+      "title": "iPhone 13 Pro 128 Giga Con Garanzia 12 Mesi 🔥",
+      "last_seen": "2026-11-10 09:48:06"
+    },
+    "667788641": {
+      "last_price": 1400.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M3 Pro – 18 GB / 1 TB – Nero sid",
+      "last_seen": "2026-11-10 09:16:34"
+    },
+    "667775031": {
+      "last_price": 379.0,
+      "notified": false,
+      "title": "iPhone 14 128 Giga Batteria 100% 🔥",
+      "last_seen": "2026-11-10 04:07:12"
+    },
+    "667775007": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "iPhone 15 Pro Max 256 Giga Con Garanzia 🔥",
+      "last_seen": "2026-11-10 03:57:43"
+    },
+    "667774902": {
+      "last_price": 879.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 256 Giga in Garanzia Apple 🔥",
+      "last_seen": "2026-11-10 03:41:53"
+    },
+    "667780445": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "Macbook Pro 16” 16GB RAM + SCATOLA + FATTURA",
+      "last_seen": "2026-11-10 07:39:05"
+    },
+    "667776990": {
+      "last_price": 1399.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16’’ (9ª gen) NUOVO SIGILLATO",
+      "last_seen": "2026-11-10 06:59:10"
+    },
+    "667787863": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "Macbook Air M2",
+      "last_seen": "2026-11-10 09:12:26"
+    },
+    "667783523": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "MacBook Pro 2017, 13' 256 ssd, 8gb ram, i5 2.3 ghz",
+      "last_seen": "2026-11-10 08:26:52"
+    },
+    "667781143": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "Macbook Pro 13” - Intel Core i5 16GB/SSD1TB",
+      "last_seen": "2026-11-10 07:46:20"
+    },
+    "667778002": {
+      "last_price": 95.0,
+      "notified": false,
+      "title": "PC MACBOOK 21.5 CPU i5 RAM 8GB HDD 1TB",
+      "last_seen": "2026-11-10 07:07:33"
     }
   },
   "seen_ids": [
@@ -35007,6 +35079,18 @@
     "667766694",
     "667768380",
     "667768470",
-    "667770250"
+    "667770250",
+    "667774902",
+    "667775007",
+    "667775031",
+    "667776990",
+    "667778002",
+    "667780445",
+    "667781143",
+    "667783523",
+    "667787863",
+    "667788641",
+    "667793490",
+    "667794268"
   ]
 }
