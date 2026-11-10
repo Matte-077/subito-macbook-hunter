@@ -29657,6 +29657,90 @@
       "notified": false,
       "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
       "last_seen": "2026-11-09 11:04:09"
+    },
+    "667768380": {
+      "last_price": 1599.0,
+      "notified": false,
+      "title": "iPhone 18 Pro Max 256Giga Nuovo 2 Anni di Garanzia",
+      "last_seen": "2026-11-10 00:11:12"
+    },
+    "667753570": {
+      "last_price": 1400.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M3 Late 2023 16 GB RAM 1 TB SSD",
+      "last_seen": "2026-11-09 21:22:02"
+    },
+    "667748046": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "Macbook Pro chip M1 pro 14” condizioni eccellenti",
+      "last_seen": "2026-11-09 20:24:44"
+    },
+    "667746674": {
+      "last_price": 1900.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M5 Pro - Space Black - 1TB SSD",
+      "last_seen": "2026-11-09 20:15:08"
+    },
+    "667732661": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "MacBook Pro M4 con 1Terabyte di SSD",
+      "last_seen": "2026-11-09 20:07:01"
+    },
+    "667758445": {
+      "last_price": 1700.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M3 Pro",
+      "last_seen": "2026-11-09 21:57:03"
+    },
+    "667750255": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "MacBook Pro Retina 15’’ 2015",
+      "last_seen": "2026-11-09 20:47:22"
+    },
+    "667766694": {
+      "last_price": 570.0,
+      "notified": false,
+      "title": "Macbook pro m1 8/256gb",
+      "last_seen": "2026-11-09 23:41:52"
+    },
+    "667762148": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "APPLE MACBOOK PRO M1",
+      "last_seen": "2026-11-09 22:39:34"
+    },
+    "667768470": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "MacBook Pro 13” M2 2022 8GB/256GB – Perfetto",
+      "last_seen": "2026-11-10 00:11:17"
+    },
+    "667770250": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" 2019 ssd 256",
+      "last_seen": "2026-11-10 01:12:48"
+    },
+    "667752067": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 15’’ pollici 2016 con Tauch Bar",
+      "last_seen": "2026-11-09 21:09:53"
+    },
+    "667747459": {
+      "last_price": 90.0,
+      "notified": false,
+      "title": "MacBook Pro 13 Mid 2014 i5 8GB 128GB SSD",
+      "last_seen": "2026-11-09 20:24:03"
+    },
+    "667753304": {
+      "last_price": 269.0,
+      "notified": false,
+      "title": "MacBook Pro late 2015 core i5 8/256gb sequoia os",
+      "last_seen": "2026-11-09 21:21:42"
     }
   },
   "seen_ids": [
@@ -34903,12 +34987,26 @@
     "667728015",
     "667728650",
     "667731445",
+    "667732661",
     "667734733",
     "667734832",
     "667734938",
     "667735063",
     "667740726",
     "667740791",
-    "667742604"
+    "667742604",
+    "667746674",
+    "667747459",
+    "667748046",
+    "667750255",
+    "667752067",
+    "667753304",
+    "667753570",
+    "667758445",
+    "667762148",
+    "667766694",
+    "667768380",
+    "667768470",
+    "667770250"
   ]
 }
