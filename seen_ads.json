@@ -27361,7 +27361,7 @@
       "last_seen": "2026-11-05 10:53:57"
     },
     "667196869": {
-      "last_price": 1250.0,
+      "last_price": 1200.0,
       "notified": false,
       "title": "Mac Book Pro. 14’’ 18 GB RAM SSD 512 GB NERO 2023",
       "last_seen": "2026-11-05 10:29:06"
@@ -29677,9 +29677,9 @@
       "last_seen": "2026-11-09 20:24:44"
     },
     "667746674": {
-      "last_price": 1900.0,
+      "last_price": 1800.0,
       "notified": false,
-      "title": "MacBook Pro 14\" M5 Pro - Space Black - 1TB SSD",
+      "title": "MacBook Pro 14\" M5 - Space Black - 1TB SSD",
       "last_seen": "2026-11-09 20:15:08"
     },
     "667732661": {
@@ -29813,6 +29813,306 @@
       "notified": false,
       "title": "PC MACBOOK 21.5 CPU i5 RAM 8GB HDD 1TB",
       "last_seen": "2026-11-10 07:07:33"
+    },
+    "667873069": {
+      "last_price": 1249.0,
+      "notified": false,
+      "title": "MacBook Pro 16″ M1 Pro Apple, RAM 32Gb, SSD 512Gb",
+      "last_seen": "2026-11-10 17:55:59"
+    },
+    "667867599": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook pro 16 ram 32gb ssd 1 tera core i9 2021",
+      "last_seen": "2026-11-10 17:19:25"
+    },
+    "667864270": {
+      "last_price": 700.0,
+      "notified": true,
+      "title": "Macbook Pro M1 Pro",
+      "last_seen": "2026-11-10 16:51:56"
+    },
+    "667863560": {
+      "last_price": 1799.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" M1 MAX 32GB 2TB -10C CPU/32C GP",
+      "last_seen": "2026-11-10 16:47:53"
+    },
+    "667859492": {
+      "last_price": 55.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 96w x MacBook Pro 15/16",
+      "last_seen": "2026-11-10 16:20:03"
+    },
+    "667857703": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" 16GB RAM/1TB SSD i9 CON GARANZIA",
+      "last_seen": "2026-11-10 16:08:16"
+    },
+    "667844927": {
+      "last_price": 1700.0,
+      "notified": false,
+      "title": "MacBook Pro M2",
+      "last_seen": "2026-11-10 14:45:26"
+    },
+    "667844123": {
+      "last_price": 1850.0,
+      "notified": false,
+      "title": "Macbook Pro M3 PRO 512/18 - GARANZIA 09/2026",
+      "last_seen": "2026-11-10 14:37:50"
+    },
+    "667840670": {
+      "last_price": 2730.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16” M4 Max 36GB RAM 1TB SSD",
+      "last_seen": "2026-11-10 14:06:56"
+    },
+    "667838924": {
+      "last_price": 2250.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\" M4 Pro",
+      "last_seen": "2026-11-10 13:54:46"
+    },
+    "667833654": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "IPHONE 14 PRO 128GB BLACK batteria 100%",
+      "last_seen": "2026-11-10 13:35:38"
+    },
+    "667835848": {
+      "last_price": 600.0,
+      "notified": true,
+      "title": "Macbook pro 14 m1 pro grigio siderale 512 ssd",
+      "last_seen": "2026-11-10 13:27:50"
+    },
+    "667835029": {
+      "last_price": 42.0,
+      "notified": false,
+      "title": "Borsa da lavoro unisex Tucano",
+      "last_seen": "2026-11-10 13:23:28"
+    },
+    "667833563": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "Iphone 14 pro 128gb purple",
+      "last_seen": "2026-11-10 13:15:31"
+    },
+    "667827781": {
+      "last_price": 25.0,
+      "notified": false,
+      "title": "Altoparlanti Originali Apple Macbook Pro",
+      "last_seen": "2026-11-10 12:27:23"
+    },
+    "667827612": {
+      "last_price": 5.0,
+      "notified": false,
+      "title": "Cover Tastiera Apple Macbook Pro 14'' da M1 a M5",
+      "last_seen": "2026-11-10 12:27:18"
+    },
+    "667826140": {
+      "last_price": 2099.0,
+      "notified": false,
+      "title": "MacBook Pro 14 M2 Max 30core 64gb ram 1tb Ssd",
+      "last_seen": "2026-11-10 12:18:55"
+    },
+    "667818485": {
+      "last_price": 299.0,
+      "notified": false,
+      "title": "iPhone 13 128 Giga Con Garanzia 🔥",
+      "last_seen": "2026-11-10 11:48:56"
+    },
+    "667816277": {
+      "last_price": 479.0,
+      "notified": false,
+      "title": "iPhone 13 Pro Max 128 Giga Usato Garantito 🔥",
+      "last_seen": "2026-11-10 11:40:42"
+    },
+    "667815300": {
+      "last_price": 1100.0,
+      "notified": false,
+      "title": "Macbook pro 14 m1 pro",
+      "last_seen": "2026-11-10 11:36:25"
+    },
+    "667813762": {
+      "last_price": 589.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 128 Giga Garanzia 1 Anno 🔥",
+      "last_seen": "2026-11-10 11:31:54"
+    },
+    "667803123": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w x MacBook Pro 13/14",
+      "last_seen": "2026-11-10 10:49:06"
+    },
+    "667871743": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "IPHONE 16 PRO 256GB TITANIO SABBIA",
+      "last_seen": "2026-11-10 17:55:57"
+    },
+    "667872632": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Apple Mac Mini M4, 16 GB RAM, 256 GB SSD",
+      "last_seen": "2026-11-10 17:51:57"
+    },
+    "667872229": {
+      "last_price": 2800.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16” M5 PRO RAM 24GB SSD 1 TB SIGILLATO",
+      "last_seen": "2026-11-10 17:51:42"
+    },
+    "667867394": {
+      "last_price": 3299.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M2 Max 38Core 96gb Ram 2Tb Ssd",
+      "last_seen": "2026-11-10 17:15:43"
+    },
+    "667865577": {
+      "last_price": 1000.0,
+      "notified": false,
+      "title": "MacBook Air M5 13 pollici 16 GB aprile 26",
+      "last_seen": "2026-11-10 17:07:18"
+    },
+    "667862362": {
+      "last_price": 1200.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16” M1 Pro — 16/512",
+      "last_seen": "2026-11-10 16:44:11"
+    },
+    "667857543": {
+      "last_price": 200.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15\" Retina i7 16GB-256GB",
+      "last_seen": "2026-11-10 16:04:34"
+    },
+    "667852444": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook Pro Retina 16”",
+      "last_seen": "2026-11-10 15:30:33"
+    },
+    "667836619": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro 15.4\" Intel i7 16/512 Late 2013",
+      "last_seen": "2026-11-10 13:35:37"
+    },
+    "667828297": {
+      "last_price": 3900.0,
+      "notified": false,
+      "title": "Macbook Pro 16 M5 Max 48gb 2tb",
+      "last_seen": "2026-11-10 12:43:20"
+    },
+    "667815478": {
+      "last_price": 2099.0,
+      "notified": false,
+      "title": "MacBook Pro M6 – 16 GB RAM / 1 TB SSD",
+      "last_seen": "2026-11-10 11:36:33"
+    },
+    "667868467": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook pro 2020",
+      "last_seen": "2026-11-10 17:23:40"
+    },
+    "667864570": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "MAC BOOK PRO 2020",
+      "last_seen": "2026-11-10 16:55:48"
+    },
+    "667857866": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook Pro M1 8/256 13.3” 96% Batteria",
+      "last_seen": "2026-11-10 16:08:23"
+    },
+    "667810636": {
+      "last_price": 1290.0,
+      "notified": false,
+      "title": "Apple Macbook Pro 16 M1 Max 32GB RAM 1TB",
+      "last_seen": "2026-11-10 11:19:33"
+    },
+    "667804760": {
+      "last_price": 510.0,
+      "notified": false,
+      "title": "MacBook Pro 13” Apple M1",
+      "last_seen": "2026-11-10 11:01:49"
+    },
+    "667847358": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" M2 / 16GB / 512GB",
+      "last_seen": "2026-11-10 15:01:40"
+    },
+    "667806414": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Macbook Pro 15 Retina '2013' Core i7",
+      "last_seen": "2026-11-10 11:06:11"
+    },
+    "667867881": {
+      "last_price": 2100.0,
+      "notified": false,
+      "title": "MacBook Pro M3 Max 36 GB / 1TB SSD",
+      "last_seen": "2026-11-10 17:19:37"
+    },
+    "667850730": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "iPad Pro M4 11” NUOVO DA SCARTARE da Apple Care",
+      "last_seen": "2026-11-10 15:25:54"
+    },
+    "667861979": {
+      "last_price": null,
+      "notified": false,
+      "title": "Macbook Pro 13\" del 2010 per ricambi",
+      "last_seen": "2026-11-10 16:43:49"
+    },
+    "667841333": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "MacBook Pro A1278 non funzionante",
+      "last_seen": "2026-11-10 14:14:24"
+    },
+    "667859822": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 13” core i7 hdd 320/ram 8 mid  2011",
+      "last_seen": "2026-11-10 16:23:41"
+    },
+    "667843176": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro 13” 2017 – i5 – 8GB RAM – SSD 512GB",
+      "last_seen": "2026-11-10 14:30:05"
+    },
+    "667829833": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "MacBook Pro Retina 15 pollici i7 RAM 16GB 256GB",
+      "last_seen": "2026-11-10 12:55:22"
+    },
+    "667802776": {
+      "last_price": 249.0,
+      "notified": false,
+      "title": "MacBook Pro 13”retina core i5 ssd 500/ram 8/2013",
+      "last_seen": "2026-11-10 10:53:05"
+    },
+    "667853729": {
+      "last_price": 275.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-11-10 15:38:11"
+    },
+    "667802220": {
+      "last_price": 1199.0,
+      "notified": false,
+      "title": "IPHONE 17 PRO MAX 512 GB",
+      "last_seen": "2026-11-10 10:49:01"
     }
   },
   "seen_ids": [
@@ -35091,6 +35391,56 @@
     "667787863",
     "667788641",
     "667793490",
-    "667794268"
+    "667794268",
+    "667802220",
+    "667802776",
+    "667803123",
+    "667804760",
+    "667806414",
+    "667810636",
+    "667813762",
+    "667815300",
+    "667815478",
+    "667816277",
+    "667818485",
+    "667826140",
+    "667827612",
+    "667827781",
+    "667828297",
+    "667829833",
+    "667833563",
+    "667833654",
+    "667835029",
+    "667835848",
+    "667836619",
+    "667838924",
+    "667840670",
+    "667841333",
+    "667843176",
+    "667844123",
+    "667844927",
+    "667847358",
+    "667850730",
+    "667852444",
+    "667853729",
+    "667857543",
+    "667857703",
+    "667857866",
+    "667859492",
+    "667859822",
+    "667861979",
+    "667862362",
+    "667863560",
+    "667864270",
+    "667864570",
+    "667865577",
+    "667867394",
+    "667867599",
+    "667867881",
+    "667868467",
+    "667871743",
+    "667872229",
+    "667872632",
+    "667873069"
   ]
 }
