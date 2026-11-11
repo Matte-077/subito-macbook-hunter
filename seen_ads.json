@@ -29785,7 +29785,7 @@
       "last_seen": "2026-11-10 07:39:05"
     },
     "667776990": {
-      "last_price": 1399.0,
+      "last_price": 1499.0,
       "notified": false,
       "title": "Apple MacBook Pro 16’’ (9ª gen) NUOVO SIGILLATO",
       "last_seen": "2026-11-10 06:59:10"
@@ -30019,7 +30019,7 @@
       "last_seen": "2026-11-10 17:23:40"
     },
     "667864570": {
-      "last_price": 500.0,
+      "last_price": 510.0,
       "notified": false,
       "title": "MAC BOOK PRO 2020",
       "last_seen": "2026-11-10 16:55:48"
@@ -30209,6 +30209,72 @@
       "notified": false,
       "title": "Stand per Macbook modello BookArc - Twelve South",
       "last_seen": "2026-11-10 23:44:14"
+    },
+    "667943912": {
+      "last_price": 1799.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M1 Max 32GB/2TB ITALIANO",
+      "last_seen": "2026-11-11 10:20:31"
+    },
+    "667939697": {
+      "last_price": 280.0,
+      "notified": false,
+      "title": "ULTRABOOK HP Pavilion 14-al101nl, i5, nvme 128gb,",
+      "last_seen": "2026-11-11 09:52:10"
+    },
+    "667928045": {
+      "last_price": 949.0,
+      "notified": false,
+      "title": "Macbook Pro 14\" M1 Pro 16/512",
+      "last_seen": "2026-11-11 07:52:03"
+    },
+    "667926737": {
+      "last_price": 1450.0,
+      "notified": false,
+      "title": "Macbook pro m5 14” PERFETTO GARANZIA 2 ANNI",
+      "last_seen": "2026-11-11 07:37:57"
+    },
+    "667930720": {
+      "last_price": 900.0,
+      "notified": false,
+      "title": "Macbook Pro M1 Pro 16/512 Gb – come nuovo",
+      "last_seen": "2026-11-11 08:25:20"
+    },
+    "667930098": {
+      "last_price": 480.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core + SCATOLA + FATTURA",
+      "last_seen": "2026-11-11 08:14:36"
+    },
+    "667928212": {
+      "last_price": 130.0,
+      "notified": false,
+      "title": "MacBook pro 13",
+      "last_seen": "2026-11-11 07:55:28"
+    },
+    "667937435": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" Apple M1 (2020) - 8GB / 256GB",
+      "last_seen": "2026-11-11 09:32:38"
+    },
+    "667935494": {
+      "last_price": 149.0,
+      "notified": false,
+      "title": "Maxi Lotto Informatica e Accessori Tech",
+      "last_seen": "2026-11-11 09:09:48"
+    },
+    "667927794": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Macbook",
+      "last_seen": "2026-11-11 07:45:12"
+    },
+    "667937457": {
+      "last_price": 315.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" (2020) 512 GB",
+      "last_seen": "2026-11-11 09:32:39"
     }
   },
   "seen_ids": [
@@ -35553,6 +35619,17 @@
     "667914566",
     "667914709",
     "667916126",
-    "667916747"
+    "667916747",
+    "667926737",
+    "667927794",
+    "667928045",
+    "667928212",
+    "667930098",
+    "667930720",
+    "667935494",
+    "667937435",
+    "667937457",
+    "667939697",
+    "667943912"
   ]
 }
