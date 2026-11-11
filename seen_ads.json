@@ -29221,7 +29221,7 @@
       "last_seen": "2026-11-08 19:08:51"
     },
     "667639141": {
-      "last_price": 950.0,
+      "last_price": 1000.0,
       "notified": false,
       "title": "Macbook pro M1 pro 16 gb ram 512 chip M1pro",
       "last_seen": "2026-11-09 00:57:38"
@@ -30133,7 +30133,7 @@
       "last_seen": "2026-11-10 18:11:19"
     },
     "667907539": {
-      "last_price": 2580.0,
+      "last_price": 2490.0,
       "notified": false,
       "title": "Macbook pro 16 M3 MAX 48gb 1tb CPU 16Core GPU 40C",
       "last_seen": "2026-11-10 22:13:01"
@@ -30179,6 +30179,36 @@
       "notified": false,
       "title": "Apple MacBook Pro 15 pollici 2018 Touch Bar",
       "last_seen": "2026-11-10 18:58:57"
+    },
+    "667911207": {
+      "last_price": 5.0,
+      "notified": false,
+      "title": "Cavo da Lightning a USB (1 m) - originale Apple",
+      "last_seen": "2026-11-10 23:57:42"
+    },
+    "667916747": {
+      "last_price": 2900.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M5 Pro 24GB 1TB Nanotexture",
+      "last_seen": "2026-11-11 00:57:23"
+    },
+    "667916126": {
+      "last_price": null,
+      "notified": false,
+      "title": "MacBook Pro 15 2018 i7 6 core 16GB Touch Bar",
+      "last_seen": "2026-11-11 00:30:48"
+    },
+    "667914709": {
+      "last_price": 34.0,
+      "notified": false,
+      "title": "batteria macbook pro 13 a1964 2018 2019 58wh con k",
+      "last_seen": "2026-11-10 23:47:32"
+    },
+    "667914566": {
+      "last_price": 45.0,
+      "notified": false,
+      "title": "Stand per Macbook modello BookArc - Twelve South",
+      "last_seen": "2026-11-10 23:44:14"
     }
   },
   "seen_ids": [
@@ -35518,6 +35548,11 @@
     "667902938",
     "667907539",
     "667910011",
-    "667911677"
+    "667911207",
+    "667911677",
+    "667914566",
+    "667914709",
+    "667916126",
+    "667916747"
   ]
 }
