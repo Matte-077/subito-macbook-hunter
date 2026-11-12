@@ -30695,6 +30695,12 @@
       "notified": false,
       "title": "MacBook Pro 14,2\" M5, con SSD da 1TB e 24 GB RAM",
       "last_seen": "2026-11-11 18:34:21"
+    },
+    "668048399": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook pro 13",
+      "last_seen": "2026-11-12 02:20:24"
     }
   },
   "seen_ids": [
@@ -36120,6 +36126,7 @@
     "668036342",
     "668036692",
     "668040771",
-    "668044342"
+    "668044342",
+    "668048399"
   ]
 }
