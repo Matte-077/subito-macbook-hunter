@@ -30937,7 +30937,7 @@
       "last_seen": "2026-11-12 20:33:10"
     },
     "668148591": {
-      "last_price": 2100.0,
+      "last_price": 2150.0,
       "notified": false,
       "title": "Titolo: MacBook Pro 14\" M4 Pro – 24 GB RAM – 1 TB",
       "last_seen": "2026-11-12 20:01:06"
@@ -31139,6 +31139,54 @@
       "notified": false,
       "title": "Samsung S23 Ultra 1TB Con Garanzia 🔥",
       "last_seen": "2026-11-12 15:50:34"
+    },
+    "641855607": {
+      "last_price": 520.0,
+      "notified": false,
+      "title": "Macbook pro 16 2019",
+      "last_seen": "2026-11-12 22:39:44"
+    },
+    "668159564": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook pro 13",
+      "last_seen": "2026-11-12 21:54:59"
+    },
+    "668170672": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "2X NUOVE Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-11-13 01:41:14"
+    },
+    "668170573": {
+      "last_price": 325.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-11-13 01:31:31"
+    },
+    "668170460": {
+      "last_price": 375.0,
+      "notified": false,
+      "title": "2X NUOVE Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-11-13 01:25:05"
+    },
+    "668170382": {
+      "last_price": 299.0,
+      "notified": false,
+      "title": "NUOVA Samsung 990 PRO 2TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-11-13 01:24:59"
+    },
+    "668170428": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
+      "last_seen": "2026-11-13 01:24:58"
+    },
+    "668161763": {
+      "last_price": 39.0,
+      "notified": false,
+      "title": "MacBook Pro 15 2012 A1286 guasto per ricambi",
+      "last_seen": "2026-11-12 22:16:18"
     }
   },
   "seen_ids": [
@@ -31188,6 +31236,7 @@
     "640893640",
     "641087358",
     "641312978",
+    "641855607",
     "642131103",
     "642416141",
     "642768758",
@@ -36638,6 +36687,13 @@
     "668148803",
     "668151882",
     "668154729",
-    "668155585"
+    "668155585",
+    "668159564",
+    "668161763",
+    "668170382",
+    "668170428",
+    "668170460",
+    "668170573",
+    "668170672"
   ]
 }
