@@ -31187,6 +31187,72 @@
       "notified": false,
       "title": "MacBook Pro 15 2012 A1286 guasto per ricambi",
       "last_seen": "2026-11-12 22:16:18"
+    },
+    "668183573": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "Macbook Pro 16 Pollici 2019 16gb ram 1tb ssd i9",
+      "last_seen": "2026-11-13 09:07:06"
+    },
+    "668182856": {
+      "last_price": 1099.0,
+      "notified": false,
+      "title": "IPAD PRO 11 2024 M4 1TB WIFI Cell",
+      "last_seen": "2026-11-13 08:59:58"
+    },
+    "668182847": {
+      "last_price": 1899.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16(2021) M1 MAX 32GB/2TB CON GARANZIA",
+      "last_seen": "2026-11-13 08:59:58"
+    },
+    "668180503": {
+      "last_price": 55.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c  96w MacBook Pro 15/16”",
+      "last_seen": "2026-11-13 08:23:28"
+    },
+    "668177001": {
+      "last_price": 499.0,
+      "notified": false,
+      "title": "THINKCENTRE 24\" ULTRA 5 226V RAM 16 GB SSD 512 GB",
+      "last_seen": "2026-11-13 07:13:31"
+    },
+    "668185095": {
+      "last_price": 550.0,
+      "notified": false,
+      "title": "MacBook Pro 15",
+      "last_seen": "2026-11-13 09:26:03"
+    },
+    "668184754": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "Macbook Pro 16\" M1 Pro 512gb 16gb Ram",
+      "last_seen": "2026-11-13 09:18:43"
+    },
+    "668184724": {
+      "last_price": 850.0,
+      "notified": false,
+      "title": "Macbook Pro 16\" M1 Pro 512gb 16gb Ram",
+      "last_seen": "2026-11-13 09:18:42"
+    },
+    "668180732": {
+      "last_price": 460.0,
+      "notified": false,
+      "title": "Macbook Pro 16” i7 6-Core 16GB RAM 512GB SSD",
+      "last_seen": "2026-11-13 08:27:12"
+    },
+    "668178281": {
+      "last_price": 270.0,
+      "notified": false,
+      "title": "station Thunderbolt 5",
+      "last_seen": "2026-11-13 07:37:48"
+    },
+    "668180798": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "MacBook Pro 13” core i7 /hdd 320/ram 8 / 2011",
+      "last_seen": "2026-11-13 08:27:16"
     }
   },
   "seen_ids": [
@@ -36694,6 +36760,17 @@
     "668170428",
     "668170460",
     "668170573",
-    "668170672"
+    "668170672",
+    "668177001",
+    "668178281",
+    "668180503",
+    "668180732",
+    "668180798",
+    "668182847",
+    "668182856",
+    "668183573",
+    "668184724",
+    "668184754",
+    "668185095"
   ]
 }
