@@ -11131,7 +11131,7 @@
       "last_seen": "2026-09-30 13:51:12"
     },
     "662742084": {
-      "last_price": 300.0,
+      "last_price": 200.0,
       "notified": false,
       "title": "Chip SSD Nand 512 a2485 - Memoria SSD per Macbook",
       "last_seen": "2026-09-30 13:50:58"
@@ -21901,10 +21901,10 @@
       "last_seen": "2026-10-24 15:47:30"
     },
     "665047517": {
-      "last_price": 2300.0,
+      "last_price": 2000.0,
       "notified": false,
       "title": "MacBook Pro 16\" chip Apple M4 Pro, CPU 14 core24GB",
-      "last_seen": "2026-10-24 15:33:01"
+      "last_seen": "2026-11-13 10:01:42"
     },
     "665754518": {
       "last_price": 849.0,
@@ -22879,7 +22879,7 @@
       "last_seen": "2026-10-26 18:06:49"
     },
     "666003465": {
-      "last_price": 200.0,
+      "last_price": 180.0,
       "notified": false,
       "title": "MacBook Pro 13\" 2017 - parti di ricambio o ripar",
       "last_seen": "2026-10-26 17:39:03"
@@ -28279,10 +28279,10 @@
       "last_seen": "2026-11-06 22:11:55"
     },
     "667402384": {
-      "last_price": 890.0,
+      "last_price": 790.0,
       "notified": false,
       "title": "MacBook Pro 16” 2019 i9 32G 2Tb 5500M Batt nuova",
-      "last_seen": "2026-11-08 15:30:09"
+      "last_seen": "2026-11-13 15:28:48"
     },
     "667400722": {
       "last_price": 650.0,
@@ -30763,7 +30763,7 @@
       "last_seen": "2026-11-12 09:49:51"
     },
     "668055090": {
-      "last_price": 1250.0,
+      "last_price": 1215.0,
       "notified": false,
       "title": "Macbook Pro M2 Pro 16 Gb Ram 1TB SSD",
       "last_seen": "2026-11-12 09:34:48"
@@ -30835,10 +30835,10 @@
       "last_seen": "2026-11-12 12:01:42"
     },
     "668061601": {
-      "last_price": 510.0,
+      "last_price": 500.0,
       "notified": false,
       "title": "Macbook Pro 16\" Intel I7- Ram 16Gb-Ssd 500Gb 2019",
-      "last_seen": "2026-11-12 09:16:26"
+      "last_seen": "2026-11-13 10:13:22"
     },
     "668061256": {
       "last_price": 10.0,
@@ -31253,6 +31253,246 @@
       "notified": false,
       "title": "MacBook Pro 13” core i7 /hdd 320/ram 8 / 2011",
       "last_seen": "2026-11-13 08:27:16"
+    },
+    "668250918": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "iPhone 16 Plus 128 Giga Garantito Batteria al 92%",
+      "last_seen": "2026-11-13 17:15:27"
+    },
+    "668250268": {
+      "last_price": 829.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 256 Giga Con Garanzia 1 Anno",
+      "last_seen": "2026-11-13 17:11:32"
+    },
+    "668248943": {
+      "last_price": 699.0,
+      "notified": false,
+      "title": "iPhone 15 Pro Max 256 Giga Con Garanzia",
+      "last_seen": "2026-11-13 17:03:41"
+    },
+    "668248618": {
+      "last_price": 589.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 128 Giga Con Garanzia",
+      "last_seen": "2026-11-13 17:00:16"
+    },
+    "668241095": {
+      "last_price": 1899.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" M1 Max 32GB/2TB",
+      "last_seen": "2026-11-13 16:25:21"
+    },
+    "668238872": {
+      "last_price": 49.0,
+      "notified": false,
+      "title": "Apple caricabatterie usb-c 67w con cavetto usb-c",
+      "last_seen": "2026-11-13 16:13:54"
+    },
+    "668238452": {
+      "last_price": 849.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" 16GB RAM/ 1TB SSD i9 CON GARANZIA",
+      "last_seen": "2026-11-13 16:13:43"
+    },
+    "668238319": {
+      "last_price": 599.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" i9 16GB RAM/512GB SSD CON GARANZIA",
+      "last_seen": "2026-11-13 16:13:37"
+    },
+    "668237397": {
+      "last_price": 1800.0,
+      "notified": false,
+      "title": "Macbook Pro M3 Pro 18 core 36gb 1tb Top",
+      "last_seen": "2026-11-13 16:09:56"
+    },
+    "668233864": {
+      "last_price": 720.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M1 Pro 16/512 con scatola e mouse",
+      "last_seen": "2026-11-13 15:47:55"
+    },
+    "668223156": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Apple MW2N3CI/A cavo di alimentazione Bianco 1,8m",
+      "last_seen": "2026-11-13 14:17:11"
+    },
+    "668219544": {
+      "last_price": 2900.0,
+      "notified": false,
+      "title": "MacBook Pro 14\" M4 Pro - 48GB RAM - 2TB - Nano-tex",
+      "last_seen": "2026-11-13 13:48:58"
+    },
+    "668211584": {
+      "last_price": 2399.0,
+      "notified": false,
+      "title": "MacBook Pro 14” M5 32GB 1TB – Nuovo Sigillato",
+      "last_seen": "2026-11-13 12:45:41"
+    },
+    "668205685": {
+      "last_price": 589.0,
+      "notified": false,
+      "title": "iPhone 15 Pro 128 Giga Bianco Garanzia 12 Mesi",
+      "last_seen": "2026-11-13 11:59:55"
+    },
+    "668204583": {
+      "last_price": 379.0,
+      "notified": false,
+      "title": "iPhone 14 128 Giga Bianco Garanzia 12 Mesi 🔥",
+      "last_seen": "2026-11-13 11:52:15"
+    },
+    "668203335": {
+      "last_price": 829.0,
+      "notified": false,
+      "title": "iPhone 16 Pro Max 256 Giga Garanzia Apple Care +",
+      "last_seen": "2026-11-13 11:41:02"
+    },
+    "668200747": {
+      "last_price": 1000.0,
+      "notified": true,
+      "title": "Apple Macbook Pro 14\" M4 24GB RAM 1TB CON DIFETTO",
+      "last_seen": "2026-11-13 11:21:54"
+    },
+    "668196227": {
+      "last_price": 999.0,
+      "notified": false,
+      "title": "Dell pro 14 mod 14250",
+      "last_seen": "2026-11-13 11:14:46"
+    },
+    "668195933": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "IPHONE 14 PRO 256GB purple BATTERIA 100%",
+      "last_seen": "2026-11-13 11:14:44"
+    },
+    "668238288": {
+      "last_price": 290.0,
+      "notified": false,
+      "title": "MacBook Pro 15” tetina core  i7/ssd 250/ Ram 16",
+      "last_seen": "2026-11-13 16:13:40"
+    },
+    "668237939": {
+      "last_price": 2990.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M5 Pro 48GB 1TB nuovo",
+      "last_seen": "2026-11-13 16:13:29"
+    },
+    "668233331": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook pro 13",
+      "last_seen": "2026-11-13 15:40:11"
+    },
+    "668218412": {
+      "last_price": 990.0,
+      "notified": false,
+      "title": "MacBook Pro 16 M1 Pro (10-CPU/16-GPU) 16GB/512GB",
+      "last_seen": "2026-11-13 13:41:34"
+    },
+    "668212271": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "Macbook Pro 13 A1278  Potenziato Scatola Piu Acc.",
+      "last_seen": "2026-11-13 12:52:38"
+    },
+    "668209489": {
+      "last_price": 370.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 15 pollici (2017)",
+      "last_seen": "2026-11-13 12:26:57"
+    },
+    "668207948": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 13\" M1 (2020) - 16GB RAM / 512GB SSD -",
+      "last_seen": "2026-11-13 12:16:14"
+    },
+    "668220071": {
+      "last_price": 600.0,
+      "notified": false,
+      "title": "Sto vendendo MacBook Pro 13",
+      "last_seen": "2026-11-13 15:40:13"
+    },
+    "668204080": {
+      "last_price": 2790.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16” M3 MAX – 36GB – 1TB",
+      "last_seen": "2026-11-13 11:45:09"
+    },
+    "668203089": {
+      "last_price": 2700.0,
+      "notified": false,
+      "title": "Macbook pro 16 M3 Max 48gb 16core 40core gpu",
+      "last_seen": "2026-11-13 11:40:52"
+    },
+    "668211341": {
+      "last_price": 75.0,
+      "notified": false,
+      "title": "Power Bank Belkin UltraCharge 22000mAh 120W con Ca",
+      "last_seen": "2026-11-13 12:41:58"
+    },
+    "668248262": {
+      "last_price": 799.0,
+      "notified": false,
+      "title": "Apple MacBook Pro Retina 13\" 256GB Mai utilizzato",
+      "last_seen": "2026-11-13 16:56:39"
+    },
+    "668233429": {
+      "last_price": 360.0,
+      "notified": false,
+      "title": "MacBook Pro 13”",
+      "last_seen": "2026-11-13 15:40:15"
+    },
+    "668194346": {
+      "last_price": 3000.0,
+      "notified": false,
+      "title": "MacBook Pro 16” M5 Pro e Nanotexture come NUOVO",
+      "last_seen": "2026-11-13 10:36:17"
+    },
+    "668192789": {
+      "last_price": 280.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 13\" 2017 Touchbar",
+      "last_seen": "2026-11-13 10:24:59"
+    },
+    "668198932": {
+      "last_price": 399.0,
+      "notified": false,
+      "title": "MACBOOK PRO 13\" RETINA - BATTERIA NUOVA",
+      "last_seen": "2026-11-13 11:07:25"
+    },
+    "668219841": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 2017.",
+      "last_seen": "2026-11-13 13:52:34"
+    },
+    "668197107": {
+      "last_price": 750.0,
+      "notified": false,
+      "title": "Macbook pro 2018 16 gb ram 1tb ssd -pc1",
+      "last_seen": "2026-11-13 10:55:33"
+    },
+    "668197051": {
+      "last_price": 700.0,
+      "notified": false,
+      "title": "Macbook pro 2015 16 gb ram 512 gb ssd -pc3",
+      "last_seen": "2026-11-13 10:55:32"
+    },
+    "668221551": {
+      "last_price": 310.0,
+      "notified": false,
+      "title": "Macbook Pro",
+      "last_seen": "2026-11-13 15:40:23"
+    },
+    "668226676": {
+      "last_price": 749.0,
+      "notified": false,
+      "title": "MacBook Pro 15\" i9 8-core 32GB 1TB Vega 20 – Top",
+      "last_seen": "2026-11-13 14:42:46"
     }
   },
   "seen_ids": [
@@ -36771,6 +37011,46 @@
     "668183573",
     "668184724",
     "668184754",
-    "668185095"
+    "668185095",
+    "668192789",
+    "668194346",
+    "668195933",
+    "668196227",
+    "668197051",
+    "668197107",
+    "668198932",
+    "668200747",
+    "668203089",
+    "668203335",
+    "668204080",
+    "668204583",
+    "668205685",
+    "668207948",
+    "668209489",
+    "668211341",
+    "668211584",
+    "668212271",
+    "668218412",
+    "668219544",
+    "668219841",
+    "668220071",
+    "668221551",
+    "668223156",
+    "668226676",
+    "668233331",
+    "668233429",
+    "668233864",
+    "668237397",
+    "668237939",
+    "668238288",
+    "668238319",
+    "668238452",
+    "668238872",
+    "668241095",
+    "668248262",
+    "668248618",
+    "668248943",
+    "668250268",
+    "668250918"
   ]
 }
