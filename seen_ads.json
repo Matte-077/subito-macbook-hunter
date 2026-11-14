@@ -31613,6 +31613,24 @@
       "notified": false,
       "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
       "last_seen": "2026-11-13 18:36:49"
+    },
+    "668290678": {
+      "last_price": 1820.0,
+      "notified": false,
+      "title": "MacBook Pro M4 Pro 14” 24GB/512GB argento",
+      "last_seen": "2026-11-13 23:29:54"
+    },
+    "668297565": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\" M1 Pro | 32 GB RAM",
+      "last_seen": "2026-11-14 02:29:54"
+    },
+    "668297213": {
+      "last_price": 950.0,
+      "notified": false,
+      "title": "Apple MacBook Pro 16\" M1 Pro | 32 GB RAM",
+      "last_seen": "2026-11-14 02:26:30"
     }
   },
   "seen_ids": [
@@ -37191,6 +37209,9 @@
     "668284365",
     "668286219",
     "668289854",
-    "668290028"
+    "668290028",
+    "668290678",
+    "668297213",
+    "668297565"
   ]
 }
