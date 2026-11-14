@@ -565,8 +565,10 @@
       "notified": false
     },
     "653569553": {
-      "last_price": null,
-      "notified": false
+      "last_price": 340.0,
+      "notified": false,
+      "title": "MacBook Pro 15,6” 2017 Touch Bar",
+      "last_seen": "2026-11-14 10:45:15"
     },
     "653876015": {
       "last_price": 150.0,
@@ -20371,7 +20373,7 @@
       "last_seen": "2026-10-21 15:48:53"
     },
     "665384236": {
-      "last_price": 1150.0,
+      "last_price": 1100.0,
       "notified": false,
       "title": "MacBook Pro 14”",
       "last_seen": "2026-10-21 15:28:55"
@@ -31153,7 +31155,7 @@
       "last_seen": "2026-11-12 21:54:59"
     },
     "668170672": {
-      "last_price": 650.0,
+      "last_price": 600.0,
       "notified": false,
       "title": "2X NUOVE Samsung 9100 PRO 2TB  + GARANZIA 5 Anni",
       "last_seen": "2026-11-13 01:41:14"
@@ -31165,19 +31167,19 @@
       "last_seen": "2026-11-13 01:31:31"
     },
     "668170460": {
-      "last_price": 375.0,
+      "last_price": 350.0,
       "notified": false,
       "title": "2X NUOVE Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
       "last_seen": "2026-11-13 01:25:05"
     },
     "668170382": {
-      "last_price": 299.0,
+      "last_price": 300.0,
       "notified": false,
       "title": "NUOVA Samsung 990 PRO 2TB  + GARANZIA 5 Anni",
       "last_seen": "2026-11-13 01:24:59"
     },
     "668170428": {
-      "last_price": 199.0,
+      "last_price": 175.0,
       "notified": false,
       "title": "NUOVA Samsung 9100 PRO 1TB  + GARANZIA 5 Anni",
       "last_seen": "2026-11-13 01:24:58"
@@ -31495,7 +31497,7 @@
       "last_seen": "2026-11-13 14:42:46"
     },
     "668290028": {
-      "last_price": 2000.0,
+      "last_price": 2900.0,
       "notified": false,
       "title": "Apple MacBook Pro 14” M5 16GB RAM  1TB GARANZIA",
       "last_seen": "2026-11-13 23:17:06"
@@ -31685,6 +31687,282 @@
       "notified": false,
       "title": "Macbook Neo 512 gb Apple Store",
       "last_seen": "2026-11-14 09:55:51"
+    },
+    "668373700": {
+      "last_price": 449.0,
+      "notified": false,
+      "title": "BLACK FRIDAY Samsung Galaxy S24+ 12/256GB",
+      "last_seen": "2026-11-14 16:51:04"
+    },
+    "668372561": {
+      "last_price": 169.0,
+      "notified": false,
+      "title": "BLACK FRIDAY Samsung Galaxy A53 5G 8/128GB",
+      "last_seen": "2026-11-14 16:50:11"
+    },
+    "668372267": {
+      "last_price": 2299.0,
+      "notified": false,
+      "title": "💻MacBook Pro 14” M5 1TB/24GB – Nero - Nuovo",
+      "last_seen": "2026-11-14 16:43:42"
+    },
+    "668371702": {
+      "last_price": 299.0,
+      "notified": false,
+      "title": "BLACK FRIDAY Huawei Watch 4 Pro Space Edition",
+      "last_seen": "2026-11-14 16:43:14"
+    },
+    "668371272": {
+      "last_price": 119.0,
+      "notified": false,
+      "title": "BLACK FRIDAY Samsung Galaxy A52 8/128GB Black",
+      "last_seen": "2026-11-14 16:36:43"
+    },
+    "668369918": {
+      "last_price": 379.0,
+      "notified": false,
+      "title": "BLACK FRIDAY Huawei MatePad 12 X 12/256 KM0",
+      "last_seen": "2026-11-14 16:36:03"
+    },
+    "668369557": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "BLACK FRIDAY OnePlus Pad 3 KM0 + Keyboard Cover",
+      "last_seen": "2026-11-14 16:29:06"
+    },
+    "668369437": {
+      "last_price": 1150.0,
+      "notified": false,
+      "title": "Apple iPhone 17 Pro Max 512gb Nuovo SmartEconomy",
+      "last_seen": "2026-11-14 16:28:53"
+    },
+    "668369244": {
+      "last_price": 1890.0,
+      "notified": false,
+      "title": "Macbook Pro Argento 14\" M4 Pro con Apple Care+",
+      "last_seen": "2026-11-14 16:28:30"
+    },
+    "668369121": {
+      "last_price": 109.0,
+      "notified": false,
+      "title": "BLACK FRIDAY Google Pixel Watch 2 Gold",
+      "last_seen": "2026-11-14 16:28:23"
+    },
+    "668368840": {
+      "last_price": 319.0,
+      "notified": false,
+      "title": "BLACK FRIDAY iPhone 12 Pro Max Gold 128 GB",
+      "last_seen": "2026-11-14 16:21:33"
+    },
+    "668368715": {
+      "last_price": 1799.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16\" M1 MAX 32GB 2TB -10C CPU/32C GPU",
+      "last_seen": "2026-11-14 16:21:16"
+    },
+    "668368463": {
+      "last_price": 2600.0,
+      "notified": false,
+      "title": "Apple MacBook Pro M3 max 16” RAM 36GB SSD 1TB",
+      "last_seen": "2026-11-14 16:14:32"
+    },
+    "668350645": {
+      "last_price": 150.0,
+      "notified": false,
+      "title": "Macbook pro 14 anno 17",
+      "last_seen": "2026-11-14 14:11:46"
+    },
+    "668348512": {
+      "last_price": 750.0,
+      "notified": true,
+      "title": "Apple MacBook Pro 14 M4",
+      "last_seen": "2026-11-14 13:50:15"
+    },
+    "668346398": {
+      "last_price": 699.0,
+      "notified": true,
+      "title": "Macbook Pro M1 pro 32gb + 512ssd  14 pollici",
+      "last_seen": "2026-11-14 13:35:10"
+    },
+    "668372310": {
+      "last_price": 250.0,
+      "notified": false,
+      "title": "Macbook pro con touch bar",
+      "last_seen": "2026-11-14 16:43:44"
+    },
+    "668368224": {
+      "last_price": 500.0,
+      "notified": false,
+      "title": "Macbook Pro 16” 2019",
+      "last_seen": "2026-11-14 16:14:15"
+    },
+    "668364085": {
+      "last_price": 650.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" 2019 i7 16GB 512GB – pari al nuovo",
+      "last_seen": "2026-11-14 15:45:38"
+    },
+    "668360741": {
+      "last_price": 799.0,
+      "notified": true,
+      "title": "Macbook Pro 16.2 inch 2021 M1 Pro",
+      "last_seen": "2026-11-14 15:17:22"
+    },
+    "668357382": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "MacBook Pro 15” 2016-i7-16GB RAM-SSD 500GB",
+      "last_seen": "2026-11-14 14:54:57"
+    },
+    "668356067": {
+      "last_price": 100.0,
+      "notified": false,
+      "title": "MacBook pro 13",
+      "last_seen": "2026-11-14 14:47:19"
+    },
+    "668350295": {
+      "last_price": 180.0,
+      "notified": false,
+      "title": "Macbook PRO 16” 2019 A2141",
+      "last_seen": "2026-11-14 14:05:08"
+    },
+    "668334728": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "APPLE MacBook Pro 2018 i9 16GB 512GB Vega 20 4GB",
+      "last_seen": "2026-11-14 12:08:52"
+    },
+    "668330252": {
+      "last_price": 1499.0,
+      "notified": false,
+      "title": "MACBOOK PRO 16 M1 MAX+32GB+1TB+LOGIC+OFFICE",
+      "last_seen": "2026-11-14 11:39:53"
+    },
+    "668327021": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "Macbook Pro 2020 M1 13' 8 GB RAM SSD 256GB",
+      "last_seen": "2026-11-14 11:17:55"
+    },
+    "668352901": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "NUOVA Samsung 9100 PRO 2TB  + 5 Anni di Garanzia",
+      "last_seen": "2026-11-14 14:26:22"
+    },
+    "668351025": {
+      "last_price": 750.0,
+      "notified": true,
+      "title": "MacBook Pro 2024 | 16GB | 512GB | M4",
+      "last_seen": "2026-11-14 14:12:11"
+    },
+    "668349574": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "MacBook Pro",
+      "last_seen": "2026-11-14 14:04:29"
+    },
+    "668329386": {
+      "last_price": 40.0,
+      "notified": false,
+      "title": "Macbook Pro A1502 per parti di ricambio",
+      "last_seen": "2026-11-14 11:32:33"
+    },
+    "668360536": {
+      "last_price": 460.0,
+      "notified": false,
+      "title": "MacBook Pro 15 pollici 2019",
+      "last_seen": "2026-11-14 15:17:12"
+    },
+    "668359970": {
+      "last_price": 460.0,
+      "notified": false,
+      "title": "MacBook Pro 15 pollici 2019",
+      "last_seen": "2026-11-14 15:16:44"
+    },
+    "668343804": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "Apple Macbook Pro13 8 GB RAM 256GB SSD Windows 11",
+      "last_seen": "2026-11-14 13:13:49"
+    },
+    "668341107": {
+      "last_price": 50.0,
+      "notified": false,
+      "title": "power bank Belkin",
+      "last_seen": "2026-11-14 12:58:16"
+    },
+    "668337671": {
+      "last_price": 240.0,
+      "notified": false,
+      "title": "MacBook pro retina 13 pollici early 2015",
+      "last_seen": "2026-11-14 12:30:04"
+    },
+    "668334835": {
+      "last_price": 20.0,
+      "notified": false,
+      "title": "RAM 8GB Kit 2x4GB Samsung DDR3 1333MHz PC3-10600S",
+      "last_seen": "2026-11-14 12:08:56"
+    },
+    "668334518": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook 13” Touch 512gb/8gb CONS.DOM. A+",
+      "last_seen": "2026-11-14 12:08:43"
+    },
+    "668330586": {
+      "last_price": 280.0,
+      "notified": false,
+      "title": "MacBook Pro Retina 15\" (Mid 2015)",
+      "last_seen": "2026-11-14 11:40:08"
+    },
+    "668330499": {
+      "last_price": 450.0,
+      "notified": false,
+      "title": "MacBook 13” Touch 512gb/8gb CONS.DOM. A+",
+      "last_seen": "2026-11-14 11:40:02"
+    },
+    "668326247": {
+      "last_price": 219.0,
+      "notified": false,
+      "title": "MacBook Pro 13 A1278  256 SSD Samsung/ 16 Gb Ram",
+      "last_seen": "2026-11-14 11:18:04"
+    },
+    "668321875": {
+      "last_price": 199.0,
+      "notified": false,
+      "title": "MacBook Pro 8/256gb",
+      "last_seen": "2026-11-14 10:54:10"
+    },
+    "668349927": {
+      "last_price": 270.0,
+      "notified": false,
+      "title": "Macbook pro 2017",
+      "last_seen": "2026-11-14 14:04:51"
+    },
+    "668319880": {
+      "last_price": 300.0,
+      "notified": false,
+      "title": "Macbook Pro 512 GB - 2018",
+      "last_seen": "2026-11-14 10:38:34"
+    },
+    "668334970": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
+      "last_seen": "2026-11-14 12:09:02"
+    },
+    "668330815": {
+      "last_price": 350.0,
+      "notified": false,
+      "title": "Macbook Pro 13\" 1TB CONS. DOMIC. A MANO",
+      "last_seen": "2026-11-14 11:40:23"
+    },
+    "668322262": {
+      "last_price": 549.0,
+      "notified": false,
+      "title": "MacBook Pro 16\" i9 8-core 1TB – Radeon 5500M",
+      "last_seen": "2026-11-14 11:01:15"
     }
   },
   "seen_ids": [
@@ -37275,6 +37553,52 @@
     "668314606",
     "668314726",
     "668315209",
-    "668318201"
+    "668318201",
+    "668319880",
+    "668321875",
+    "668322262",
+    "668326247",
+    "668327021",
+    "668329386",
+    "668330252",
+    "668330499",
+    "668330586",
+    "668330815",
+    "668334518",
+    "668334728",
+    "668334835",
+    "668334970",
+    "668337671",
+    "668341107",
+    "668343804",
+    "668346398",
+    "668348512",
+    "668349574",
+    "668349927",
+    "668350295",
+    "668350645",
+    "668351025",
+    "668352901",
+    "668356067",
+    "668357382",
+    "668359970",
+    "668360536",
+    "668360741",
+    "668364085",
+    "668368224",
+    "668368463",
+    "668368715",
+    "668368840",
+    "668369121",
+    "668369244",
+    "668369437",
+    "668369557",
+    "668369918",
+    "668371272",
+    "668371702",
+    "668372267",
+    "668372310",
+    "668372561",
+    "668373700"
   ]
 }
